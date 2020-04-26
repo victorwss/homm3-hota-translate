@@ -1,0 +1,26 @@
+Dados do herói
+Habilidades
+Artefatos
+Cidade
+Herói residente
+Herói visitante
+"{Ver Heróis}
+
+Vê os heróis que estão sob seu comando."
+"{Ver Cidades}
+
+Vê as cidades que você controla."
+"{Equipamento}
+
+Mostra quais são os artefatos que o herói tem equipado."
+"{Diversos}
+
+Mostra quais são os itens que tem efeitos, mas não precisam estar equipados."
+"{Bagagem}
+
+Mostra os itens que o seu herói está carregando em sua bagagem."
+Ver heróis
+Ver cidades
+Ver artefatos equipados
+Ver itens diversos
+Ver a bagagem do herói

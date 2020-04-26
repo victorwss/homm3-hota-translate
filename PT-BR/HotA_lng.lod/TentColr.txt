@@ -1,0 +1,8 @@
+Azul claro
+Verde
+Vermelho
+Azul escuro
+Marrom
+Roxo
+Branco
+Preto

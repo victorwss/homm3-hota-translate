@@ -1,0 +1,4 @@
+Ataque
+Defesa
+Poder
+Conhecimento

@@ -1,0 +1,33 @@
+Ver missões recebidas
+Ver informações de %s
+Características adicionais do herói
+Ver mais sobre a moral boa
+Ver mais sobre a moral neutra
+Ver mais sobre a moral ruim
+Ver mais sobre a sorte boa
+Ver mais sobre a sorte neutra
+Ver mais sobre a sorte ruim
+Ver experiência
+Selecionar %s
+Vazio
+Mover %s
+Trocar %s com %s
+Ver os feitiços
+Ver as informações de %s
+Demitir %s, (%s)
+Sair da tela do herói
+Tela do herói
+Combinar %s
+Separar %s
+Ver informações de %s %s
+Ver pontos de magia
+Definir a formação de combate como dispersa
+Definir a formação de combate como concentrada
+Desabilitar formação tática
+Habilitar formação tática
+Ver habilidade especial
+Clique para demitir este herói
+Definir a formação de combate como dispersa vai espalhar suas tropas através da lateral do campo de batalha ao iniciar o combate
+Definir a formação de combate como concentrada vai agrupar suas tropas no campo de batalha ao iniciar o combate
+Habilitar a formação tática permitirá que você posicione as suas tropas antes de iniciar o combate (deve ter a habilidade de tática)
+Clique para dividir essas criaturas em duas pilhas

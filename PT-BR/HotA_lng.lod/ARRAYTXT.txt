@@ -1,0 +1,375 @@
+Note: Do not change the headings in this file, they are used to detect problems
+gStatDesc
+"{Ataque}
+
+O ataque é um bônus adicionado ao ataque de quaisquer tropas sob o comando do seu herói, permitindo a eles infligir mais dano durante o combate."
+"{Defesa}
+
+A defesa é um bônus adicionado à defesa de quaisquer tropas sob o comando do seu herói, permitindo a eles resistir a mais dano durante o combate."
+"{Poder}
+
+O poder determina a duração ou a força de um feitiço."
+"{Conhecimento}
+
+O conhecimento determina quantos pontos de magia o seu herói tem.  Sob circunstâncias normais, um herói é limitado a 10 pontos de magia por nível de conhecimento."
+gLuckText
+Amaldiçoado
+Péssimo
+Ruim
+Normal
+Bom
+Ótimo
+Irlndês
+gMoraleText
+Traidor
+Péssimo
+Ruim
+Normal
+Bom
+Ótimo
+Sangue!
+gOwnedByColor
+Pertencente ao jogador vermelho
+Pertencente ao jogador azul
+Pertencente ao jogador bege
+Pertencente ao jogador verde
+Pertencente ao jogador laranja
+Pertencente ao jogador roxo
+Pertencente ao jogador azul claro
+Pertencente ao jogador rosa
+gMonthNames
+do gafanhoto
+da formiga
+da joaninha
+da aranha
+da borboleta
+da abelha
+do grilo
+da minhoca
+da vespa
+do besouro
+gWeekNames
+do esquilo
+do coelho
+da marmota
+do texugo
+do rato
+da águia
+da doninha
+do corvo
+do ganso
+do cachorro
+do asno
+do lagarto
+da tartaruga
+do ouriço
+do condor
+cLuckInfo
+"{Boa Sorte}
+
+A boa sorte faz com que, às vezes, seus exércitos tenham ataques sortudos (dano duplo) em combate."
+"{Sorte Neutra}
+
+Com uma sorte neutra, os seus exércitos nunca terão ataques sortudos ou azarados contra o inimigo."
+"{Má Sorte}
+
+A má sorte às vezes atinge seus exércitos em combate, fazendo o ataque deles causar apenas metade do dano."
+"%s
+
+
+{Modificadores de Sorte:}"
+"
+Still Eye of the Dragon +1"
+"
+Clover of Fortune +1"
+"
+Cards of Prophecy +1"
+"
+Ladybird of Luck +1"
+"
+Lago do cisne visitado +2"
+"
+Totem de pedra visitado +1"
+"
+Fonte encantada visitada %s"
+"
+Pirâmide visitada -2"
+"
+Anel de fadas visitado +1"
+"
+Sereia visitada +1"
+"
+Bandeira de reunião visitada +1"
+"
+Sorte básica +1"
+"
+Sorte avançada +2"
+"
+Sorte expert +3"
+"
+Nenhum"
+"
+-%d temporário até a próxima batalha"
+"
++%d temporário até a próxima batalha"
+"
+Pendant of Courage +3"
+"
+Sem efeitos de sorte em terreno amaldiçoado"
+"
+%s suprime a boa sorte"
+"
+Criatura de cidade de alinhamento neutro no campo de sorte +2"
+cMoraleInfo
+"{Moral Boa}
+
+A boa moral pode dar aos seus exércitos ataques extras em combate."
+"{Morale Neutra}
+
+Uma moral neutra significa que seus exércitos não serão nem abençoados com ataques extras e nem irão travar em pânico durante o combate."
+"{Morale Ruim}
+
+A moral ruim pode fazer os seus exércitos travarem em pânico durante o combate."
+"%s
+
+
+{Modificadores de Moral:}"
+"
+Still Eye of the Dragon +1"
+"
+Badge of Courage +1"
+"
+Crest of Valor +1"
+"
+Glyph of Gallantry +1"
+"
+Totem de pedra visitado +1"
+"
+Bóia visitada +1"
+"
+Oásis visitado +1"
+"
+Templo visitado +1"
+"
+Templo visitado no sábado +2"
+"
+Cripta visitada -1"
+"
+Naufrágio visitado -1"
+"
+Nascente visitada +1"
+"
+Barco à deriva visitado -1"
+"
+Bandeira de reunião visitada +1"
+"
+Fonte da juventude visitada +1"
+"
+Tumba do guerreiro visitada -3"
+"
+Liderança básica +1"
+"
+Liderança avançada +2"
+"
+Liderança expert +3"
+"
+Nenhum"
+"
+-%d temporário até a próxima batalha"
+"
++%d temporário até a próxima batalha"
+"
+Pendant of Courage +3"
+"
+Sem efeitos de moral em terreno amaldiçoado"
+"
+Não é afetado por moral"
+"
+Tropas de %d facções %d"
+"
+Todas as tropas da mesma facção +1"
+"
+Mortos-vivos no grupo -1"
+"
+%s no grupo +1"
+"
+Enfrentando %s -1"
+"
+%s suprime a boa moral"
+"
+%s sempre tem moral positiva"
+"
+Feitiços %+d"
+"
+No terreno nativo +1"
+"
+Criatura de uma facção do bem no terreno sagrado +1"
+"
+Criatura de uma facção do mal no terreno sagrado -1"
+"
+Criatura de uma facção do mal nas trevas malditas +1"
+"
+Criatura de uma facção do bem nas trevas malditas -1"
+cNewTurn
+%s, você só tem %d dias restantes para capturar alguma cidade ou então será banido desta terra.
+%s, este é o último dia para capturar alguma cidade ou então ser banido desta terra.
+"Astrólogos proclamam o mês %s.
+
+Todas as habitações crescem em população."
+"Astrólogos proclamam o mês %s.
+
+A população de %s dobra!
+
+Todas as habitações crescem em população."
+"Astrólogos proclamam o mês da PESTE!
+
+Todas as populações foram reduzidas a metade."
+"Astrólogos proclamam a semana %s.
+
+Todas as habitações crescem em população."
+"Astrólogos proclamam a semana %s.
+
+%s cresce +5.
+
+Todas as habitações crescem em população."
+"Astrólogos proclamam a semana %s.
+
+%s cresce %+d.
+%s cresce %+d.
+
+Todas as habitações crescem em população."
+cMapSize
+Pequeno
+Médio
+Grande
+Muito Grande
+cDifficulty
+Fácil
+Normal
+Difícil
+Expert
+Impossível
+cDirections
+norte
+nordeste
+leste
+sudeste
+sul
+sudoeste
+oeste
+noroeste
+central
+cRumourTerrainDescriptions
+enterrado no meio da terra
+sob as dunas do deserto
+numa planície gramada
+congelado debaixo da neve
+num pântano lamacento
+enterrado no meio de pedras
+numa caverna subterrânea
+enterrado na lava derretida
+nas profundezas do oceano
+debaixo de uma pedra
+cPersonality
+Guerreiro
+Construtor
+Explorador
+Humano
+gArmySizeNames
+1-4
+Um pouquinho (1-4) de
+um pouquinho ({1-4}) de
+5-9
+Um grupo (5-9) de
+um grupo ({5-9}) de
+10-19
+Um bando (10-19) de
+um bando ({10-19}) de
+20-49
+Um monte (20-49) de
+um monte ({20-49}) de
+50-99
+Uma horda (50-99) de
+uma horda ({50-99}) de
+100-249
+Uma porrada (100-249) de
+uma porrada ({100-249}) de
+250-499
+Um enxame (250-499) de
+um enxame ({250-499}) de
+500-999
+Centenas (500-999) de
+centenas ({500-999}) de
+1000+
+Uma legião (1000 ou mais) de
+uma legião ({1000 ou mais}) de
+const_wise_tree_price_text
+ (+1 nível)
+ (+1 nível por 2000 ouros)
+ (+1 nível por 10 gemas)
+HumanCPU
+"Humano
+ou CPU"
+Humano
+CPU
+HandiText
+No Handicap
+Mild Handicap
+Severe Handicap
+AGRText
+Artefato
+Ouro
+Recurso
+gTownTypeNames
+Neutro
+Castelo
+Floresta
+Torre
+Inferno
+Necrópolis
+Masmorra
+Barbárie
+Pântano
+Confluxo
+NewLoadSave
+Selecione um cenário para jogar
+Carregar um jogo salvo
+Salvar o jogo
+Army Speed Names
+Imóvel
+Ultra devagar
+Híper devagar
+Super devagar
+Muito devagar
+Devagar
+Normal
+Rápido
+Muito rápido
+Super rápido
+Híper rápido
+Ultra rápido
+Veloz
+Muito veloz
+Super veloz
+Híper veloz
+Ultra veloz
+Extremo veloz
+A jato
+Como um foguete
+Como um trovão
+Town Size Names
+Povoado
+Vila
+Cidade
+Capitólio
+Moat Names
+Fosso
+Espinhal
+Minas terrestres
+Lava
+Ossário
+Óleo fervente
+Barreira de espinhos
+Piche fervente
+Fosso
+Insert all data before this line. Do not alter or delete this line.

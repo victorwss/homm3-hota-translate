@@ -1,0 +1,8 @@
+vermelho
+azul
+bege
+verde
+laranja
+roxo
+azul claro
+rosa

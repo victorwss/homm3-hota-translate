@@ -1,0 +1,8 @@
+Você não tem como pagar por um herói
+Você não pode recrutar. Você já tem %d heróis.
+Você não pode recrutar. Você já tem um herói nesta cidade.
+Recrutar %s (%s)
+Selecionar %s
+Guilda dos ladrões
+Preço de contratação
+Sair da taverna

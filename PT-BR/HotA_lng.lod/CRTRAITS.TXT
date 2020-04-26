@@ -1,0 +1,185 @@
+Name		Cost															Damage				Adv. Map			
+Singular	Plural	Wood	Mercury	Ore	Sulfur	Crystal	Gems	Gold	Fight Value	AI Value	Growth	Horde Growth	Hit Points	Speed	Attack	Defense	Low	High	Shots	Spells	Low	High	Ability Text	Attributes (Reference only, do not change these values)
+Piqueiro	Piqueiros	0	0	0	0	0	0	60	100	80	14	0	10	4	4	5	1	3	0	0	20	50	Imune ao bônus de distância.	0
+Alabardeiro	Alabardeiros	0	0	0	0	0	0	75	115	115	14	0	10	5	6	5	2	3	0	0	20	30	Imune ao bônus de distância.	0
+Arqueiro	Arqueiros	0	0	0	0	0	0	100	115	126	9	0	10	4	6	3	2	3	12	0	16	30	Atira.	SHOOTING_ARMY
+Atirador	Atiradores	0	0	0	0	0	0	150	115	184	9	0	10	6	6	3	2	3	24	0	16	25	Atira duas vezes.	const_two_attacks | SHOOTING_ARMY
+Grifo	Grifos	0	0	0	0	0	0	200	324	351	7	3	25	6	8	8	3	6	0	0	12	25	Voa. Retalia duas vezes.	DOUBLE_WIDE | FLYING_ARMY
+Grifo Real	Grifos Reais	0	0	0	0	0	0	240	364	448	7	3	25	9	9	9	3	6	0	0	12	20	Voa. Retalia ilimitadamente.	DOUBLE_WIDE|FLYING_ARMY
+Espadachim	Espadachins	0	0	0	0	0	0	300	445	445	4	0	35	5	10	12	6	9	0	0	10	20		0
+Cruzado	Cruzados	0	0	0	0	0	0	400	588	588	4	0	35	6	12	12	7	10	0	0	10	16	Golpeia duas vezes.	const_two_attacks
+Monge	Monges	0	0	0	0	0	0	400	485	582	3	0	30	5	12	7	10	12	12	0	8	16	Atira.	SHOOTING_ARMY
+Zelote	Zelotes	0	0	0	0	0	0	450	500	750	3	0	30	7	12	10	10	12	24	0	8	12	Atira. Sem penalidade no corpo-a-corpo.	SHOOTING_ARMY | const_no_melee_penalty
+Cavaleiro	Cavaleiros	0	0	0	0	0	0	1000	1668	1946	2	0	100	7	15	15	15	25	0	0	5	12	Bônus de distância.	DOUBLE_WIDE | const_jousting
+Campeão	Campeões	0	0	0	0	0	0	1200	1800	2100	2	0	100	9	16	16	20	25	0	0	5	10	Bônus de distância.	DOUBLE_WIDE | const_jousting
+Anjo	Anjos	0	0	0	0	0	1	3000	3585	5019	1	0	200	12	20	20	50	50	0	0	4	10	Voa. +1 de moral. Odeia Diabos.	FLYING_ARMY | const_raises_morale | KING_2
+Arcanjo	Arcanjos	0	0	0	0	0	3	5000	6033	8776	1	0	250	18	30	30	50	50	0	1	3	8	Voa. +1 de moral. Odeia Diabos. Ressuscita aliados.	DOUBLE_WIDE | FLYING_ARMY | const_raises_morale | KING_2
+																								
+																								
+																								
+Centauro	Centauros	0	0	0	0	0	0	70	100	100	14	0	8	6	5	3	2	3	0	0	20	50		DOUBLE_WIDE
+Centauro Capitão	Centauros Capitães	0	0	0	0	0	0	90	115	138	14	0	10	8	6	3	2	3	0	0	20	30		DOUBLE_WIDE
+Anão	Anões	0	0	0	0	0	0	120	194	138	8	4	20	3	6	7	2	4	0	0	16	30	20% de chance de resistir a feitiços hostis.	0
+Anão de Batalha	Anões de Batalha	0	0	0	0	0	0	150	209	209	8	4	20	5	7	7	2	4	0	0	16	25	40% de chance de resistir a feitiços hostis.	0
+Elfo da Floresta	Elfos da Floresta	0	0	0	0	0	0	200	195	234	7	0	15	6	9	5	3	5	24	0	12	25	Atira.	SHOOTING_ARMY
+Grande Elfo	Grandes Elfos	0	0	0	0	0	0	225	195	331	7	0	15	7	9	5	3	5	24	0	12	20	Atira duas vezes.	SHOOTING_ARMY | const_two_attacks
+Pégaso	Pégasos	0	0	0	0	0	0	250	407	518	5	0	30	8	9	8	5	9	0	0	10	20	Voa. Aumenta o custo dos feitiços inimigos em 2 pontos de magia cada.	DOUBLE_WIDE | FLYING_ARMY
+Pégaso de Prata	Pégasos de Prata	0	0	0	0	0	0	275	418	532	5	0	30	12	9	10	5	9	0	0	10	16	Voa. Aumenta o custo dos feitiços inimigos em 2 pontos de magia cada.	DOUBLE_WIDE | FLYING_ARMY
+Guarda Dendróide	Guardas Dendróides	0	0	0	0	0	0	350	690	517	3	2	55	3	9	12	10	14	0	0	8	16	Prende seus inimigos no lugar.	0
+Soldado Dendróide	Soldados Dendróides	0	0	0	0	0	0	425	765	803	3	2	65	4	9	12	10	14	0	0	8	12	Prende seus inimigos no lugar.	0
+Unicórnio	Unicórnios	0	0	0	0	0	0	850	1548	1806	2	0	90	7	15	14	18	22	0	0	5	12	Aumenta a resistência a feitiços hostis das unidades próximas em 20%. Ataque cegante.	DOUBLE_WIDE
+Unicórnio de Guerra	Unicórnios de Guerra	0	0	0	0	0	0	950	1740	2030	2	0	110	9	15	14	18	22	0	0	5	10	Aumenta a resistência a feitiços hostis das unidades próximas em 20%. Ataque cegante.	DOUBLE_WIDE
+Dragão Verde	Dragões Verdes	0	0	0	0	1	0	2400	3654	4872	1	0	180	10	18	18	40	50	0	0	4	10	Voa. Ataque longo. Imune a feitiços de níveis 1-3.	DOUBLE_WIDE | FLYING_ARMY | KING_1
+Dragão Dourado	Dragões Dourados	0	0	0	0	2	0	4000	6220	8613	1	0	250	16	27	27	40	50	0	0	3	8	Voa. Ataque longo. Imune a feitiços de níveis 1-4.	DOUBLE_WIDE | FLYING_ARMY | KING_1
+																								
+																								
+																								
+Gremlin	Gremlins	0	0	0	0	0	0	30	55	44	16	0	4	4	3	3	1	2	0	0	20	50		0
+Gremlin Mestre	Gremlins Mestres	0	0	0	0	0	0	40	55	66	16	0	4	5	4	4	1	2	8	0	20	30	Atira.	SHOOTING_ARMY
+Gárgula de Pedra	Gárgulas de Pedra	0	0	0	0	0	0	130	150	165	9	4	16	6	6	6	2	3	0	0	16	30	Sem sangue. Voa.	FLYING_ARMY
+Gárgula de Obsidiana	Gárgulas de Obsidiana	0	0	0	0	0	0	160	155	201	9	4	16	9	7	7	2	3	0	0	16	25	Sem sangue. Voa.	FLYING_ARMY
+Golem de Pedra	Golens de Pedra	0	0	0	0	0	0	150	339	250	6	0	30	3	7	10	4	5	0	0	12	25	Golem. Os danos recebidos de feitiços são reduzidos em 50%.	0
+Golem de Ferro	Golens de Ferro	0	0	0	0	0	0	200	412	412	6	0	35	5	9	10	4	5	0	0	12	20	Golem. Os danos recebidos de feitiços são reduzidos em 75%.	0
+Mago	Magos	0	0	0	0	0	0	350	418	570	4	0	25	5	11	8	7	9	24	0	10	20	Atira. Sem penalidade de barreira. Sem penalidade no corpo-a-corpo. Reduz o custo dos feitiços em 2 pontos de magia cada.	SHOOTING_ARMY | const_no_melee_penalty
+Arcomago	Arcomagos	0	0	0	0	0	0	450	467	680	4	0	30	7	12	9	7	9	24	0	10	16	Atira. Sem penalidade de barreira. Sem penalidade no corpo-a-corpo. Reduz o custo dos feitiços em 2 pontos de magia cada.	SHOOTING_ARMY | const_no_melee_penalty | const_no_wall_penalty
+Gênio	Gênios	0	0	0	0	0	0	550	680	884	3	0	40	7	12	12	13	16	0	0	8	16	Voa. Odeia Efreets.	FLYING_ARMY
+Gênio Mestre	Gênios Mestres	0	0	0	0	0	0	600	748	942	3	0	40	11	12	12	13	16	0	3	8	12	Voa. Conjura efeitos benéficos aleatórios. Odeia Efreets.	FLYING_ARMY
+Naga	Nagas	0	0	0	0	0	0	1100	2016	2016	2	0	110	5	16	13	20	20	0	0	5	12	Não pode ser retaliada.	DOUBLE_WIDE
+Naga Rainha	Nagas Rainhas	0	0	0	0	0	0	1600	2485	2840	2	0	110	7	16	13	30	30	0	0	5	10	Não pode ser retaliada.	DOUBLE_WIDE
+Gigante	Gigantes	0	0	0	0	0	1	2000	3146	3718	1	0	150	7	19	16	40	60	0	0	4	10	Imune a feitiços mentais.	KING_3
+Titã	Titãs	0	0	0	0	0	2	5000	5000	7500	1	0	300	11	24	24	40	60	24	0	3	8	Atira. Sem penalidade no corpo-a-corpo. Imune a feitiços mentais. Odeia Dragões Pretos.	SHOOTING_ARMY | const_no_melee_penalty | KING_3
+                                   																								
+																								
+																								
+Diabrete	Diabretes	0	0	0	0	0	0	50	50	50	15	8	4	5	2	3	1	2	0	0	20	50		0
+Familiar	Familiare2s	0	0	0	0	0	0	60	60	60	15	8	4	7	4	4	1	2	0	0	20	30	Rouba pontos de magia.	0
+Gogue	Gogues	0	0	0	0	0	0	125	145	159	8	0	13	4	6	4	2	4	12	0	16	30	Atira.	SHOOTING_ARMY
+Magogue	Magogues	0	0	0	0	0	0	175	210	240	8	0	13	6	7	4	2	4	24	0	16	25	Atira. Ataque com bola de fogo.	SHOOTING_ARMY
+Cão Infernal	Cães Infernais	0	0	0	0	0	0	200	275	357	5	3	25	7	10	6	2	7	0	0	12	25		DOUBLE_WIDE | FLYING_ARMY
+Cerbero	Cerberos	0	0	0	0	0	0	250	308	392	5	3	25	8	10	8	2	7	0	0	12	20	Ataque com 3 cabeças. Não pode ser retaliado.	DOUBLE_WIDE | FLYING_ARMY
+Demônio	Demônios	0	0	0	0	0	0	250	445	445	4	0	35	5	10	10	7	9	0	0	10	20		0
+Demônio Chifrudo	Demônios Chifrudos	0	0	0	0	0	0	270	480	480	4	0	40	6	10	10	7	9	0	0	10	16		0
+Atormentador	Atormentadores	0	0	0	0	0	0	500	765	765	3	0	45	6	13	13	13	17	0	0	8	16		0
+Lorde Atormentador	Lordes Atormentadores	0	0	0	0	0	0	700	1071	1224	3	0	45	7	13	13	13	17	0	1	8	12	Conjura demônios a partir de aliados mortos.	0
+Efreet	Efreets	0	0	0	0	0	0	900	1413	1670	2	0	90	9	16	12	16	24	0	0	5	12	Voa. Imune ao fogo. Odeia Gênios.	0
+Efreet Sultão	Efreets Sultões	0	0	0	0	0	0	1100	1802	2343	2	0	90	13	16	14	16	24	0	0	5	10	Voa. Escudo de fogo. Imune ao fogo. Odeia Gênios.	0
+Diabo	Diabos	0	1	0	0	0	0	2700	3759	5101	1	0	160	11	19	21	30	40	0	0	4	10	Teleporte. -1 para a sorte do inimigo. Não pode ser retaliado. Odeia Anjos.	FLYING_ARMY | KING_2
+Arcodiabo	Arcodiabos	0	2	0	0	0	0	4500	5243	7115	1	0	200	17	26	28	30	40	0	0	3	8	Teleporte. -2 para a sorte do inimigo. Não pode ser retaliado. Odeia Anjos.	FLYING_ARMY | KING_2
+																								
+																								
+																								
+Esqueleto	Esqueletos	0	0	0	0	0	0	60	75	60	12	6	6	4	5	4	1	3	0	0	20	50	Morto-vivo.	IS_UNDEAD
+Guerreiro Esqueleto	Guerreiros Esqueletos	0	0	0	0	0	0	70	85	85	12	6	6	5	6	6	1	3	0	0	20	30	Morto-vivo.	IS_UNDEAD
+Morto-Vivo	Mortos-Vivos	0	0	0	0	0	0	100	140	98	8	0	15	3	5	5	2	3	0	0	16	30	Morto-vivo.	IS_UNDEAD
+Zumbi	Zumbis	0	0	0	0	0	0	125	160	128	8	0	20	4	5	5	2	3	0	0	16	25	Morto-vivo. Doença.	IS_UNDEAD
+Alma Penada	Almas Penadas	0	0	0	0	0	0	200	231	252	7	0	18	5	7	7	3	5	0	0	12	25	Morta-viva. Voa. Regenera-se.	FLYING_ARMY | IS_UNDEAD
+Assombração	Assombrações	0	0	0	0	0	0	230	252	315	7	0	18	7	7	7	3	5	0	0	12	20	Morta-viva. Voa. Regenera-se. Drena magia do inimigo.	FLYING_ARMY | IS_UNDEAD
+Vampiro	Vampiros	0	0	0	0	0	0	360	518	555	4	0	30	6	10	9	5	8	0	0	10	20	Morto-vivo. Voa. Não pode ser retaliado.	FLYING_ARMY | IS_UNDEAD
+Vampiro Lorde	Vampiros Lordes	0	0	0	0	0	0	500	652	783	4	0	40	9	10	10	5	8	0	0	10	16	Morto-vivo. Voa. Drena vida. Não pode ser retaliado.	FLYING_ARMY | IS_UNDEAD
+Liche	Liches	0	0	0	0	0	0	550	742	848	3	0	30	6	13	10	11	13	12	0	8	16	Morto-vivo. Atira. Ataque com nuvem da morte.	SHOOTING_ARMY | IS_UNDEAD
+Liche Poderoso	Liches Poderosos	0	0	0	0	0	0	600	889	1079	3	0	40	7	13	10	11	15	24	0	8	12	Morto-vivo. Atira. Ataque com nuvem da morte.	SHOOTING_ARMY | IS_UNDEAD
+Cavaleiro Negro	Cavaleiros Negros	0	0	0	0	0	0	1200	1753	2087	2	0	120	7	16	16	15	30	0	0	5	12	Morto-vivo. Amaldiçoa inimigos.	DOUBLE_WIDE | IS_UNDEAD
+Cavaleiro Terrível	Cavaleiros Terríveis	0	0	0	0	0	0	1500	2029	2382	2	0	120	9	18	18	15	30	0	0	5	10	Morto-vivo. Amaldiçoa inimigos. Ataque do sopro da morte.	DOUBLE_WIDE | IS_UNDEAD
+Dragão de Ossos	Dragões de Ossos	0	0	0	0	0	0	1800	2420	3388	1	0	150	9	17	15	25	50	0	0	4	10	Morto-vivo. Voa. -1 para a moral do inimigo.	DOUBLE_WIDE | IS_UNDEAD | const_lowers_morale | FLYING_ARMY | KING_1
+Dragão Fantasma	Dragões Fantasmas	0	1	0	0	0	0	3000	3228	4696	1	0	200	14	19	17	25	50	0	0	3	8	Morto-vivo. Voa. -1 para a moral do inimigo. Ataque de envelhecimento.	DOUBLE_WIDE | IS_UNDEAD | const_lowers_morale | FLYING_ARMY | KING_1
+																								
+																								
+																								
+Troglodita	Trogloditas	0	0	0	0	0	0	50	73	59	14	7	5	4	4	3	1	3	0	0	20	50	Imune à cegueira e ao olhar petrificante.	0
+Troglodita Infernal	Trogloditas Infernais	0	0	0	0	0	0	65	84	84	14	7	6	5	5	4	1	3	0	0	20	30	Imune à cegueira e ao olhar petrificante.	0
+Harpia	Harpias	0	0	0	0	0	0	130	140	154	8	0	14	6	6	5	1	4	0	0	16	30	Voa. Ataca e retorna.	FLYING_ARMY
+Harpia Bruxa	Harpias Bruxas	0	0	0	0	0	0	170	196	238	8	0	14	9	6	6	1	4	0	0	16	25	Voa. Ataca e retorna. Não pode ser retaliada.	FLYING_ARMY
+Observador	Observadores	0	0	0	0	0	0	250	240	336	7	0	22	5	9	7	3	5	12	0	12	25	Atira. Sem penalidade no corpo-a-corpo.	SHOOTING_ARMY | const_no_melee_penalty
+Mau Olhado	Maus Olhados	0	0	0	0	0	0	280	245	367	7	0	22	7	10	8	3	5	24	0	12	20	Atira. Sem penalidade no corpo-a-corpo.	SHOOTING_ARMY | const_no_melee_penalty
+Medusa	Medusas	0	0	0	0	0	0	300	379	517	4	0	25	5	9	9	6	8	4	0	10	20	Atira. Sem penalidade no corpo-a-corpo. Olhar petrificante.	DOUBLE_WIDE | SHOOTING_ARMY | const_no_melee_penalty
+Medusa Rainha	Medusas Rainhas	0	0	0	0	0	0	330	423	577	4	0	30	6	10	10	6	8	8	0	10	16	Atira. Sem penalidade no corpo-a-corpo. Olhar petrificante.	DOUBLE_WIDE | SHOOTING_ARMY | const_no_melee_penalty
+Minotauro	Minotauros	0	0	0	0	0	0	500	835	835	3	0	50	6	14	12	12	20	0	0	8	16	Boa moral.	0
+Minotauro Rei	Minotauros Reis	0	0	0	0	0	0	575	890	1068	3	0	50	8	15	15	12	20	0	0	8	12	Boa moral.	0
+Mantícora	Mantícoras	0	0	0	0	0	0	850	1215	1547	2	0	80	7	15	13	14	20	0	0	5	12	Voa.	DOUBLE_WIDE | FLYING_ARMY
+Escorpicório	Escorpicórios	0	0	0	0	0	0	1050	1248	1589	2	0	80	11	16	14	14	20	0	0	5	10	Voa. Veneno paralizante.	DOUBLE_WIDE | FLYING_ARMY
+Dragão Vermelho	Dragões Vermelhos	0	0	0	1	0	0	2500	3762	4702	1	0	180	11	19	19	40	50	0	0	4	10	Voa. Ataque longo. Imune a feitiços de níveis 1-3.	DOUBLE_WIDE | FLYING_ARMY | KING_1
+Dragão Preto	Dragões Pretos	0	0	0	2	0	0	4000	6783	8721	1	0	300	15	25	25	40	50	0	0	3	8	Voa. Ataque longo. Imune a feitiços de níveis 1-5. Odeia Titãs.	DOUBLE_WIDE | FLYING_ARMY | KING_1
+																								
+																								
+																								
+Goblin	Goblins	0	0	0	0	0	0	40	60	60	15	8	5	5	4	2	1	2	0	0	20	50		0
+Hobgoblin	Hobgoblins	0	0	0	0	0	0	50	65	78	15	8	5	7	5	3	1	2	0	0	20	30		0
+Goblin Montado	Goblins Montados	0	0	0	0	0	0	100	130	130	9	0	10	6	7	5	2	4	0	0	16	30		DOUBLE_WIDE
+Goblin Saqueador	Goblins Saqueadores	0	0	0	0	0	0	140	174	203	9	0	10	8	8	5	3	4	0	0	16	25	Golpeia duas vezes.	DOUBLE_WIDE
+Orc	Orcs	0	0	0	0	0	0	150	175	192	7	0	15	4	8	4	2	5	12	0	12	25	Atira.	SHOOTING_ARMY
+Orc Chefe	Orcs Chefes	0	0	0	0	0	0	165	200	240	7	0	20	5	8	4	2	5	24	0	12	20	Atira.	SHOOTING_ARMY
+Ogro	Ogros	0	0	0	0	0	0	300	520	416	4	0	40	4	13	7	6	12	0	0	10	20		0
+Ogro Mago	Ogros Magos	0	0	0	0	0	0	400	672	672	4	0	60	5	13	7	6	12	0	3	10	16	Conjura raiva.	0
+Roc	Rocs	0	0	0	0	0	0	600	790	1027	3	0	60	7	13	11	11	15	0	0	8	16	Voa.	FLYING_ARMY | DOUBLE_WIDE
+Passáro do Trovão	Pássaros do Trovão	0	0	0	0	0	0	700	869	1106	3	0	60	11	13	11	11	15	0	0	8	12	Voa. Atrai raios.	FLYING_ARMY | DOUBLE_WIDE
+Ciclope	Ciclopes	0	0	0	0	0	0	750	1055	1266	2	0	70	6	15	12	16	20	16	0	5	12	Atira. Ataca muralhas.	SHOOTING_ARMY | CATAPULT
+Ciclope Rei	Ciclopes Reis	0	0	0	0	0	0	1100	1110	1443	2	0	70	8	17	13	16	20	24	0	5	10	Atira. Ataca muralhas.	SHOOTING_ARMY | CATAPULT
+Beemote	Beemotes	0	0	0	0	0	0	1500	3162	3162	1	0	160	6	17	17	30	50	0	0	4	10	Ignora 40% da defesa do inimigo.	DOUBLE_WIDE | KING_1
+Beemote Ancião	Beemotes Anciões	0	0	0	0	1	0	3000	5397	6168	1	0	300	9	19	19	30	50	0	0	3	8	Ignora 80% da defesa do inimigo.	DOUBLE_WIDE | KING_1
+																								
+																								
+																								
+Gnoll	Gnolls	0	0	0	0	0	0	50	70	56	12	6	6	4	3	5	2	3	0	0	20	50		0
+Gnoll Saqueador	Gnolls Saqueadores	0	0	0	0	0	0	70	90	90	12	6	6	5	4	6	2	3	0	0	20	30		0
+Homem-Lagarto	Homens-Lagartos	0	0	0	0	0	0	110	115	126	9	0	14	4	5	6	2	3	12	0	16	30	Atira.	SHOOTING_ARMY
+Guerreiro Lagarto	Guerreiros Lagartos	0	0	0	0	0	0	140	130	156	9	0	15	5	6	8	2	5	24	0	16	25	Atira.	SHOOTING_ARMY
+Gorgon	Gorgons	0	0	0	0	0	0	525	890	890	3	0	70	5	10	14	12	16	0	0	8	16		DOUBLE_WIDE
+Gorgon Potente	Gorgons Potentes	0	0	0	0	0	0	600	1028	1028	3	0	70	6	11	16	12	16	0	0	8	12	Bafo mortal.	DOUBLE_WIDE
+Serpent Fly	Serpent Flies	0	0	0	0	0	0	220	215	268	8	0	20	9	7	9	2	5	0	0	12	25	Voa. Desfaz feitiços benéficos.	FLYING_ARMY
+Dragon Fly	Dragon Flies	0	0	0	0	0	0	240	250	312	8	0	20	13	8	10	2	5	0	0	12	20	Voa. Desfaz feitiços benéficos. Enfraquece os inimigos.	FLYING_ARMY
+Basilisco	Basiliscos	0	0	0	0	0	0	325	506	552	4	0	35	5	11	11	6	10	0	0	10	20	Ataque petrificante.	DOUBLE_WIDE
+Grande Basilisco	Grandes Basiliscos	0	0	0	0	0	0	400	561	714	4	0	40	7	12	12	6	10	0	0	10	16	Ataque petrificante.	DOUBLE_WIDE
+Wyvern	Wyverns	0	0	0	0	0	0	800	1050	1350	2	0	70	7	14	14	14	18	0	0	5	12	Voa.	DOUBLE_WIDE | FLYING_ARMY
+Wyvern Monarca	Wyverns Monarcas	0	0	0	0	0	0	1100	1181	1518	2	0	70	11	14	14	18	22	0	0	5	10	Voa. Venenoso.	DOUBLE_WIDE | FLYING_ARMY
+Hidra	Hidras	0	0	0	0	0	0	2200	4120	4120	1	0	175	5	16	18	25	45	0	0	4	10	Ataca todos os inimigos próximos duma só vez sem retaliação.	DOUBLE_WIDE | KING_1
+Hidra do Caos	Hidras do Caos	0	0	0	1	0	0	3500	5272	5931	1	0	250	7	18	20	25	45	0	0	3	8	Ataca todos os inimigos próximos duma só vez sem retaliação.	DOUBLE_WIDE | KING_1
+																								
+																								
+																								
+Elemental de Ar	Elementais de Ar	0	0	0	0	0	0	250	324	356	6	0	25	7	9	9	2	8	0	0	8	12	Elemental. Imune à chuva de meteoros. Vulnerável à raio e armagedom. +100% de dano a Elementais de Terra.	0
+Elemental de Terra	Elementais de Terra	0	0	0	0	0	0	400	415	330	4	0	40	4	10	10	4	8	0	0	16	30	Elemental. Imune a raio e armagedom. Vulnerável à chuva de meteoros. +100% de dano a Elementais de Ar.	0
+Elemental de Fogo	Elementais de Fogo	0	0	0	0	0	0	350	345	345	5	0	35	6	10	8	4	6	0	0	10	20	Elemental. Imune ao fogo. +100% de dano a Elementais de Água.	0
+Elemental de Água	Elementais de Água	0	0	0	0	0	0	300	315	315	6	0	30	5	8	10	3	7	0	0	12	25	Elemental. Imune ao gelo. Vulnerável a bola de fogo, inferno e armagedom. +100% de dano a Elementais de Fogo.	0
+Golem de Ouro	Golens de Ouro	0	0	0	0	0	0	500	600	600	3	0	50	5	11	12	8	10	0	0	10	16	Golem. Os danos recebidos de feitiços são reduzidos em 85%.	0
+Golem de Diamante	Golens de Diamante	0	0	0	0	0	0	750	775	775	2	0	60	5	13	12	10	14	0	0	8	12	Golem. Os danos recebidos de feitiços são reduzidos em 95%.	0
+																								
+																								
+																								
+Fadinha	Fadinhas	0	0	0	0	0	0	25	40	55	20	10	3	7	2	2	1	2	0	0	20	50	Voa.	FLYING_ARMY
+Fada madrinha	Fadas Madrinhas	0	0	0	0	0	0	30	70	95	20	10	3	9	2	2	1	3	0	0	20	30	Voa. Não pode ser retaliada.	FLYING_ARMY | const_free_attack
+Elemental Psíquico	Elementais Psíquicos	0	0	0	0	0	0	950	1431	1669	2	0	75	7	15	13	10	20	0	0	5	12	Elemental. Ataca todos os inimigos próximos duma só vez sem retaliação. -50% de dano contra criaturas imunes a feitiços mentais.	IMMUNE_TO_MIND_SPELLS | DOUBLE_WIDE | const_free_attack | MULTI_HEADED
+Elemental de Mágica	Elementais de Mágica	0	0	0	0	0	0	1200	1724	2012	2	0	80	9	15	13	15	25	0	0	5	10	Elemental. Ataca todos os inimigos próximos duma só vez sem ret. Imune a todos os feitiços. -50% dano contra criat. imunes a feit. mentais.	IMMUNE_TO_MIND_SPELLS | DOUBLE_WIDE | const_free_attack | MULTI_HEADED
+NOT USED (1)	NOT USED (1)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		
+Elemental de Gelo	Elementais de Gelo	0	0	0	0	0	0	375	315	380	6	0	30	6	8	10	3	7	24	3	12	20	Elemental. Atira. Imune a gelo. Vuln. a bola de fogo, inferno e armagedom. +100% de dano contra Elem. de Fogo. Conjura prot. da água.	IMMUNE_TO_MIND_SPELLS | SHOOTING_ARMY
+NOT USED (2) 	NOT USED (2)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		
+Elemental de Magma	Elementais de Magma	0	0	0	0	0	0	500	490	490	4	0	40	6	11	11	6	10	0	3	16	25	Elemental. Imune a armagedom e raio. Vuln. a chuva de meteoros. +100% de dano contra Elementais de Ar. Conjura prot. da terra.	IMMUNE_TO_MIND_SPELLS
+NOT USED (3)	NOT USED (3)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		
+Elemental de Tempestade	Elementais de Tempestade	0	0	0	0	0	0	275	324	486	6	0	25	8	9	9	2	8	24	3	6	12	Elemental. Atira. Imune a chuva de meteoros. Vuln. a armagedom e raio. +100% de dano contra Elementais de Terra. Conjura prot. do ar.	IMMUNE_TO_MIND_SPELLS | SHOOTING_ARMY
+NOT USED (4)	NOT USED (4)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		
+Elemental de Energia	Elementais de Energia	0	0	0	0	0	0	400	360	470	5	0	35	8	12	8	4	6	0	3	10	16	Elemental. Voa. Imune ao fogo. Vulnerável ao gelo. +100% de dano contra Elementais de Água. Conjura prot. do fogo.	IMMUNE_TO_MIND_SPELLS | IMMUNE_TO_FIRE_SPELLS | FLYING_ARMY
+Pássaro de Fogo	Pássaros de Fogo	0	0	0	0	0	0	2000	3097	4336	1	0	150	15	18	18	30	40	0	0	4	10	Voa. Ataque longo. Dano de feitiços de fogo reduzido em 50%.	DOUBLE_WIDE | FLYING_ARMY | KING_1 | HAS_EXTENDED_ATTACK
+Fênix	Fênixes	0	1	0	0	0	0	3000	4929	6721	1	0	200	21	21	18	30	40	0	1	3	8	Voa. Ataque longo. Imune a feitiços de fogo. Renasce.	IMMUNE_TO_FIRE_SPELLS | DOUBLE_WIDE | FLYING_ARMY | KING_1 | HAS_EXTENDED_ATTACK
+																								
+																								
+																								
+Dragão Azul	Dragões Azuis	0	20	0	0	0	0	30000	56315	78845	1	0	1000	19	50	50	70	80	0	0	1	3	Voa. Ataque longo. Causa medo. Imune a feitiços de níveis 1-3.	DOUBLE_WIDE | FLYING_ARMY | KING_1
+Dragão de Cristal	Dragões de Cristal	0	0	0	0	10	0	20000	30260	39338	1	0	800	16	40	40	60	75	0	0	1	3	Produz cristais. Tem 20% de chance em resistir a um feitiço inimigo.	DOUBLE_WIDE | FLYING_ARMY | KING_1
+Dragão Fada	Dragões Fada	0	0	0	0	0	8	10000	16317	30501	1	0	500	15	20	20	20	30	0	5	1	3	Voa. Conjura feitiços de ataque. É protegida por um espelho mágico.	DOUBLE_WIDE | FLYING_ARMY | KING_1
+Dragão de Ferrugem	Dragões de Ferrugem	0	0	0	14	0	0	15000	24030	26433	1	0	750	17	30	30	50	50	0	0	1	3	Voa. Ataque longo. Cospe ácido.	DOUBLE_WIDE | FLYING_ARMY | KING_1
+Encantador	Encantadores	0	0	0	0	0	0	750	805	1210	2	0	30	9	17	12	14	14	32	0	5	12	Atira. Sem penalidade a barreiras. Sem penalidade no corpo-a-corpo. Conjura feitiços com efeito em massa.	SHOOTING_ARMY | const_no_melee_penalty
+Arqueiro Verde	Arqueiros Verdes	0	0	0	0	0	0	400	415	585	4	0	15	9	12	10	8	10	32	0	5	12	Atira. Sem penalidade por distância ou barreiras.	SHOOTING_ARMY
+Halfling	Halflings	0	0	0	0	0	0	40	60	75	15	0	4	5	4	2	1	3	24	0	20	50	Atira. Sorte positiva.	SHOOTING_ARMY
+Camponês	Camponeses	0	0	0	0	0	0	10	15	15	25	0	1	3	1	1	1	1	0	0	20	50		
+Javali	Javalis	0	0	0	0	0	0	150	145	145	8	0	15	6	6	5	2	3	0	0	16	30		
+Múmia	Múmias	0	0	0	0	0	0	300	270	270	7	0	30	5	7	7	3	5	0	0	12	25	Morta-viva. Amaldiçoa inimigos.	
+Nômade	Nômades	0	0	0	0	0	0	200	285	345	7	0	30	7	9	8	2	6	0	0	12	25	Especialista em andar na areia.	
+Bandido	Bandidos	0	0	0	0	0	0	100	135	135	8	0	10	6	8	3	2	4	0	0	16	30	Espião.	
+Troll	Trolls	0	0	0	0	0	0	500	1024	1024	3	0	40	7	14	7	10	15	0	0	8	12	Regenera-se.	
+																								
+																								
+																								
+Catapulta	Catapultas	0	0	0	0	0	0	1	10	500	0	0	1000	0	10	10	0	0	24	0	0	0	Máquina de guerra. Ataca apenas muralhas.	DOUBLE_WIDE | SHOOTING_ARMY | CATAPULT | SIEGE_WEAPON
+Balista	Balistas	0	0	0	0	0	0	2500	650	600	0	0	250	0	10	10	2	3	24	0	0	0	Máquina de guerra. Atira.	DOUBLE_WIDE | SHOOTING_ARMY | SIEGE_WEAPON
+Tenda Médica	Tendas Médicas	0	0	0	0	0	0	750	10	300	0	0	75	0	0	0	0	0	0	0	0	0	Máquina de guerra. Cura aliados.	DOUBLE_WIDE | SIEGE_WEAPON
+Carrinho de Munição	Carrinhos de Munição	0	0	0	0	0	0	1000	5	400	0	0	100	0	0	5	0	0	0	0	0	0	Máquina de guerra. Fornece munição ilimitada para atiradores.	SIEGE_WEAPON
+Torre de Defesa	Torres de Defesa	0	0	0	0	0	0	1000	5	400	0	0	100	0	10	5	2	4	99	0	0	0	Atira. Sem penalidade de barreira ou de distância. Munição ilimitada. Ignora a defesa do alvo.	SIEGE_WEAPON

@@ -1,0 +1,36 @@
+Dividir a tropa de %s
+Não pode-se combinar a última tropa do herói
+Combinar as tropas de %s
+Dividir a tropa
+Ver %s
+Não pode-se guardar a última tropa do herói
+Mover %s
+Trocar %s com %s
+Sair da cidade
+Não pode-se mover heróis aliados para a posição de residentes.
+Visão Geral do Reino
+Vazio
+Seleciona %s (residente)
+Ver Herói
+Torre de Magia
+Guilda dos Ladrões
+Taverna
+Porto
+Castelo
+Ferreiro
+Sede do Povoado
+Recrutar %s
+Sede da Vila
+Sede da Cidade
+Capitólio
+
+Mercado
+Celeiro
+Forte
+Cidadela
+Uma habitação externa de alguma criatura deve ter a sua bandeira para que criaturas possam ser chamadas por meio do portal.
+%s adquirido
+Selecione %s (visitante)
+Selecione %s (criaturas descartadas)
+Selecione %s (exército do herói)
+%s (não pode ser removido)

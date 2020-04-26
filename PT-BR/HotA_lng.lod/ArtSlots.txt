@@ -1,0 +1,19 @@
+Cabeça
+Ombros
+Pescoço
+Mão direita
+Mão esquerda
+Torso
+Anel direito
+Anel esquerdo
+Pés
+Diversos 1
+Diversos 2
+Diversos 3
+Diversos 4
+Máquina de guerra 1
+Máquina de guerra 2
+Máquina de guerra 3
+Máquina de guerra 4
+Livro de magia
+Diversos 5

@@ -1,0 +1,7 @@
+Ataque
+Defesa
+Dano por ataque
+Vitalidade
+Velocidade
+Crescimento semanal
+Sair de %s

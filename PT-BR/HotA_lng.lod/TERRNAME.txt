@@ -1,0 +1,10 @@
+Terra
+Areia
+Grama
+Neve
+Pântano
+Cascalho
+Subterrâneo
+Lava
+Água
+Rocha

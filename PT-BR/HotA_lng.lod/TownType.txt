@@ -1,0 +1,9 @@
+Castelo
+Floresta
+Torre
+Inferno
+Necrópolis
+Masmorra
+Barbárie
+Pântano
+Confluxo

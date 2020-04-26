@@ -1,0 +1,46 @@
+Hero Window
+Ataque
+Defesa
+Poder
+Conhecimento
+{Especialidade}
+{Experiência}
+{Pontos de magia}
+"Missões
+Recebidas"
+"Demitir
+herói"
+Overview Window
+Ouro por dia:
+Janela do porto
+Construir um novo barco
+Custo do recurso:
+Thieves Guild Window
+Primeiro
+Segundo
+Terceiro
+Quarto
+Quinto
+Sexto
+Sétimo
+Oitavo
+Número de cidades
+Número de heróis
+Ouro
+Madeira & Pedra
+"Merc, Enx, Crist & Gemas"
+Obeliscos encontrados
+Artefatos
+Força do exército
+Receita
+Melhor herói
+Personalidade
+Melhor monstro
+Janela da taverna
+Taverna
+Heróis para contratar
+Janela do portão da cidade
+Portão da cidade
+Escolha a cidade através do portão.
+Janela do ferreiro
+custo do recurso:
