@@ -29,14 +29,14 @@ Bom
 Ótimo
 Sangue!
 gOwnedByColor
-Pertencente ao jogador vermelho
-Pertencente ao jogador azul
-Pertencente ao jogador bege
-Pertencente ao jogador verde
-Pertencente ao jogador laranja
-Pertencente ao jogador roxo
-Pertencente ao jogador azul claro
-Pertencente ao jogador rosa
+pertencente ao jogador vermelho
+pertencente ao jogador azul
+pertencente ao jogador bege
+pertencente ao jogador verde
+pertencente ao jogador laranja
+pertencente ao jogador roxo
+pertencente ao jogador azul claro
+pertencente ao jogador rosa
 gMonthNames
 do gafanhoto
 da formiga
@@ -250,26 +250,26 @@ Difícil
 Expert
 Impossível
 cDirections
-norte
-nordeste
-leste
-sudeste
-sul
-sudoeste
-oeste
-noroeste
-central
+ao norte
+ao nordeste
+ao leste
+ao sudeste
+ao sul
+ao sudoeste
+ao oeste
+ao noroeste
+centrais
 cRumourTerrainDescriptions
-enterrado no meio da terra
+debaixo de um monte de terra
 sob as dunas do deserto
-numa planície gramada
+escondido numa planície gramada
 congelado debaixo da neve
 num pântano lamacento
-enterrado no meio de pedras
+abaixo de toneladas de pedras
 numa caverna subterrânea
-enterrado na lava derretida
+soterrado na lava derretida
 nas profundezas do oceano
-debaixo de uma pedra
+perdido debaixo de uma pedra
 cPersonality
 Guerreiro
 Construtor
@@ -313,9 +313,9 @@ ou CPU"
 Humano
 CPU
 HandiText
-No Handicap
-Mild Handicap
-Severe Handicap
+Sem desvant.
+Alguma desvant.
+Forte desvant.
 AGRText
 Artefato
 Ouro

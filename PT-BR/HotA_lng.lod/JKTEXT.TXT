@@ -2,7 +2,7 @@ Hero Window
 Ataque
 Defesa
 Poder
-Conhecimento
+Conhec.
 {Especialidade}
 {Experiência}
 {Pontos de magia}
@@ -43,4 +43,4 @@ Janela do portão da cidade
 Portão da cidade
 Escolha a cidade através do portão.
 Janela do ferreiro
-custo do recurso:
+Custo da máquina:

@@ -1,9 +1,9 @@
 "{Madereira}
 
 Você conseguiu o controle de uma madereira. Ela vai te dar duas unidades de madeira por dia."
-"{Laboratório}
+"{Destilaria de mercúrio}
 
-Você conseguiu o controle de um laboratório. Ela vai te dar uma unidade de mercúrio por dia."
+Você conseguiu o controle de uma destilaria de mercúrio. Ela vai te dar uma unidade de mercúrio por dia."
 "{Pedreira}
 
 Você conseguiu o controle de uma pedreira. Ela vai te dar duas unidades de pedra por dia."
@@ -13,9 +13,9 @@ Você conseguiu o controle de uma duna de enxofre. Ela vai te dar uma unidade de 
 "{Caverna de cristal}
 
 Você conseguiu o controle de uma caverna de cristal. Ela vai te dar uma unidade de cristal por dia."
-"{Lago de gemas}
+"{Lagoa de gemas}
 
-Você conseguiu o controle de um lago de gemas. Ela vai te dar uma unidade de gemas por dia."
+Você conseguiu o controle de uma lagoa de gemas. Ela vai te dar uma unidade de gemas por dia."
 "{Mina de ouro}
 
 Você conseguiu o controle de uma mina de ouro. Ela vai te dar 1000 ouros por dia."

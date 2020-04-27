@@ -395,7 +395,7 @@ O encarregado do moinho de vento anuncia: ""Grande, sinto muito em dizer que não
 O encarregado do moinho de vento anuncia: ""Grande, eu trabalhei muito duro para conseguir dar a você estes recursos, volte na semana que vem por mais."""
 "{Cabana da Bruxa}
 
-Uma velha bruxa vivendo numa estranha cabana recebe você, se oferecendo para ensinar %s para você e atendendo aos seus próprios inconfessáveis propósitos."
+Uma velha bruxa vivendo numa estranha cabana recebe você, se oferecendo para te ensinar %s, atendendo a algum de seus próprios e inconfessáveis propósitos."
 "{Cabana da Bruxa}
 
 Você se aproxima da estranha cabana e observa uma bruxa dentro dela estudando um antigo tomo de %s.  Quando você se aproxima, ela vira pra você e fala.  ""Você já sabe de tudo que eu poderia te ensinar.  Não tenho mais como te ajudar."""

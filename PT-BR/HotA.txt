@@ -1634,57 +1634,57 @@ lost health: %s, creatures: %s
 #138
 casts remained: %d
 #139
-Shoot %s (damage: %s)
+Atirar em %s (dano: %s)
 #140
- and 
+ e 
 #141
-, and 
+, e 
 #142
- or 
+ ou 
 #143
-, or 
+, ou 
 #144
-month %d, week %d, day %d
+mês %d, semana %d, dia %d
 #145
-(Time limit expired)
+(O limite de tempo expirou)
 #146
 ""
 
-Time limit expires by month %d, week %d, day %d""
+O limite de tempo expira no mês %d, semana %d, dia %d""
 #147
-Combat start
+O combate começa
 #148
-Combat start (rounds remaining: %d)
+O combate começa (rodadas restantes: %d)
 #149
-Round %d begins
+A rodada %d começa
 #150
-Round %d begins (rounds remaining: %d)
+A rodada %d começa (rodadas restantes: %d)
 #151
-""{Forced end of combat}
+""{Final forçado do combate}
 
-Exhausted by a long battle, %s's troops are on the verge of mutiny.
+Exaustos por uma longa batalha, as tropas de %s estão se amotinando.
 
-The battle cannot continue. You must select one of the following options.""
+A batalha não pode continuar. Você tem que escolher uma das opções a seguir.""
 #152
-Finish with quick combat
+Terminar com um combate rápido
 #153
-Retreat
+Fugir
 #154
-Surrender (cost: %d gold)
+Render-se (preço: %d ouros)
 #155
-The combat was too long and the enemy has to retreat or surrender. Waiting for his choice...
+O combate foi tão longo que seu inimigo tem que fugir ou se render. Esperando a escolha dele...
 #156
-%d%% of creatures a willing to join us!
+%d%% das criaturas vão se juntar a nós!
 #157
-""%d%% of creatures will join us...
+""%d%% sas criaturas vão se juntar a nós...
 
-for a fee of %d gold.""
+Por uma quantia de %d ouros.""
 #158
-""{Followers}
+""{Seguidores}
 
-Some %s of the group with a desire for greater glory wish to join you. Do you accept?""
+Alguns(mas) %s do grupo desejam-se juntar a você e participar da sua grande glória.  Você aceita?""
 # 159
-%d of %d %s will join your army for the sum of %d gold.  Do you accept?"
+%d de %d %s vão juntar-se ao seu exército por uma soma de %d ouros.  Você aceita?"
 Text 8: ""
 Has FilS: "false"
 Vals count: "4"
@@ -1710,25 +1710,25 @@ Horn of the Abyss
 # 1
 Allow monster/plague weeks
 # 2
-Eliminate all monsters
+Eliminar todos os monstros
 # 3
-Survive for certain time
+Sobreviver por um certo tempo
 # 4
-Days:
+Dias:
 # 5
-Monolith / Portal One Way Entrance
+Monolito / Portal Entrada de Mão Única
 # 6
-Portal / Monolith One Way Entrance
+Portal / Monolito Entrada de Mão Única
 # 7
-Monolith / Portal One Way Exit
+Monolito / Portal Saída de Mão Única
 # 8
-Portal / Monolith One Way Exit
+Portal / Monolito Saída de Mão Única
 # 9
-Two Way Monolith / Portal
+Monolito / Portal de mão Dupla
 # 10
 """"""Special condition of victory is surviving for a certain time, while condition of loss is time expiration""""""
 # 11
-These conditions are mutually exclusive.
+Essas condições são mutuamente exclusivas.
 # 12
 ""# object by sprite name #""
 # 13
@@ -1742,7 +1742,7 @@ Sprite:
 # 17
 Object Panel
 # 18
-Columns:
+Colunas:
 # 19
 Cell width:
 # 20
@@ -1752,7 +1752,7 @@ Template:
 # 22
 Default
 # 23
-""Building #%d""
+""Construindo #%d""
 # 24
 Lighthouse, Mystic Pond, Library, Brimstone Stormclouds, Cover of Darkness, Mana Vortex, Escape Tunnel, Cage of Warlords, Magic University or Thief's Guild.
 # 25
@@ -1770,12 +1770,12 @@ Not as %s
 # 31
 This map format is unsupported. This map might be designed for a newer HotA version.
 # 32
- and 
+ e 
 # 33
-, and 
+, e 
 # 34
-""Guards: %s.
-Reward: %s.""
+""Guardas: %s.
+Recompensa: %s.""
 # 35
 Treasure artifact
 # 36
@@ -1813,15 +1813,15 @@ Artifacts
 # 52
 Upgraded stack
 # 53
-Yes
+Sim
 # 54
-No
+Não
 # 55
-Random
+Aleatório
 # 56
- or 
+ ou 
 # 57
-, or 
+, ou 
 # 58
 Belong to specific class
 # 59
@@ -1958,7 +1958,7 @@ Artifacts may be purchased at the Black Market (at the efficiency of 5 markets).
 
 8
 -1
-""Boat
+""Navio
 Allows hero to move through the water.""
 
 9
@@ -2362,17 +2362,17 @@ Purchase a ship.""
 
 88
 0
-""Shrine of Magic Incantation
+""Capela do Encantamento Mágico
 Learn level 1 spell.""
 
 89
 -1
-""Shrine of Magic Gesture
+""Capela do Gesto Mágico
 Learn level 2 spell.""
 
 90
 -1
-""Shrine of Magic Thought
+""Capela do Pensamento Mágico
 Learn level 3 spell.""
 
 91
@@ -4379,93 +4379,93 @@ Spells cannot be cast in combat.""
 
 34
 0
-""Knight
-Castle might hero.""
+""Cavaleiro
+Herói forte do castelo.""
 
 34
 1
-""Cleric
-Castle magic hero.""
+""Clérigo
+Herói mágico do castelo.""
 
 34
 2
-""Ranger
-Rampart might hero.""
+""Floresteiro
+Herói forte da floresta.""
 
 34
 3
-""Druid
-Rampart magic hero.""
+""Druida
+Herói mágico da floresta.""
 
 34
 4
-""Alchemist
-Tower might hero.""
+""Alquimista
+Herói forte da torre.""
 
 34
 5
-""Wizard
-Tower magic hero.""
+""Mago
+Herói mágico da torre.""
 
 34
 6
-""Demoniac
-Inferno might hero.""
+""Demoníaco
+Herói forte do inferno.""
 
 34
 7
-""Heretic
-Inferno magic hero.""
+""Herege
+Herói mágico do inferno.""
 
 34
 8
-""Death Knight
-Necropolis might hero.""
+""Cavaleiro da Morte
+Herói forte da necrópolis.""
 
 34
 9
-""Necromancer
-Necropolis magic hero.""
+""Necromante
+Herói mágico da necrópolis.""
 
 34
 10
-""Overlord
-Dungeon might hero.""
+""Susserano
+Herói forte da masmorra.""
 
 34
 11
-""Warlock
-Dungeon magic hero.""
+""Feiticeiro Maligno
+Herói mágico da masmorra.""
 
 34
 12
-""Barbarian
-Stronghold might hero.""
+""Bárbaro
+Herói forte da barbárie.""
 
 34
 13
-""Battle Mage
-Stronghold magic hero.""
+""Mago de Guerra
+Herói mágico da barbárie.""
 
 34
 14
-""Beastmaster
-Fortress might hero.""
+""Domador
+Herói forte do pântano.""
 
 34
 15
-""Witch
-Fortress magic hero.""
+""Bruxo
+Herói mágico do pântano.""
 
 34
 16
-""Planeswalker
-Conflux might hero.""
+""Planinauta
+Herói forte do confluxo.""
 
 34
 17
-""Elementalist 
-Conflux magic hero.""
+""Elementalista 
+Herói mágico do confluxo.""
 
 53
 0
@@ -4725,13 +4725,13 @@ Quantity: 10-16.""
 
 54
 36
-""Genie
+""Gênio
 Level 5 Tower creature.
 Quantity: 8-16.""
 
 54
 37
-""Master Genie
+""Gênio Mestre
 Upgraded level 5 Tower creature.
 Quantity: 8-12.""
 
@@ -4743,25 +4743,25 @@ Quantity: 5-12.""
 
 54
 39
-""Naga Queen
+""Naga Rainha
 Upgraded level 6 Tower creature.
 Quantity: 5-10.""
 
 54
 40
-""Giant
+""Gigante
 Level 7 Tower creature.
 Quantity: 4-10.""
 
 54
 41
-""Titan
+""Titã
 Upgraded level 7 Tower creature.
 Quantity: 3-8.""
 
 54
 42
-""Imp
+""Diabrete
 Level 1 Inferno creature.
 Quantity: 20-50.""
 
@@ -4773,13 +4773,13 @@ Quantity: 20-30.""
 
 54
 44
-""Gog
+""Gogue
 Level 2 Inferno creature.
 Quantity: 16-30.""
 
 54
 45
-""Magog
+""Magogue
 Upgraded Level 2 Inferno creature.
 Quantity: 16-25.""
 
@@ -5390,48 +5390,48 @@ This treasures gives 500-1000 gold.""
 
 98
 0
-""Castle
-Castle town.""
+""Castelo
+Cidade de castelo.""
 
 98
 1
-""Rampart
-Rampart town.""
+""Floresta
+Cidade de floresta.""
 
 98
 2
-""Tower
-Tower town.""
+""Torre
+Cidade de torre.""
 
 98
 3
 ""Inferno
-Inferno town.""
+Cidade de inferno.""
 
 98
 4
-""Necropolis
-Necropolis town.""
+""Necrópolis
+Cidade de necrópolis.""
 
 98
 5
-""Dungeon
-Dungeon town.""
+""Masmorra
+Cidade de masmorra.""
 
 98
 6
-""Stronghold
-Stronghold town.""
+""Barbárie
+Cidade de barbária.""
 
 98
 7
-""Fortress
-Fortress town.""
+""Pântano
+Cidade de pântano.""
 
 98
 8
-""Conflux
-Conflux town.""
+""Confluxo
+Cidade de confluxo.""
 
 106
 0
@@ -5871,12 +5871,12 @@ Leprechaun dwelling.""
 34
 18
 ""Capitão
-Cove might hero.""
+Herói forte da enseada.""
 
 34
 19
 ""Navegante
-Cove magic hero.""
+Herói mágico da enseada.""
 
 35
 1
@@ -5911,61 +5911,61 @@ Quantity: 12-18.""
 
 54
 153
-""Nymph
+""Ninfa
 Level 1 Cove creature.
 Quantity: 20-50.""
 
 54
 154
-""Oceanid
+""Oceanide
 Upgraded level 1 Cove creature.
 Quantity: 20-30.""
 
 54
 155
-""Crew Mate
+""Marinheiro
 Level 2 Cove creature.
 Quantity: 16-30.""
 
 54
 156
-""Seaman
+""Homem do Mar
 Upgraded Level 2 Cove creature.
 Quantity: 16-25.""
 
 54
 157
-""Pirate
+""Pirata
 Level 3 Cove creature.
 Quantity: 12-25.""
 
 54
 158
-""Corsair
+""Corsário
 Upgraded level 3 Cove creature.
 Quantity: 12-20.""
 
 54
 159
-""Stormbird
+""Pássaro de Tempestade
 Level 4 Cove creature.
 Quantity: 10-20.""
 
 54
 160
-""Ayssid
+""Aysside
 Upgraded level 4 Cove creature.
 Quantity: 10-16.""
 
 54
 161
-""Sea Witch
+""Bruxa do Mar
 Level 5 Cove creature.
 Quantity: 8-16.""
 
 54
 162
-""Sorceress
+""Feiticeira
 Upgraded level 5 Cove creature.
 Quantity: 8-12.""
 
@@ -5977,25 +5977,25 @@ Quantity: 5-12.""
 
 54
 164
-""Nix Warrior
+""Nix Guerreiro
 Upgraded level 6 Cove creature.
 Quantity: 5-10.""
 
 54
 165
-""Sea Serpent
+""Serpente Marinha
 Level 7 Cove creature.
 Quantity: 4-10.""
 
 54
 166
-""Haspid
+""Haspide
 Upgraded level 7 Cove creature.
 Quantity: 3-8.""
 
 54
 167
-""Satyr
+""Sátiro
 Level 4 Neutral creature.
 Quantity: 10-20.""
 
@@ -6007,13 +6007,13 @@ Quantity: 8-16.""
 
 54
 169
-""Leprechaun
+""Duende
 Level 2 Neutral creature.
 Quantity: 16-25.""
 
 54
 170
-""Steel Golem
+""Golem de Aço
 Level 4 Neutral creature.
 Quantity: 10-16.""
 
@@ -6024,13 +6024,13 @@ Shroud is removed from all tiles within 20 tiles of the Observation Tower.""
 
 88
 3
-""Shrine of Magic Mystery
+""Capela do Mistério Mágico
 Learn level 4 spell.""
 
 98
 9
-""Cove
-Cove town.""
+""Enseada
+Cidade de enseada.""
 
 106
 1
@@ -6718,7 +6718,7 @@ Name: "loopsounds0"
 Path: ""
 Texts count: "9"
 Text 0: ""
-Text 1: "Background sounds"
+Text 1: "Sons de fundo"
 Text 2: ""
 Text 3: "# ID ïåðâîãî çâóêà - 70"
 Text 4: "# ID ïîñëåäíåãî - 111"
@@ -7482,31 +7482,31 @@ Text 3: ""
 Text 4: ""
 Text 5: ""
 Text 6: ""
-Text 7: "Green
-Brown
-Violet
-Orange
-Green
-Yellow
-Red
-Cyan
-White
-Pink
-Turquoise
-Yellow
-Black
+Text 7: "Verde
+Marrom
+Violeta
+Laranja
+Verde
+Amarelo
+Vermelho
+Ciano
+Branco
+Rosa
+Turquesa
+Amarelo
+Preto
 Chartreuse
-Turquoise
-Violet
-Orange
-Blue
-Red
-Pink
-Blue
-Red
-Blue
+Turquesa
+Violeta
+Laranja
+Azul
+Vermelho
+Rosa
+Azul
+Vermelho
+Azul
 Chartreuse
-Yellow"
+Amarelo"
 Text 8: "Two Way Monolith
 Two Way Monolith
 Two Way Monolith
@@ -7551,18 +7551,18 @@ Text 3: ""
 Text 4: ""
 Text 5: ""
 Text 6: ""
-Text 7: "Blue
-Pink
-Orange
-Yellow
-Purple
-Orange
-Red
-Cyan
-Turquoise
-Violet
+Text 7: "Azul
+Rosa
+Laranja
+Amarelo
+Roxo
+Laranja
+Vermelho
+Ciano
+Turquesa
+Violeta
 Chartreuse
-White"
+Branco"
 Text 8: "Monolith One Way Entrance
 Monolith One Way Entrance
 Monolith One Way Entrance
@@ -8447,14 +8447,14 @@ Magic Clouds
 Magic Plains
 Rocklands
 "
-Text 8: "Wood
-Mercury
-Ore
-Sulfur
-Crystal
-Gems
-Gold
-Abandoned
+Text 8: "Madeira
+Mercúrio
+Pedra
+Enxofre
+Cristais
+Gemas
+Ouro
+Abandonado
 "
 Has FilS: "false"
 Vals count: "4"
@@ -8478,7 +8478,7 @@ Text 6: ""
 Text 7: "
 Name
 
-Adventure Spells
+Feitiços de aventura
 
 Summon Boat
 Scuttle Boat
@@ -8491,7 +8491,7 @@ Water Walk
 Dimension Door
 Town Portal
 
-Combat Spells
+Feitiços de combate
 
 Quicksand
 Land Mine
@@ -8568,14 +8568,14 @@ Dispel Helpful Spells
 Death Stare
 Acid Breath
 "
-Text 8: "Light blue
-Green
-Red
-Dark blue
-Brown
-Purple
-White
-Black
+Text 8: "Azul claro
+Verde
+Vermelho
+Azul escuro
+Marrom
+Roxo
+Branco
+Preto
 "
 Has FilS: "false"
 Vals count: "4"
@@ -8596,26 +8596,26 @@ Text 3: ""
 Text 4: ""
 Text 5: ""
 Text 6: ""
-Text 7: "Dirt
-Sand
-Grass
-Snow
-Swamp
-Rough
-Subterranean
+Text 7: "Terra
+Areia
+Grama
+Neve
+Pântano
+Cascalho
+Subterrâneo
 Lava
-Water
-Rock
+Água
+Rocha
 "
-Text 8: "Castle
-Rampart
-Tower
+Text 8: "Castelo
+Floresta
+Torre
 Inferno
-Necropolis
-Dungeon
-Stronghold
-Fortress
-Conflux
+Necrópolis
+Masmorra
+Barbárie
+Pântano
+Confluxo
 "
 Has FilS: "false"
 Vals count: "4"
@@ -8843,199 +8843,199 @@ Text 3: ""
 Text 4: ""
 Text 5: ""
 Text 6: ""
-Text 7: "red
-blue
-tan
-green
-orange
-purple
-teal
-pink"
+Text 7: "vermelho
+azul
+bege
+verde
+laranja
+roxo
+azul claro
+rosa"
 Text 8: "Name		Cost									
 Singular	Plural	Wood	Mercury	Ore	Sulfur	Crystal	Gems	Gold	Fight Value	AI Value	Growth
-Pikeman	Pikemen	0	0	0	0	0	0	60	100	80	14
-Halberdier	Halberdiers	0	0	0	0	0	0	75	115	115	14
-Archer	Archers	0	0	0	0	0	0	100	115	126	9
-Marksman	Marksmen	0	0	0	0	0	0	150	115	184	9
-Griffin	Griffins	0	0	0	0	0	0	200	324	351	7
-Royal Griffin	Royal Griffins	0	0	0	0	0	0	240	364	448	7
-Swordsman	Swordsmen	0	0	0	0	0	0	300	445	445	4
-Crusader	Crusaders	0	0	0	0	0	0	400	588	588	4
-Monk	Monks	0	0	0	0	0	0	400	485	582	3
-Zealot	Zealots	0	0	0	0	0	0	450	500	750	3
-Cavalier	Cavaliers	0	0	0	0	0	0	1000	1668	1946	2
-Champion	Champions	0	0	0	0	0	0	1200	1800	2100	2
-Angel	Angels	0	0	0	0	0	1	3000	3585	5019	1
-Archangel	Archangels	0	0	0	0	0	3	5000	6033	8776	1
+Piqueiro	Piqueiros	0	0	0	0	0	0	60	100	80	14
+Alabardeiro	Alabardeiros	0	0	0	0	0	0	75	115	115	14
+Arqueiro	Arqueiros	0	0	0	0	0	0	100	115	126	9
+Atirador	Atiradores	0	0	0	0	0	0	150	115	184	9
+Grifo	Grifos	0	0	0	0	0	0	200	324	351	7
+Grifo Real	Grifos Reais	0	0	0	0	0	0	240	364	448	7
+Espadachim	Espadachins	0	0	0	0	0	0	300	445	445	4
+Cruzado	Cruzados	0	0	0	0	0	0	400	588	588	4
+Monge	Monges	0	0	0	0	0	0	400	485	582	3
+Zelote	Zelotes	0	0	0	0	0	0	450	500	750	3
+Cavaleiro	Cavaleiros	0	0	0	0	0	0	1000	1668	1946	2
+Campeão	Campeões	0	0	0	0	0	0	1200	1800	2100	2
+Anjo	Anjos	0	0	0	0	0	1	3000	3585	5019	1
+Arcanjo	Arcanjos	0	0	0	0	0	3	5000	6033	8776	1
 											
 											
 											
-Centaur	Centaurs	0	0	0	0	0	0	70	100	100	14
-Centaur Captain	Centaur Captains	0	0	0	0	0	0	90	115	138	14
-Dwarf	Dwarves	0	0	0	0	0	0	120	194	138	8
-Battle Dwarf	Battle Dwarves	0	0	0	0	0	0	150	209	209	8
-Wood Elf	Wood Elves	0	0	0	0	0	0	200	195	234	7
-Grand Elf	Grand Elves	0	0	0	0	0	0	225	195	331	7
-Pegasus	Pegasi	0	0	0	0	0	0	250	407	518	5
-Silver Pegasus	Silver Pegasi	0	0	0	0	0	0	275	418	532	5
-Dendroid Guard	Dendroid Guards	0	0	0	0	0	0	350	690	517	3
-Dendroid Soldier	Dendroid Soldiers	0	0	0	0	0	0	425	765	803	3
-Unicorn	Unicorns	0	0	0	0	0	0	850	1548	1806	2
-War Unicorn	War Unicorns	0	0	0	0	0	0	950	1740	2030	2
-Green Dragon	Green Dragons	0	0	0	0	1	0	2400	3654	4872	1
-Gold Dragon	Gold Dragons	0	0	0	0	2	0	4000	6220	8613	1
+Centauro	Centauros	0	0	0	0	0	0	70	100	100	14
+Centauro Capitão	Centauros Capitães	0	0	0	0	0	0	90	115	138	14
+Anão	Anões	0	0	0	0	0	0	120	194	138	8
+Anão de Batalha	Anões de Batalha	0	0	0	0	0	0	150	209	209	8
+Elfo da Floresta	Elfos da Floresta	0	0	0	0	0	0	200	195	234	7
+Grande Elfo	randes Elfos	0	0	0	0	0	0	225	195	331	7
+Pégaso	Pégasos	0	0	0	0	0	0	250	407	518	5
+Pégaso de Prata	Pégasos de Prata	0	0	0	0	0	0	275	418	532	5
+Guarda Dendróide	Guardas Dendróides	0	0	0	0	0	0	350	690	517	3
+Soldado Dendróide	Soldados Dendróides	0	0	0	0	0	0	425	765	803	3
+Unicórnio	Unicórnios	0	0	0	0	0	0	850	1548	1806	2
+Unicórnio de Guerra	Unicórnios de Guerra	0	0	0	0	0	0	950	1740	2030	2
+Dragão Verde	Dragões Verdes	0	0	0	0	1	0	2400	3654	4872	1
+Dragão Dourado	Dragões Dourados	0	0	0	0	2	0	4000	6220	8613	1
 											
 											
 											
 Gremlin	Gremlins	0	0	0	0	0	0	30	55	44	16
-Master Gremlin	Master Gremlins	0	0	0	0	0	0	40	55	66	16
-Stone Gargoyle	Stone Gargoyles	0	0	0	0	0	0	130	150	165	9
-Obsidian Gargoyle	Obsidian Gargoyles	0	0	0	0	0	0	160	155	201	9
-Stone Golem	Stone Golems	0	0	0	0	0	0	150	339	250	6
-Iron Golem	Iron Golems	0	0	0	0	0	0	200	412	412	6
-Mage	Magi	0	0	0	0	0	0	350	418	570	4
-Arch Mage	Arch Magi	0	0	0	0	0	0	450	467	680	4
-Genie	Genies	0	0	0	0	0	0	550	680	884	3
-Master Genie	Master Genies	0	0	0	0	0	0	600	748	942	3
+Gremlin Mestre	Gremlins Mestres	0	0	0	0	0	0	40	55	66	16
+Gárgula de Pedra	Gárgulas de Pedra	0	0	0	0	0	0	130	150	165	9
+Gárgula de Obsidiana	Gárgulas de Obsidiana	0	0	0	0	0	0	160	155	201	9
+Golem de Pedra	Golens de Pedra	0	0	0	0	0	0	150	339	250	6
+Golem de Ferro	Golens de Ferro	0	0	0	0	0	0	200	412	412	6
+Mago	Magos	0	0	0	0	0	0	350	418	570	4
+Arcomago	Arcomagos	0	0	0	0	0	0	450	467	680	4
+Gênio	Gênios	0	0	0	0	0	0	550	680	884	3
+Gênio Mestre	Gênios Mestres	0	0	0	0	0	0	600	748	942	3
 Naga	Nagas	0	0	0	0	0	0	1100	2016	2016	2
-Naga Queen	Naga Queens	0	0	0	0	0	0	1600	2485	2840	2
-Giant	Giants	0	0	0	0	0	1	2000	3146	3718	1
-Titan	Titans	0	0	0	0	0	2	5000	5000	7500	1
+Naga Rainha	Nagas Rainhas	0	0	0	0	0	0	1600	2485	2840	2
+Gigante	Gigantes	0	0	0	0	0	1	2000	3146	3718	1
+Titã	Titãs	0	0	0	0	0	2	5000	5000	7500	1
                                    											
 											
 											
-Imp	Imps	0	0	0	0	0	0	50	50	50	15
-Familiar	Familiars	0	0	0	0	0	0	60	60	60	15
-Gog	Gogs	0	0	0	0	0	0	125	145	159	8
-Magog	Magogs	0	0	0	0	0	0	175	210	240	8
-Hell Hound	Hell Hounds	0	0	0	0	0	0	200	275	357	5
-Cerberus	Cerberi	0	0	0	0	0	0	250	308	392	5
-Demon	Demons	0	0	0	0	0	0	250	445	445	4
-Horned Demon	Horned Demons	0	0	0	0	0	0	270	480	480	4
-Pit Fiend	Pit Fiends	0	0	0	0	0	0	500	765	765	3
-Pit Lord	Pit Lords	0	0	0	0	0	0	700	1071	1224	3
-Efreeti	Efreet	0	0	0	0	0	0	900	1413	1670	2
-Efreet Sultan	Efreet Sultans	0	0	0	0	0	0	1100	1584	1848	2
-Devil	Devils	0	1	0	0	0	0	2700	3759	5101	1
-Arch Devil	Arch Devils	0	2	0	0	0	0	4500	5243	7115	1
+Diabrete	Diabretes	0	0	0	0	0	0	50	50	50	15
+Familiar	Familiares	0	0	0	0	0	0	60	60	60	15
+Gogue	Gogues	0	0	0	0	0	0	125	145	159	8
+Magogue	Magogues	0	0	0	0	0	0	175	210	240	8
+Cão Infernal	Cães Infernais	0	0	0	0	0	0	200	275	357	5
+Cerbero	Cerberos	0	0	0	0	0	0	250	308	392	5
+Demônio	Demônios	0	0	0	0	0	0	250	445	445	4
+Demônio Chifrudo	Demônios Chifrudos	0	0	0	0	0	0	270	480	480	4
+Atormentador	Atormentadores	0	0	0	0	0	0	500	765	765	3
+Lorde Atormentador	Lordes Atormentadores	0	0	0	0	0	0	700	1071	1224	3
+Efreet	Efreets	0	0	0	0	0	0	900	1413	1670	2
+Efreet Sultão	Efreets Sultões	0	0	0	0	0	0	1100	1584	1848	2
+Diabo	Diabos	0	1	0	0	0	0	2700	3759	5101	1
+Arcodiabo	Arcodiabos	0	2	0	0	0	0	4500	5243	7115	1
 											
 											
 											
-Skeleton	Skeletons	0	0	0	0	0	0	60	75	60	12
-Skeleton Warrior	Skeleton Warriors	0	0	0	0	0	0	70	85	85	12
-Walking Dead	Walking Dead	0	0	0	0	0	0	100	140	98	8
-Zombie	Zombies	0	0	0	0	0	0	125	160	128	8
-Wight	Wights	0	0	0	0	0	0	200	231	252	7
-Wraith	Wraiths	0	0	0	0	0	0	230	252	315	7
-Vampire	Vampires	0	0	0	0	0	0	360	518	555	4
-Vampire Lord	Vampire Lords	0	0	0	0	0	0	500	652	783	4
-Lich	Liches	0	0	0	0	0	0	550	742	848	3
-Power Lich	Power Liches	0	0	0	0	0	0	600	889	1079	3
-Black Knight	Black Knights	0	0	0	0	0	0	1200	1753	2087	2
-Dread Knight	Dread Knights	0	0	0	0	0	0	1500	2029	2382	2
-Bone Dragon	Bone Dragons	0	0	0	0	0	0	1800	2420	3388	1
-Ghost Dragon	Ghost Dragons	0	1	0	0	0	0	3000	3228	4696	1
+Esqueleto	Esqueletos	0	0	0	0	0	0	60	75	60	12
+Guerreiro Esqueleto	Guerreiros Esqueletos	0	0	0	0	0	0	70	85	85	12
+Morto-Vivo	Mortos-Vivos	0	0	0	0	0	0	100	140	98	8
+Zumbi	Zumbis	0	0	0	0	0	0	125	160	128	8
+Alma Penada	Almas Penadas	0	0	0	0	0	0	200	231	252	7
+Assombração	Assombrações	0	0	0	0	0	0	230	252	315	7
+Vampiro	Vampiros	0	0	0	0	0	0	360	518	555	4
+Vampiro Lorde	Vampiros Lordes	0	0	0	0	0	0	500	652	783	4
+Liche	Liches	0	0	0	0	0	0	550	742	848	3
+Liche Poderoso	Liches Poderosos	0	0	0	0	0	0	600	889	1079	3
+Cavaleiro Negro	Cavaleiros Negros	0	0	0	0	0	0	1200	1753	2087	2
+Cavaleiro Terrível	Cavaleiros Terríveis	0	0	0	0	0	0	1500	2029	2382	2
+Dragão de Ossos	Dragões de Ossos	0	0	0	0	0	0	1800	2420	3388	1
+Dragão Fantasma	Dragões Fantasmas	0	1	0	0	0	0	3000	3228	4696	1
 											
 											
 											
-Troglodyte	Troglodytes	0	0	0	0	0	0	50	73	59	14
-Infernal Troglodyte	Infernal Troglodytes	0	0	0	0	0	0	65	84	84	14
-Harpy	Harpies	0	0	0	0	0	0	130	140	154	8
-Harpy Hag	Harpy Hags	0	0	0	0	0	0	170	196	238	8
-Beholder	Beholders	0	0	0	0	0	0	250	240	336	7
-Evil Eye	Evil Eyes	0	0	0	0	0	0	280	245	367	7
+Troglodita	Trogloditas	0	0	0	0	0	0	50	73	59	14
+Troglodita Infernal	Trogloditas Infernais	0	0	0	0	0	0	65	84	84	14
+Harpia	Harpias	0	0	0	0	0	0	130	140	154	8
+Harpia Bruxa	Harpias Bruxas	0	0	0	0	0	0	170	196	238	8
+Observador	Observadores	0	0	0	0	0	0	250	240	336	7
+Mau Olhado	Maus Olhados	0	0	0	0	0	0	280	245	367	7
 Medusa	Medusas	0	0	0	0	0	0	300	379	517	4
-Medusa Queen	Medusa Queens	0	0	0	0	0	0	330	423	577	4
-Minotaur	Minotaurs	0	0	0	0	0	0	500	835	835	3
-Minotaur King	Minotaur Kings	0	0	0	0	0	0	575	890	1068	3
-Manticore	Manticores	0	0	0	0	0	0	850	1215	1547	2
-Scorpicore	Scorpicores	0	0	0	0	0	0	1050	1248	1589	2
-Red Dragon	Red Dragons	0	0	0	1	0	0	2500	3762	4702	1
-Black Dragon	Black Dragons	0	0	0	2	0	0	4000	6783	8721	1
+Medusa Rainha	Medusas Rainhas	0	0	0	0	0	0	330	423	577	4
+Minotauro	Minotauros	0	0	0	0	0	0	500	835	835	3
+Minotauro Rei	Minotauros Reis	0	0	0	0	0	0	575	890	1068	3
+Mantícora	Mantícoras	0	0	0	0	0	0	850	1215	1547	2
+Escorpicório	Escorpicórios	0	0	0	0	0	0	1050	1248	1589	2
+Dragão Vermelho	Dragões Vermelhos	0	0	0	1	0	0	2500	3762	4702	1
+Dragão Preto	Dragões Pretos	0	0	0	2	0	0	4000	6783	8721	1
 											
 											
 											
 Goblin	Goblins	0	0	0	0	0	0	40	60	60	15
 Hobgoblin	Hobgoblins	0	0	0	0	0	0	50	65	78	15
-Wolf Rider	Wolf Riders	0	0	0	0	0	0	100	130	130	9
-Wolf Raider	Wolf Raiders	0	0	0	0	0	0	140	174	203	9
+Goblin Montado	Goblins Montados	0	0	0	0	0	0	100	130	130	9
+Goblin Saqueador	Goblins Saqueadores	0	0	0	0	0	0	140	174	203	9
 Orc	Orcs	0	0	0	0	0	0	150	175	192	7
-Orc Chieftain	Orc Chieftains	0	0	0	0	0	0	165	200	240	7
-Ogre	Ogres	0	0	0	0	0	0	300	520	416	4
-Ogre Mage	Ogre Magi	0	0	0	0	0	0	400	672	672	4
+Orc Chefe	Orcs Chefes	0	0	0	0	0	0	165	200	240	7
+Ogro	Ogros	0	0	0	0	0	0	300	520	416	4
+Ogro Mago	Ogros Magos	0	0	0	0	0	0	400	672	672	4
 Roc	Rocs	0	0	0	0	0	0	600	790	1027	3
-Thunderbird	Thunderbirds	0	0	0	0	0	0	700	869	1106	3
-Cyclops	Cyclopes	0	0	0	0	0	0	750	1055	1266	2
-Cyclops King	Cyclops Kings	0	0	0	0	0	0	1100	1110	1443	2
-Behemoth	Behemoths	0	0	0	0	0	0	1500	3162	3162	1
-Ancient Behemoth	Ancient Behemoths	0	0	0	0	1	0	3000	5397	6168	1
+Passáro do Trovão	Pássaros do Trovão	0	0	0	0	0	0	700	869	1106	3
+Ciclope	Ciclopes	0	0	0	0	0	0	750	1055	1266	2
+Ciclope Rei	Ciclopes Reis	0	0	0	0	0	0	1100	1110	1443	2
+Beemote	Beemotes	0	0	0	0	0	0	1500	3162	3162	1
+Beemote Ancião	Beemotes Anciões	0	0	0	0	1	0	3000	5397	6168	1
 											
 											
 											
 Gnoll	Gnolls	0	0	0	0	0	0	50	70	56	12
-Gnoll Marauder	Gnoll Marauders	0	0	0	0	0	0	70	90	90	12
-Lizardman	Lizardmen	0	0	0	0	0	0	110	115	126	9
-Lizard Warrior	Lizard Warriors	0	0	0	0	0	0	140	130	156	9
+Gnoll Saqueador	Gnolls Saqueadores	0	0	0	0	0	0	70	90	90	12
+Homem Lagarto	Homens Lagartos	0	0	0	0	0	0	110	115	126	9
+Guerreiro Lagarto	Guerreiros Lagartos	0	0	0	0	0	0	140	130	156	9
 Gorgon	Gorgons	0	0	0	0	0	0	525	890	890	3
-Mighty Gorgon	Mighty Gorgons	0	0	0	0	0	0	600	1028	1028	3
-Serpent Fly	Serpent Flies	0	0	0	0	0	0	220	215	268	8
-Dragon Fly	Dragon Flies	0	0	0	0	0	0	240	250	312	8
-Basilisk	Basilisks	0	0	0	0	0	0	325	506	552	4
-Greater Basilisk	Greater Basilisks	0	0	0	0	0	0	400	561	714	4
+Gorgon Potente	Gorgons Potentes	0	0	0	0	0	0	600	1028	1028	3
+Cobra com Asas	Cobras com Asas	0	0	0	0	0	0	220	215	268	8
+Cobra Dragão	Cobras Dragões	0	0	0	0	0	0	240	250	312	8
+Basilisco	Basiliscos	0	0	0	0	0	0	325	506	552	4
+Grande Basilisco	Grandes Basiliscos	0	0	0	0	0	0	400	561	714	4
 Wyvern	Wyverns	0	0	0	0	0	0	800	1050	1350	2
-Wyvern Monarch	Wyvern Monarchs	0	0	0	0	0	0	1100	1181	1518	2
-Hydra	Hydras	0	0	0	0	0	0	2200	4120	4120	1
-Chaos Hydra	Chaos Hydras	0	0	0	1	0	0	3500	5272	5931	1
+Wyvern Monarca	Wyverns Monarcas	0	0	0	0	0	0	1100	1181	1518	2
+Hidra	Hidras	0	0	0	0	0	0	2200	4120	4120	1
+Hidra do Caos	Hidras do Caos	0	0	0	1	0	0	3500	5272	5931	1
 											
 											
 											
-Air Elemental	Air Elementals	0	0	0	0	0	0	250	324	356	6
-Earth Elemental	Earth Elementals	0	0	0	0	0	0	400	415	330	4
-Fire Elemental	Fire Elementals	0	0	0	0	0	0	350	345	345	5
-Water Elemental	Water Elementals	0	0	0	0	0	0	300	315	315	6
-Gold Golem	Gold Golems	0	0	0	0	0	0	500	600	600	3
-Diamond Golem	Diamond Golems	0	0	0	0	0	0	750	775	775	2
+Elemental de Ar	Elementais de Ar	0	0	0	0	0	0	250	324	356	6
+Elemental de Terra	Elementais de Terra	0	0	0	0	0	0	400	415	330	4
+Elemental de Fogo	Elementais de Fogo	0	0	0	0	0	0	350	345	345	5
+Elemental de Água	Elementais de Água	0	0	0	0	0	0	300	315	315	6
+Golem de Ouro	Golens de Ouro	0	0	0	0	0	0	500	600	600	3
+Golem de Diamante	Golens de Diamante	0	0	0	0	0	0	750	775	775	2
 											
 											
 											
-Pixie	Pixies	0	0	0	0	0	0	25	40	55	20
-Sprite	Sprites	0	0	0	0	0	0	30	70	95	20
-Psychic Elemental	Psychic Elementals	0	0	0	0	0	0	950	1431	1669	2
-Magic Elemental	Magic Elementals	0	0	0	0	0	0	1200	1724	2012	2
+Fadinha	Fadinhas	0	0	0	0	0	0	25	40	55	20
+Fada madrinha	Fadas Madrinhas	0	0	0	0	0	0	30	70	95	20
+Elemental Psíquico	Elementais Psíquicos	0	0	0	0	0	0	950	1431	1669	2
+Elemental de Mágica	Elementais de Mágica	0	0	0	0	0	0	1200	1724	2012	2
 NOT USED (1)	NOT USED (1)	0	0	0	0	0	0	0	0	0	0
-Ice Elemental	Ice Elementals	0	0	0	0	0	0	375	315	380	6
+Elemental de Gelo	Elementais de Gelo	0	0	0	0	0	0	375	315	380	6
 NOT USED (2) 	NOT USED (2)	0	0	0	0	0	0	0	0	0	0
-Magma Elemental	Magma Elementals	0	0	0	0	0	0	500	490	490	4
+Elemental de Magma	Elementais de Magma	0	0	0	0	0	0	500	490	490	4
 NOT USED (3)	NOT USED (3)	0	0	0	0	0	0	0	0	0	0
-Storm Elemental	Storm Elementals	0	0	0	0	0	0	275	324	486	6
+Elemental de Tempestade	Elementais de Tempestade	0	0	0	0	0	0	275	324	486	6
 NOT USED (4)	NOT USED (4)	0	0	0	0	0	0	0	0	0	0
-Energy Elemental	Energy Elementals	0	0	0	0	0	0	400	360	470	5
-Firebird	Firebirds	0	0	0	0	0	0	2000	3097	4336	1
-Phoenix	Phoenixes	0	1	0	0	0	0	3000	4929	6721	1
+Elemental de Energia	Elementais de Energia	0	0	0	0	0	0	400	360	470	5
+Pássaro de Fogo	Pássaros de Fogo	0	0	0	0	0	0	2000	3097	4336	1
+Fênix	Fênixes	0	1	0	0	0	0	3000	4929	6721	1
 											
 											
 											
-Azure Dragon	Azure Dragons	0	20	0	0	0	0	30000	56315	78845	1
-Crystal Dragon	Crystal Dragons	0	0	0	0	10	0	20000	30260	39338	1
-Faerie Dragon	Faerie Dragons	0	0	0	0	0	8	10000	16317	30501	1
-Rust Dragon	Rust Dragons	0	0	0	14	0	0	15000	24030	26433	1
-Enchanter	Enchanters	0	0	0	0	0	0	750	805	1210	2
-Sharpshooter	Sharpshooters	0	0	0	0	0	0	400	415	585	4
+Dragão Azul	Dragões Azuis	0	20	0	0	0	0	30000	56315	78845	1
+Dragão de Cristal	Dragões de Cristal	0	0	0	0	10	0	20000	30260	39338	1
+Dragão Fada	Dragões Fada	0	0	0	0	0	8	10000	16317	30501	1
+Dragão de Ferrugem	Dragões de Ferrugem	0	0	0	14	0	0	15000	24030	26433	1
+Encantador	Encantadores	0	0	0	0	0	0	750	805	1210	2
+Arqueiro Verde	Arqueiros Verdes	0	0	0	0	0	0	400	415	585	4
 Halfling	Halflings	0	0	0	0	0	0	40	60	75	15
-Peasant	Peasants	0	0	0	0	0	0	10	15	15	25
-Boar	Boars	0	0	0	0	0	0	150	145	145	8
-Mummy	Mummies	0	0	0	0	0	0	300	270	270	7
-Nomad	Nomads	0	0	0	0	0	0	200	285	345	7
-Rogue	Rogues	0	0	0	0	0	0	100	135	135	8
+Camponês	Camponeses	0	0	0	0	0	0	10	15	15	25
+Javali	Javalis	0	0	0	0	0	0	150	145	145	8
+Múmia	Múmias	0	0	0	0	0	0	300	270	270	7
+Nômade	Nômades	0	0	0	0	0	0	200	285	345	7
+Bandido	Bandidos	0	0	0	0	0	0	100	135	135	8
 Troll	Trolls	0	0	0	0	0	0	500	1024	1024	3
 											
 											
 											
-Catapult	Catapults	0	0	0	0	0	0	1	10	500	0
-Ballista	Ballistas	0	0	0	0	0	0	2500	650	600	0
-First Aid Tent	First Aid Tents	0	0	0	0	0	0	750	10	300	0
-Ammo Cart	Ammo Carts	0	0	0	0	0	0	1000	5	400	0
-Arrow Tower	Arrow Towers	0	0	0	0	0	0	1000	5	400	0
+Catapulta	Catapultas	0	0	0	0	0	0	1	10	500	0
+Balista	Balistas	0	0	0	0	0	0	2500	650	600	0
+Tenda Médica	Tendas Médicas	0	0	0	0	0	0	750	10	300	0
+Carrinho de Munição	Carrinhos de Munição	0	0	0	0	0	0	1000	5	400	0
+Torre de Defesa	Torres de Defesa	0	0	0	0	0	0	1000	5	400	0
 "
 Has FilS: "false"
 Vals count: "4"
@@ -13586,10 +13586,10 @@ Text 3: "horse20.wav"
 Text 4: "HIGHLANDS"
 Text 5: ""
 Text 6: ""
-Text 7: "Highlands
+Text 7: "Planalto
 &Highlands
 &Highland Objects
-up in the highlands"
+enterrado sob na vegetação que cresce no alto dos morros"
 Text 8: "# Step costs
 100 100 100 100
 "
@@ -13612,10 +13612,10 @@ Text 3: "horse20.wav"
 Text 4: "WASTELAND"
 Text 5: ""
 Text 6: ""
-Text 7: "Wasteland
+Text 7: "Deserto
 Wast&eland
 Wast&eland Objects
-in acrid badlands"
+debaixo do chão ressecado e castigado pelo Sol"
 Text 8: "# Step costs
 125 100 100 100
 "

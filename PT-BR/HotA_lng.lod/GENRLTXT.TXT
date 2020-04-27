@@ -1,123 +1,123 @@
 Miscellaneous and Unorganized Game Text		
 Can't add manager!		
-%s can gain no more experience in this scenario.		
-"{Level %d}
+%s não pode ganhar mais nenhuma experiência neste mapa.		
+"{Nível %d}
 
-{Next level:} %d
-{Current experience:} %d"		
-%d/day		
-or		
-%s has been vanquished!		
-%s, you have lost your last town.  If you do not conquer another town in the next week, you will be eliminated.		
-%s, your heroes abandon you, and you are banished from this land.		
-%s's heroes have abandoned him, and he is banished from this land.		
-Could not save game as "%s".		
-Error opening file %s!		
+{Próximo nível:} %d
+{Experiência atual:} %d"		
+%d/dia		
+ou		
+O jogador %s foi derrotado!		
+%s, você perdeu sua última cidade.  Se você não conseguir conquistar alguma cidade na próxima semana, você será eliminado.		
+%s, todos os seus heróis te abandonaram.  Você está banido desta terra.		
+Os heróis do jogador %s o abandonaram e ele está banido desta terra.		
+Não foi possível salvar o jogo como "%s".		
+Erro ao abrir o arquivo %s!		
 NEWGAME		
-Are you sure you want to dismiss this army?		
-%s's turn.		
-Error receiving data.  Keep trying?		
-%s the %s		
-Recruit		
-There is no room in the garrison for this army.		
-You already have %d adventuring heroes under your command.		
-This hero has no creatures.  A hero must have creatures before he can brave the dangers of the countryside.		
-Video Quality		
-This item can't be traded.		
-Are you sure you want to dismiss this Hero?		
-Select Spell Target		
-Invalid Teleport Destination		
-Teleport Here		
-Cast %s		
-Cast %s on %s		
-Are you sure you want to retreat?		
-You don't have enough gold!		
-You have captured an enemy artifact!		
-None		
-"%s states:
+Você tem certeza de que quer demitir esta tropa?		
+Vez do jogador %s.		
+Erro ao receber dados.  Continuar tentando?		
+%s (%s)		
+Recrutar		
+Não há espaço para recrutar esta tropa.		
+Você já tem %d heróis aventureiros sob o seu comando.		
+Este herói não tem criaturas.  Um herói deve ter criaturas antes que possa desbravar os perigos que há neste mundo a fora.		
+Qualidade do vídeo		
+Este item não pode ser dado.		
+Você tem certeza de que quer demitir este herói?		
+Selecione o alvo do feitiço		
+Destino inválido para teleporte		
+Teleportar para cá		
+Conjurar %s		
+Conjurar %s em %s		
+Você tem certeza de que quer fugir?		
+Você não tem ouro o suficiente!		
+Você capturou um artefato inimigo!		
+Nenhum		
+"%s disse:
 
-""I will accept your surrender and grant you and your troops safe passage for the price of %d gold."""		
-High morale enables the %s to attack again.		
-Low morale causes the %s to freeze in panic.		
-Make room for the %s in your army		
-Attack %s (damage: %s)		
-Shoot %s (1 shot left, damage: %s)		
-Campaign Description:		
-%s is active.		
-Session Name		
-User Name		
-creature		
-creatures		
-Bad luck descends on the %s		
-Good luck shines on the %s		
-Treasure		
-%s's %s is under attack!		
-Town		
-Hero		
+""Eu aceitarei vossa rendição e concederei a você e suas tropas, uma passagem segura pelo preço de %d ouros."""		
+A alta moral permitiu ao(à)(s) %s atacar mais uma vez.		
+A baixa moral fez com que o(a)(s) %s travassem em pânico.		
+Arrume espaço para colocar %s no seu exército		
+Atacar %s (dano: %s)		
+Atirar em %s (1 tiro restante, dano: %s)		
+Descrição da campanha:		
+%s está ativo.		
+Nome da sessão		
+Nome do usuário		
+criatura		
+criaturas		
+A má sorte sobreveio sobre o(a)(s) %s		
+A boá sorte brilhou sobre o(a)(s) %s		
+Tesouro		
+O jogador %s está com a cidade de %s sob ataque inimigo!		
+Cidade		
+Herói		
 Town Screen		
-Cannot build another boat		
-Requires:		
-<SYSTEM>:		
-"{World Map}
+Não dá para construir mais um navio		
+Precisa de:		
+<SISTEMA>:		
+"{Mapa do mundo}
 
-This is a zoomed out view of the world.  Clicking anywhere in this window will center the adventure map on that location, or you can drag the outline box to scroll the adventure map."		
-One or more heroes may still move, are you sure you want to end your turn?		
-Digging for artifacts requires a whole day, try again tomorrow.		
-Your hero has no room to carry another artifact!		
-Congratulations! After spending many hours digging here, your hero has uncovered the 		
-"Nothing here.
-Where could it be?"		
-Try looking on land!		
-Uncharted Territory		
-Month		
-Week		
-Day		
-Right click on any enemy to view them.		
+Esta é uma visão mais afastada do mundo.  Clicar em qualquer lugar nesta janela centralizará o mapa em tal local, ou então você pode arrastar o retângulo pontilhado para visualizar a parte correspodente ao mapa."		
+Um ou mais dentre os seus heróis ainda pode se mover, você tem certeza de que quer passar a vez?		
+Para escavar artefatos, é necessário trabalhar o dia todo.  Tente novamente amanhã.		
+O seu herói não tem espaço para carregar mais um artefato!		
+Parabéns! Depois de passar muitas horas cavando aqui, seu herói desenterrou o 		
+"Nada aqui.
+Onde será que pode estar?"		
+Tente fazer isso em terra firme!		
+Território desconhecido		
+Mês		
+Semana		
+Dia		
+Clique com o botão direito num inimigo para visualizá-lo.		
 ping=%dms		
-"Are you sure you want to restart?
-(Your current game will be lost)"		
-"Are you sure you want to load a new game?
-(Your current game will be lost)"		
-Are you sure you want to quit?		
-You can't teleport with a Dimension Door from sea to land or vice versa.		
-Choose a bonus:		
+"Você tem certeza de que quer reiniciar?
+(O seu jogo atual será perdido)"		
+"Você tem certeza de que quer carregar um jogo salvo?
+(O seu jogo atual será perdido)"		
+Você tem certeza de que quer sair?		
+Você não pode se teleportar com um portal dimensional do mar para terra ou da terra para o mar.		
+Escolha um bônus:		
 ping		
-pinging %s...		
-pinging everyone...		
-Score		
+pingando %s...		
+pingando todo mundo...		
+Pontos		
 AUTOSAVE		
-{Starting Hero}		
-{Hero Specialty}		
-{Associated Creatures}		
-{Town Alignment}		
-Error sending data.  Keep trying??		
-You must have at least 2 players to launch a multi-player game.  Check your advanced options or select a new map.		
-{Artifact Bonus}		
-{Gold Bonus}		
-{Resource Bonus}		
-{Random Bonus}		
-500-1000		
-The Armageddon does %d damage.		
-5-10 wood / 5-10 ore		
-An artifact is randomly chosen and equipped to your starting hero		
-The disrupting ray reduces defense by %d.		
-At the start of the game, 500-1000 gold is added to your Kingdom's resource pool		
-At the start of the game, 5-10 wood and 5-10 ore are added to your Kingdom's resource pool		
-Gold, wood and ore, or an artifact is randomly chosen as your starting bonus		
-You have been eliminated from the game!		
-"Congratulations!
-Your score will be entered into the Hall of Fame
+{Herói inicial}		
+{Especialidade}		
+{Criaturas associadas}		
+{Facção}		
+Erro ao enviar dados.  Continuar tentando?		
+Você tem que tem pelo menos 2 jogadores para iniciar um jogo de múltiplos jogadores.  Verifique as suas opções avançadas ou escolha um outro mapa.		
+{Bônus de artefato}		
+{Bônus de ouro}		
+{Bônus de recursos}		
+{Bônus aleatório}		
+500-1000 ouros		
+O armagedom causou %d pontos de dano.		
+5-10 madeira e 5-10 pedra		
+Um artefato é escolhido aleatoriamente e equipado ao seu herói inicial.		
+O raio perturbador reduz a defesa em %d pontos.		
+No começo do jogo, 500-1000 ouros são adicionados aos recursos do seu reino.		
+No começo do jogo, 5-10 madeiras e 5-10 pedras são adicionados aos recursos do seu reino.		
+Ouro, madeira e pedra, ou um artefato é escolhido aleatoriamente como seu bônus inicial.		
+Você foi eliminado do jogo!		
+"Parabéns!
+A sua pontuação será gravada na galeria do famosos.
 
-Please enter your name."		
-Try searching on clear ground.		
-Sending Data		
-Receiving Data		
+Por favor, digite o seu nome."		
+Tente procurar num terreno limpo.		
+Enviando dados		
+Recebendo dados		
 Chaos.mp2		
-{Random Hero}		
-A starting hero is randomly chosen, from those classes associated with the displayed Starting Town		
-{Random Town}		
-Your starting town is randomly chosen		
-%s surrenders, and gains safe passage for %d gold.		
+{Herói aleatório}		
+Um herói inicial é escolhido aleatoriamente dentre as classes de heróis associadas à facção inicial escolhida.		
+{Facção aleatória}		
+Sua facção inicial é escolhida aleatoriamente.		
+%s se rende e consegue uma passagem segura por %d ouros.		
 "The Heroes III: %s CD-ROM was not found!
 
 %s requires a CD for Single Scenario Games, Campaign Games, and hosting Multi-player Games.  
@@ -125,60 +125,60 @@ Your starting town is randomly chosen
 If you wish to join a Multi-player Game hosted by another player, a CD is not required, and you may proceed.
 
 If you wish to play a Single Scenario or a Campaign, please quit and insert the %s CD, before re-running %s."		
-Autosaving...		
+Salvando...		
 PLYREXIT		
 "{Status Window}
 
 This window provides information on the status of your hero or kingdom, and shows the date.  Left click here to cycle through these windows."		
 Border		
-The %s absorbs %d mana from the spell.		
-The %s absorb %d mana from the spell.		
+O(a) %s absorve %d pontos de magia do feitiço.		
+Os(as) %s absorvem %d pontos de magia do feitiço.		
 Unable to change to the Heroes III directory.  Please run the installation program.		
 Unable to find the Heroes III data files.  Please run the installation program.		
-"My heroes, our foes have been scattered, their castles broken and laid bare.  The great campaign is now complete, and I stand before you as the undisputed High King!
+"Meus heróis, nossos inimigos foram afastados e seus castelos foram abandonados.  A grande campanha agora está completa e eu permaneço inconteste perante vocês como o Alto Rei!
 
-Our victory was achieved in %d days!"		
-%d %s rise from the dead!		
-%d %s rises from the dead!		
-One %s dies under the terrible gaze of the %s.		
-%d %s die under the terrible gaze of the %s.		
-"The %s takes a defensive stance,
-and gains +%d defense skill"		
-"The %s take a defensive stance,
-and gain +%d defense skill"		
+Nossa vitória foi alcançada em %d dias!"		
+%d %s levanta dos mortos!		
+%d %s levantam dos mortos!		
+1 %s morre sob o terrível bafo do %s.		
+%d %s morrem sob o terrível bafo do %s.		
+"Os(as) %s tomam uma postura defensiva
+e ganham +%d pontos de defesa."		
+"O(a) %s tomam uma postura defensiva
+e ganham +%d pontos de defesa."		
 %s exp		
-Nearest town occupied.  Spell Failed!		
-No available town.  Spell Failed!		
-Your hero is too tired to cast this spell today.  Try again tomorrow.		
-Only visiting heroes may use the Town Gate.		
-You have no hero to cast a spell.		
-Your hero has already cast a spell this round.		
-Do you wish to save %s's army for a cost of %d gold?		
+A cidade mais próxima está ocupada.  O feitiço falhou!		
+Nenhum cidade disponível.  O feitiço falhou!		
+O seu herói está muito cansado para conjurar este feitiço hoje.  Tente novamente amanhã.		
+Apenas heróis visitantes podem usar o portão da cidade.		
+Você não tem herói para conjurar um feitiço.		
+Seu herói já conjurou um feitiço nesta rodada.		
+Você quer salvar o exército de %s por um custo de %d ouros?		
 Unable to initialize input devices - possible problem with mouse or keyboard.		
 Unable to initialize sound.		
 Unable to initialize mouse.		
 Unable to initialize windows - possible memory or disk error.		
-%s encounters an abandoned shipyard.  Unfortunately the Ways are blocked, and it is not possible to build ships here.		
-Spell Failed!  Your hero must be on land to cast this spell.		
-The %s pauses, and waits for a better time to act.		
-The %s pause, and wait for a better time to act.		
-%s, Level %d %s		
-%s, who has studied magic extensively, 		
-learns 		
- and 		
- from %s		
-resist		
-resists		
-Practicing the dark arts of necromancy, your hero is able to raise %d of the enemy's dead to return under their service as %s.		
-Practicing the dark arts of necromancy, your hero is able to raise one of the enemy's dead to return under their service as a %s.		
-teaches 		
- to %s		
-"{Spell Points}
+%s encontrou um estaleiro abandonado.  Infelizmente, as saídas estão bloqueadas e não é possível construir navios aqui.		
+O feitiço falhou!  O seu herói tem que estar em terra firme para conjurar este feitiço.		
+Os(as) %s param e esperam por uma melhor hora para agir.		
+O(a) %s para e espera por uma melhor hora para agir.		
+%s, nível %d %s		
+%s, que estudou muita mágica, 		
+aprendeu 		
+ e 		
+ de %s		
+resiste		
+resistem		
+Praticando as sombrias artes da necromancia, o seu herói conseguiu levantar %d criaturas dentre os mortos do inimigo e trazê-las sob as suas ordens como %s.		
+Praticando as sombrias artes da necromancia, o seu herói conseguiu levantar uma criatura dentre os mortos do inimigo e trazê-la sob as suas ordens como um %s.		
+ensinou 		
+ para %s		
+"{Pontos de Magia}
 
-Spell points are required to cast spells. The maximum number of spell points is 10 times your Knowledge.  It is occasionally possible to have more than your maximum spell points from special events or locations."		
+Pontos de magia são necessários para conjurar feitiços.  O número máximo de pontos de magia é 10 vezes o seu conhecimento.  Ocasionalmente, é possível ter mais do que o seu número máximo de pontos de magia a partir de locais ou eventos especiais."		
 Digital sound is not currently available on this system.		
 Artillery machine		
-Your backpack is full.		
+A sua bagagem está cheia.		
 Alas, your backpack cannot hold something as large as a %s.		
 "
 
@@ -187,239 +187,239 @@ The %s is destroyed."
 
 The %s has an attack skill of %d and does %d-%d damage."		
 View arrow tower info.		
-I can offer you %d %s of %s for %d %s of %s.		
-Marketplace		
+Eu posso trocar %d %s de %s por %d %s de %s.		
+Mercado		
 Trading Post		
-units		
-unit		
-You have received quite a bargain.  I expect to make no profit on the deal.  Can I interest you in any of my other wares?		
-Please inspect our fine wares.  If you feel like offering a trade, click on the items you wish to trade with and for.		
+unidades		
+unidade		
+Você conseguiu uma bela barganha!  Eu nem vou ter lucro com esse negócio, foi uma pechincha a preço de custo.  Você tem interesse em algum dos meus outros produtos?		
+Por favor, dê uma olhada nos nossos produtos. Se você estiver a fim de fazer negócio, clique no item que deseja comprar e no recurso que usará para pagar por ele.		
 n/a		
-I can give %s to the %s player.		
-Are there any other resources you'd like to give away?		
-If you'd like to give any of your resources to another player, click on the item you wish to give and to whom.		
-Available for Trade		
-Players		
-%s protects the %s		
-%s can only be cast on hostile creatures		
-1st lev		
-2nd lev		
-3rd lev		
-4th lev		
-5th lev		
-%s can only be cast on friendly creatures		
-"Enter the host IP address.
-(i.e. 220.415.119.223)"		
-%s does not work on %s		
-%s are immune to %s		
-No room to place %s here		
-An earthquake will do you no good unless there are town walls to damage.		
-Your hero already has %d creatures groups in combat and cannot accommodate any more.		
-"Attack
-Defense
-Power
-Know."		
-That spell will affect no one!		
-"The %s spell does %d damage
-to all undead creatures."		
-"The Death spell does %d damage
-to all living creatures."		
-Mirror Image spell failed!		
-The %s %s the spell!		
-Attack		
-Defense		
-The flight spell is not powerful enough to affect a boat.		
-Speed		
-Growth		
-%s casts '%s' on the %s.		
-%s casts '%s'.		
-%s player		
-Shots		
-Damage		
-Health Left		
-Your time has expired.  Moving on to next turn.		
-Guarded by		
+Você está dando %s ao jogador %s.		
+Você tem algum recurso que você gostaria de dar para algum outro jogador?		
+Se você gostaria de dar alguns de seus recursos para outro jogador, clique no item que você quer dar e na bandeira do destinatário.		
+O que você quer negociar?		
+Jogadores		
+%s protege o(a)(s) %s		
+O feitiço de %s só pode ser conjurado em criaturas hostis.		
+Nível 1		
+Nível 2		
+Nível 3		
+Nível 4		
+Nível 5		
+O feitiço de %s só pode ser conjurado em criaturas amigas.		
+"Informe o endereço IP do host.
+(por exemplo, 220.415.119.223)"		
+%s não funciona em %s		
+%s são imunes a %s		
+Não há espaço para colocar %s aqui		
+Um terremoto não faria a você nada de bom a menos que houvesse muralhas a destruir na cidade.		
+O seu herói já tem %d grupos de criaturas groups em combate e não pode acomodar nenhuma mais.		
+"Ataque
+Defesa
+Poder
+Conhec."		
+Este feitiço não faria efeito em ninguém!		
+"O feitiço %s causa %d pontos de dano
+para todas as criaturas mortas."		
+"O feitiço da morte causa %d pontos de dano
+para todas as criaturas vivas."		
+O feitiço de imagem no espelho falhou!		
+O(a)(s) %s %s ao feitiço!		
+Ataque		
+Defesa		
+O feitiço de voar não é forte o suficiente para levitar um navio.		
+Velocidade		
+Crescimento		
+%s conjurou '%s' no(a)(s) %s.		
+%s conjurou '%s'.		
+jogador %s		
+Tiros		
+Dano		
+Vitalidade restante		
+O seu tempo acabou.  Prosseguindo à próxima rodada.		
+guardada por		
 "
-Your hero has learned %s %s."		
+O seu herói aprendeu %s %s."		
 "
-Your hero may learn either %s %s or %s %s."		
-"{Spell Points}
+O seu herói pode aprender %s %s ou %s %s."		
+"{Pontos de magia}
 
-%s currently has %d spell points out of a maximum of %d.  The maximum number of spell points is 10 times your Knowledge.  It is occasionally possible to have more than your maximum spell points from special events or locations."		
-That spell costs %d spell points.  Your hero only has %d spell points, and therefore can't cast the spell.		
-In order to properly train your troops, you will have to spend some gold. Do you still wish them to be upgraded?		
-%s has found the most obelisks.		
-%s has found the most artifacts.		
-%s has the most powerful forces.		
-%s earns the most gold.		
-The ultimate artifact may be found %s.		
-To cast spells, your hero must first buy a spell book for 500 gold.  Unfortunately, you seem to be a little short of cash at the moment.		
-To cast spells, your hero must first buy a spell book for 500 gold.  Do you wish to buy one?		
-"%s is a level %d %s
-with %d artifacts."		
-"After a generous tip, the barkeep whispers:
+%s tem no momento %d pontos de magia de um máximo de %d.  O número máximo de pontos de magia é 10 vezes o seu conhecimento.  Ocasionalmente, é possível ter mais do que o seu número máximo de pontos de magia a partir de locais ou eventos especiais."		
+Esse feitiço custa %d pontos de magia, mas o seu herói tem apenas %d.  Logo, não dá para conjurar isso.		
+Para poder treinar adequadamente as suas tropas, você terá que gastar algum ouro. Você ainda quer que elas sejam melhoradas?		
+O jogador %s encontrou o maior número de obeliscos.		
+O jogador %s tem o maior número de artefatos.		
+O jogador %s tem os exércitos mais poderosos.		
+O jogador %s é quem ganha mais ouro.		
+O artefato supremo pode ser encontrado %s.		
+Para conjurar feitiços, o seu herói precisa primeiro comprar um livro de magia por 500 ouros.  Infelizmente, parece que você está um pouco sem grana neste momento.		
+Para conjurar feitiços, o seu herói precisa primeiro comprar um livro de magia por 500 ouros.  Você quer comprar um?		
+"%s está no nível %d. É um %s
+e tem %d artefatos."		
+"Depois de uma generosa gorjeta, o atendente sussura:
 %s"		
-Available: 		
+Disponíveis: 		
 Rating		
-All prerequisites for this building have been met.		
-Attack %s		
-Through eagle-eyed observation, %s is able to learn %s		
-Out of memory.		
-Cannot build.  Already built here this turn.		
-Lose the %s '%s'.		
-Lose the hero '%s'.		
-Fail to win by month %d, week %d, day %d.		
-Lose all your heroes and towns.		
-Capture the %s '%s'.		
-Defeat the hero '%s'.		
-Find the Grail.		
-Find the %s.		
-Accumulate %d %s.		
-  You may also defeat all heroes and towns.		
-Defeat all enemy heroes and capture all enemy towns.		
-You and your allies 		
-You and your ally 		
-, and 		
-You		
-the enemy alliance of 		
-the enemy - 		
-"{Experience}
+Todos os prerequisitos pra esta construção já foram atingidos.		
+Atacar %s		
+Com o seu olho de águia, %s conseguiu observar com precisão e aprender o feitiço de %s.		
+Memória insuficiente.		
+Não dá para construir.  Você já construiu alguma coisa aqui nesta rodada.		
+Perder o(a) %s '%s'.		
+Perder o herói '%s'.		
+Não conseguir vencer até o mês %d, semana %d e dia %d.		
+Perder todos os seus heróis e cidades.		
+Capturar o(a) %s '%s'.		
+Derrotar o herói '%s'.		
+Encontrar o Graal.		
+Encontrar o %s.		
+Acumular %d %s.		
+  Você também pode derrotar todos os heróis e cidades.		
+Derrotar todos os heróis inimigos e capturar todas as cidades inimigas.		
+Você e seus aliados 		
+Você e seu aliado 		
+, e 		
+Você		
+a aliança inimiga de 		
+o inimigo - 		
+"{Experiência}
 
-Experience allows your heroes to go up levels, increasing their primary and secondary skills."		
-"{Resources}
+A experiência permite aos seus heróis subirem de nível, aumentando as suas habilidades primárias e secundárias."		
+"{Recursos}
 
-There are seven resources in Heroes III, used to build and improve castles, purchase troops and recruit heroes.  Gold is the most common, required for virtually everything.  Wood and ore are used for most buildings.  Gems, Mercury, Sulfur and Crystal are rare magical resources used for the most powerful creatures and buildings."		
-The creatures are willing to join us!		
-"All the creatures will join us...
+Existem sete tipos de recursos no Heroes III usados para construir e melhorar cidades, recrutar tropas e recrutar heróis.  Ouro é o mais comum, necessário para praticamente tudo.  Madeira e pedra são usados na maioria das construções.  Gemas, mercúrio, enxofre e cristaias são recursos mágicos raros usados pelas criaturas e construções mais poderosas."		
+As criaturas querem se juntar a nós!		
+"Todas as criaturas vão se juntar a nós...
 
-for a fee of %d gold."		
-These weak creatures will surely flee before us.		
-I fear these creatures are in the mood for a fight.		
+Por uma quantia de %d ouros."		
+Estas fracas criaturas certamente correrão de nós.		
+Eu temo que essas criaturas estão a fim de uma briga.		
 Searching for the Grail is fruitless.  Your hero could not carry it even if he found it - all his artifact slots are full.		
 Unable to access CD-ROM Drive.  Without a CD-ROM drive and a Heroes 2 CD-ROM you will only be able to play as the guest in a multi-player game.		
-Congratulations! You captured %s, and are victorious!		
-The enemy has captured %s, and claims victory!		
-The town of %s has fallen - all is lost!		
-Congratulations! You have completed your quest to defeat the enemy hero %s. Victory is yours!		
-The hero, %s, has suffered defeat - your quest is over!		
-Alas, time has run out on your quest. All is lost.		
-Daily Income		
-Split %s		
-Cancel		
-Artifacts		
-Equipped		
-Cheater!!!		
-Miscellaneous		
-In Backpack		
-The Grail may be found in the %s regions of the world.		
-The Grail may be found in the %s regions of the underworld.		
-"Creature
-Bonuses"		
-"Creatures
-Available"		
-I can offer you the %s for %d %s of %s.		
-I can offer you %d %s of %s for your %s.		
-I can offer you %d %s of %s for %d %s.		
-Kingdom Resources		
-%s's Artifacts		
-%s's Creatures		
-Only visiting heroes may use the %s.		
-Build a new %s		
-There is not enough room in the garrison.		
-Congratulations! You have over %d %s in your armies. Your enemies have no choice but to bow down before your power!		
-The enemy has gathered over %d %s. You have no choice but to admit defeat!		
-Congratulations! You have collected over %d %s in your treasury. Victory is yours!		
-The enemy has collected over %d %s. Victory is theirs!		
-Congratulations! You have found the %s, and can claim victory!		
-The enemy has found the %s, and can claim victory!		
-Congratulations! You have successfully upgraded your town, and can claim victory!		
-By upgrading their town, the enemy has claimed victory!		
-Congratulations! You have constructed a permanent home for the Grail, and can claim victory!		
-The enemy has constructed a permanent home for the Grail, and claims victory!		
-Congratulations! You have completed your quest to kill the fearsome beast, and can claim victory!		
-The enemy has beaten you to your quest to kill the fearsome beast, and claims victory!		
-Congratulations! Your flag flies on the dwelling of every creature. Victory is yours!		
-The enemy's flag flies on the dwelling of every creature. Victory is theirs!		
-Congratulations! Your flag flies on every mine. Victory is yours!		
-The enemy's flag flies on every mine. Victory is theirs!		
-Congratulations! You have reached your destination, precious cargo intact, and can claim victory!		
-The enemy has delivered the precious cargo intact and claims victory!		
-Move %s here.		
-Fly %s here.		
-Shoot %s (%d shots left, damage: %s)		
+Parabéns! Você capturou %s e a vitória é sua!		
+O inimigo capturou %s e clama a vitória!		
+A cidade de %s caiu - agora tudo está perdido!		
+Parabéns! Você completou sua jornada de derrotar o herói inimigo %s. A vitória é sua!		
+Infelizmente %s sofreu uma derrota - sua jornada encerra aqui!		
+Droga, o tempo para a sua jornada acabou. Agora tudo está perdido.		
+Receita diária		
+Dividir %s		
+Cancelar		
+Artefatos		
+Equipados		
+Trapaceiro!!!		
+Diversos		
+Bagagem		
+O tesouro pode ser encontrado nas regiões %s da superfície.		
+O tesouro pode ser encontrado nas regiões %s do submundo.		
+"Cresc. de
+criaturas"		
+"Criaturas
+disponíveis"		
+Eu posso te vender o %s por %d %s de %s.		
+Eu posso te oferecer %d %s de %s pelo seu %s.		
+Eu posso te oferecer %d %s de %s por %d %s.		
+Recursos do reino		
+Artefatos de %s		
+Criaturas de %s		
+Apenas heróis visitantes podem usar o %s.		
+Construir %s		
+Não há espaço para todas as tropas tornarem-se residentes na cidade.		
+Parabéns! Você coletou mais de %d %s em seu exército. Seus inimigos não têm escolha que não seja ajoelharem-se perante seu poder!		
+O inimigo coletou mais de %d %s. Você não tem escolha que não seja admitir a derrota!		
+Parabéns! Você coletou mais de %d %s em seu tesouro. A vitória é sua!		
+O inimigo coletou mais de %d %s. A vitória é dele!		
+Parabéns! Você achou o %s e já pode clamar pela vitória!		
+O inimigo achou o %s e clama pela vitória!		
+Parabéns! Você conseguiu com sucesso melhorar a sua cidade e já pode clamar pela vitória!		
+Ao melhorar a cidade dele, o inimigo clama pela vitória!		
+Parabéns! Você construiu um lar permanente para o Graal e já pode clamar pela vitória!		
+O inimigo construiu um lar permanente para o Graal e clama pela vitória!		
+Parabéns! Você concluiu sua jornada em matar a besta tenebrosa e já pode clamar pela vitória!		
+O inimigo derrotou você em sua jornada de matar a besta tenebrosa e clama pela vitória!		
+Parabéns! A sua bandeira está hasteada na habitação de todas as criaturas. A vitória é sua!		
+A bandeira do inimigo está hasteada na habitação de todas as criaturas. A vitória é dele!		
+Parabéns! YA sua bandeira está hasteada em todas as minas. A vitória é sua!		
+A bandeira do inimigo está hasteada em todas as minas. A vitória é dele!		
+Parabéns! Você chegou ao seu destino e sua preciosa carga está intacta e já pode clamar pela vitória!		
+O inimigo entregou a sua preciosa carga ao seu destino intacta e clama pela vitória!		
+Mover %s para cá.		
+Voar %s para cá.		
+Atirar em %s (%d tiros restantes, dano: %s)		
 View %s info.		
-No shots left!		
-Resurrect the %s		
+Acabou a munição!		
+Ressuscitar o(a)(s) %s		
 Summon demons from the %s		
-Cast a spell on %s		
-The enemy has surrendered!		
-The enemy has fled!		
-A glorious victory!		
+Conjurar um feitiço em %s		
+O inimigo se rendeu!		
+O inimigo fugiu!		
+Uma gloriosa vitória!		
 "
 
-For valor in combat, %s receives %d experience"		
-%s surrenders to the enemy, and departs in shame.		
-The cowardly %s flees from battle.		
-Your forces suffer a bitter defeat, and %s abandons your cause.		
-Your forces surrender to the enemy, and depart in shame.		
-Your cowardly forces flee from battle.		
-Your forces suffer a bitter defeat.		
-The Catapult must be equipped.		
-This creature cannot be upgraded here.		
-You cannot afford to upgrade this creature.		
-All creatures are already upgraded.		
-You cannot afford to upgrade all creatures.		
+Pelo valor em combate, %s recebe %d pontos de experiência."		
+%s se rende ao inimigo e parte em vergonha.		
+%s foi covarde e fugiu da batalha.		
+Suas forças sofreram uma amarga derrota e %s abandonou a sua causa.		
+Suas forças se rendem ao inimigo e partem em vergonha.		
+Suas forças covardemente fogem da batalha.		
+Suas forças sofrem uma terrível derrota.		
+A catapulta deve estar sempre equipada.		
+Esta criatura não pode ser melhorada aqui.		
+Você não tem como pagar a melhoria desta criatura.		
+Todas as suas criaturas já estão melhoradas.		
+Você não tem como pagar a melhoria de todas as criaturas.		
 castle		
-Upgrade %s.		
-Build the Grail building in %s.		
-Build the Grail in any town.		
+Melhorar %s.		
+Construa o Graal na cidade de %s.		
+Construa o Graal em qualquer cidade.		
 Defeat the %s in the %s region of the world.		
-Accumulate %d %s in your kingdom's armies.		
-Flag all creature dwellings.		
-Flag all mines.		
-Transport the %s to %s.		
-There is not enough room in your backpack.		
-Waiting for other players....		
-Sorry, your connection was lost.		
-You can't afford to purchase a boat.		
-(digging ok)		
-Someone is cheating!		
+Acumular %d %s nos exércitos de seu reino.		
+Hastear sua bandeira em todas as habitções de criaturas.		
+Hastear sua bandeira em todas as minas.		
+Transportar o %s até %s.		
+Não há espaço o suficiente na sua bagagem.		
+Esperando pelos outros jogadores....		
+Desculpe, a sua conexão foi perdida.		
+Você não tem dinheiro para comprar um navio.		
+(cavar ok)		
+Alguém está trapaceando!		
 Someone has their debug level set!		
-%s is already in a boat.		
-There is no place to put the boat.		
-There are no boats to summon.		
-%s tried to summon a boat, but failed.		
-%s tried to scuttle the boat, but failed.		
-%s is not skilled enough to cast this spell again today.		
-%s, Level %d		
-The Shackles of War are present.  %s can not retreat!		
-The Shackles of War are present.  %s can not surrender!		
-Level %d %s		
+%s já está num navio.		
+Não há espaço para colocar o navio.		
+Não há navios para serem chamados.		
+%s tentou chamar um navio, mas falhou.		
+%s tentou afundar o navio, mas falhou.		
+%s não tem habilidade o suficiente para conjurar este feitiço novamente hoje.		
+%s, nível %d		
+As algemas da guerra estão presentes.  %s não pode fugir!		
+As algemas da guerra estão presentes.  %s não pode se render!		
+Nível %d %s		
 "
-Does %d points of damage."		
-Free		
+Causa %d pontos de dano."		
+Gratuito		
 N/A		
-Cost Per Troop		
+Custo unitário		
 %s the Seer		
- (Seeks %s)		
-Black Market		
-%s saved successfully.		
-It's %s's turn.		
-(Visited)		
-(Not visited)		
-(Already learned)		
-(Learn %s)		
-(Learn %s)		
-(Already learned)		
-%s sends you a gift		
-%s would appreciate a gift of %s		
-%s would appreciate any of these resources.		
+ (Busca %s)		
+Mercado negro		
+%s foi salvo com sucesso.		
+É a vez do %s.		
+(Visitado)		
+(Não visitado)		
+(Já aprendeu)		
+(Aprender %s)		
+(prender %s)		
+(Já aprendeu)		
+%s te mandou um presente.		
+%s gostaria muito de receber um presente de %s.		
+%s gostaria muito de qualquer um desses recursos.		
 The %s drains %d life from the %s.		
 The %s drain %d life from the %s.		
 "
- and one rises from the dead."		
+ e um levanta dentre os mortos."		
 "
- and %d rise from the dead."		
+ e %d levantam dentre os mortos."		
 The %s does double damage!		
 The %s do double damage!		
 A bolt of lightning strikes the %s!		
@@ -432,192 +432,192 @@ The wounds of the %s close, and they are whole again.
 In the Tactics Phase, a hero with superior Tactics skill may arrange his armies before combat begins."		
 The %s drains spell points from %s!		
 The %s drain spell points from %s!		
-arrow tower		
-The %s does %d damage.		
-The %s do %d damage.		
+torre de defesa		
+Os(as) %s causaram %d pontos de dano.		
+O(a) %s causou %d pontos de dano.		
 "
-One %s perishes."		
+1 %s pereceu."		
 "
-%d %s perish."		
-Att		
-Def		
-Pwr		
-Know		
-Morale		
-Luck		
-Dmg		
-Spell Points		
-Health		
-Health		
-Allies		
-Enemies		
-Combat Options		
-Animation Speed		
-Music Volume		
-Effects Volume		
-Auto-Combat Options		
-Creature Info		
-Creatures		
-Spells		  
-Catapult		  
-First Aid Tent		
-All Statistics		
-Spells Only		
-View Hex Grid		
-Movement Shadow		
-Cursor Shadow		
-Battlefield Casualties		
-Attacker		
-Defender		
-Victorious		
-Defeated		
-Next round begins.		
-"%s feels that the odds are overwhelming.
+%d %s pereceram."		
+Ataque		
+Defesa		
+Poder		
+Conhec.		
+Moral		
+Sorte		
+Dano		
+Pontos de magia		
+Vitalidade		
+Vitalidade		
+Aliados		
+Inimigos		
+Opções de combate		
+Velocidade da animação		
+Música		
+Efeitos sonoros		
+Opções de autocombate		
+Dados da criatura		
+Criaturas		
+Feitiços		  
+Catapulta		  
+Tenda médica		
+Todas as estatísticas		
+Apenas feitiços		
+Ver grade hexagonal		
+Sombra de movimento		
+Sombra do cursor		
+Perdas no campo de batalha		
+Atacante		
+Defensor		
+Vitorioso		
+Derrotado		
+E começa a próxima rodada.		
+"%s acredita que sofrerá uma derrota esmagadora.
 
-Do you wish to retreat?"		
+Você quer fugir?"		
 "The %s heals the %s
 removing %d points of damage."		
-The current player left the game! Player turn will be replayed by computer player.		
-Other player left the game!  You won!		
-View Hero Stats		
-View Enemy Hero Stats		
-Apply first aid to the %s		
-"{Artifact}
+O jogdor com a vez saiu do jogo! O turno do jogador vai ser refeito pelo computador.		
+O outro jogador saiu do jogo!  Você venceu!		
+Ver dados do herói		
+Ver dados do herói inimigo		
+Applicar primeiro socorros no(na) %s		
+"{Artefato}
 
-Through a clearing you observe an ancient artifact.  Unfortunately, it's guarded by %s %s.  Do you want to fight the %s for the artifact?"		
-"Much to your dismay, the %s is guarded by %s %s.
+Através de uma clareira, você observa um artefato antigo.  Infelizmente, ele está guardado por %s %s.  Você quer brigar com o %s pelo artefato?"		
+"Para a sua decepção o %s está guardado por %s %s.
 
-Do you wish to fight the guards?"		
-"There are no %s here to recruit.
+Você quer lutar com os guardas?"		
+"Não há %s aqui para recrutar.
 "		
-"%d %s join your army.
+"%d %s se juntam ao seu exército.
 "		
-Long ago, this city was home to dragons and their hoarded wealth, but today the wind whistles through the empty halls.		
-The %s would join your hero, but there aren't enough provisions to support them.		
-artifact		
-artifacts		
-of each resource		
+Há muito tempo atrás, esta cidade era o lar de dragões que ostentavam riquezas.  Mas agora, tudo o que resta é o vento assobiando em meio a salas vazias.		
+O grupo de %s iria se juntar o seu herói, mas não há espaço o suficiente para eles no seu exército.		
+artefato		
+artefatos		
+para cada recurso		
 garrison		
- Old Map Format		
-Sorry, player left game during transmission.  Goodbye!		
-Upgrade All Creatures		
+ Formato antigo de mapa		
+Desculpe, o jogador saiu do jugo durante a transmissão.  Tchau!		
+Melhorar todas as criaturas		
 Rank		
-Player		
-Land		
-Days		
+Jogador		
+Terra		
+Dias		
 "
 Cheater! +maximum"		
-"Total
-Time"		
-"Base
-Score"		
-Difficulty		
-"Final
-Score"		
-+1 Level		
+"Tempo
+total"		
+"Pontuação
+base"		
+Dificuldade		
+"pontuação
+final"		
++1 nível		
 "
-***Command Line Help***
+***Ajuda para linha de comando***
 
-/S0 - disable sound and music
-/I0 - skip the intro
+/S0 - desativa o som e a música
+/I0 - pula a introdução
 
-Example:
+Exemplo:
 
 h3hota /S0 /I0
 
-Starts Heroes III: HotA with no sound and no intro.
+Começa o Heroes III: HotA sem som e sem introdução.
 "		
-%s has gained a level.		
-%s is now a level %d %s.		
-"HOTSEAT
-Please enter names:"		
-Error initializing modem connection.  Please try again.		
+%s subiu um nível.		
+%s está no nível %d de %s.		
+"CADEIRA QUENTE
+Por favor, informe os nomes:"		
+Error initializing modem connection.  Por favor, tente novamente.		
 Modem Session		
-Error initializing serial connection.  Please try again.		
+Error initializing serial connection.  Por favor, tente novamente.		
 Serial Session		
-Error hosting serial connection.  Please try again.		
+Error hosting serial connection.  Por favor, tente novamente.		
 My Game		
-Password:		
+Senha:		
 No sessions found on host computer!		
-Sorry, there was an error connecting to that session. Please try again.		
-Game was not found.  Please try again.		
-Invalid password!		
-Error initializing TCP/IP connection.  Please try again.		
-"Your IP Address:
+Sorry, there was an error connecting to that session. Por favor, tente novamente.		
+O jogo não foi encontrado.  Por favor, tente novamente.		
+Senha incorreta!		
+Erro ao inicializar a conexão TCP/IP.  Por favor, tente novamente.		
+"Seu endereço IP:
 %s"		
-Error initializing IPX connection.  Please try again.		
-Password (optional):		
-That IP address was not found!		
-Puzzle Map		
-Bring %s to %s.		
-Available		
-Total Cost		
-Error connecting to host computer.  Please try again!		
-Computer		
-%s left the game.		
+Erro ao inicializar a conexão IPX.  Por favor, tente novamente.		
+Senha (opcional):		
+Esse endereço IP não foi encontrado!		
+Mapa do tesouro		
+Traga %s até %s.		
+Disponíveis		
+Preço total		
+Error connecting to host computer.  Por favor, tente novamente!		
+Computador		
+%s saiu do jogo.		
 You are now the host!		
 Waiting for remote player to pick level increase....		
 A computer player has attacked a remote human player.  Waiting for battle to complete....		
 whisper		
 whisper to		
-Experience needed to reach next level		
+Experiência necessária para alcançar o próximo nível		
 Total experience on the Altar		
 Sacrifice artifacts for experience		
 Move artifacts to the Altar		
 Altar of Sacrifice		
 To sacrifice creatures, move them from your army on to the Altar and click Sacrifice		
-Select %s		
+Selecione %s		
 You cannot sacrifice that		
 This box displays the currently selected creature		
-Sacrifice %s		
+Sacrificar %s		
 Holding Area		
 Skeleton Transformer		
 Move creatures to the Transformer to create Skeletons		
 Creatures in the Transformer will become Skeletons		
-The %s will become %s		
-The %s is already a skeleton		
-The %s are already skeletons		
-Player Difficulty		
-"%s exists.
+O(a)(s) %s vai(vão) se transformar em %s		
+O %s já é um esqueleto.		
+Os %s já são esqueletos.		
+Dif. do jogador		
+"O jogo salvo %s já existe.
 
-Overwrite?"		
-Map Diff:		
-Scenario Name:		
-Scenario Description:		
-Victory Condition:		
-Loss Condition:		
-Human		
-Show Available Scenarios		
-Show Advanced Options		
+Quer salvar outro por cima?"		
+Dif. do mapa:		
+Nome do cenário:		
+Descrição do cenário:		
+Condição de vitória:		
+Condição de derrota:		
+Humano		
+Mostrar cenários disponíveis		
+Mostrar opções avançadas		
 Reading Map Files		
 File Corrupted		
 There is a problem with the data in this file and it is not usable by Heroes III.		
 Please load and save this map with the Heroes III Editor to update it to the current version of the map format		
 This map is not playable. Please load and fix problems in the Heroes III Editor before playing this map		
-Empty		
-Unnamed		
+Vazio		
+Sem-nome		
 Receiving map headers from host...		
-Map Sizes		
+Tamanhos de mapa		
 S		
 M		
 L		
 XL		
-Advanced Options		
-Select starting options, handicap, and name for each player in the game.		
-"Player Name
-Handicap Type"		
-"Starting
-Town"		
-"Starting
-Hero"		
-"Starting
-Bonus"		
-Player Turn Duration		
-Random		
-None		
+Opções avançadas		
+Selecione as opções iniciais, as desvantagens e o nome de cada jogador no jogo.		
+"Nome do jogador
+e desvantagem"		
+"Facção
+inicial"		
+"Herói
+inicial"		
+"Bônus
+inicial"		
+Duração da rodada do jogador		
+Aleatório		
+Nenhum		
 Sorry, the host has launched the game without you in it!		
-%s enters the game.		
-%s left the game.		
+%s entrou no jogo.		
+%s saiu do jogo.		
 Unknown player left the game!		
 %s is the new host.		
 There are no maps to play.		
@@ -629,9 +629,9 @@ Error opening file *.vid.
 Video File Error!		
 The %s prevents %s from casting 3rd level or higher spells.		
 Winds from the surrounding 'cursed ground' sap your mystical energies.  You cannot cast spells over level one here.		
-Because %s has already summoned %s, no other elementals will come to %s aid.		
-his		
-her		
+Uma vez que %s já havia conjurado %s anteriormente, nenhum outro tipo de elemental virá para ajudá-l%s.		
+o		
+a		
 %s recites the incantations but they seem to have no effect.		
 Choose an army to resurrect		
 Choose an army to sacrifice		
@@ -659,18 +659,18 @@ The %s are paralyzed and cannot move!
 The %s casts %s		
 The %s cast %s		
  on the %s		
-System Options		
-Hero Speed		
-Enemy Speed		
-Map Scroll Speed		
-Show Move Path		
-Show Hero Reminder		
-Quick Combat		
-Video Subtitles		
-Town Building Outlines		
-Spell Book Animation		
-"Are you sure you wish to do this?
-(Any unsaved games will be lost)"		
+Opções do sistema		
+Velocidade do herói		
+Velocidade do inimigo		
+Vel. de desliz. do mapa		
+Mostrar caminho		
+Mostrar movm. restante		
+Combate rápido		
+Legendas nos vídeos		
+Contornos na cidade		
+Animar livro de magia		
+"Você tem certeza de que você quer fazer isso?
+(Qualquer jogo não salvo será perdido)"		
 As you near the Mana Vortex your body is filled with new energy. You have doubled your normal spell points.		
 The head groom approaches leading a fine looking war horse. "This steed will help speed you in your travels. Alas, his endurance will wane with a lot of heavy riding, and you must return for a fresh mount at the start of the week."		
 You study the glyphs on the Wall of Knowledge and gain insight into the workings of various magics (+1 Knowledge).		
@@ -678,53 +678,53 @@ The Order of Fire teaches you new ways to focus your magical powers (+1 Power).
 A visit to the Academy of Battle Scholars teaches you many new skills (+1000 Experience).		
 Some time spent at the Hall of Valhalla allows you to learn more effective combat skills (+1 Attack Skill).		
 Spending time in the Cage of Warlords, the experienced warriors therein teach you additional defensive skills (+1 Defense).		
-%s has built a %s.		
-%d additional %s available to recruit in %s		
-%s growth per week		
-Weekly %s growth is %d		
+%s construiu um %s.		
+%d %s adicionais estão diponíveis para recrutamento no %s		
+Crescimento semanal do(a) %s		
+O crescimento semanal de %s é de %d		
 "
 
-Basic growth %d"		
+Crescimento básico %d"		
 "
-External dwellings %+d"		
-Hall		
-Exit Mage Guild		
+Habitações externas %+d"		
+Sede		
+Sair da guilda de magia		
 Garrison		
-Build %s		
-Don't build %s		
-Do you wish this to be the permanent home of the Grail?		
-Build ship		
-Don't build ship		
-Exit		
-Castle		
-University		
+Construir %s		
+Não construir %s		
+Você quer tornar este o lar permanente do Graal?		
+Comprar um navio		
+Não comprar um navio		
+Sair		
+Castelo		
+Universidade		
 Your hero's footsteps echo through the quiet halls of this ancient university.  A clerk informs you that while here, your hero may receive instruction on the following subjects.		
 Your hero already knows this skill.		
 Your hero cannot learn this skill.		
 Your hero cannot learn any more skills.		
-%s %s will cost %d gold		
+%s %s vai custar %d gold		
 With a subtle smile and a raised eyebrow, the clerk informs you, "Tuition for learning %s %s is %d gold."		
-Purchase %s		
-%s, duration: %d rounds.		
-View World		
-Town		
-Hero		
-Artifact		
-Teleporter		
-Gate		
-Mine		
-Resource		
-Wood		
-Mercury		
-Ore		
-Sulfur		
-Crystal		
-Gems		
-Gold		
-You have 1 second remaining of your turn.		
-You have %d seconds remaining of your turn.		
-You have 1 minute remaining of your turn.		
-You have %0.1f minutes remaining of your turn.		
+Comprar %s		
+%s, duração: %d rodadas.		
+Ver o mundo		
+Cidade		
+Herói		
+Artefato		
+Portal		
+Escada		
+Mina		
+Recurso		
+Madeira		
+Mercúrio		
+Pedra		
+Enxofre		
+Cristais		
+Gemas		
+Ouro		
+Você tem 1 segundo restante na sua vez.		
+Você tem %d segundos restantes na sua vez.		
+Você tem 1 minuto restante na sua vez.		
+Você tem %0.1f minutos restantes na sua vez.		
 Current player is...		
 %s found the %s, and can claim victory!		
 %s found the %s, and can claim victory!		
@@ -750,35 +750,35 @@ Congratulations! %s has delivered the precious cargo intact. Your team claims vi
 %s has delivered the precious cargo intact, and can claim victory!		
 %s have delivered the precious cargo intact. Victory is theirs!		
 Sorry, the host has left the game.  You must have the CDROM in order to host a game.		
-Show Saved Games		
-Team %d		
-{Team Alignments}		
+Mostrar jogos salvos		
+Time %d		
+{Alinhamentos dos times}		
 Recovering from player drop... One moment please...		
-Congratulations! All your enemies have been defeated! Victory is yours!		
-All your forces have been defeated, and you are banished from this land!		
-Scenario Information		
+Parabéns! Todos os seus inimigos foram derrotados! A vitória é sua!		
+Todas as suas forças foram derrotadas e você está banido desta terra!		
+Informações do cenário		
 Press ESC to cancel solo mode.		
 Error opening file *.snd.		
 Sound File Error!		
 Sorry, your version #%s is incompatible with the host's version #%s.		
-"Resetting High Scores will delete any accomplishments you have achieved.
+"Resetar a galeria dos famosos vai apagar quaisquer conquistas que você tenha obtido.
 
-Are you sure you want to reset the High Scores?"		
+Você tem certeza que quer resetar a galeria dos famosos?"		
 "
-The %s is destroyed."		
+O %s foi destruído."		
 Defeat the %s in the %s region of the underworld.		
-%s has failed to complete their quest in time. They have lost.		
-%s has lost the hero %s.  Your quest is over.		
-Do you wish to play a saved game?		
-Campaign		
+O jogador %s falhou em completar a sua jornada no tempo. Perderam.		
+O jogador %s perdeu o herói %s.  Sua jornada se encerra aqui.		
+Você quer jogar um jogo salvo?		
+Campanha		
 Recounting the Grail legend to the townsfolk, your words are met with disbelief.  This town does not have enough faith.  You must seek a more deserving home for the Grail.		
-No active spells		
+Sem feitiços ativos		
 %s summons %d %s		
 "Your
 Rank"		
 The pond has not produced anything yet.		
 The pond produced %d %s this week.		
-%s, duration: %s.		
+%s, duração: %s.		
 until binder moves or dies		
 until next attack		
 until end of combat		
@@ -787,27 +787,27 @@ This garrison has a powerful enchantment that suppresses all other magic.
 "There are no Saved Games to load.
 
 Perhaps you meant to Start a New Game instead. Go back to the Main Menu and select New Game."		
-Select a destination		
+Selecione o destino		
 Are you sure you want to delete %s?		
 At the start of the game, 3-6 crystal are added to your Kingdom's resource pool.		
 At the start of the game, 3-6 gems are added to your Kingdom's resource pool.		
 At the start of the game, 3-6 mercury are added to your Kingdom's resource pool.		
 At the start of the game, 3-6 sulfur are added to your Kingdom's resource pool.		
-3-6 Crystal		
-3-6 Gems		
-3-6 Mercury		
-3-6 Sulfur		
-The %s has exhausted his spell points		
-The %s have exhausted their spell points		
+3-6 Cristais		
+3-6 Gemas		
+3-6 Mercúrio		
+3-6 Enxofre		
+O(a) %s já gastou todos os seus pontos de magia.		
+Os(as) %s já gastaram todos os seus pontos de magia.		
 Cursed Ground prevents all spellcasting except for level one spells.		
 An aura of anti-magic prevents spellcasting in this garrison.		
 The %s prevents all spellcasting		
 Can only summon %s from the corpses of living creatures		
 The dead %s does not have sufficient life-force to summon %s		
 The dead %s do not have sufficient life-force to summon %s		
-Only the living can be resurrected.		
-The %s is not powerful enough to resurrect the %s		
-The %s are not powerful enough to resurrect the %s		
+Apenas criaturas vivas podem ser ressuscitadas.		
+O(a) %s não é poderoso o suficiente para ressuscitar %s.		
+Os(as) %s não são poderoso o suficiente para ressuscitar %s.		
 "{Insufficient Disk Space}
 
 Heroes III requires at least 5 MB of free space on the current drive.
@@ -820,10 +820,10 @@ Heroes III requires at least 1 MB of free space on the current drive to save a g
 To delete a previously saved game select it and press CTRL-DELETE.
 
 To make room manually press ALT-TAB to return to Windows."		
-Leave Guards		
+Deixar guardas		
 The %s freezes in fear.		
 The %s freeze in fear.		
-That spell will not affect anything.		
+Este feitiço não fará coisa nenhuma.		
 At last, you have the last artifact needed to construct the Blade.  Soon, the world will tremble at your feet.		
 The %s makes all spells available.		
 Start with %s		
@@ -832,13 +832,13 @@ Start with %d %s
 Start with %s %s		
 Start with heroes from %s		
 Start with a random hero		
-Wood and Ore		
-Sulfur, Mercury, Crystal, and Gems		
+Madeira e Pedra		
+Enxofre, Mercúrio, Cristal e Gemas		
 %s is in incorrect format		
 Select Armageddon's Blade campaign		
 Select Restoration of Erathia campaign		
 Select custom campaign		
-Return to main menu		
+Voltr ao menu principal		
 Fear of the %s causes the %s to freeze.		
 "Found the Heroes III: %s CD-ROM.
 
@@ -848,17 +848,17 @@ If you wish to join a Multi-player Game hosted by another player, a CD is not re
 
 If you wish to play a Single Scenario or a Campaign, please quit and insert the %s CD, before re-running %s."		
 Host is generating a random map		
-Spell cancelled		
-You possess all of the components needed to assemble the %s.  Do you wish to assemble this artifact?		
-Do you wish to disassemble this artifact?		
+Feitiço cancelado		
+Você tem todas as partes necessárias para montar o %s.  Você quer montar este artefato?		
+Você quer desmontar este artefato?		
 Select Horn of the Abyss campaign		
 Sorceress		
 Yog has given up magic in all of its forms.  His knowledge of battle and tactics will have to be enough to get him through the rest of his life.		
 Congratulations, you have recovered the three pieces you needed from the barbarian brothers.		
 Random Map Setup		
-Select options for creating a random map		
-Random Map		
-Play a randomly created map		
+Selecione opções para criar um mapa aleatório		
+Mapa aleatório		
+Jogar um mapa criado aleatoriamente		
 The tutorial map file "tutorial.tut" is missing from the maps directory.  You cannot start a tutorial without this file.		
 Playing the selected saved game requires all players to be running %s.  Some of the connected players cannot play this saved game.		
 Playing the selected map requires all players to be running %s.  Some of the connected players cannot play this map.		
@@ -869,15 +869,15 @@ Random map created!
 Cannot create Random_Map.H3M in data directory.		
 Error writing random map to disk.		
 Could not create a random map that fits current choices.		
-Map Size		
+Tamanho do mapa		
 Human or Computer players		
 Human or Computer teams		
 Computer only players		
 Computer only teams		
-Water content		
-Monster strength		
-Random Map		
-Creating Map		
+Quantidade de água		
+Força dos monstros		
+Mapa aleatório		
+Criando o mapa		
 Only Gelu can carry Armageddon's Blade.		
 The Restoration of Erathia		
 Congratulations, you have recovered all three artifacts.		

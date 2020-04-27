@@ -3,7 +3,7 @@ Ombros
 Pescoço
 Mão direita
 Mão esquerda
-Torso
+Tronco
 Anel direito
 Anel esquerdo
 Pés

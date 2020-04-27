@@ -10,7 +10,7 @@ Sair da cidade
 Não pode-se mover heróis aliados para a posição de residentes.
 Visão Geral do Reino
 Vazio
-Seleciona %s (residente)
+Selecionar %s (residente)
 Ver Herói
 Torre de Magia
 Guilda dos Ladrões
@@ -30,7 +30,7 @@ Forte
 Cidadela
 Uma habitação externa de alguma criatura deve ter a sua bandeira para que criaturas possam ser chamadas por meio do portal.
 %s adquirido
-Selecione %s (visitante)
-Selecione %s (criaturas descartadas)
-Selecione %s (exército do herói)
+Selecionar %s (visitante)
+Selecionar %s (criaturas de guarda)
+Selecionar %s (exército do herói)
 %s (não pode ser removido)
