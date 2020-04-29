@@ -1,92 +1,92 @@
 Rollover Text	Right-Click Text																						
 "Note: Do not change the headings in this file, they are used to detect problems"																							
-Main Menu																							
-	"{New Game}
+Menu principal																							
+	"{Novo jogo}
 
-Start a new game."																						
-	"{Load Game}
+Começar um jogo novo."																						
+	"{Carregar jogo}
 
-Load a saved game."																						
+Carregar um jogo salvo."																						
 	"{High Scores}
 
 View the legendary Heroes of Might and Magic."																						
-	"{Credits}
+	"{Créditos}
 
-View game credits."																						
-	"{Quit}
+Ver os créditos do jogo."																						
+	"{Sair}
 
-Return to Windows."																						
+Fechar o jogo."																						
 																							
-New Game	New Game																						
-	"{Single Scenario}
+Novo jogo	Novo jogo																						
+	"{Cenário simples}
 
-Play a single scenario."																						
-	"{Campaign}
+Jogue um cenário para um jogador."																						
+	"{Campanha}
 
-Play a campaign."																						
-	"{Multiplayer}
+Jogue uma campanha."																						
+	"{Multijogadores}
 
-Play a multiplayer single scenario."																						
+Jogue um cenário para vários jogadores."																						
 	"{Tutorial}
 
-Play a tutorial scenario teaching the basics needed to play Heroes III."																						
-	"{Back}
+Jogue um cenário de tutorial que ensina o básico necessário para jogar Heroes III."																						
+	"{Voltar}
 
-Return to the previous screen."																						
+Volta para a tela anterior."																						
 																							
-Single Scenario Selection	Single Scenario Selection																						
+Seleção de um cenário simples	Seleção de um cenário simples																						
 																							
-SCENARIO_BACKGROUND 	Choose a scenario																						
-ADVANCED_BACKGROUND 	Set advanced options																						
+SCENARIO_BACKGROUND 	Escolha um cenário																						
+ADVANCED_BACKGROUND 	Definir opções avançadas																						
 Background for random map menu	Customize and create a random map																						
-SCENARIO_NAME 	Scenario Name																						
-Description Title	Displays scenario briefing																						
-Description text	Displays scenario briefing																						
-EASY 	"{Easy Difficulty}
+SCENARIO_NAME 	Nome do cenário																						
+Description Title	Mostra a descrição do cenário.																						
+Description text	Mostra a descrição do cenário.																						
+EASY 	"{Dificuldade fácil}
 
-The player starts with a large advantage in resources, and the computer plays poorly."																						
-NORMAL 	"{Normal Difficulty}
+O jogador começa com uma larga vantagem em recursos e o computador joga mal."																						
+NORMAL 	"{Dificuldade normal}
 
-The player starts with a moderate advantage in resources, and the computer plays reasonably well."																						
-HARD 	"{Hard Difficulty}
+O jogador começa com uma moderada vantagem em recursos e o computador joga razoavelmente bem."																						
+HARD 	"{Dificuldade difícil}
 
-The player and the computer start with the same resources, and the computer plays to the best of its ability."																						
-EXPERT 	"{Expert Difficulty}
+O jogador e o computador começam com a mesma quantidade de recursos e o computador joga da melhor forma que conseguir."																						
+EXPERT 	"{Dificuldade expert}
 
-The player starts with a handicap in resources, and the computer plays to the best of its ability."																						
-IMPOSSIBLE 	"{Impossible Difficulty}
+O jogador começa com uma desvantagem de recursos e o computador joga da melhor forma que conseguir."																						
+IMPOSSIBLE 	"{Dificuldade impossível}
 
-The player starts with no resources, and the computer plays to the best of its ability."																						
-ALLY_FLAG1 	This is your color																						
-ALLY_FLAG2 	This color is allied with you																						
-ALLY_FLAG3 	This color is allied with you																						
-ALLY_FLAG4 	This color is allied with you
-ALLY_FLAG5 	This color is allied with you
-ALLY_FLAG6 	This color is allied with you
-ALLY_FLAG7 	This color is allied with you
-ALLY_FLAG8 	This color is allied with you
-ENEMY_FLAG1 	This color is your enemy
-ENEMY_FLAG2 	This color is your enemy
-ENEMY_FLAG3 	This color is your enemy
-ENEMY_FLAG4 	This color is your enemy
-ENEMY_FLAG5 	This color is your enemy
-ENEMY_FLAG6 	This color is your enemy
-ENEMY_FLAG7 	This color is your enemy
-ENEMY_FLAG8 	This color is your enemy
-SCENARIO_OPTIONS 	View/hide scenario list
-ADVANCED_OPTIONS 	View/hide advanced options
-random map button	Play a randomly created map
+O jogador começa sem recursos e o computador joga da melhor forma que conseguir."																						
+ALLY_FLAG1 	Esta é a sua cor.																						
+ALLY_FLAG2 	Esta cor está aliada contigo.																						
+ALLY_FLAG3 	Esta cor está aliada contigo.																						
+ALLY_FLAG4 	Esta cor está aliada contigo.
+ALLY_FLAG5 	Esta cor está aliada contigo.
+ALLY_FLAG6 	Esta cor está aliada contigo.
+ALLY_FLAG7 	Esta cor está aliada contigo.
+ALLY_FLAG8 	Esta cor está aliada contigo.
+ENEMY_FLAG1 	Esta cor é sua inimiga.
+ENEMY_FLAG2 	Esta cor é sua inimiga.
+ENEMY_FLAG3 	Esta cor é sua inimiga.
+ENEMY_FLAG4 	Esta cor é sua inimiga.
+ENEMY_FLAG5 	Esta cor é sua inimiga.
+ENEMY_FLAG6 	Esta cor é sua inimiga.
+ENEMY_FLAG7 	Esta cor é sua inimiga.
+ENEMY_FLAG8 	Esta cor é sua inimiga.
+SCENARIO_OPTIONS 	Ver/ocultar a lista de cenários.
+ADVANCED_OPTIONS 	Ver/ocultar as opções avançadas.
+random map button	Jogar um mapa gerado aleatoriamente.
 CHAT_DESC 	Toggle between Scenario Description and Chat Window
 MAP_DIFFICULTY 	These allow you to modify the overall difficulty of the scenario
 RATING 	Displays overall difficulty based on Map and Player difficulty settings
-MAP_SIZE 	"Map difficulty can be Easy, Normal, Hard, Expert or Impossible"
-VICTORY_CONDITION 	Victory Conditions for the current scenario
-LOSS_CONDITION 	Loss Conditions for the current scenario
-SMALL_FILTER 	View all small maps
-MEDIUM_FILTER 	View all medium maps
-LARGE_FILTER 	View all large maps
-EXTRALARGE_FILTER 	View all extra large maps
-ALL_FILTER 	View all maps
+MAP_SIZE 	"A dificuldade do mapa pode ser fácil, normal, difícil, expert ou impossível."
+VICTORY_CONDITION 	Condições de vitórias para este cenário.
+LOSS_CONDITION 	Condições de derrota para este cenário.
+SMALL_FILTER 	Ver todos os mapas pequenos.
+MEDIUM_FILTER 	Ver todos os mapas médios.
+LARGE_FILTER 	Ver todos os mapas grandes.
+EXTRALARGE_FILTER 	Ver todos os mapas muito grandes.
+ALL_FILTER 	Ver todos os mapas.
 SCENARIO_NAME_1 	SCENARIO_NAME_1 
 SCENARIO_NAME_2 	SCENARIO_NAME_2 
 SCENARIO_NAME_3 	SCENARIO_NAME_3 
@@ -123,26 +123,26 @@ ENTRY_SCENARIO_NAME_15 	ENTRY_SCENARIO_NAME_15
 ENTRY_SCENARIO_NAME_16 	ENTRY_SCENARIO_NAME_16 
 ENTRY_SCENARIO_NAME_17 	ENTRY_SCENARIO_NAME_17 
 ENTRY_SCENARIO_NAME_18 	ENTRY_SCENARIO_NAME_18 
-TURN_DURATION 	Turn Duration
-CHAT_TEXT 	Chat Messages						
+TURN_DURATION 	Duração da rodada
+CHAT_TEXT 	Mensagens de chat						
 CHAT_ENTRY 	CHAT_ENTRY 						
 CHAT_PLUG 	CHAT_PLUG 						
-CHAT_PLAYER 	Players						
+CHAT_PLAYER 	Jogadores						
 "CHAT_PLAYER_SLIDER,"	"CHAT_PLAYER_SLIDER,"						
 ROLLOVER 	ROLLOVER 						
-NEXT 	Save the currently selected game						
-BEGIN 	Start the selected scenario						
+NEXT 	Salva o jogo selecionado.						
+BEGIN 	Começa o cenário escolhido.						
 BACK 	BACK 						
-SSEXIT 	"Close this window
-(no action taken)"						
-WHICHMAP 	"Current Map Size
-(Small, Medium, Large, Extra Large, Huge, Extra Huge, Giant)"						
-SORT_NUMBER 	Sorts maps by number of players						
-SORT_SIZE 	Sorts maps by size of maps						
-k_sort_version	Sort maps by map version						
-SORT_ALPHA 	Sorts maps alphabetically by name						
-SORT_VICTORY 	Sorts maps by victory conditions						
-SORT_LOSS 	Sorts maps by loss conditions
+SSEXIT 	"Fechar esta janela.
+(nenhuma ação será realizada)"						
+WHICHMAP 	"Tamanho deste mapa.
+(pequeno, médio, grande, muito grande, enorme, muito enorme ou gigante)"						
+SORT_NUMBER 	Ordena os mapas pelo número de jogadores.						
+SORT_SIZE 	Ordena os mapas pelo tamanho.						
+k_sort_version	Ordena os mapas pela versão.						
+SORT_ALPHA 	Ordena os mapas alfabeticamente pelo nome.						
+SORT_VICTORY 	Ordena os mapas por condições de vitória.						
+SORT_LOSS 	Ordena os mapas por condições de derrota.
 BRIEFING 	BRIEFING 
 SSHERO 	SSHERO 
 GOLDPIC 	GOLDPIC 
@@ -210,14 +210,14 @@ RES_RITE5 	Allows you to choose a starting bonus for your hero
 RES_RITE6 	Allows you to choose a starting bonus for your hero
 RES_RITE7 	Allows you to choose a starting bonus for your hero
 RES_RITE8 	Allows you to choose a starting bonus for your hero
-HERO_SETTING_1 	Click here to play this color
-HERO_SETTING_2 	Click here to play this color
-HERO_SETTING_3 	Click here to play this color
-HERO_SETTING_4 	Click here to play this color
-HERO_SETTING_5 	Click here to play this color
-HERO_SETTING_6 	Click here to play this color
-HERO_SETTING_7 	Click here to play this color
-HERO_SETTING_8 	Click here to play this color
+HERO_SETTING_1 	Clique aqui para jogar com esta cor.
+HERO_SETTING_2 	Clique aqui para jogar com esta cor.
+HERO_SETTING_3 	Clique aqui para jogar com esta cor.
+HERO_SETTING_4 	Clique aqui para jogar com esta cor.
+HERO_SETTING_5 	Clique aqui para jogar com esta cor.
+HERO_SETTING_6 	Clique aqui para jogar com esta cor.
+HERO_SETTING_7 	Clique aqui para jogar com esta cor.
+HERO_SETTING_8 	Clique aqui para jogar com esta cor.
 TOWN_SETTING_1 	TOWN_SETTING_1 
 TOWN_SETTING_2 	TOWN_SETTING_2 
 TOWN_SETTING_3 	TOWN_SETTING_3 
@@ -227,22 +227,22 @@ TOWN_SETTING_6 	TOWN_SETTING_6
 TOWN_SETTING_7 	TOWN_SETTING_7 	
 TOWN_SETTING_8 	TOWN_SETTING_8 	
 "const_create_map,"		
-"const_map_size_label,"	Select a map size	
-"const_small_map,"	Create a small map	
-"const_medium_map,"	Create a medium map	
-"const_large_map,"	Create a large map	
-"const_huge_map,"	Create an extra large map	
-"const_map_levels,"	Select single or two level map	
+"const_map_size_label,"	Escolha o tamanho do mapa.	
+"const_small_map,"	Criar um mapa pequeno.	
+"const_medium_map,"	Criar um mapa médio.	
+"const_large_map,"	Criar um mapa grande.	
+"const_huge_map,"	Criar um mapa muito grande.	
+"const_map_levels,"	Escolhe se o mpa tem um ou dois planos.	
 "const_human_positions_label,"	Select number of human-playable positions	
-"const_1_human,"	Create 1 human player	
-"const_2_humans,"	Create 2 human players	
-"const_3_humans,"	Create 3 human players	
-"const_4_humans,"	Create 4 human players	
-"const_5_humans,"	Create 5 human players	
-"const_6_humans,"	Create 6 human players	
-"const_7_humans,"	Create 7 human players	
-"const_8_humans,"	Create 8 human players	
-"const_random_humans,"	Create 1-8 human players	
+"const_1_human,"	Criar 1 jogador humano ou computador.	
+"const_2_humans,"	Criar 2 jogadores humanos ou computador.	
+"const_3_humans,"	Criar 3 jogadores humanos ou computador.	
+"const_4_humans,"	Criar 4 jogadores humanos ou computador.	
+"const_5_humans,"	Criar 5 jogadores humanos ou computador.	
+"const_6_humans,"	Criar 6 jogadores humanos ou computador.	
+"const_7_humans,"	Criar 7 jogadores humanos ou computador.	
+"const_8_humans,"	Criar 8 jogadores humanos ou computador.	
+"const_random_humans,"	Criar 1-8 jogadores humanos.	
 "const_human_teams_label,"	Select the number of teams for human-playable positions	
 "const_no_human_teams,"	No teams	
 "const_1_human_team,"	Create 1 human team	
@@ -273,10 +273,10 @@ TOWN_SETTING_8 	TOWN_SETTING_8
 "const_6_computer_teams,"	Create 6 computer teams	
 "const_random_computer_teams,"	Create a random number of computer teams	
 "const_water_label,"	Select the amount of water on the map	
-"const_no_water,"	Minimum or no water	
-"const_normal_water,"	Create a continent surrounded by water	
-"const_islands,"	Create many small land masses created by water	
-"const_random_water,"	Choose random amounts of water	
+"const_no_water,"	Sem água ou quase.	
+"const_normal_water,"	Cria um continente cercado de água.	
+"const_islands,"	Cria pequenas massas de terra como ilhas cercadas de água.	
+"const_random_water,"	Escolhe uma quantidade aleatória de água.	
 "const_monster_strength_label,"	Select the relative strength of guardian monsters	
 "const_weak_monsters,"	Make monsters weaker than normal	
 "const_normal_monsters,"	Normal strength guardians	
@@ -299,17 +299,17 @@ Using the slider, you may set 'soft' player turn durations.  By 'soft', a timer 
 Turn durations are 1, 2, 4, 6, 8, 10, 15, 20, 25, and 30 minutes.
 'Unlimited' is the default setting.
 "																						
-"STARTING_TOWN_HEADER_ID,"	"{Starting Town}
+"STARTING_TOWN_HEADER_ID,"	"{Facção inicial}
 
-Each player may, or may not, start with a town.  Choices may be Random, Castle, Rampart, Tower, Inferno, Necropolis, Dungeon, Stronghold, and Fortress.
+Cada jogador pode ou não começar com uma cidade.  As opções são aleatório, castelo, floresta, torre, inferno, necrópolis, masmorra, barbárie e pântano.
 
-When you do not start with a town, these settings may be used to help choose the alignment of a potential starting hero.
+Quando você inicia sem uma cidade, estas definições podem ser usadas para escolher a facção de um possível herói inicial.
 "																						
-"STARTING_TOWN_HEADER_W_CONFLUX_ID,"	"{Starting Town}
+"STARTING_TOWN_HEADER_W_CONFLUX_ID,"	"{Facção inicial}
 
-Each player may, or may not, start with a town.  Choices may be Random, Castle, Rampart, Tower, Inferno, Necropolis, Dungeon, Stronghold, Fortress, Conflux and Cove.
+Cada jogador pode ou não começar com uma cidade.  As opções são aleatório, castelo, floresta, torre, inferno, necrópolis, masmorra, barbári, pântano, confluxo e enseada.
 
-When you do not start with a town, these settings may be used to help choose the alignment of a potential starting hero.
+Quando você inicia sem uma cidade, estas definições podem ser usadas para escolher a facção de um possível herói inicial.
 "																						
 "STARTING_HERO_HEADER_ID,"	"{Starting Hero}
 
@@ -365,7 +365,7 @@ GAMENAME 11	GAMENAME 11
 GAMENAME 12	GAMENAME 12
 Scroll through available games	Scroll through available games
 	
-Cancel	Return to previous menu																						
+Cancelar	Volta ao menu anterior																						
 																							
 Adventure Map Window																							
 World Map	"This is a zoomed out view of the world.  Clicking anywhere in this window will center the adventure map on that location, or you can drag the outline box to scroll the adventure map."																						
@@ -387,19 +387,19 @@ Sleeps the selected hero or wakes a sleeping hero.  Any sleeping heroes will be 
 Move Hero	"{Move Hero}
 
 Moves the current hero along its selected path"																						
-Cast Spell	"{Cast Spell}
+Conjurar feitiço	"{Conjurar feitiço}
 
-Cast a non-combat spell"																						
+Conjura um feitiço de aventura"																						
 Adventure Options	"{Adventure Options}
 
 Allows you to dig for the Grail, view the current Grail Puzzle, World Map, or Scenario Briefing.  In multiplayer games you will also be allowed to view your opponents' last turn."																						
-System Options	"{System Options}
+Opções de sistema	"{Opções de sistema}
 
 Allows you to view and change the current game options"																						
-Next Hero	"{Next Hero}
+Próximo herói	"{Próximo herói}
 
 Selects the next hero with remaining movement points.  Any sleeping heroes will be ignored."																						
-End Turn	"{End Turn}
+Fim da rodada	"{Fim da rodada}
 
 Ends the current turn"																						
 Scroll Hero List	"{Scroll Hero List}
@@ -420,75 +420,75 @@ Scroll down through available towns"
 Town Portrait	"{Town Portrait}
 
 Click once to select this town and center the adventure map on its location.  Click again to enter and view the Town Screen."																						
-Gold	Amount of gold in your treasury																						
-Wood	Your total available wood																						
-Mercury	Your total available mercury																						
-Ore	Your total available ore																						
-Sulfur	Your total available sulfur																						
-Crystal	Your total available crystal																						
-Gems	Your total available gems																						
-Date	"{Date}
+Ouro	Amount of gold in your treasury																						
+Madeira	Your total available wood																						
+Mercúrio	Your total available mercury																						
+Pedra	Your total available ore																						
+Enxofre	Your total available sulfur																						
+Cristais	Your total available crystal																						
+Gemas	Your total available gems																						
+Data	"{Data}
 
-Current Month, Week, and Day"																						
+Mês, semana e dia atual"																						
 ROLLOVER	ROLLOVER																						
 																							
 System Options	System Options																						
-Main Menu	"{Main Menu}
+Menu principal	"{Menu principal}
 
-Abandon game and return to the main menu"
-Load Game	"{Load Game}
+Abandonar o jogo e voltar ao menu principal"
+Carregar jogo	"{Carregar jogo}
 
 Load a saved game"
-Save Game	"{Save Game}
+Salvar jogo	"{Salvar jogo}
 
 Save the current game"
 Restart Scenario	"{Restart Scenario}
 
 Restart the current scenario"
-Quit to Desktop	"{Quit to Desktop}
+Sair do jogo	"{Sair do jogo}
 
-Quit Heroes of Might and Magic III"
-Return	"{Return to Game}
+Sair do Heroes of Might and Magic III"
+Voltar	"{Voltar ao jogo}
 
 Return to the Adventure Map!"
-"MUSIC_VOLUME_0_ID,"	Turn off music
-"MUSIC_VOLUME_1_ID,"	Set music volume to 1
-"MUSIC_VOLUME_2_ID,"	Set music volume to 2
-"MUSIC_VOLUME_3_ID,"	Set music volume to 3
-"MUSIC_VOLUME_4_ID,"	Set music volume to 4
-"MUSIC_VOLUME_5_ID,"	Set music volume to 5
-"MUSIC_VOLUME_6_ID,"	Set music volume to 6
-"MUSIC_VOLUME_7_ID,"	Set music volume to 7
-"MUSIC_VOLUME_8_ID,"	Set music volume to 8
-"MUSIC_VOLUME_9_ID,"	Set music volume to 9
-"EFFECTS_VOLUME_0_ID,"	Turn off sound effects
-"EFFECTS_VOLUME_1_ID,"	Set sound effects volume to 1
-"EFFECTS_VOLUME_2_ID,"	Set sound effects volume to 2
-"EFFECTS_VOLUME_3_ID,"	Set sound effects volume to 3
-"EFFECTS_VOLUME_4_ID,"	Set sound effects volume to 4
-"EFFECTS_VOLUME_5_ID,"	Set sound effects volume to 5
-"EFFECTS_VOLUME_6_ID,"	Set sound effects volume to 6
-"EFFECTS_VOLUME_7_ID,"	Set sound effects volume to 7
-"EFFECTS_VOLUME_8_ID,"	Set sound effects volume to 8
-"EFFECTS_VOLUME_9_ID,"	Set sound effects volume to 9
+"MUSIC_VOLUME_0_ID,"	Desliga a música.
+"MUSIC_VOLUME_1_ID,"	Define o volume da música em 1.
+"MUSIC_VOLUME_2_ID,"	Define o volume da música em 2.
+"MUSIC_VOLUME_3_ID,"	Define o volume da música em 3.
+"MUSIC_VOLUME_4_ID,"	Define o volume da música em 4.
+"MUSIC_VOLUME_5_ID,"	Define o volume da música em 5.
+"MUSIC_VOLUME_6_ID,"	Define o volume da música em 6.
+"MUSIC_VOLUME_7_ID,"	Define o volume da música em 7.
+"MUSIC_VOLUME_8_ID,"	Define o volume da música em 8.
+"MUSIC_VOLUME_9_ID,"	Define o volume da música em 9.
+"EFFECTS_VOLUME_0_ID,"	Desliga os efeitos sonoros.
+"EFFECTS_VOLUME_1_ID,"	Define o volume dos efeitos sonoros em 1.
+"EFFECTS_VOLUME_2_ID,"	Define o volume dos efeitos sonoros em 2.
+"EFFECTS_VOLUME_3_ID,"	Define o volume dos efeitos sonoros em 3.
+"EFFECTS_VOLUME_4_ID,"	Define o volume dos efeitos sonoros em 4.
+"EFFECTS_VOLUME_5_ID,"	Define o volume dos efeitos sonoros em 5.
+"EFFECTS_VOLUME_6_ID,"	Define o volume dos efeitos sonoros em 6.
+"EFFECTS_VOLUME_7_ID,"	Define o volume dos efeitos sonoros em 7.
+"EFFECTS_VOLUME_8_ID,"	Define o volume dos efeitos sonoros em 8.
+"EFFECTS_VOLUME_9_ID,"	Define o volume dos efeitos sonoros em 9.
 "MUSIC_TYPE_NONE_ID,"	"MUSIC_TYPE_NONE_ID,"
 "MUSIC_TYPE_CD_ID,"	"MUSIC_TYPE_CD_ID,"
 "MUSIC_TYPE_MIDI_ID,"	"MUSIC_TYPE_MIDI_ID,"
-"HERO_SPEED_WALK_ID,"	"Set hero speed to walk
-(slowest)"
-"HERO_SPEED_CANTER_ID,"	Set hero speed to canter
-"HERO_SPEED_GALLOP_ID,"	Set hero speed to gallop
-"HERO_SPEED_JUMP_ID,"	"Set hero speed to jump
-(no animation - fastest)"
-"AI_SPEED_CANTER_ID,"	"Set enemy hero speed to canter
-(slowest)"
-"AI_SPEED_GALLOP_ID,"	Set enemy hero speed to gallop
-"AI_SPEED_JUMP_ID,"	"Set enemy hero speed to jump
-(no animation - fastest)"
+"HERO_SPEED_WALK_ID,"	"Define a velocidade do herói como andar.
+(mais lento)"
+"HERO_SPEED_CANTER_ID,"	Define a velocidade do herói como trotar.
+"HERO_SPEED_GALLOP_ID,"	Define a velocidade do herói como galopar.
+"HERO_SPEED_JUMP_ID,"	"Define a velocidade do herói como pular.
+(sem animação - mais rápido)"
+"AI_SPEED_CANTER_ID,"	"Define a velocidade do inimigo como trotar.
+(mais lento)"
+"AI_SPEED_GALLOP_ID,"	Define a velocidade do inimigo como galopar.
+"AI_SPEED_JUMP_ID,"	"Define a velocidade do inimigo como pular.
+(sem animação - mais rápido)"
 "AI_SPEED_NONE_ID,"	Do not show enemy movement
-"WINDOW_SCROLL_SLOW,"	Set map scroll speed to slow
-"WINDOW_SCROLL_MEDIUM,"	Set map scroll speed to medium
-"WINDOW_SCROLL_FAST,"	Set map scroll speed to fast
+"WINDOW_SCROLL_SLOW,"	Definir a velocidade da animação para lento.
+"WINDOW_SCROLL_MEDIUM,"	Definir a velocidade da animação para médio.
+"WINDOW_SCROLL_FAST,"	Definir a velocidade da animação para rápido.
 "SHOW_PATH_ID,"	"{Show Move Path}
 
 When checked, will display a hero's movement path without moving the hero."
@@ -524,22 +524,22 @@ See the map of the buried object"
 View Scenario Info	"{View Scenario Info}
 
 View information about the current scenario"																						
-Dig	"{Dig}
+Cavar	"{Cavar}
 
 Search the area for the buried Grail"																						
 Replay Opponent Turn	"{Replay Opponent Turn}
 
 Replays events since your last turn"																						
 ROLLOVER	ROLLOVER																						
-Okay	"{Okay}
+Ok	"{Ok}
 
 Return to the Adventure Map"																						
 																							
 Combat Window	Combat Window																						
-Surrender	"{Surrender}
+Render-se	"{Render-se}
 
 Offer to surrender to your enemy.  Your hero must pay to leave combat, but may be immediately recruited at a tavern along with any troops and artifacts currently in his possession."																						
-Retreat	"{Retreat}
+Fugir	"{Fugir}
 
 Your hero will flee the combat, but may be immediately recruited at a tavern along with any artifacts currently in his possession."																						
 Combat Options	"{Combat Options}
@@ -550,13 +550,13 @@ Auto Combat	"{Auto Combat}
 Allows the computer to conduct the combat for you.  Click anywhere during auto combat to take control of your own troops.  You will be given control on your next unit's move phase."																						
 	Combat text appears in this window																						
 	Scroll through text displayed during combat																						
-Cast Spell	"{Cast Spell}
+Conjurar feitiço	"{Conjurar feitiço}
 
 Opens your hero's spell book, allowing you to cast a spell"																						
-Wait	"{Wait}
+Esperar	"{Esperar}
 
 Delay this unit's turn until after all troops have had the opportunity to move"																						
-Defend	"{Defend}
+Defender	"{Defender}
 
 Increases this unit's defense value by sacrificing its move this turn"																						
 Phase Wait	Phase Wait																						
@@ -565,42 +565,42 @@ End Tactics Phase	"{End Tactics Phase}
 Ends the Tactics Phase and commences combat."																						
 																							
 Combat Options	Combat Options																						
-Return to Battle	"{Return to Battle}
+Voltar ao combate	"{Voltar ao combate}
 
 Exit combat options"																						
 Restore Default Values	"{Default}
 
 Restores combat option default values"																						
-"MUSIC_VOLUME_0_ID,"	Turn off music																						
-"MUSIC_VOLUME_1_ID,"	Set music volume to 1																						
-"MUSIC_VOLUME_2_ID,"	Set music volume to 2																						
-"MUSIC_VOLUME_3_ID,"	Set music volume to 3																						
-"MUSIC_VOLUME_4_ID,"	Set music volume to 4																						
-"MUSIC_VOLUME_5_ID,"	Set music volume to 5																						
-"MUSIC_VOLUME_6_ID,"	Set music volume to 6
-"MUSIC_VOLUME_7_ID,"	Set music volume to 7
-"MUSIC_VOLUME_8_ID,"	Set music volume to 8
-"MUSIC_VOLUME_9_ID,"	Set music volume to 9
-"EFFECTS_VOLUME_0_ID,"	Turn off sound effects
-"EFFECTS_VOLUME_1_ID,"	Set sound effects volume to 1
-"EFFECTS_VOLUME_2_ID,"	Set sound effects volume to 2
-"EFFECTS_VOLUME_3_ID,"	Set sound effects volume to 3
-"EFFECTS_VOLUME_4_ID,"	Set sound effects volume to 4
-"EFFECTS_VOLUME_5_ID,"	Set sound effects volume to 5
-"EFFECTS_VOLUME_6_ID,"	Set sound effects volume to 6
-"EFFECTS_VOLUME_7_ID,"	Set sound effects volume to 7
-"EFFECTS_VOLUME_8_ID,"	Set sound effects volume to 8
-"EFFECTS_VOLUME_9_ID,"	Set sound effects volume to 9
+"MUSIC_VOLUME_0_ID,"	Desliga a música																						
+"MUSIC_VOLUME_1_ID,"	Define o volume da música em 1																						
+"MUSIC_VOLUME_2_ID,"	Define o volume da música em 2																						
+"MUSIC_VOLUME_3_ID,"	Define o volume da música em 3																						
+"MUSIC_VOLUME_4_ID,"	Define o volume da música em 4																						
+"MUSIC_VOLUME_5_ID,"	Define o volume da música em 5																						
+"MUSIC_VOLUME_6_ID,"	Define o volume da música em 6
+"MUSIC_VOLUME_7_ID,"	Define o volume da música em 7
+"MUSIC_VOLUME_8_ID,"	Define o volume da música em 8
+"MUSIC_VOLUME_9_ID,"	Define o volume da música em 9
+"EFFECTS_VOLUME_0_ID,"	Desliga os efeitos sonoros
+"EFFECTS_VOLUME_1_ID,"	Define o volume dos efeitos sonoros em 1
+"EFFECTS_VOLUME_2_ID,"	Define o volume dos efeitos sonoros em 2
+"EFFECTS_VOLUME_3_ID,"	Define o volume dos efeitos sonoros em 3
+"EFFECTS_VOLUME_4_ID,"	Define o volume dos efeitos sonoros em 4
+"EFFECTS_VOLUME_5_ID,"	Define o volume dos efeitos sonoros em 5
+"EFFECTS_VOLUME_6_ID,"	Define o volume dos efeitos sonoros em 6
+"EFFECTS_VOLUME_7_ID,"	Define o volume dos efeitos sonoros em 7
+"EFFECTS_VOLUME_8_ID,"	Define o volume dos efeitos sonoros em 8
+"EFFECTS_VOLUME_9_ID,"	Define o volume dos efeitos sonoros em 9
 "MUSIC_TYPE_NONE_ID,"	"MUSIC_TYPE_NONE_ID,"
 "MUSIC_TYPE_CD_ID,"	"MUSIC_TYPE_CD_ID,"
 "MUSIC_TYPE_MIDI_ID,"	"MUSIC_TYPE_MIDI_ID,"
-"AUTO_CREATURES_ID,"	"{Creatures}
+"AUTO_CREATURES_ID,"	"{Criaturas}
 
 Gives control of your units to auto combat"
-"AUTO_SPELLS_ID,"	"{Spells}
+"AUTO_SPELLS_ID,"	"{Feitiços}
 
 During auto combat your hero will cast spells"
-"AUTO_CATAPULT_ID,"	"{Catapult}
+"AUTO_CATAPULT_ID,"	"{Catapulta}
 
 When laying siege to an enemy's castle, your catapult troops will decide which part of the fortifications to target.  If your Ballistics skill is high enough, you will be able to direct the catapult's fire yourself.
 
@@ -610,14 +610,14 @@ If your hero has the Ballistics skill, this option will give that control to the
 During combat, your assault machine troops will decide which  enemy units to target.  If your Artillery skill is high enough, you will be able to direct the assault machine's fire yourself.
 
 If your hero has the Artillery skill, this option will give that control to the computer during auto combat."
-"AUTO_FIRST_AID_TENT_ID,"	"{First Aid Tent}
+"AUTO_FIRST_AID_TENT_ID,"	"{Tenda médica}
 
 During combat, your first aid troops will choose who needs to be healed.  If your First Aid skill is high enough, you will be able to direct the first aid tent yourself.
 
 If your hero has the First Aid skill, this option will give that control to the computer during auto combat."
-"ANIMATION_SPEED_0_ID,"	Set animation speed to slow
-"ANIMATION_SPEED_1_ID,"	Set animation speed to medium
-"ANIMATION_SPEED_2_ID,"	Set animation speed to fast
+"ANIMATION_SPEED_0_ID,"	Definir a velocidade da animação para lento.
+"ANIMATION_SPEED_1_ID,"	Definir a velocidade da animação para médio.
+"ANIMATION_SPEED_2_ID,"	Definir a velocidade da animação para rápido.
 "CREATURE_INFO_STATS_ID,"	"{All Statistics}
 
 Right clicking on a unit will display all statistics about the unit, including any spells that are currently in effect."
@@ -637,41 +637,41 @@ Places a hex shadow under the mouse cursor."
 
 Shows page turning animation in the spell book."
 	
-View Army	View Army																						
-Creature Name	Creature Name																						
-Number of creatures	Number of creatures in the unit																						
-Attack skill	Attack skill																						
-Defense skill	Defense skill																						
-Shots remaining	Number of shots remaining																						
-Damage per attack	Damage per attack																						
-Hit points	Hit points																						
-Hit points remaining	Hit points remaining																						
-Speed	Speed																						
-Morale	Morale																						
-Luck	Luck																						
-Spells affecting the army	Spells affecting the army																						
+Ver o exército	Ver o exército																						
+Nome da criatura	Nome da criatura																						
+Número de criaturas	Número de criaturas na unidade																						
+Ataque	Ataque																						
+Defesa	Defesa																						
+Tiros restantes	Número de tiross restantes																						
+Dano por ataque	Dano por ataque																						
+Vitalidade	Vitalidade																						
+Vitalidade restante	Vitalidade restante																						
+Velocidade	Velocidade																						
+Moral	Moral																						
+Sorte	Sorte																						
+Feitiços afetando a tropa	Feitiços afetando a tropa																						
 Dismiss unit	"{Dismiss Unit}
 
 Dismisses the current unit from your army"																						
 Upgrade unit	"{Upgrade Unit}
 
 Upgrades the current unit"																						
-Okay	"{Okay}
+Ok	"{Ok}
 
-Return to previous window"																						
+Voltae à janela anterior"																						
 																							
-Spell Book	Spell Book																						
-Previous Page	Turn to the previous page																						
-Next Page	Turn to the next page																						
-Adventure Map Spells	Turn to view adventure map spells																						
-Combat Spells	Turn to view combat spells																						
-Air Spells	Turn to view Air spells																						
-Fire Spells	Turn to view Fire spells																						
-Water Spells	Turn to view Water spells																						
-Earth Spells	Turn to view Earth spells																						
-All Spells	Show all spell schools																						
-Spell Points	Hero's remaining spell points																						
-Exit	Close the Spell Book																						
+Livro de magia	Livro de magia																						
+Página anterior	Turn to the previous page																						
+Próxima página	Turn to the next page																						
+Feitiços de aventura	Turn to view adventure map spells																						
+Feitiços de combate	Turn to view combat spells																						
+Feitiços de ar	Turn to view Air spells																						
+Feitiços de fogo	Turn to view Fire spells																						
+Feitiços de água	Turn to view Water spells																						
+Feitiços de terra	Turn to view Earth spells																						
+Todos os feitiços	Show all spell schools																						
+Pontos de magia	Hero's remaining spell points																						
+Sair	Fecha o livro de magia																						
 																							
 CampaignBrief	CampaignBrief																						
 																							
@@ -685,29 +685,29 @@ Change Hero	Click to change your starting hero
 Artifact Bonus	Choose to start with an artifact
 Gold Bonus	Choose to start with extra gold
 Resource Bonus	Choose to start with extra resources
-Restart	"{Restart}
+Recomeçar	"{Recomeçar}
 
 Restart the current campaign"
 View Campaign Intro	"{View Campaign Intro}
 
 Show the intro movie for this campaign"
-ALLY_FLAG1_ID	This is your color
-ALLY_FLAG2_ID	This color is allied with you
-ALLY_FLAG3_ID	This color is allied with you
-ALLY_FLAG4_ID	This color is allied with you
-ALLY_FLAG5_ID	This color is allied with you
-ALLY_FLAG6_ID	This color is allied with you
-ALLY_FLAG7_ID	This color is allied with you
-ALLY_FLAG8_ID	This color is allied with you
-ENEMY_FLAG1_ID	This color is your enemy
-ENEMY_FLAG2_ID	This color is your enemy
-ENEMY_FLAG3_ID	This color is your enemy
-ENEMY_FLAG4_ID	This color is your enemy
-ENEMY_FLAG5_ID	This color is your enemy
-ENEMY_FLAG6_ID	This color is your enemy
-ENEMY_FLAG7_ID	This color is your enemy
-ENEMY_FLAG8_ID	This color is your enemy
-WHICHMAP_ID	This is the size of the Map you're about to play
+ALLY_FLAG1_ID	Esta é a sua cor.
+ALLY_FLAG2_ID	Esta cor está aliada contigo.
+ALLY_FLAG3_ID	Esta cor está aliada contigo.
+ALLY_FLAG4_ID	Esta cor está aliada contigo.
+ALLY_FLAG5_ID	Esta cor está aliada contigo.
+ALLY_FLAG6_ID	Esta cor está aliada contigo.
+ALLY_FLAG7_ID	Esta cor está aliada contigo.
+ALLY_FLAG8_ID	Esta cor está aliada contigo.
+ENEMY_FLAG1_ID	Esta cor é sua inimiga.
+ENEMY_FLAG2_ID	Esta cor é sua inimiga.
+ENEMY_FLAG3_ID	Esta cor é sua inimiga.
+ENEMY_FLAG4_ID	Esta cor é sua inimiga.
+ENEMY_FLAG5_ID	Esta cor é sua inimiga.
+ENEMY_FLAG6_ID	Esta cor é sua inimiga.
+ENEMY_FLAG7_ID	Esta cor é sua inimiga.
+ENEMY_FLAG8_ID	Esta cor é sua inimiga.
+WHICHMAP_ID	Este é o tamanho do mapa que você está prestes a jogar.
 MAP_AREA_1	MAP_AREA_1
 MAP_AREA_2	MAP_AREA_2
 MAP_AREA_3	MAP_AREA_3
@@ -767,23 +767,23 @@ Spectre of Power	Spectre of Power
 																							
 ROLLOVER	ROLLOVER																						
 																							
-Recruit	Recruit																						
-Maximum																							
-Recruit																							
-Cancel																							
+Recrutar	Recrutar																						
+Máximo																							
+Recrutar																							
+Cancelar																							
 																							
 Multiplayer	Multiplayer																						
 Check Box	Click this to enable/disable name																						
 Enter Player Name	Enter Player Name																						
 OK																							
-Back																							
+Voltar																							
 Enter Session Name																							
 Enter Password																							
 Session Name																							
 Enter IP Address																							
 																							
 Sacrifice Window	Sacrifice Window																						
-Exit (nothing will be sacrificed).	Leave the Altar.  All items currently on the Altar will be returned to you.																						
+Sair (nada será sacrificado).	Leave the Altar.  All items currently on the Altar will be returned to you.																						
 Currently held artifact																							
 Place all artifacts in backpack on altar	Move items in your hero's backpack on to the Altar.																						
 Place all artifacts on the altar	"Move all artifacts, both equipped and in your hero's backpack, on to the Altar."																						
@@ -804,51 +804,51 @@ Sacrifice creatures currently on the altar	"Sacrifice anything currently on the 
 	Search through backpack																						
 	Search through backpack																						
 																							
-Skeleton Transformer	Skeleton Transformer																						
+Transformador de esqueletos	Transformador de esqueletos																						
 Place all creatures in the transformer	Move all creatures into the transformer																						
 Change creatures in the transformer into undead	Change creatures in the Transformer into undead																						
 Exit transfomer	Leave the transformer.  No more creatures will become undead																						
 																							
 Trade Window	Trade Window																						
-Trade																							
-Maximum																							
-Give resources to another player																							
-Buy artifacts																							
-Sell creatures																							
-Exit																							
+Fazer negócio																							
+Máximo																							
+Dar recursos para outro jogador																							
+Comprar artefatos																							
+Vender criaturas																							
+Sair																							
 																							
 Give Resource Window	Give Resource Window																						
-Trade																							
-Maximum																							
-Trade Resources																							
-Buy artifacts																							
-Exit																							
+Fazer negócio																							
+Máximo																							
+Trocar recursos																							
+Comprar artefatos																							
+Sair																							
 																							
 Buy Artifact Window	Buy Artifact Window																						
-Trade																							
-Trade resources																							
-Give resources to another player																							
-Sell artifacts																							
-Exit																							
+Fazer negócio																							
+Trocar recursos																							
+Dar recursos para outro jogador																							
+Vender artefatos																							
+Sair																							
 																							
 Sell Artifact Window	Sell Artifact Window																						
-Trade																							
-Trade resources																							
-Give resources to another player																							
-Buy artifacts																							
-Exit																							
+Fazer negócio																							
+Trocar recursos																							
+Dar recursos para outro jogador																							
+Comprar artefatos																							
+Sair																							
 																							
 Sell Creature Window	Sell Creature Window																						
-Trade																							
-Maximum																							
-Trade Resources																							
-Give resources to another player																							
-Exit																							
+Fazer negócio																							
+Máximo																							
+Trocar recursos																							
+Dar recursos para outro jogador																							
+Sair																							
 																							
 University Window	University Window																						
-Cancel	Return to skill selection																						
-Leave the university	Leave the university																						
-	Learn %s %s for %d gold.																						
+Cancelar	Voltar à escolha de habilidade																						
+Sair da universidade	Sair da universidade																						
+	Aprender %s %s por %d ouros.																						
 Not used...  filthy bug.																							
 Insert all data before this line. Do not alter or delete this line.																							
 

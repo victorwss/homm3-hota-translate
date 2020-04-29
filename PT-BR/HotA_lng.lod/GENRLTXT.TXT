@@ -288,7 +288,7 @@ o inimigo -
 A experiência permite aos seus heróis subirem de nível, aumentando as suas habilidades primárias e secundárias."		
 "{Recursos}
 
-Existem sete tipos de recursos no Heroes III usados para construir e melhorar cidades, recrutar tropas e recrutar heróis.  Ouro é o mais comum, necessário para praticamente tudo.  Madeira e pedra são usados na maioria das construções.  Gemas, mercúrio, enxofre e cristaias são recursos mágicos raros usados pelas criaturas e construções mais poderosas."		
+Existem sete tipos de recursos no Heroes III usados para construir e melhorar cidades, recrutar tropas e recrutar heróis.  Ouro é o mais comum, necessário para praticamente tudo.  Madeira e pedra são usados na maioria das construções.  Gemas, mercúrio, enxofre e cristais são recursos mágicos raros usados pelas criaturas e construções mais poderosas."		
 As criaturas querem se juntar a nós!		
 "Todas as criaturas vão se juntar a nós...
 
@@ -409,7 +409,7 @@ Mercado negro
 (Não visitado)		
 (Já aprendeu)		
 (Aprender %s)		
-(prender %s)		
+(Aprender %s)		
 (Já aprendeu)		
 %s te mandou um presente.		
 %s gostaria muito de receber um presente de %s.		
@@ -662,14 +662,14 @@ The %s cast %s
 Opções do sistema		
 Velocidade do herói		
 Velocidade do inimigo		
-Vel. de desliz. do mapa		
+Velocidade de desliz. do mapa		
 Mostrar caminho		
-Mostrar movm. restante		
+Mostrar movimento restante		
 Combate rápido		
 Legendas nos vídeos		
 Contornos na cidade		
 Animar livro de magia		
-"Você tem certeza de que você quer fazer isso?
+"Você tem certeza de que quer fazer isso?
 (Qualquer jogo não salvo será perdido)"		
 As you near the Mana Vortex your body is filled with new energy. You have doubled your normal spell points.		
 The head groom approaches leading a fine looking war horse. "This steed will help speed you in your travels. Alas, his endurance will wane with a lot of heavy riding, and you must return for a fresh mount at the start of the week."		
@@ -763,11 +763,11 @@ Sound File Error!
 Sorry, your version #%s is incompatible with the host's version #%s.		
 "Resetar a galeria dos famosos vai apagar quaisquer conquistas que você tenha obtido.
 
-Você tem certeza que quer resetar a galeria dos famosos?"		
+Você tem certeza de que quer resetar a galeria dos famosos?"		
 "
 O %s foi destruído."		
 Defeat the %s in the %s region of the underworld.		
-O jogador %s falhou em completar a sua jornada no tempo. Perderam.		
+O jogador %s falhou em completar a sua jornada no tempo.  Perderam.		
 O jogador %s perdeu o herói %s.  Sua jornada se encerra aqui.		
 Você quer jogar um jogo salvo?		
 Campanha		
@@ -788,26 +788,26 @@ This garrison has a powerful enchantment that suppresses all other magic.
 
 Perhaps you meant to Start a New Game instead. Go back to the Main Menu and select New Game."		
 Selecione o destino		
-Are you sure you want to delete %s?		
-At the start of the game, 3-6 crystal are added to your Kingdom's resource pool.		
-At the start of the game, 3-6 gems are added to your Kingdom's resource pool.		
-At the start of the game, 3-6 mercury are added to your Kingdom's resource pool.		
-At the start of the game, 3-6 sulfur are added to your Kingdom's resource pool.		
-3-6 Cristais		
-3-6 Gemas		
-3-6 Mercúrio		
-3-6 Enxofre		
+Você tem certeza de que quer deletar %s?		
+Ao iniciar o jogo, 3-6 cristais são adicionados aos recursos de seu reino.		
+Ao iniciar o jogo, 3-6 gemas são adicionados aos recursos de seu reino.		
+Ao iniciar o jogo, 3-6 mercúrio são adicionados aos recursos de seu reino.		
+Ao iniciar o jogo, 3-6 enxofre são adicionados aos recursos de seu reino.		
+3-6 cristais		
+3-6 gemas		
+3-6 mercúrio		
+3-6 enxofre		
 O(a) %s já gastou todos os seus pontos de magia.		
 Os(as) %s já gastaram todos os seus pontos de magia.		
 Cursed Ground prevents all spellcasting except for level one spells.		
 An aura of anti-magic prevents spellcasting in this garrison.		
 The %s prevents all spellcasting		
 Can only summon %s from the corpses of living creatures		
-The dead %s does not have sufficient life-force to summon %s		
-The dead %s do not have sufficient life-force to summon %s		
+Esses corpos de %s não têm força vital restante para conjurar %s.		
+Esse corpo de %s não tem força vital restante para conjurar %s.		
 Apenas criaturas vivas podem ser ressuscitadas.		
 O(a) %s não é poderoso o suficiente para ressuscitar %s.		
-Os(as) %s não são poderoso o suficiente para ressuscitar %s.		
+Os(as) %s não são poderosos o suficiente para ressuscitar %s.		
 "{Insufficient Disk Space}
 
 Heroes III requires at least 5 MB of free space on the current drive.

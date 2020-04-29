@@ -1,14 +1,14 @@
-Derrotar todos os inimigos
-Adquirir um artefato
-Acumular criaturas
-Acumular recursos
-Melhorar a cidade
-Construir uma estrutura do graal
-Derrotar um herói
-Capturar uma cidade
-Derrotar um monstro
-Conquistar todas as habitações de criaturas
-Conquistar todas as minas
-Transportar artefato
-Derrotar todos os monstros
-Sobreviver por um tempo
+Derrotar todos os inimigos.
+Adquirir um artefato.
+Acumular criaturas.
+Acumular recursos.
+Melhorar a cidade.
+Construir uma estrutura do graal.
+Derrotar um herói.
+Capturar uma cidade.
+Derrotar um monstro.
+Conquistar todas as habitações de criaturas.
+Conquistar todas as minas.
+Transportar artefato.
+Derrotar todos os monstros.
+Sobreviver por um tempo.

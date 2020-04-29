@@ -283,13 +283,13 @@ Você resgatou um núfrago no mar salvando-o da morte certa no implacável oceano. 
 Você resgatou um núfrago no mar salvando-o da morte certa no implacável oceano.  Agradecido, ele diz, ""Eu adoraria te dar um artefato como gratidão, mas você não tem mais espaço onde colocá-lo."""
 "{Capela do Encantamento Mágico}
 
-Você chegou numa pequena capela visitada por um grupo de aprendizes de feiticeiros.  Em troca de sua proteção, eles concordam em te ensinar um simples feitiço - "
+Você chegou numa pequena capela visitada por um grupo de aprendizes de feiticeiros.  Em troca de sua proteção, eles concordam em te ensinar um feitiço simples - "
 "{Capela do Gesto Mágico}
 
-Você chegou numa ornamentada capela visitada por um grupo de frades rotundos.  Em troca de sua proteção, eles concordam em te ensinar um interessante feitiço - "
+Você chegou numa ornamentada capela visitada por um grupo de frades rotundos.  Em troca de sua proteção, eles concordam em te ensinar um feitiço interessante - "
 "{Capela do Pensamento Mágico}
 
-Você chegou numa luxuosa capela visitada por um grupo de sumos sacerdotes.  Em troca de sua proteção, eles concordam em te ensinar um sofisticado feitiço - "
+Você chegou numa luxuosa capela visitada por um grupo de sumos sacerdotes.  Em troca de sua proteção, eles concordam em te ensinar um feitiço sofisticado - "
 "  Infelizmente, você não é sábio o suficiente para entender esse feitiço, e portanto, não pôde aprendê-lo."
 "  Infelizmente, você não tem nenhum livro de magia para escrever o feitiço."
 "Uma música lamentosa emana das sirenes colocadas sobre as rochas.  Muitos membros da sua tripulação caem sob esse feitiço e mergulham no mar, onde se afogam.  Apesar desse lamentável acontecimento, você ficou um pouco mais inteligente com essa visita, ganhando %d pontos de experiência."
@@ -334,16 +334,16 @@ Depois de vasculhar a área, você tropeça num pequeno tesouro escondido.  Você po
 Assim que você se aproximou, a árvore abriu os olhos em deleite.  ""É bom te ver, estudante.  Eu espero que meus ensinamentos tenham te ajudado."""
 "{Árvore do Conhecimento}
 
-Assim que você se aproximou, a árvore abriu os olhos em deleite.  ""Ahh, um aventureiro!  Deixe-me te ensinar um pouco do que aprendi em muitos anos."""
+Assim que você se aproximou, a árvore abriu os olhos em deleite.  ""Ahh, alguém me busca de aventuras!  Deixe-me te ensinar um pouco do que aprendi em muitos anos."""
 "{Árvore do Conhecimento}
 
-Assim que você se aproximou, a árvore abriu os olhos em deleite.  ""Ahh, um aventureiro! Eu ficarei contente em te ensinar um pouco do que aprendi em muitos anos pela pequena quantia de 2000 ouros.  Basta enterrar este dinheiro ao redor das minhas raízes."""
+Assim que você se aproximou, a árvore abriu os olhos em deleite.  ""Ahh, alguém me busca de aventuras! Eu ficarei contente em te ensinar um pouco do que aprendi em muitos anos pela pequena quantia de 2000 ouros.  Basta enterrar este dinheiro ao redor das minhas raízes."""
 "{Árvore do Conhecimento}
 
 Lágrimas estão a cair dos olhos da árvore.  ""Eu preciso de 2000 ouros."" ela sussurra.  ""Bem, volte quando você puder me pagar."""
 "{Árvore do Conhecimento}
 
-Assim que você se aproximou, a árvore abriu os olhos em deleite.  ""Ahh, an adventurer! Eu ficarei contente em te ensinar um pouco do que aprendi em muitos anos pela pequena quantia de 10 gemas.  Basta enterrar este dinheiro ao redor das minhas raízes."""
+Assim que você se aproximou, a árvore abriu os olhos em deleite.  ""Ahh, alguém me busca de aventuras! Eu ficarei contente em te ensinar um pouco do que aprendi em muitos anos pela pequena quantia de 10 gemas.  Basta enterrar este dinheiro ao redor das minhas raízes."""
 "{Árvore do Conhecimento}
 
 Lágrimas estão a cair dos olhos da árvore.  ""Eu preciso de 10 gemas."" ela sussurra.  ""Bem, volte quando você puder me pagar."""

@@ -6473,7 +6473,7 @@ Text 7: "# Additional objects for RMG
 "
 Text 8: "{Capela do Mistério Mágico}
 
-Você chegou numa antiga capela visitada por um grupo de eremitas místicos.  Em troca de sua proteção, eles concordam em te ensinar um poderoso feitiço - "
+Você chegou numa antiga capela visitada por um grupo de eremitas místicos.  Em troca de sua proteção, eles concordam em te ensinar um feitiço poderoso - "
 Has FilS: "false"
 Vals count: "4"
 Val 0: "0"
@@ -7687,12 +7687,12 @@ Text 6: ""
 Text 7: "H
 XH
 G"
-Text 8: "View all huge maps
-View all extra huge maps
-View all giant maps
-Create a huge map
-Create an extra huge map
-Create a giant map"
+Text 8: "Ver todos os mapas enormes.
+Ver todos os mapas muito enormes.
+Ver todos os mapas gigantes.
+Criar um mapa enorme.
+Criar um mapa muito enorme.
+Criar um mapa gigante."
 Has FilS: "false"
 Vals count: "4"
 Val 0: "0"
@@ -13589,7 +13589,7 @@ Text 6: ""
 Text 7: "Planalto
 &Highlands
 &Highland Objects
-enterrado sob na vegetação que cresce no alto dos morros"
+enterrado sob a vegetação que cresce no alto dos morros"
 Text 8: "# Step costs
 100 100 100 100
 "

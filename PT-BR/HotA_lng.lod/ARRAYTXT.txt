@@ -124,10 +124,10 @@ cMoraleInfo
 "{Moral Boa}
 
 A boa moral pode dar aos seus exércitos ataques extras em combate."
-"{Morale Neutra}
+"{Moral Neutra}
 
 Uma moral neutra significa que seus exércitos não serão nem abençoados com ataques extras e nem irão travar em pânico durante o combate."
-"{Morale Ruim}
+"{Moral Ruim}
 
 A moral ruim pode fazer os seus exércitos travarem em pânico durante o combate."
 "%s
