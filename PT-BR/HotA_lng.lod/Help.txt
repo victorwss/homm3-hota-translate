@@ -146,70 +146,70 @@ SORT_LOSS 	Ordena os mapas por condições de derrota.
 BRIEFING 	BRIEFING 
 SSHERO 	SSHERO 
 GOLDPIC 	GOLDPIC 
-HUMAN_CPU1 	Human or CPU means that this color can be played by a human or the computer.  CPU only means that only the computer can control this color.
-HUMAN_CPU2 	Human or CPU means that this color can be played by a human or the computer.  CPU only means that only the computer can control this color.
-HUMAN_CPU3 	Human or CPU means that this color can be played by a human or the computer.  CPU only means that only the computer can control this color.
-HUMAN_CPU4 	Human or CPU means that this color can be played by a human or the computer.  CPU only means that only the computer can control this color.
-HUMAN_CPU5 	Human or CPU means that this color can be played by a human or the computer.  CPU only means that only the computer can control this color.
-HUMAN_CPU6 	Human or CPU means that this color can be played by a human or the computer.  CPU only means that only the computer can control this color.
-HUMAN_CPU7 	Human or CPU means that this color can be played by a human or the computer.  CPU only means that only the computer can control this color.
-HUMAN_CPU8 	Human or CPU means that this color can be played by a human or the computer.  CPU only means that only the computer can control this color.
-HANDICAP1 	Allows you to handicap this player by diminishing their starting resources
-HANDICAP2 	Allows you to handicap this player by diminishing their starting resources
-HANDICAP3 	Allows you to handicap this player by diminishing their starting resources
-HANDICAP4 	Allows you to handicap this player by diminishing their starting resources
-HANDICAP5 	Allows you to handicap this player by diminishing their starting resources
-HANDICAP6 	Allows you to handicap this player by diminishing their starting resources
-HANDICAP7 	Allows you to handicap this player by diminishing their starting resources
-HANDICAP8 	Allows you to handicap this player by diminishing their starting resources
-TOWN_LEFT1 	Allows you to choose a starting town type
-TOWN_LEFT2 	Allows you to choose a starting town type
-TOWN_LEFT3 	Allows you to choose a starting town type
-TOWN_LEFT4 	Allows you to choose a starting town type
-TOWN_LEFT5 	Allows you to choose a starting town type
-TOWN_LEFT6 	Allows you to choose a starting town type
-TOWN_LEFT7 	Allows you to choose a starting town type
-TOWN_LEFT8 	Allows you to choose a starting town type
-TOWN_RITE1 	Allows you to choose a starting town type
-TOWN_RITE2 	Allows you to choose a starting town type
-TOWN_RITE3 	Allows you to choose a starting town type
-TOWN_RITE4 	Allows you to choose a starting town type
-TOWN_RITE5 	Allows you to choose a starting town type
-TOWN_RITE6 	Allows you to choose a starting town type
-TOWN_RITE7 	Allows you to choose a starting town type
-TOWN_RITE8 	Allows you to choose a starting town type
-HERO_LEFT1 	Allows you to choose a starting hero based on your town type
-HERO_LEFT2 	Allows you to choose a starting hero based on your town type
-HERO_LEFT3 	Allows you to choose a starting hero based on your town type
-HERO_LEFT4 	Allows you to choose a starting hero based on your town type
-HERO_LEFT5 	Allows you to choose a starting hero based on your town type
-HERO_LEFT6 	Allows you to choose a starting hero based on your town type
-HERO_LEFT7 	Allows you to choose a starting hero based on your town type
-HERO_LEFT8 	Allows you to choose a starting hero based on your town type
-HERO_RITE1 	Allows you to choose a starting hero based on your town type
-HERO_RITE2 	Allows you to choose a starting hero based on your town type
-HERO_RITE3 	Allows you to choose a starting hero based on your town type
-HERO_RITE4 	Allows you to choose a starting hero based on your town type
-HERO_RITE5 	Allows you to choose a starting hero based on your town type
-HERO_RITE6 	Allows you to choose a starting hero based on your town type
-HERO_RITE7 	Allows you to choose a starting hero based on your town type
-HERO_RITE8 	Allows you to choose a starting hero based on your town type
-RES_LEFT1 	Allows you to choose a starting bonus for your hero
-RES_LEFT2 	Allows you to choose a starting bonus for your hero
-RES_LEFT3 	Allows you to choose a starting bonus for your hero
-RES_LEFT4 	Allows you to choose a starting bonus for your hero
-RES_LEFT5 	Allows you to choose a starting bonus for your hero
-RES_LEFT6 	Allows you to choose a starting bonus for your hero
-RES_LEFT7 	Allows you to choose a starting bonus for your hero
-RES_LEFT8 	Allows you to choose a starting bonus for your hero
-RES_RITE1 	Allows you to choose a starting bonus for your hero
-RES_RITE2 	Allows you to choose a starting bonus for your hero
-RES_RITE3 	Allows you to choose a starting bonus for your hero
-RES_RITE4 	Allows you to choose a starting bonus for your hero
-RES_RITE5 	Allows you to choose a starting bonus for your hero
-RES_RITE6 	Allows you to choose a starting bonus for your hero
-RES_RITE7 	Allows you to choose a starting bonus for your hero
-RES_RITE8 	Allows you to choose a starting bonus for your hero
+HUMAN_CPU1 	Humano ou CPU significa que esta cor pode ser controlada tanto por um humano quanto por um computador.  Apenas CPU significa que apenas o computador pode controlar esta cor.
+HUMAN_CPU2 	Humano ou CPU significa que esta cor pode ser controlada tanto por um humano quanto por um computador.  Apenas CPU significa que apenas o computador pode controlar esta cor.
+HUMAN_CPU3 	Humano ou CPU significa que esta cor pode ser controlada tanto por um humano quanto por um computador.  Apenas CPU significa que apenas o computador pode controlar esta cor.
+HUMAN_CPU4 	Humano ou CPU significa que esta cor pode ser controlada tanto por um humano quanto por um computador.  Apenas CPU significa que apenas o computador pode controlar esta cor.
+HUMAN_CPU5 	Humano ou CPU significa que esta cor pode ser controlada tanto por um humano quanto por um computador.  Apenas CPU significa que apenas o computador pode controlar esta cor.
+HUMAN_CPU6 	Humano ou CPU significa que esta cor pode ser controlada tanto por um humano quanto por um computador.  Apenas CPU significa que apenas o computador pode controlar esta cor.
+HUMAN_CPU7 	Humano ou CPU significa que esta cor pode ser controlada tanto por um humano quanto por um computador.  Apenas CPU significa que apenas o computador pode controlar esta cor.
+HUMAN_CPU8 	Humano ou CPU significa que esta cor pode ser controlada tanto por um humano quanto por um computador.  Apenas CPU significa que apenas o computador pode controlar esta cor.
+HANDICAP1 	Permite a você dar uma desvantagem a este jogador ao reduzir seus recursos iniciais.
+HANDICAP2 	Permite a você dar uma desvantagem a este jogador ao reduzir seus recursos iniciais.
+HANDICAP3 	Permite a você dar uma desvantagem a este jogador ao reduzir seus recursos iniciais.
+HANDICAP4 	Permite a você dar uma desvantagem a este jogador ao reduzir seus recursos iniciais.
+HANDICAP5 	Permite a você dar uma desvantagem a este jogador ao reduzir seus recursos iniciais.
+HANDICAP6 	Permite a você dar uma desvantagem a este jogador ao reduzir seus recursos iniciais.
+HANDICAP7 	Permite a você dar uma desvantagem a este jogador ao reduzir seus recursos iniciais.
+HANDICAP8 	Permite a você dar uma desvantagem a este jogador ao reduzir seus recursos iniciais.
+TOWN_LEFT1 	Permite a você escolher uma facção inicial.
+TOWN_LEFT2 	Permite a você escolher uma facção inicial.
+TOWN_LEFT3 	Permite a você escolher uma facção inicial.
+TOWN_LEFT4 	Permite a você escolher uma facção inicial.
+TOWN_LEFT5 	Permite a você escolher uma facção inicial.
+TOWN_LEFT6 	Permite a você escolher uma facção inicial.
+TOWN_LEFT7 	Permite a você escolher uma facção inicial.
+TOWN_LEFT8 	Permite a você escolher uma facção inicial.
+TOWN_RITE1 	Permite a você escolher uma facção inicial.
+TOWN_RITE2 	Permite a você escolher uma facção inicial.
+TOWN_RITE3 	Permite a você escolher uma facção inicial.
+TOWN_RITE4 	Permite a você escolher uma facção inicial.
+TOWN_RITE5 	Permite a você escolher uma facção inicial.
+TOWN_RITE6 	Permite a você escolher uma facção inicial.
+TOWN_RITE7 	Permite a você escolher uma facção inicial.
+TOWN_RITE8 	Permite a você escolher uma facção inicial.
+HERO_LEFT1 	Permite a você escolher o herói inicial baseado na sua facção.
+HERO_LEFT2 	Permite a você escolher o herói inicial baseado na sua facção.
+HERO_LEFT3 	Permite a você escolher o herói inicial baseado na sua facção.
+HERO_LEFT4 	Permite a você escolher o herói inicial baseado na sua facção.
+HERO_LEFT5 	Permite a você escolher o herói inicial baseado na sua facção.
+HERO_LEFT6 	Permite a você escolher o herói inicial baseado na sua facção.
+HERO_LEFT7 	Permite a você escolher o herói inicial baseado na sua facção.
+HERO_LEFT8 	Permite a você escolher o herói inicial baseado na sua facção.
+HERO_RITE1 	Permite a você escolher o herói inicial baseado na sua facção.
+HERO_RITE2 	Permite a você escolher o herói inicial baseado na sua facção.
+HERO_RITE3 	Permite a você escolher o herói inicial baseado na sua facção.
+HERO_RITE4 	Permite a você escolher o herói inicial baseado na sua facção.
+HERO_RITE5 	Permite a você escolher o herói inicial baseado na sua facção.
+HERO_RITE6 	Permite a você escolher o herói inicial baseado na sua facção.
+HERO_RITE7 	Permite a você escolher o herói inicial baseado na sua facção.
+HERO_RITE8 	Permite a você escolher o herói inicial baseado na sua facção.
+RES_LEFT1 	Permite a você escolher o bônus inicial para o seu herói.
+RES_LEFT2 	Permite a você escolher o bônus inicial para o seu herói.
+RES_LEFT3 	Permite a você escolher o bônus inicial para o seu herói.
+RES_LEFT4 	Permite a você escolher o bônus inicial para o seu herói.
+RES_LEFT5 	Permite a você escolher o bônus inicial para o seu herói.
+RES_LEFT6 	Permite a você escolher o bônus inicial para o seu herói.
+RES_LEFT7 	Permite a você escolher o bônus inicial para o seu herói.
+RES_LEFT8 	Permite a você escolher o bônus inicial para o seu herói.
+RES_RITE1 	Permite a você escolher o bônus inicial para o seu herói.
+RES_RITE2 	Permite a você escolher o bônus inicial para o seu herói.
+RES_RITE3 	Permite a você escolher o bônus inicial para o seu herói.
+RES_RITE4 	Permite a você escolher o bônus inicial para o seu herói.
+RES_RITE5 	Permite a você escolher o bônus inicial para o seu herói.
+RES_RITE6 	Permite a você escolher o bônus inicial para o seu herói.
+RES_RITE7 	Permite a você escolher o bônus inicial para o seu herói.
+RES_RITE8 	Permite a você escolher o bônus inicial para o seu herói.
 HERO_SETTING_1 	Clique aqui para jogar com esta cor.
 HERO_SETTING_2 	Clique aqui para jogar com esta cor.
 HERO_SETTING_3 	Clique aqui para jogar com esta cor.
@@ -232,8 +232,8 @@ TOWN_SETTING_8 	TOWN_SETTING_8
 "const_medium_map,"	Criar um mapa médio.	
 "const_large_map,"	Criar um mapa grande.	
 "const_huge_map,"	Criar um mapa muito grande.	
-"const_map_levels,"	Escolhe se o mpa tem um ou dois planos.	
-"const_human_positions_label,"	Select number of human-playable positions	
+"const_map_levels,"	Escolhe se o mapa tem um ou dois planos.	
+"const_human_positions_label,"	Selecione o número de posições jogáveis por humanos.	
 "const_1_human,"	Criar 1 jogador humano ou computador.	
 "const_2_humans,"	Criar 2 jogadores humanos ou computador.	
 "const_3_humans,"	Criar 3 jogadores humanos ou computador.	
@@ -243,46 +243,46 @@ TOWN_SETTING_8 	TOWN_SETTING_8
 "const_7_humans,"	Criar 7 jogadores humanos ou computador.	
 "const_8_humans,"	Criar 8 jogadores humanos ou computador.	
 "const_random_humans,"	Criar 1-8 jogadores humanos.	
-"const_human_teams_label,"	Select the number of teams for human-playable positions	
-"const_no_human_teams,"	No teams	
-"const_1_human_team,"	Create 1 human team	
-"const_2_human_teams,"	Create 2 human teams	
-"const_3_human_teams,"	Create 3 human teams	
-"const_4_human_teams,"	Create 4 human teams	
-"const_5_human_teams,"	Create 5 human teams	
-"const_6_human_teams,"	Create 6 human teams	
-"const_7_human_teams,"	Create 7 human teams	
-"const_random_human_teams,"	Create a random number of human teams	
-"const_computer_positions_label,"	Select the number of computer-only positions	
-"const_no_computers,"	Create no computer players	
-"const_1_computer,"	Create 1 computer position	
-"const_2_computers,"	Create 2 computer positions	
-"const_3_computers,"	Create 3 computer positions	
-"const_4_computers,"	Create 4 computer positions	
-"const_5_computers,"	Create 5 computer positions	
-"const_6_computers,"	Create 6 computer positions	
-"const_7_computers,"	Create 7 computer positions	
-"const_random_computers,"	Create a random number of computer positions	
-"const_computer_teams_label,"	Select the number of computer teams	
-"const_no_computer_teams,"	No computer teams	
-"const_1_computer_team,"	Create 1 computer team	
-"const_2_computer_teams,"	Create 2 computer teams	
-"const_3_computer_teams,"	Create 3 computer teams	
-"const_4_computer_teams,"	Create 4 computer teams	
-"const_5_computer_teams,"	Create 5 computer teams	
-"const_6_computer_teams,"	Create 6 computer teams	
-"const_random_computer_teams,"	Create a random number of computer teams	
-"const_water_label,"	Select the amount of water on the map	
+"const_human_teams_label,"	Selecione o número de times para posições jogáveis por humanos.	
+"const_no_human_teams,"	Sem times.	
+"const_1_human_team,"	Criar 1 time humano.	
+"const_2_human_teams,"	Criar 2 times humanos.	
+"const_3_human_teams,"	Criar 3 times humanos.	
+"const_4_human_teams,"	Criar 4 times humanos.	
+"const_5_human_teams,"	Criar 5 times humanos.	
+"const_6_human_teams,"	Criar 6 times humanos.	
+"const_7_human_teams,"	Criar 7 times humanos.	
+"const_random_human_teams,"	Criar um número aleatório de times humanos.	
+"const_computer_positions_label,"	Selecione o número de posições apenas para o computador.	
+"const_no_computers,"	Não criar jogadores computadores.	
+"const_1_computer,"	Criar 1 jogador computador.	
+"const_2_computers,"	Criar 2 jogadores computador.	
+"const_3_computers,"	Criar 3 jogadores computador.	
+"const_4_computers,"	Criar 4 jogadores computador.	
+"const_5_computers,"	Criar 5 jogadores computador.	
+"const_6_computers,"	Criar 6 jogadores computador.	
+"const_7_computers,"	Criar 7 jogadores computador.	
+"const_random_computers,"	Criar um número aleatório de posições para o computador.	
+"const_computer_teams_label,"	Selecione o número de times de computadores.	
+"const_no_computer_teams,"	Sem times de computdor.	
+"const_1_computer_team,"	Criar 1 time de computador.	
+"const_2_computer_teams,"	Criar 2 times de computador.	
+"const_3_computer_teams,"	Criar 3 times de computador.	
+"const_4_computer_teams,"	Criar 4 times de computador.	
+"const_5_computer_teams,"	Criar 5 times de computador.	
+"const_6_computer_teams,"	Criar 6 times de computador.	
+"const_random_computer_teams,"	Criar um número aleatório de times de computadores.	
+"const_water_label,"	Selecione a quntidade de água no mapa.	
 "const_no_water,"	Sem água ou quase.	
 "const_normal_water,"	Cria um continente cercado de água.	
 "const_islands,"	Cria pequenas massas de terra como ilhas cercadas de água.	
 "const_random_water,"	Escolhe uma quantidade aleatória de água.	
-"const_monster_strength_label,"	Select the relative strength of guardian monsters	
-"const_weak_monsters,"	Make monsters weaker than normal	
-"const_normal_monsters,"	Normal strength guardians	
-"const_strong_monsters,"	Create strong guardians	
-"const_random_monsters,"	Choose a random overall strength for guardian monsters	
-"const_show_saved_random_maps,"	Show recently generated random maps	
+"const_monster_strength_label,"	Selecione a força relativa dos monstros guardiões.	
+"const_weak_monsters,"	Faça os monstros srem mais fracos que o normal.	
+"const_normal_monsters,"	Guardiões com força normal.	
+"const_strong_monsters,"	Criar guardiões fortes.	
+"const_random_monsters,"	Escolher aleatoriamente a força dos monstros guardiões.	
+"const_show_saved_random_maps,"	Mostrar os mapas aleatórios gerdos recentemente.	
 SLIDER_CHATWINDOW 	Scroll through chat text	
 SLIDER_FILEMENU 	Scroll through scenario or save game list	
 SLIDER_DURATION 	Allows you to change player turn duration	
@@ -307,19 +307,19 @@ Quando você inicia sem uma cidade, estas definições podem ser usadas para escolh
 "																						
 "STARTING_TOWN_HEADER_W_CONFLUX_ID,"	"{Facção inicial}
 
-Cada jogador pode ou não começar com uma cidade.  As opções são aleatório, castelo, floresta, torre, inferno, necrópolis, masmorra, barbári, pântano, confluxo e enseada.
+Cada jogador pode ou não começar com uma cidade.  As opções são aleatório, castelo, floresta, torre, inferno, necrópolis, masmorra, barbárie, pântano, confluxo e enseada.
 
 Quando você inicia sem uma cidade, estas definições podem ser usadas para escolher a facção de um possível herói inicial.
 "																						
-"STARTING_HERO_HEADER_ID,"	"{Starting Hero}
+"STARTING_HERO_HEADER_ID,"	"{Herói inicial}
 
-Each player may, or may not, start with a Hero.  At times, this option may be locked, or absent.  At other times, you may cycle through up to sixteen different hero choices.  If the Starting Town option is enabled, you can change the hero classes for a different set of hero choices.
+Cada jogador pode ou não começar com um herói.  Às vezes, est opção pode estar travada ou ausente.  Em outras circunstâncias, você pode rodar por escolhas de até 16 heróis diferentes.  Se a opção da sua facção inicial estiver habilitada, você pode trocr as classes de heróis por um conjunto diferentes de heróis a escolher.
 
-To see a hero's name, class, and specialty, right click the hero's portrait.
+Para ver o nome, classe e especialidade de um herói, clique em sua foto.
 "																						
-"STARTING_BONUS_HEADER_ID,"	"{Starting Bonus}
+"STARTING_BONUS_HEADER_ID,"	"{Bônus inicial}
 
-With a Starting Bonus, you may choose a random artifact, 500-1000 gold, or 5-10 wood and ore.
+Com um bônus inicial, você pode começar com um artefato aleatório, 500-1000 ouros, ou 5-10 unidades de madeira e de pedra.
 "																						
 																							
 Multiplayer Selection	Multiplayer Selection																						
@@ -408,7 +408,7 @@ Scroll up through available heroes"
 Scroll Hero List	"{Scroll Hero List}
 
 Scroll down through available heroes"																						
-Hero Portrait	"{Hero Portrait}
+Retrato do herói	"{Retrato do herói}
 
 Click once to select this hero and center the adventure map on their location.  Click again to enter and view the Hero Screen."																						
 Scroll Town List	"{Scroll Town List}
@@ -420,13 +420,13 @@ Scroll down through available towns"
 Town Portrait	"{Town Portrait}
 
 Click once to select this town and center the adventure map on its location.  Click again to enter and view the Town Screen."																						
-Ouro	Amount of gold in your treasury																						
-Madeira	Your total available wood																						
-Mercúrio	Your total available mercury																						
-Pedra	Your total available ore																						
-Enxofre	Your total available sulfur																						
-Cristais	Your total available crystal																						
-Gemas	Your total available gems																						
+Ouro	Quantidade de ouro dentre seus tesouros.																						
+Madeira	Sua quantidade total de madeira.																						
+Mercúrio	Sua quantidade total de mercúrio.																						
+Pedra	Sua quantidade total de pedra.																						
+Enxofre	Sua quantidade total de enxofre.																						
+Cristais	Sua quantidade total de cristatis.																						
+Gemas	Sua quantidade total de gemas.																						
 Data	"{Data}
 
 Mês, semana e dia atual"																						
@@ -435,19 +435,19 @@ ROLLOVER	ROLLOVER
 System Options	System Options																						
 Menu principal	"{Menu principal}
 
-Abandonar o jogo e voltar ao menu principal"
+Abandonar o jogo e voltar ao menu principal."
 Carregar jogo	"{Carregar jogo}
 
-Load a saved game"
+Carregar um jogo salvo."
 Salvar jogo	"{Salvar jogo}
 
-Save the current game"
-Restart Scenario	"{Restart Scenario}
+Salvr o jogo atual."
+Recomeçar o cenário	"{Recomeçar o cenário}
 
-Restart the current scenario"
+Recomeça o jogo neste mesmo cenário."
 Sair do jogo	"{Sair do jogo}
 
-Sair do Heroes of Might and Magic III"
+Sair do Heroes of Might and Magic III."
 Voltar	"{Voltar ao jogo}
 
 Return to the Adventure Map!"
@@ -538,11 +538,11 @@ Return to the Adventure Map"
 Combat Window	Combat Window																						
 Render-se	"{Render-se}
 
-Offer to surrender to your enemy.  Your hero must pay to leave combat, but may be immediately recruited at a tavern along with any troops and artifacts currently in his possession."																						
+Ofereça uma rendição ao inimigo.  O seu herói deve pagar para sair do combate, mas imediatamente poderá ser recrutado na taverna junto com todas as tropas e artefatos que estiverem em sua posse."																						
 Fugir	"{Fugir}
 
-Your hero will flee the combat, but may be immediately recruited at a tavern along with any artifacts currently in his possession."																						
-Combat Options	"{Combat Options}
+O seu herói fugirá do combate, mas imediatamente poderá ser recrutado na taverna junto com todos os artefatos que estiverem em sua posse."																						
+Opções de combate	"{Opções de combate}
 
 Allows you to view or change the current combat options"																						
 Auto Combat	"{Auto Combat}
@@ -552,7 +552,7 @@ Allows the computer to conduct the combat for you.  Click anywhere during auto c
 	Scroll through text displayed during combat																						
 Conjurar feitiço	"{Conjurar feitiço}
 
-Opens your hero's spell book, allowing you to cast a spell"																						
+Abre o livro de magia do seu herói, permitindo a você conjurar um feitiço."																						
 Esperar	"{Esperar}
 
 Delay this unit's turn until after all troops have had the opportunity to move"																						
@@ -564,33 +564,33 @@ End Tactics Phase	"{End Tactics Phase}
 
 Ends the Tactics Phase and commences combat."																						
 																							
-Combat Options	Combat Options																						
+Opções de combate	Opções de combate																						
 Voltar ao combate	"{Voltar ao combate}
 
 Exit combat options"																						
 Restore Default Values	"{Default}
 
 Restores combat option default values"																						
-"MUSIC_VOLUME_0_ID,"	Desliga a música																						
-"MUSIC_VOLUME_1_ID,"	Define o volume da música em 1																						
-"MUSIC_VOLUME_2_ID,"	Define o volume da música em 2																						
-"MUSIC_VOLUME_3_ID,"	Define o volume da música em 3																						
-"MUSIC_VOLUME_4_ID,"	Define o volume da música em 4																						
-"MUSIC_VOLUME_5_ID,"	Define o volume da música em 5																						
-"MUSIC_VOLUME_6_ID,"	Define o volume da música em 6
-"MUSIC_VOLUME_7_ID,"	Define o volume da música em 7
-"MUSIC_VOLUME_8_ID,"	Define o volume da música em 8
-"MUSIC_VOLUME_9_ID,"	Define o volume da música em 9
-"EFFECTS_VOLUME_0_ID,"	Desliga os efeitos sonoros
-"EFFECTS_VOLUME_1_ID,"	Define o volume dos efeitos sonoros em 1
-"EFFECTS_VOLUME_2_ID,"	Define o volume dos efeitos sonoros em 2
-"EFFECTS_VOLUME_3_ID,"	Define o volume dos efeitos sonoros em 3
-"EFFECTS_VOLUME_4_ID,"	Define o volume dos efeitos sonoros em 4
-"EFFECTS_VOLUME_5_ID,"	Define o volume dos efeitos sonoros em 5
-"EFFECTS_VOLUME_6_ID,"	Define o volume dos efeitos sonoros em 6
-"EFFECTS_VOLUME_7_ID,"	Define o volume dos efeitos sonoros em 7
-"EFFECTS_VOLUME_8_ID,"	Define o volume dos efeitos sonoros em 8
-"EFFECTS_VOLUME_9_ID,"	Define o volume dos efeitos sonoros em 9
+"MUSIC_VOLUME_0_ID,"	Desliga a música.																						
+"MUSIC_VOLUME_1_ID,"	Define o volume da música em 1.																						
+"MUSIC_VOLUME_2_ID,"	Define o volume da música em 2.																						
+"MUSIC_VOLUME_3_ID,"	Define o volume da música em 3.																						
+"MUSIC_VOLUME_4_ID,"	Define o volume da música em 4.																						
+"MUSIC_VOLUME_5_ID,"	Define o volume da música em 5.																						
+"MUSIC_VOLUME_6_ID,"	Define o volume da música em 6.
+"MUSIC_VOLUME_7_ID,"	Define o volume da música em 7.
+"MUSIC_VOLUME_8_ID,"	Define o volume da música em 8.
+"MUSIC_VOLUME_9_ID,"	Define o volume da música em 9.
+"EFFECTS_VOLUME_0_ID,"	Desliga os efeitos sonoros.
+"EFFECTS_VOLUME_1_ID,"	Define o volume dos efeitos sonoros em 1.
+"EFFECTS_VOLUME_2_ID,"	Define o volume dos efeitos sonoros em 2.
+"EFFECTS_VOLUME_3_ID,"	Define o volume dos efeitos sonoros em 3.
+"EFFECTS_VOLUME_4_ID,"	Define o volume dos efeitos sonoros em 4.
+"EFFECTS_VOLUME_5_ID,"	Define o volume dos efeitos sonoros em 5.
+"EFFECTS_VOLUME_6_ID,"	Define o volume dos efeitos sonoros em 6.
+"EFFECTS_VOLUME_7_ID,"	Define o volume dos efeitos sonoros em 7.
+"EFFECTS_VOLUME_8_ID,"	Define o volume dos efeitos sonoros em 8.
+"EFFECTS_VOLUME_9_ID,"	Define o volume dos efeitos sonoros em 9.
 "MUSIC_TYPE_NONE_ID,"	"MUSIC_TYPE_NONE_ID,"
 "MUSIC_TYPE_CD_ID,"	"MUSIC_TYPE_CD_ID,"
 "MUSIC_TYPE_MIDI_ID,"	"MUSIC_TYPE_MIDI_ID,"
@@ -650,27 +650,27 @@ Velocidade	Velocidade
 Moral	Moral																						
 Sorte	Sorte																						
 Feitiços afetando a tropa	Feitiços afetando a tropa																						
-Dismiss unit	"{Dismiss Unit}
+Demitir unidade	"{Demitir unidade}
 
-Dismisses the current unit from your army"																						
-Upgrade unit	"{Upgrade Unit}
+Demite a unidade selecionada do seu exército."																						
+Melhorar unidade	"{Melhorar unidade}
 
-Upgrades the current unit"																						
+Melhora a unidade selecionada."																						
 Ok	"{Ok}
 
-Voltae à janela anterior"																						
+Voltar à janela anterior."																						
 																							
 Livro de magia	Livro de magia																						
-Página anterior	Turn to the previous page																						
-Próxima página	Turn to the next page																						
-Feitiços de aventura	Turn to view adventure map spells																						
-Feitiços de combate	Turn to view combat spells																						
-Feitiços de ar	Turn to view Air spells																						
-Feitiços de fogo	Turn to view Fire spells																						
-Feitiços de água	Turn to view Water spells																						
-Feitiços de terra	Turn to view Earth spells																						
-Todos os feitiços	Show all spell schools																						
-Pontos de magia	Hero's remaining spell points																						
+Página anterior	Virar a página anterior																						
+Próxima página	Virar a página seguinte																						
+Feitiços de aventura	Visualize feitiços de aventura																						
+Feitiços de combate	Visualize feitiços de combate																						
+Feitiços de ar	Visualize feitiços de ar																						
+Feitiços de fogo	Visualize feitiços de fogo																						
+Feitiços de água	Visualize feitiços de água																						
+Feitiços de terra	Visualize feitiços de terra																						
+Todos os feitiços	Visualize todos os feitiços																						
+Pontos de magia	Pontos de magia restantes																						
 Sair	Fecha o livro de magia																						
 																							
 CampaignBrief	CampaignBrief																						
@@ -680,11 +680,11 @@ CAMPAIGN_DESCRIPTION	CAMPAIGN_DESCRIPTION
 MAP_NAME	MAP_NAME
 MAP_DESCRIPTION	MAP_DESCRIPTION
 HERO_FACE	HERO_FACE
-Change Hero	Click to change your starting hero
-Change Hero	Click to change your starting hero
-Artifact Bonus	Choose to start with an artifact
-Gold Bonus	Choose to start with extra gold
-Resource Bonus	Choose to start with extra resources
+Trocar herói	Clique para trocar o seu herói inicial.
+Trocar herói	Clique para trocar o seu herói inicial.
+Bônus de artefato	Escolha iniciar com um artefato.
+Bônus de ouro	Escolha iniciar com mais ouro.
+Bônus de recurso	Escolha iniciar com mais recursos.
 Recomeçar	"{Recomeçar}
 
 Restart the current campaign"

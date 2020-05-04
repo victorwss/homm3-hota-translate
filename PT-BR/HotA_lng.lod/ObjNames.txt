@@ -1,232 +1,232 @@
-Nothing	
+Nada	
 	
-Altar of Sacrifice	
-Anchor Point	
+Altar do sacrifício	
+Ponto de ancoragem	
 Arena	
-Artifact	
-Pandora's Box	
-Black Market	
-Boat	
-Border Guard	
-Keymaster's Tent	
-Buoy	
-Campfire	
-Cartographer	
-Swan Pond	
-Cover of Darkness	
+Artefato	
+Caixa de Pandora	
+Mercado negro	
+Navio	
+Guarda de fronteira	
+Tenda do chaveiro	
+Bóia	
+Fogueira	
+Cartógrafo	
+Lago do cisne	
+Cobertura de escuridão	
 Creature Bank
-Creature Generator 1
-Creature Generator 2
-Creature Generator 3
-Creature Generator 4
-Cursed Ground
-Corpse
-Marletto Tower
-Derelict Ship
-Dragon Utopia
-Event
-Eye of the Magi
-Faerie Ring
-Flotsam
-Fountain of Fortune
-Fountain of Youth
-Garden of Revelation
-Garrison
-Hero
-Hill Fort
-Grail
-Hut of the Magi
-Idol of Fortune
-Lean To
+Gerador de criaturas 1
+Gerador de criaturas 2
+Gerador de criaturas 3
+Gerador de criaturas 4
+Território amaldiçoado
+Corpo
+Torre de Marletto
+Barco à deriva
+Utopia dos dragões
+Evento
+Olho do mago
+Anel de fadas
+Destroços
+Fonte encantada
+Fonte da juventude
+Jardim da revelação
+Guarnição
+Herói
+Forte da colina
+Graal
+Choupana do mago
+Totem da sorte
+Escora
 
-Library of Enlightenment
-Lighthouse
+Biblioteca do iluminismo
+Farol
 Monolith One Way Entrance
 Monolith One Way Exit
 Two Way Monolith
-Magic Plains
-School of Magic
-Magic Spring
-Magic Well
-Market of Time
-Mercenary Camp
-Mermaids
-Mine
-Monster
-Mystical Garden
-Oasis
-Obelisk
-Redwood Observatory
-Ocean Bottle
-Pillar of Fire
-Star Axis
-Prison
-Pyramid
-Rally Flag
-Random Artifact
+Planícies mágicas
+Escola de magia
+Fonte mágica
+Poço mágico
+Mercado de tempo
+Acampamento de mercenários
+Sereia
+Mina
+Monstro
+Jardim místico
+Oásis
+Obelisco
+Mirante da torre
+Garrafa marítima
+Pilar de fogo
+Eixo estelar
+Prisão
+Pirâmide
+Bandeira de reunião
+Artefato aleatório
 Random Treasure Artifact
 Random Minor Artifact
 Random Major Artifact
 Random Relic
-Random Hero
-Random Monster
-Random Monster 1
-Random Monster 2
-Random Monster 3
-Random Monster 4
-Random Resource
-Random Town
-Refugee Camp
-Resource
-Sanctuary
-Scholar
-Sea Chest
+Herói aleatório
+Monstro aleatório
+Monstro aleatório 1
+Monstro aleatório 2
+Monstro aleatório 3
+Monstro aleatório 4
+Recurso aleatório
+Cidade aleatória
+Campo de refugiados
+Recurso
+Santuário
+Acadêmico
+Arca marítima
 Seer's Hut
-Crypt
-Shipwreck
-Shipwreck Survivor
-Shipyard
-Shrine of Magic Incantation
-Shrine of Magic Gesture
-Shrine of Magic Thought
-Sign
-Sirens
-Spell Scroll
-Stables
-Tavern
-Temple
-Den of Thieves
-Town
+Cripta
+Naufrágio
+Náufrago
+Estaleiro
+Capela do encantamento mágico
+Capela do gesto mágico
+Capela do pensamento mágico
+Placa
+Sirenes
+Pergaminho
+Estábulos
+Taverna
+Templo
+Toca dos ladrões
+Cidade
 Trading Post
-Learning Stone
-Treasure Chest
-Tree of Knowledge
-Subterranean Gate
-University
-Wagon
-War Machine Factory
-School of War
-Warrior's Tomb
-Water Wheel
-Watering Hole
-Whirlpool
-Windmill
-Witch Hut
+Pedra do aprendizado
+Arca do tesouro
+Árvore do conhecimento
+Passagem subterrânea
+Universidade
+Carroça
+Fábrica de máquinas
+Escola de guerra
+Tumba de um guerreiro
+Roda d'água
+Nascente
+Redemoinho
+Moinho de vento
+Cabana da bruxa
 Brush
-Bush
-Cactus
-Canyon
-Crater
-Dead Vegetation
-Flowers
-Frozen Lake
-Hedge
-Hill
-Hole
-Kelp
-Lake
-Lava Flow
-Lava Lake	
-Mushrooms	
-Log	
-Mandrake	
-Moss	
-Mound	
-Mountain	
-Oak Trees	
-Outcropping	
-Pine Trees	
-Plant	
+Arbustos
+Cácto
+Cânion
+Cratera
+Vegetação morta
+Flores
+Lago congelado
+Cerca-viva
+Colina
+Buraco
+Algas
+Lago
+Fluxo de lava
+Lago de lava	
+Cogumelos	
+Tronco	
+Mandrágora	
+Musgo	
+Morro	
+Montanha	
+Carvalhos	
+Escarpa	
+Pinheiros	
+Planta	
 	
 	
 	
 	
-River Delta	
+Delta de rio	
 	
 	
 	
-Rock	
-Sand Dune	
-Sand Pit	
-Shrub	
-Skull	
-Stalagmite	
-Stump	
-Tar Pit	
-Trees	
-Vine	
-Volcanic Vent	
-Volcano	
-Willow Trees	
-Yucca Trees
-Reef
-Random Monster 5
-Random Monster 6
-Random Monster 7
+Pedra	
+Duna	
+Buraco na areia	
+Arbustos	
+Crânio	
+Estalagmite	
+Toco	
+Poço de pixe	
+Árvores	
+Cipó	
+Chaminé vulcânica	
+Vulcão	
+Salgueiros	
+Árvores espinhosas
+Recife
+Monstro aleatório 5
+Monstro aleatório 6
+Monstro aleatório 7
 Brush
-Bush
-Cactus
-Canyon
-Crater
-Dead Vegetation
-Flowers
-Frozen Lake
-Hedge
-Hill
-Hole
-Kelp
-Lake
-Lava Flow
-Lava Lake
-Mushrooms
-Log
-Mandrake
-Moss
-Mound
-Mountain
-Oak Trees
-Outcropping
-Pine Trees
-Plant
-River Delta
-Rock
-Sand Dune
-Sand Pit
-Shrub
-Skull
-Stalagmite
-Stump
-Tar Pit
-Trees
-Vine
-Volcanic Vent
-Volcano
-Willow Trees
-Yucca Trees
-Reef
-Desert Hills
-Dirt Hills
-Grass Hills
-Rough Hills
-Subterranean Rocks
-Swamp Foliage
-Border Gate
-Freelancer's Guild
-Hero Placeholder
+Arbustos
+Cácto
+Cânion
+Cratera
+Vegetação morta
+Flores
+Lago congelado
+Cerca-viva
+Colina
+Buraco
+Algas
+Lago
+Fluxo de lava
+Lago de lava
+Cogumelos
+Tronco
+Mandrágora
+Musgo
+Morro
+Montanha
+Carvalhos
+Escarpa
+Pinheiros
+Planta
+Delta de rio
+Pedra
+Duna
+Buraco na areia
+Arbustos
+Crânio
+Estalagmite
+Toco
+Poço de pixe
+Árvores
+Cipó
+Chaminé vulcânica
+Vulcão
+Salgueiros
+Árvores espinhosas
+Recife
+Colina desértica
+Colina de terra
+Colina gramada
+Colina rochosa
+Pedras subterrâneas
+Folhagem pantaneira
+Guarda de fronteira
+Mercado de escravos
+Marcador de herói
 Quest Guard
 Random Dwelling
 
 
-Garrison
-Mine
+Guarnição
+Mina
 Trading Post
-Clover Field
-Cursed Ground
-Evil Fog
-Favorable Winds
-Fiery Fields
-Holy Ground
-Lucid Pools
-Magic Clouds
-Magic Plains
-Rocklands
+Campos de trevos
+Território amaldiçoado
+Trevas malditas
+Ventos favoráveis
+Campos de fogo
+Território sagrado
+Piscinas lúcidas
+Nuvens mágicas
+Planícies mágicas
+Terreno pedregoso

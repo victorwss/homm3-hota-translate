@@ -1212,14 +1212,14 @@ Text 6: ""
 Text 7: "Unused
 Pub
 Pub
-Shipyard
-Gunpowder Warehouse
-Thieves' Guild
-Grotto
-Roost
-Roost
-Lodestar
-Resource Silo"
+Porto
+Depósito de pólvora
+Toca dos ladrões
+Gruta
+Ninho
+Ninho
+Estrela guia
+Armazém"
 Text 8: "Unused.
 The Pub increases Crew Mates production by 4 per week.
 The Pub increases Seamen production by 4 per week.
@@ -1353,7 +1353,7 @@ Pick a target for death cloud
 Acid breath reduces the defense of the %s by %i
 #23
 ""
-Fields of Glory: -2""
+Campos de glória: -2""
 #24
 , kills: %s
 #25
@@ -1393,7 +1393,7 @@ Open hero trade screen
 #38
 (+2 attack or defense once per hero)
 #39
-Seafaring Academy
+Escola da marinha
 #40
 Flapping sails and screeching ropes are music for the ears of those who graduated this ancient Academy. A midshipman can master the following skills here.
 #41
@@ -1708,7 +1708,7 @@ Text 6: ""
 Text 7: "# 0
 Horn of the Abyss
 # 1
-Allow monster/plague weeks
+Permitir semanas de monstros ou pragas
 # 2
 Eliminar todos os monstros
 # 3
@@ -1734,9 +1734,9 @@ Essas condições são mutuamente exclusivas.
 # 13
 Sprite name:
 # 14
-Type:
+Tipo:
 # 15
-Subtype:
+Subtipo:
 # 16
 Sprite:
 # 17
@@ -1748,25 +1748,25 @@ Cell width:
 # 20
 Map is protected by HoMM3 HD+
 # 21
-Template:
+Modelo:
 # 22
-Default
+Padrão
 # 23
 ""Construindo #%d""
 # 24
-Lighthouse, Mystic Pond, Library, Brimstone Stormclouds, Cover of Darkness, Mana Vortex, Escape Tunnel, Cage of Warlords, Magic University or Thief's Guild.
+Farol, Lagoa mística, Biblioteca, Nuvens de enxofre, Cobertura de escuridão, Vórtice de magia, Túnel de fuga, Gaiola dos guerreiros, Universidade mágica ou Toca dos ladrões.
 # 25
-Brotherhood of the Sword, Fountain of Fortune, Wall of Knowledge, Castle Gate, Necromancy Amplifier, Portal of Summoning, Freelancer's Guild, Glyphs of Fear, Vault of Ashes or Grotto.
+Irmandade da espada, Fonte encantada, Muro do conhecimento, Portão do inferno, Amplificador de necromancia, Portal de invocação, Mercado de escravos, Símbolos do medo, Cofre de cinzas ou Gruta.
 # 26
-Stables, Treasury, Lookout Tower, Order of Fire, Skeleton Transformer, Battle Scholar Academy, Ballista Yard, Blood Obelisk or Gunpowder Warehouse.
+Estábulos, Tesouro dos anões, Torre de observação, Ordem do fogo, Transformador de esqueletos, Academia de batalha, Campo de balista, Obelisco de sangue ou Depósito de pólvora.
 # 27
-Hall of Valhalla.
+Salão de Valhalla.
 # 28
 Spell research
 # 29
 Arena
 # 30
-Not as %s
+Não como %s
 # 31
 This map format is unsupported. This map might be designed for a newer HotA version.
 # 32
@@ -1805,11 +1805,11 @@ shroud remove from all tiles within 12 tiles
 # 48
 Creature bank content
 # 49
-Random (chances: %s%%)
+Aleatório (chances: %s%%)
 # 50
-Random (%d%% presence chance)
+Aleatório (%d%% de chance de presença)
 # 51
-Artifacts
+Artefatos
 # 52
 Upgraded stack
 # 53
@@ -1823,9 +1823,9 @@ Aleatório
 # 57
 , ou 
 # 58
-Belong to specific class
+Percencer a uma classe específica
 # 59
-month %d, week %d, day %d
+mês %d, semana %d, dia %d
 # 60
 Return not before a date
 # 61
@@ -1845,25 +1845,25 @@ One-time quests
 # 66
 Multiple quests
 # 67
-Add
+Adicionar
 # 68
-Remove
+Remover
 # 69
-Up
+Subir
 # 70
-Down
+Descer
 # 71
-Remove all
+Remover todos
 # 72
-None
+Nenhum
 # 73
-Achieve level
+Atingir o nível
 # 74
 Achieve primary skill level
 # 75
-Defeat hero
+Derrotar herói
 # 76
-Defeat monster
+Derrotar monstro
 # 77
 Return with artifacts
 # 78
@@ -1871,11 +1871,11 @@ Return with creatures
 # 79
 Return with resources
 # 80
-Be a specific hero
+Ser um herói específico
 # 81
-Belong to a specific player
+Pertencer a um jogador específico
 # 82
-Belong to a specific class
+Pertencer a uma classe específica
 # 83
 Wait till a specific date
 # 84
@@ -1903,13 +1903,13 @@ Upgraded stack:
 # 94
 Default
 # 95
-No
+Não
 # 96
-Yes
+Sim
 # 97
 Stack count:
 # 98
-Average
+Média
 # 99
 One less
 # 100
@@ -1936,7 +1936,7 @@ Text 5: ""
 Text 6: ""
 Text 7: "2
 -1
-""Altar of Sacrifice
+""Altar do sacrifício
 Good faction heroes may sacrifice artifacts for experience.
 Evil faction heroes may sacrifice creatures for experience.
 Neutral faction heroes may sacrifice artifacts or creatures for experience.""
@@ -1948,13 +1948,13 @@ Player's choice to add +2 to the visiting hero's Attack or Defense.""
 
 6
 -1
-""Pandora’s Box
-Anything or everything may be put into Pandora’s Box.""
+""Caixa de Pandora
+Qualquer coisa pode ser colocada dentro da Caixa de Pandora.""
 
 7
 -1
-""Black Market
-Artifacts may be purchased at the Black Market (at the efficiency of 5 markets).""
+""Mercado negro
+Artifacts may be purchased at the Mercado negro (at the efficiency of 5 markets).""
 
 8
 -1
@@ -1963,62 +1963,62 @@ Allows hero to move through the water.""
 
 9
 -1
-""Border Guard
+""Guarda de fronteira
 Usually placed at choke points, a hero must visit a Keymaster’s tent of the associated color for the password.""
 
 10
 -1
-""Keymaster's Tent
+""Tenda do chaveiro
 For a hero to pass a Border Guard, the hero must visit the Keymaster’s tent of the associated color.""
 
 11
 -1
-""Buoy
+""Bóia
 Visiting a Buoy gives a hero +1 morale until the next battle.""
 
 12
 -1
-""Campfire
+""Fogueira
 +400-600 gold.
 +4-6 random resource other than gold.""
 
 13
 -1
-""Cartographer
+""Cartógrafo
 There are three different cartographers: land, ocean, or underworld.
 A Hero pays 10000 gold to remove the shroud from the land, ocean, or underworld.""
 
 14
 -1
-""Swan Pond
+""Lago do cisne
 +2 Luck until the next battle.
 Lose all current movement.""
 
 15
 -1
-""Cover of Darkness
+""Cobertura de escuridão
 Regenerates the shroud for enemy heroes, for a 20-tile radius.""
 
 21
 -1
-""Cursed Ground
-All but first level spells can not be cast while on Cursed Ground.
+""Território amaldiçoado
+All but first level spells can not be cast while on Território amaldiçoado.
 Native terrain, luck and moral have no effect.""
 
 22
 -1
-""Corpse
+""Corpo
 - 80% chance of finding nothing.
 - 20% chance of finding random Treasure or Minor artifact.""
 
 23
 -1
-""Marletto Tower
+""Torre de Marletto
 +1 Defense.""
 
 24
 -1
-""Derelict Ship
+""Barco à deriva
 - 30% 20 Water Elementals for 3kgold.
 - 30% 30 Water Elementals for 3kgold and 1 Treasure Artifact.
 - 30% 40 Water Elementals for 4kgold and 1 Treasure Artifact.
@@ -2028,7 +2028,7 @@ Native terrain, luck and moral have no effect.""
 
 25
 -1
-""Dragon Utopia
+""Utopia dos dragões
 - 30% Fight 8 Green Dragons, 5 Red Dragons, 2 Gold Dragons, and 1 Black Dragons for 20000 gold and 1 Treasure Artifact, 1 Minor Artifact, 1 Major Artifact, and 1 Relic Artifact.
 - 30% Fight 8 Green Dragons, 6 Red Dragons, 3 Gold Dragons, and 2 Black Dragons for 30000 gold and 1 Minor Artifact, 1 Major Artifact, and 2 Relic Artifacts.
 - 30% Fight 8 Green Dragons, 6 Red Dragons, 4 Gold Dragons, and 3 Black Dragons for 40000 gold and 1 Major Artifact, and 3 Relic Artifacts.
@@ -2036,23 +2036,23 @@ Native terrain, luck and moral have no effect.""
 
 26
 -1
-""Event
+""Evento
 Events are user created experiences.
 Events placed on the map can only be triggered by heroes.""
 
 27
 -1
-""Eye of the Magi
+""Olho do mago
 Not interactive, Eyes of the Magi illuminate shrouded areas when a hero visits a Hut of the Magi.""
 
 28
 -1
-""Faerie Ring
+""Anel de fadas
 +1 Luck until the next battle.""
 
 29
 -1
-""Flotsam
+""Destroços
 - 25% chance of getting nothing.
 - 25% chance of getting 5 Wood.
 - 25% chance of getting 5 Wood and 200 Gold.
@@ -2060,28 +2060,28 @@ Not interactive, Eyes of the Magi illuminate shrouded areas when a hero visits a
 
 30
 -1
-""Fountain of Fortune
+""Fonte encantada
 -1 to +3 Luck until the next battle.""
 
 31
 -1
-""Fountain of Youth
+""Fonte da juventude
 +1 Morale until next battle.
 +400 Adventure movement until the end of the day.""
 
 32
 -1
-""Garden of Revelation
+""Jardim da revelação
 +1 Knowledge.""
 
 35
 0
-""Hill Fort
+""Forte da colina
 Upgrade base grade creatures.""
 
 36
 -1
-""Grail
+""Graal
 Customizable.
 Buried artifact found via the Puzzle Map.
 Placing this object determines the location of grail.
@@ -2089,29 +2089,29 @@ Otherwise, a random location is chosen when an obelisk is placed.""
 
 37
 -1
-""Hut of the Magi
+""Choupana do mago
 Visiting a Hut of the Magi illuminates locations around an Eye of the Magi.""
 
 38
 -1
-""Idol of Fortune
+""Totem da sorte
 +1 Luck until the next battle, on odd days of the week not Day 7.
 +1 Morale until next battle, on even days of the week.
 +1 Luck and Morale until next battle, on Day 7.""
 
 39
 -1
-""Lean To
+""Escora
 +1-4 of any resource other than gold.""
 
 41
 -1
-""Library of Enlightenment
+""Biblioteca do iluminismo
 Possibly gives visiting hero +2 Attack, +2 Defense, +2 Power, +2 Knowledge.""
 
 42
 -1
-""Lighthouse
+""Farol
 +500 Sea mobility for your ships for each lighthouse you own.""
 
 43
@@ -2131,48 +2131,48 @@ Teleports a hero to another Two Way Monolith/Portal, with the ability to return 
 
 46
 -1
-""Magic Plains
+""Planícies mágicas
 All Adventure and Combat spells are cast at Expert proficiency.""
 
 47
 -1
-""School of Magic
+""Escola de magia
 Pay 1000 gold to increase the Power or Knowledge of your hero by +1.""
 
 48
 -1
-""Magic Spring
+""Fonte mágica
 Replenishes spell points, then doubles the amount.
 
 Replenishes on Day 1 of each week.""
 
 49
 -1
-""Magic Well
+""Poço mágico
 Replenishes spell points.""
 
 50
 -1
-""Market of Time
+""Mercado de tempo
 Not used.""
 
 51
 -1
-""Mercenary Camp
+""Acampamento de mercenários
 Hero receives +1 Attack.""
 
 52
 -1
-""Mermaids
+""Sereia
 +1 Luck until next battle.""
 
 #54
 #-1
-#""Monster""
+#""Monstro""
 
 55
 -1
-""Mystical Garden
+""Jardim místico
 - 50% chance to get 500 Gold.
 - 50% chance to get 5 Gems.
 
@@ -2180,56 +2180,56 @@ Replenishes on Day 1 of each week.""
 
 56
 -1
-""Oasis
+""Oásis
 +1 Morale until the next battle.
 +800 Movement until the end of the day.""
 
 57
 -1
-""Obelisk
+""Obelisco
 Reveals portion of the Puzzle Map.""
 
 58
 0
-""Redwood Observatory
+""Mirante da torre
 Shroud is removed from all tiles within 20 tiles of the Observatory.""
 
 59
 -1
-""Ocean Bottle
+""Garrafa marítima
 Acts like a Sign, but on the water.""
 
 60
 -1
-""Pillar of Fire
+""Pilar de fogo
 Shroud is removed from all tiles within 20 tiles.""
 
 61
 -1
-""Star Axis
+""Eixo estelar
 Hero receives +1 Power.""
 
 62
 -1
-""Prison
+""Prisão
 Free a specific hero.  Joins you for free.""
 
 63
 -1
-""Pyramid
+""Pirâmide
 Defeat 40 Gold Golems and 20 Diamond Golems for a random 5th level spell.
 If hero doesn't have the wisdom to learn the spell, the spell is lost.
 Visiting the Pyramid after defeating the guardians results in -2 Luck until next battle.""
 
 64
 -1
-""Rally Flag
+""Bandeira de reunião
 +1 Luck and Morale until the next battle.
 +400 adventure movement until the end of the day.""
 
 65
 -1
-""Random Artifact
+""Artefato aleatório
 Places a random artifact on the Adventure Map.  Artifact can be Treasure, Minor or Major.""
 
 66
@@ -2254,68 +2254,68 @@ Places a random Relic class artifact on the Adventure Map.""
 
 70
 -1
-""Random Hero
+""Herói aleatório
 At the start of the game, a random hero is chosen from all classes.
 If a town alignment is chosen, choices are limited to those classes associated with the town alignment.""
 
 71
 -1
-""Random Monster
+""Monstro aleatório
 At the start of the game, this object is replaced with a random monster, chosen from all the potential monsters.""
 
 72
 -1
-""Random Monster 1
+""Monstro aleatório 1
 At the start of the game, this object is replaced with a random level 1monster, chosen from all the potential level 1 monsters.""
 
 73
 -1
-""Random Monster 2
+""Monstro aleatório 2
 At the start of the game, this object is replaced with a random level 2 monster, chosen from all the potential level 2 monsters.""
 
 74
 -1
-""Random Monster 3
+""Monstro aleatório 3
 At the start of the game, this object is replaced with a random level 3 monster, chosen from all the potential level 3 monsters.""
 
 75
 -1
-""Random Monster 4
+""Monstro aleatório 4
 At the start of the game, this object is replaced with a random level 4 monster, chosen from all the potential level 4 monsters.""
 
 76
 -1
-""Random Resource
+""Recurso aleatório
 At the start of the game, this object is replaced with one of the seven resource types.""
 
 77
 -1
-""Random Town
+""Cidade aleatória
 With this object, a player may choose a specific town type, or let the computer choose it for them.""
 
 78
 -1
-""Refugee Camp
+""Campo de refugiados
 Random creature type available for recruiting every 7 days.""
 
 #79
 #-1
-#""Resource""
+#""Recurso""
 
 80
 -1
-""Sanctuary
+""Santuário
 Hero residing here cannot be attacked.""
 
 81
 -1
-""Scholar
+""Acadêmico
 Learn 1 spell, one secondary skill, or one primary skill.
 Scholar then disappears.""
 
 82
 -1
-""Sea Chest
+""Arca marítima
 - 20% for nothing.
 - 70% chance for 1500 gold.
 - 10% chance for 1500 gold and 1 random Treasure Artifact. If backpack is full, get 1500 gold.""
@@ -2328,7 +2328,7 @@ Map Makers must specify the quest.""
 
 84
 -1
-""Crypt
+""Cripta
 - 30% chance to fight 30 Skeletons and 20 Walking Dead for 1500 gold.
 - 30% chance to fight 25 Skeletons, 20 Walking Dead, and 5 Wights for 2000 gold.
 - 30% chance to fight 20 Skeletons, 20 Walking Dead, 10 Wights, and 5 Vampires for 2500 gold and 1 Treasure Artifact.
@@ -2338,7 +2338,7 @@ Map Makers must specify the quest.""
 
 85
 -1
-""Shipwreck
+""Naufrágio
 - 30% chance to fight 10 Wights for 2000 gold.
 - 30% chance to fight 15 Wights for 3000 gold.
 - 30% chance to fight 25 Wights for 4000 gold and 1 random treasure artifact.
@@ -2348,7 +2348,7 @@ Map Makers must specify the quest.""
 
 86
 -1
-""Shipwreck Survivor
+""Náufrago
 Receive 1 random artifact.
 - 55% Treasure Artifact.
 - 20% Minor Artifact.
@@ -2357,60 +2357,60 @@ Receive 1 random artifact.
 
 87
 -1
-""Shipyard
+""Estaleiro
 Purchase a ship.""
 
 88
 0
-""Capela do Encantamento Mágico
+""Capela do encantamento mágico
 Learn level 1 spell.""
 
 89
 -1
-""Capela do Gesto Mágico
+""Capela do gesto mágico
 Learn level 2 spell.""
 
 90
 -1
-""Capela do Pensamento Mágico
+""Capela do pensamento mágico
 Learn level 3 spell.""
 
 91
 -1
-""Sign
+""Placa
 Displays a message when visited.
 Customizable.""
 
 92
 -1
-""Sirens
+""Sirenes
 Lose 30% of each army and gain 1 experience point for each point of health for the lost creatures.""
 
 93
 -1
-""Spell Scroll
+""Pergaminho
 This scroll contains a spell, which is added into a hero’s spell book for as long as you carry the scroll.""
 
 94
 -1
-""Stables
+""Estábulos
 +600 movement each day until the end of the week.
 Cavaliers are automatically upgraded to Champions.""
 
 95
 -1
-""Tavern
+""Taverna
 Recruit heroes.  Listen to rumors.""
 
 96
 -1
-""Temple
+""Templo
 +1 Morale until next battle.
 +2 Morale until next battle, on Day 7.""
 
 97
 -1
-""Den of Thieves
+""Toca dos ladrões
 Gives complete thieves' guild information.""
 
 99
@@ -2420,12 +2420,12 @@ Trade resources at the efficiency of 5 markets.""
 
 100
 -1
-""Learning Stone
+""Pedra do aprendizado
 +1000 experience points.""
 
 101
 -1
-""Treasure Chest
+""Arca do tesouro
 - 32% chance for 1000 gold or 500 experience.
 - 32% chance for 1500 gold or 1000 experience.
 - 31% chance for 2000 gold or 1500 experience.
@@ -2433,41 +2433,41 @@ Trade resources at the efficiency of 5 markets.""
 
 102
 -1
-""Tree of Knowledge
+""Árvore do conhecimento
 - 34% Chance of paying 0 gold for a hero to advance to his next level of experience.
 - 33% Chance of paying 2000 gold for a hero to advance to his next level of experience.
 - 33% Chance of paying 10 gems for a hero to advance to his next level of experience.""
 
 103
 -1
-""Subterranean Gate
+""Passagem subterrânea
 Entering the Subterranean Gate leads to the Underground Map, if any.""
 
 104
 -1
-""University
+""Universidade
 Pay 2000g for a 'new' Secondary Skill of four taught.""
 
 105
 -1
-""Wagon
+""Carroça
 - 10% chance for nothing.
 - 40% chance for 1 random Treasure or Minor artifact.  If backpack is full, you get nothing.
 - 50% chance for 2-5 of any resource but gold.""
 
 #106
 #-1
-#""War Machine Factory
+#""Fábrica de máquinas
 #Purchase any of the three war machines: Ballista, First Aid Tent and Ammo Cart.""
 
 107
 -1
-""School of War
+""Escola de Guerra
 Pay 1000 gold to increase the Attack or Defense of the visiting hero by +1.""
 
 108
 -1
-""Warrior's Tomb
+""Tumba de um guerreiro
 Ransack grave for 1 random artifact and -3 morale.
 - 30% Treasure Artifact.
 - 50% Minor Artifact.
@@ -2478,489 +2478,489 @@ In case of empty tomb hero gets -3 morale anyway.""
 
 109
 -1
-""Water Wheel
+""Roda d'água
 Week 1 gives 500 gold.
 Each subsequent week is set to give 1000 gold.""
 
 110
 -1
-""Watering Hole
+""Nascente
 +1 Morale until next battle.
 +400 Adventure movement until the end of the day.""
 
 111
 -1
-""Whirlpool
+""Redemoinho
 Teleports hero to another Whirlpool at the cost of 50% of the weakest troop in the hero's army.""
 
 112
 -1
-""Windmill
+""Moinho de vento
 +3-6 of any random resource other than Wood or Gold.""
 
 113
 -1
-""Witch Hut
+""Cabana da bruxa
 Random Secondary Skill other than Leadership or Necromancy.""
 
 114
 -1
 ""Brush
-Decoration.""
+Decoração.""
 
 115
 -1
-""Bush
-Decoration.""
+""Arbustos
+Decoração.""
 
 116
 -1
-""Cactus
-Decoration.""
+""Cácto
+Decoração.""
 
 117
 -1
-""Canyon
-Decoration.""
+""Cânion
+Decoração.""
 
 118
 -1
-""Crater
-Decoration.""
+""Cratera
+Decoração.""
 
 119
 -1
-""Dead Vegetation
-Decoration.""
+""Vegetação morta
+Decoração.""
 
 120
 -1
-""Flowers
-Decoration.""
+""Flores
+Decoração.""
 
 121
 -1
-""Frozen Lake
-Decoration.""
+""Lago congelado
+Decoração.""
 
 122
 -1
-""Hedge
-Decoration.""
+""Cerca-viva
+Decoração.""
 
 123
 -1
-""Hill
-Decoration.""
+""Colina
+Decoração.""
 
 124
 -1
-""Hole
-Decoration.""
+""Buraco
+Decoração.""
 
 125
 -1
-""Kelp
-Decoration.""
+""Algas
+Decoração.""
 
 126
 -1
-""Lake
-Decoration.""
+""Lago
+Decoração.""
 
 127
 -1
-""Lava Flow
-Decoration.""
+""Fluxo de lava
+Decoração.""
 
 128
 -1
-""Lava Lake
-Decoration.""
+""Lago de lava
+Decoração.""
 
 129
 -1
-""Mushrooms
-Decoration.""
+""Cogumelos
+Decoração.""
 
 130
 -1
-""Log
-Decoration.""
+""Tronco
+Decoração.""
 
 131
 -1
-""Mandrake
-Decoration.""
+""Mandrágora
+Decoração.""
 
 132
 -1
-""Moss
-Decoration.""
+""Musgo
+Decoração.""
 
 133
 -1
-""Mound
-Decoration.""
+""Morro
+Decoração.""
 
 134
 -1
-""Mountain
-Decoration.""
+""Montanha
+Decoração.""
 
 135
 -1
-""Oak Trees
-Decoration.""
+""Carvalhos
+Decoração.""
 
 136
 -1
-""Outcropping
-Decoration.""
+""Escarpa
+Decoração.""
 
 137
 -1
-""Pine Trees
-Decoration.""
+""Pinheiros
+Decoração.""
 
 138
 -1
-""Plant
-Decoration.""
+""Planta
+Decoração.""
 
 143
 -1
-""River Delta
-Decoration.""
+""Delta de rio
+Decoração.""
 
 147
 -1
-""Rock
-Decoration.""
+""Pedra
+Decoração.""
 
 148
 -1
-""Sand Dune
-Decoration.""
+""Duna
+Decoração.""
 
 149
 -1
-""Sand Pit
-Decoration.""
+""Buraco na areia
+Decoração.""
 
 150
 -1
-""Shrub
-Decoration.""
+""Arbustos
+Decoração.""
 
 151
 -1
-""Skull
-Decoration.""
+""Crânio
+Decoração.""
 
 152
 -1
-""Stalagmite
-Decoration.""
+""Estalagmite
+Decoração.""
 
 153
 -1
-""Stump
-Decoration.""
+""Toco
+Decoração.""
 
 154
 -1
-""Tar Pit
-Decoration.""
+""Poço de pixe
+Decoração.""
 
 155
 -1
-""Trees
-Decoration.""
+""Árvores
+Decoração.""
 
 156
 -1
-""Vine
-Decoration.""
+""Cipó
+Decoração.""
 
 157
 -1
-""Volcanic Vent
-Decoration.""
+""Chaminé vulcânica
+Decoração.""
 
 158
 -1
-""Volcano
-Decoration.""
+""Vulcão
+Decoração.""
 
 159
 -1
-""Willow Trees
-Decoration.""
+""Salgueiros
+Decoração.""
 
 160
 -1
-""Yucca Trees
-Decoration.""
+""Árvores espinhosas
+Decoração.""
 
 161
 -1
-""Reef
-Decoration.""
+""Recife
+Decoração.""
 
 162
 -1
-""Random Monster 5
+""Monstro aleatório 5
 At the start of the game, this object is replaced with a random level 5 monster, chosen from all the potential level 5 monsters.""
 
 163
 -1
-""Random Monster 6
+""Monstro aleatório 6
 At the start of the game, this object is replaced with a random level 6 monster, chosen from all the potential level 6 monsters.""
 
 164
 -1
-""Random Monster 7
+""Monstro aleatório 7
 At the start of the game, this object is replaced with a random level 7 monster, chosen from all the potential level 7 monsters.""
 
 165
 -1
 ""Brush
-Decoration.""
+Decoração.""
 
 166
 -1
-""Bush
-Decoration.""
+""Arbustos
+Decoração.""
 
 167
 -1
-""Cactus
-Decoration.""
+""Cácto
+Decoração.""
 
 168
 -1
-""Canyon
-Decoration.""
+""Cânion
+Decoração.""
 
 169
 -1
-""Crater
-Decoration.""
+""Cratera
+Decoração.""
 
 170
 -1
-""Dead Vegetation
-Decoration.""
+""Vegetação morta
+Decoração.""
 
 171
 -1
-""Flowers
-Decoration.""
+""Flores
+Decoração.""
 
 172
 -1
-""Frozen Lake
-Decoration.""
+""Lago congelado
+Decoração.""
 
 173
 -1
-""Hedge
-Decoration.""
+""Cerca-viva
+Decoração.""
 
 174
 -1
-""Hill
-Decoration.""
+""Colina
+Decoração.""
 
 175
 -1
-""Hole
-Decoration.""
+""Buraco
+Decoração.""
 
 176
 -1
-""Kelp
-Decoration.""
+""Algas
+Decoração.""
 
 177
 -1
-""Lake
-Decoration.""
+""Lago
+Decoração.""
 
 178
 -1
-""Lava Flow
-Decoration.""
+""Fluxo de lava
+Decoração.""
 
 179
 -1
-""Lava Lake
-Decoration.""
+""Lago de lava
+Decoração.""
 
 180
 -1
-""Mushrooms
-Decoration.""
+""Cogumelos
+Decoração.""
 
 181
 -1
-""Log
-Decoration.""
+""Tronco
+Decoração.""
 
 182
 -1
-""Mandrake
-Decoration.""
+""Mandrágora
+Decoração.""
 
 183
 -1
-""Moss
-Decoration.""
+""Musgo
+Decoração.""
 
 184
 -1
-""Mound
-Decoration.""
+""Morro
+Decoração.""
 
 185
 -1
-""Mountain
-Decoration.""
+""Montanha
+Decoração.""
 
 186
 -1
-""Oak Trees
-Decoration.""
+""Carvalhos
+Decoração.""
 
 187
 -1
-""Outcropping
-Decoration.""
+""Escarpa
+Decoração.""
 
 188
 -1
-""Pine Trees
-Decoration.""
+""Pinheiros
+Decoração.""
 
 189
 -1
-""Plant
-Decoration.""
+""Planta
+Decoração.""
 
 190
 -1
-""River Delta
-Decoration.""
+""Delta de rio
+Decoração.""
 
 191
 -1
-""Rock
-Decoration.""
+""Pedra
+Decoração.""
 
 192
 -1
-""Sand Dune
-Decoration.""
+""Duna
+Decoração.""
 
 193
 -1
-""Sand Pit
-Decoration.""
+""Buraco na areia
+Decoração.""
 
 194
 -1
-""Shrub
-Decoration.""
+""Arbustos
+Decoração.""
 
 195
 -1
-""Skull
-Decoration.""
+""Crânio
+Decoração.""
 
 196
 -1
-""Stalagmite
-Decoration.""
+""Estalagmite
+Decoração.""
 
 197
 -1
-""Stump
-Decoration.""
+""Toco
+Decoração.""
 
 198
 -1
-""Tar Pit
-Decoration.""
+""Poço de pixe
+Decoração.""
 
 199
 -1
-""Trees
-Decoration.""
+""Árvores
+Decoração.""
 
 200
 -1
-""Vine
-Decoration.""
+""Cipó
+Decoração.""
 
 201
 -1
-""Volcanic Vent
-Decoration.""
+""Chaminé vulcânica
+Decoração.""
 
 202
 -1
-""Volcano
-Decoration.""
+""Vulcão
+Decoração.""
 
 203
 -1
-""Willow Trees
-Decoration.""
+""Salgueiros
+Decoração.""
 
 204
 -1
-""Yucca Trees
-Decoration.""
+""Árvores espinhosas
+Decoração.""
 
 205
 -1
-""Reef
-Decoration.""
+""Recife
+Decoração.""
 
 206
 -1
-""Desert Hills
-Decoration.""
+""Colina desértica
+Decoração.""
 
 207
 -1
-""Dirt Hills
-Decoration.""
+""Colina de terra
+Decoração.""
 
 208
 -1
-""Grass Hills
-Decoration.""
+""Colina gramada
+Decoração.""
 
 209
 -1
-""Rough Hills
-Decoration.""
+""Colina rochosa
+Decoração.""
 
 210
 -1
-""Subterranean Rocks
-Decoration.""
+""Pedras subterrâneas
+Decoração.""
 
 211
 -1
-""Swamp Foliage
-Decoration.""
+""Folhagem pantaneira
+Decoração.""
 
 212
 -1
-""Border Gate
+""Guarda de fronteira
 Usually placed at choke points, a hero must visit the keymaster of the associated color in order to get the password.  Each player must visit the keymaster, as the Border Gate will not disappear after the first player visits it.""
 
 213
@@ -2990,58 +2990,58 @@ Trade resources at the efficiency of 5 markets.""
 
 222
 -1
-""Clover Field
+""Campos de trevos
 Gives all Neutral aligned troops +2 Luck.""
 
 223
 -1
-""Cursed Ground
-All but first level spells can not be cast while on Cursed Ground.
+""Território amaldiçoado
+All but first level spells can not be cast while on Território amaldiçoado.
 Native terrain, luck and moral have no effect.""
 
 224
 -1
-""Evil Fog
+""Trevas malditas
 Gives all Evil aligned troops +1 Morale, and Good troops -1 Morale.""
 
 225
 -1
-""Favorable Winds
+""Ventos favoráveis
 Reduces movement cost of sailing by 34%.""
 
 226
 -1
-""Fiery Fields
+""Campos de fogo
 Causes all Fire Spells to be cast at Expert Level.""
 
 227
 -1
-""Holy Ground
+""Território sagrado
 Gives all Good aligned troops +1 Morale, and Evil troops -1 Morale.""
 
 228
 -1
-""Lucid Pools
+""Piscinas lúcidas
 Causes all Water Spells to be cast at Expert Level.""
 
 229
 -1
-""Magic Clouds
+""Nuvens mágicas
 Causes all Air Spells to be cast at Expert Level.""
 
 230
 -1
-""Magic Plains
+""Planícies mágicas
 All Adventure and Combat spells are cast at Expert proficiency.""
 
 231
 -1
-""Rocklands
+""Terreno pedregoso
 Causes all Earth Spells to be cast at Expert Level.""
 
 5
 1
-""Spell Scroll
+""Pergaminho
 This scroll contains a spell, which is added into a hero’s spell book for as long as you carry the scroll.""
 
 5
@@ -3902,7 +3902,7 @@ Requires the following artifacts to create:
 
 16
 0
-""Cyclops Stockpile
+""Estoque dos ciclopes
 - 30% Fight 20 Cyclops for 4 of each resource other than Gold.
 - 30% Fight 30 Cyclops for 6 of each resource other than Gold.
 - 30% Fight 40 Cyclops for 8 of each resource other than Gold.
@@ -3910,7 +3910,7 @@ Requires the following artifacts to create:
 
 16
 1
-""Dwarven Treasury
+""Tesouro dos anões
 - 30% Fight 50 Dwarves for 2500 gold and 2 crystal.
 - 30% Fight 75 Dwarves for 4000 gold and 3 crystal.
 - 30% Fight 100 Dwarves for 5000 gold and 5 crystal.
@@ -3918,7 +3918,7 @@ Requires the following artifacts to create:
 
 16
 2
-""Griffin Conservatory
+""Conservatório de grifos
 - 30% Fight 50 Griffins to receive 1 Angel into your army's ranks.
 - 30% Fight 100 Griffins to receive 2 Angel into your army's ranks.
 - 30% Fight 150 Griffins to receive 3 Angel into your army's ranks.
@@ -3926,7 +3926,7 @@ Requires the following artifacts to create:
 
 16
 3
-""Imp Cache
+""Reserva de diabretes
 - 30% Fight 100 Imps for 1000 gold and 2 mercury.
 - 30% Fight 150 Imps for 1500 gold and 3 mercury.
 - 30% Fight 200 Imps for 2000 gold and 4 mercury.
@@ -3934,7 +3934,7 @@ Requires the following artifacts to create:
 
 16
 4
-""Medusa Stores
+""Depósito das medusas
 - 30% Fight 20 Medusa for 2000 gold and 5 sulfur.
 - 30% Fight 30 Medusa for 3000 gold and 6 sulfur.
 - 30% Fight 40 Medusa for 4000 gold and 8 sulfur.
@@ -3942,7 +3942,7 @@ Requires the following artifacts to create:
 
 16
 5
-""Naga Bank
+""Banco das nagas
 - 30% Fight 10 Nagas for 4000 gold and 8 gems.
 - 30% Fight 15 Nagas for 6000 gold and 12 gems.
 - 30% Fight 20 Nagas for 8000 gold and 16 gems.
@@ -3950,7 +3950,7 @@ Requires the following artifacts to create:
 
 16
 6
-""Dragon Fly Hive
+""Colmeia de cobras-dragão
 - 30% Fight 30 Dragonflies to receive 4 Wvyerns into your army's ranks.
 - 30% Fight 45 Dragonflies to receive 6 Wvyerns into your army's ranks.
 - 30% Fight 60 Dragonflies to receive 8 Wvyerns into your army's ranks.
@@ -4368,12 +4368,12 @@ Stone, Iron, Gold, and Diamond Golem dwelling.""
 
 33
 0
-""Garrison
+""Guarnição
 Location for storing troops at a choke point.""
 
 33
 1
-""Anti-magic Garrison
+""Guarnição anti-mágica
 Location for storing troops at a choke point.
 Spells cannot be cast in combat.""
 
@@ -4469,209 +4469,209 @@ Herói mágico do confluxo.""
 
 53
 0
-""Sawmill
+""Madereira
 Produces 2 wood each day.""
 
 53
 1
-""Alchemist's Lab
+""Destilaria de mercúrio
 Produces 1 mercury each day.""
 
 53
 2
-""Ore Pit
+""Pedreira
 Produces 2 ore each day.""
 
 53
 3
-""Sulfur Dune
+""Duna de enxofre
 Produces 1 sulfur each day.""
 
 53
 4
-""Crystal Cavern
+""Caverna de cristal
 Produces 1 crystal each day.""
 
 53
 5
-""Gem Pond
+""Lagoa de gemas
 Produces 1 gem each day.""
 
 53
 6
-""Gold Mine
+""Mina de ouro
 Produces 1000 gold each day.""
 
 53
 7
-""Abandoned Mine
+""Mina abandonada
 Fight 100-200 Troglodytes to restore the mine back to production.""
 
 54
 0
-""Pikeman
+""Piqueiro
 Level 1 Castle creature.
 Quantity: 20-50.""
 
 54
 1
-""Halberdier
+""Alabardeiro
 Upgraded level 1 Castle creature.
 Quantity: 20-30.""
 
 54
 2
-""Archer
+""Arqueiro
 Level 2 Castle creature.
 Quantity: 16-30.""
 
 54
 3
-""Marksman
+""Atirador
 Level 2 Castle creature.
 Quantity: 16-25.""
 
 54
 4
-""Griffin
+""Grifo
 Level 3 Castle creature.
 Quantity: 12-25.""
 
 54
 5
-""Royal Griffin
+""Grifo Real
 Upgraded level 3 Castle creature.
 Quantity: 12-20.""
 
 54
 6
-""Swordsman
+""Espadachim
 Level 4 Castle creature.
 Quantity: 10-20.""
 
 54
 7
-""Crusader
+""Cruzado
 Upgraded level 4 Castle creature.
 Quantity: 10-16.""
 
 54
 8
-""Monk
+""Monge
 Level 5 Castle creature.
 Quantity: 8-16.""
 
 54
 9
-""Zealot
+""Zelote
 Upgraded level 5 Castle creature.
 Quantity: 8-12.""
 
 54
 10
-""Cavalier
+""Cavaleiro
 Level 6 Castle creature.
 Quantity: 5-12.""
 
 54
 11
-""Champion
+""Campeão
 Upgraded level 6 Castle creature.
 Quantity: 5-10.""
 
 54
 12
-""Angel
+""Anjo
 Level 7 Castle creature.
 Quantity: 4-10.""
 
 54
 13
-""Archangel
+""Arcanjo
 Upgraded level 7 Castle creature.
 Quantity: 3-8.""
 
 54
 14
-""Centaur
+""Centauro
 Level 1 Rampart creature.
 Quantity: 20-50.""
 
 54
 15
-""Centaur Captain
+""Centauro Capitão
 Upgraded level 1 Rampart creature.
 Quantity: 20-30.""
 
 54
 16
-""Dwarf
+""Anão
 Level 2 Rampart creature.
 Quantity: 16-30.""
 
 54
 17
-""Battle Dwarf
+""Anão de Batalha
 Level 2 Ramart creature.
 Quantity: 16-25.""
 
 54
 18
-""Wood Elf
+""Elfo da Floresta
 Level 3 Rampart creature.
 Quantity: 12-25.""
 
 54
 19
-""Grand Elf
+""Grande Elfo
 Upgraded level 3 Rampart creature.
 Quantity: 12-20.""
 
 54
 20
-""Pegasus
+""Pégaso
 Level 4 Rampart creature.
 Quantity: 10-20.""
 
 54
 21
-""Silver Pegasus
+""Pégaso de Prata
 Upgraded level 4 Rampart creature.
 Quantity: 10-16.""
 
 54
 22
-""Dendroid Guard
+""Guarda Dendróide
 Level 5 Rampart creature.
 Quantity: 8-16.""
 
 54
 23
-""Dendroid Soldier
+""Soldado Dendróide
 Upgraded level 5 Rampart creature.
 Quantity: 8-12.""
 
 54
 24
-""Unicorn
+""Unicórnio
 Level 6 Rampart creature.
 Quantity: 5-12.""
 
 54
 25
-""War Unicorn
+""Unicórnio de Guerra
 Upgraded level 6 Rampart creature.
 Quantity: 5-10.""
 
 54
 26
-""Green Dragon
+""Dragão Verde
 Level 7 Rampart creature.
 Quantity: 4-10.""
 
 54
 27
-""Gold Dragon
+""Dragão Dourado
 Upgraded level 7 Rampart creature.
 Quantity: 3-8.""
 
@@ -4683,43 +4683,43 @@ Quantity: 20-50.""
 
 54
 29
-""Master Gremlin
+""Gremlin Mestre
 Upgraded level 1 Tower creature.
 Quantity: 20-30.""
 
 54
 30
-""Stone Gargoyle
+""Gárgula de Pedra
 Level 2 Tower creature.
 Quantity: 16-30.""
 
 54
 31
-""Obsidian Gargoyle
+""Gárgula de Obsidiana
 Level 2 Tower creature.
 Quantity: 16-25.""
 
 54
 32
-""Stone Golem
+""Golem de Pedra
 Level 3 Tower creature.
 Quantity: 12-25.""
 
 54
 33
-""Iron Golem
+""Golem de Ferro
 Upgraded level 3 Tower creature.
 Quantity: 12-20.""
 
 54
 34
-""Mage
+""Mago
 Level 4 Tower creature.
 Quantity: 10-20.""
 
 54
 35
-""Arch Mage
+""Arcomago
 Upgraded level 4 Tower creature.
 Quantity: 10-16.""
 
@@ -4785,181 +4785,181 @@ Quantity: 16-25.""
 
 54
 46
-""Hell Hound
+""Cão Infernal
 Level 3 Inferno creature.
 Quantity: 12-25.""
 
 54
 47
-""Cerberus
+""Cerbero
 Upgraded level 3 Inferno creature.
 Quantity: 12-20.""
 
 54
 48
-""Demon
+""Demônio
 Level 4 Inferno creature.
 Quantity: 10-20.""
 
 54
 49
-""Horned Demon
+""Demônio Chifrudo
 Upgraded level 4 Inferno creature.
 Quantity: 10-16.""
 
 54
 50
-""Pit Fiend
+""Atormentador
 Level 5 Inferno creature.
 Quantity: 8-16.""
 
 54
 51
-""Pit Lord
+""Lorde Atormentador
 Upgraded level 5 Inferno creature.
 Quantity: 8-12.""
 
 54
 52
-""Efreeti
+""Efreet
 Level 6 Inferno creature.
 Quantity: 5-12.""
 
 54
 53
-""Efreet Sultan
+""Efreet Sultão
 Upgraded level 6 Inferno creature.
 Quantity: 5-10.""
 
 54
 54
-""Devil
+""Diabo
 Level 7 Inferno creature.
 Quantity: 4-10.""
 
 54
 55
-""Arch Devil
+""Arcodiabo
 Upgraded level 7 Inferno creature.
 Quantity: 3-8.""
 
 54
 56
-""Skeleton
+""Esqueleto
 Level 1 Necropolis creature.
 Quantity: 20-50.""
 
 54
 57
-""Skeleton Warrior
+""Guerreiro Esqueleto
 Upgraded level 1 Necropolis creature.
 Quantity: 20-30.""
 
 54
 58
-""Walking Dead
+""Morto-Vivo
 Level 2 Necropolis creature.
 Quantity: 16-30.""
 
 54
 59
-""Zombie
+""Zumbi
 Upgraded Level 2 Necropolis creature.
 Quantity: 16-25.""
 
 54
 60
-""Wight
+""Alma Penada
 Level 3 Necropolis creature.
 Quantity: 12-25.""
 
 54
 61
-""Wraith
+""Assombração
 Upgraded level 3 Necropolis creature.
 Quantity: 12-20.""
 
 54
 62
-""Vampire
+""Vampiro
 Level 4 Necropolis creature.
 Quantity: 10-20.""
 
 54
 63
-""Vampire Lord
+""Vampiro Lorde
 Upgraded level 4 Necropolis creature.
 Quantity: 10-16.""
 
 54
 64
-""Lich
+""Liche
 Level 5 Necropolis creature.
 Quantity: 8-16.""
 
 54
 65
-""Power Lich
+""Liche Poderoso
 Upgraded level 5 Necropolis creature.
 Quantity: 8-12.""
 
 54
 66
-""Black Knight
+""Cavaleiro Negro
 Level 6 Necropolis creature.
 Quantity: 5-12.""
 
 54
 67
-""Dread Knight
+""Cavaleiro Terrível
 Upgraded level 6 Necropolis creature.
 Quantity: 5-10.""
 
 54
 68
-""Bone Dragon
+""Dragão de Ossos
 Level 7 Necropolis creature.
 Quantity: 4-10.""
 
 54
 69
-""Ghost Dragon
+""Dragão Fantasma
 Upgraded level 7 Necropolis creature.
 Quantity: 3-8.""
 
 54
 70
-""Troglodyte
+""Troglodita
 Level 1 Dungeon creature.
 Quantity: 20-50.""
 
 54
 71
-""Infernal Troglodyte
+""Troglodita Infernal
 Upgraded level 1 Dungeon creature.
 Quantity: 20-30.""
 
 54
 72
-""Harpy
+""Harpia
 Level 2 Dungeon creature.
 Quantity: 16-30.""
 
 54
 73
-""Harpy Hag
+""Harpia Bruxa
 Upgraded Level 2 Dungeon creature.
 Quantity: 16-25.""
 
 54
 74
-""Beholder
+""Observador
 Level 3 Dungeon creature.
 Quantity: 12-25.""
 
 54
 75
-""Evil Eye
+""Mau Olhado
 Upgraded level 3 Dungeon creature.
 Quantity: 12-20.""
 
@@ -4971,43 +4971,43 @@ Quantity: 10-20.""
 
 54
 77
-""Medusa Queen
+""Medusa Rainha
 Upgraded level 4 Dungeon creature.
 Quantity: 10-16.""
 
 54
 78
-""Minotaur
+""Minotauro
 Level 5 Dungeon creature.
 Quantity: 8-16.""
 
 54
 79
-""Minotaur King
+""Minotauro Rei
 Upgraded level 5 Dungeon creature.
 Quantity: 8-12.""
 
 54
 80
-""Manticore
+""Mantícora
 Level 6 Dungeon creature.
 Quantity: 5-12.""
 
 54
 81
-""Scorpicore
+""Escorpicório
 Upgraded level 6 Dungeon creature.
 Quantity: 5-10.""
 
 54
 82
-""Red Dragon
+""Dragão Vermelho
 Level 7 Dungeon creature.
 Quantity: 4-10.""
 
 54
 83
-""Black Dragon
+""Dragão Preto
 Upgraded level 7 Dungeon creature.
 Quantity: 3-8.""
 
@@ -5025,13 +5025,13 @@ Quantity: 20-30.""
 
 54
 86
-""Wolf Rider
+""Goblin Lobeiro
 Level 2 Stronghold creature.
 Quantity: 16-30.""
 
 54
 87
-""Wolf Raider
+""Saqueador Lobeiro
 Upgraded Level 2 Stronghold creature.
 Quantity: 16-25.""
 
@@ -5043,19 +5043,19 @@ Quantity: 12-25.""
 
 54
 89
-""Orc Chieftain
+""Orc Chefe
 Upgraded level 3 Stronghold creature.
 Quantity: 12-20.""
 
 54
 90
-""Ogre
+""Ogro
 Level 4 Stronghold creature.
 Quantity: 10-20.""
 
 54
 91
-""Ogre Mage
+""Ogro Mago
 Upgraded level 4 Stronghold creature.
 Quantity: 10-16.""
 
@@ -5067,31 +5067,31 @@ Quantity: 8-16.""
 
 54
 93
-""Thunderbird
+""Passáro do Trovão
 Upgraded level 5 Stronghold creature.
 Quantity: 8-12.""
 
 54
 94
-""Cyclops
+""Ciclope
 Level 6 Stronghold creature.
 Quantity: 5-12.""
 
 54
 95
-""Cyclops King
+""Ciclope Rei
 Upgraded level 6 Stronghold creature.
 Quantity: 5-10.""
 
 54
 96
-""Behemoth
+""Beemote
 Level 7 Stronghold creature.
 Quantity: 4-10.""
 
 54
 97
-""Ancient Behemoth
+""Beemote Ancião
 Upgraded level 7 Stronghold creature.
 Quantity: 3-8.""
 
@@ -5103,19 +5103,19 @@ Quantity: 20-50.""
 
 54
 99
-""Gnoll Marauder
+""Gnoll Saqueador
 Upgraded level 1 Fortress creature.
 Quantity: 20-30.""
 
 54
 100
-""Lizardman
+""Homem Lagarto
 Level 2 Fortress creature.
 Quantity: 16-30.""
 
 54
 101
-""Lizard Warrior
+""Guerreiro Lagarto
 Upgraded Level 2 Fortress creature.
 Quantity: 16-25.""
 
@@ -5127,31 +5127,31 @@ Quantity: 8-16.""
 
 54
 103
-""Mighty Gorgon
+""Gorgon Potente
 Upgraded level 5 Fortress creature.
 Quantity: 8-12.""
 
 54
 104
-""Serpent Fly
+""Cobra com Asas
 Level 3 Fortress creature.
 Quantity: 12-25.""
 
 54
 105
-""Dragon Fly
+""Cobra-Dragão
 Upgraded level 3 Fortress creature.
 Quantity: 12-20.""
 
 54
 106
-""Basilisk
+""Basilisco
 Level 4 Fortress creature.
 Quantity: 10-20.""
 
 54
 107
-""Greater Basilisk
+""Grande Basilisco
 Upgraded level 4 Fortress creature.
 Quantity: 10-16.""
 
@@ -5163,151 +5163,151 @@ Quantity: 5-12.""
 
 54
 109
-""Wyvern Monarch
+""Wyvern Monarca
 Upgraded level 6 Fortress creature.
 Quantity: 5-10.""
 
 54
 110
-""Hydra
+""Hidra
 Level 7 Fortress creature.
 Quantity: 4-10.""
 
 54
 111
-""Chaos Hydra
+""Hidra do Caos
 Upgraded level 7 Fortress creature.
 Quantity: 3-8.""
 
 54
 112
-""Air Elemental
+""Elemental de Ar
 Level 2 Conflux creature.
 Quantity: 8-12.""
 
 54
 113
-""Earth Elemental
+""Elemental de Terra
 Level 5 Conflux creature.
 Quantity: 16-30.""
 
 54
 114
-""Fire Elemental
+""Elemental de Fogo
 Level 4 Conflux creature.
 Quantity: 10-20.""
 
 54
 115
-""Water Elemental
+""Elemental de Água
 Level 3 Conflux creature.
 Quantity: 12-25.""
 
 54
 116
-""Gold Golem
+""Golem de Ouro
 Level 5 Neutral creature.
 Quantity: 10-16.""
 
 54
 117
-""Diamond Golem
+""Golem de Diamante
 Level 6 Neutral creature.
 Quantity: 8-12.""
 
 54
 118
-""Pixie
+""Fadinha
 Level 1 Conflux creature.
 Quantity: 20-50.""
 
 54
 119
-""Sprite
+""Fada-Madrinha
 Level 1 Upgrade Conflux creature.
 Quantity:  20-30.""
 
 54
 120
-""Psychic Elemental
+""Elemental Psíquico
 Level 6 Conflux creature.
 Quantity:  5-12.""
 
 54
 121
-""Magic Elemental
+""Elemental de Mágica
 Level 6 Upgrade Conflux creature.
 Quantity:  5-10.""
 
 54
 123
-""Ice Elemental
+""Elemental de Gelo
 Level 3 Upgrade Conflux creature.
 Quantity:  12-20.""
 
 54
 125
-""Magma Elemental
+""Elemental de Magma
 Level 5 Upgrade Conflux creature.
 Quantity:  16-25.""
 
 54
 127
-""Storm Elemental
+""Elemental de Tempestade
 Level 2 Upgrade Conflux creature.
 Quantity:  6-12.""
 
 54
 129
-""Energy Elemental
+""Elemental de Energia
 Level 4 Upgrade Conflux creature.
 Quantity:  10-16.""
 
 54
 130
-""Firebird
+""Pássaro de Fogo
 Level 7 Conflux creature.
 Quantity:  4-10.""
 
 54
 131
-""Phoenix
+""Fênix
 Level 7 Upgrade Conflux creature.
 Quantity: 3-8.""
 
 54
 132
-""Azure Dragon
+""Dragão Azul
 Level 7 Neutral creature.
 Quantity:  1-3.""
 
 54
 133
-""Crystal Dragon
+""Dragão de Cristal
 Level 7 Neutral creature.
 Quantity:  1-3.""
 
 54
 134
-""Faerie Dragon
+""Dragão Fada
 Level 7 Neutral creature.
 Quantity:  1-3.""
 
 54
 135
-""Rust Dragon
+""Dragão de Ferrugem
 Level 7 Neutral creature.
 Quantity:  1-3.""
 
 54
 136
-""Enchanter
+""Encantador
 Level 6 Neutral creature.
 Quantity:  5-12.""
 
 54
 137
-""Sharpshooter
+""Arqueiro Verde
 Level 4 Neutral creature.
 Quantity:  5-12.""
 
@@ -5319,73 +5319,73 @@ Quantity:  20-50.""
 
 54
 139
-""Peasant
+""Camponês
 Level 1 Neutral creature.
 Quantity:  20-50.""
 
 54
 140
-""Boar
+""Javali
 Level 2 Neutral creature.
 Quantity:  16-30.""
 
 54
 141
-""Mummy
+""Múmia
 Level 3 Neutral creature.
 Quantity:  12-25.""
 
 54
 142
-""Nomad
+""Nômade
 Level 3 Neutral creature.
 Quantity:  12-25.""
 
 54
 143
-""Rogue
+""Bandido
 Level 2 Neutral creature.
 Quantity:  16-30.""
 
 54
 144
-""Troll 
+""Troll
 Level 5 Neutral creature.
 Quantity: 8-12.""
 
 79
 0
-""Wood
+""Madeira
 This treasures gives 5-10 wood.""
 
 79
 1
-""Mercury
+""Mercúrio
 This treasures gives 3-6 mercury.""
 
 79
 2
-""Ore
+""Pedra
 This treasures gives 5-10 ore.""
 
 79
 3
-""Sulfur
+""Enxofre
 This treasures gives 3-6 sulfur.""
 
 79
 4
-""Crystal
+""Cristais
 This treasures gives 3-6 crystal.""
 
 79
 5
-""Gems
+""Gemas
 This treasures gives 3-6 gems.""
 
 79
 6
-""Gold
+""Ouro
 This treasures gives 500-1000 gold.""
 
 98
@@ -5520,53 +5520,53 @@ At the start of the game, this object is replaced with a random Conflux dwelling
 
 219
 0
-""Garrison
+""Guarnição
 Location for storing troops at a choke point.""
 
 219
 1
-""Anti-magic Garrison
+""Guarnição anti-mágica
 Location for storing troops at a choke point.
 Spells cannot be cast in combat.""
 
 220
 0
-""Sawmill
+""Madereira
 Produces 2 wood each day.""
 
 220
 1
-""Alchemist's Lab
+""Destilaria de mercúrio
 Produces 1 mercury each day.""
 
 220
 2
-""Ore Pit
+""Pedreira
 Produces 2 ore each day.""
 
 220
 3
-""Sulfur Dune
+""Duna de enxofre
 Produces 1 sulfur each day.""
 
 220
 4
-""Crystal Cavern
+""Caverna de cristais
 Produces 1 crystal each day.""
 
 220
 5
-""Gem Pond
+""Lagoa de gemas
 Produces 1 gem each day.""
 
 220
 6
-""Gold Mine
+""Mina de ouro
 Produces 1000 gold each day.""
 
 220
 7
-""Abandoned Mine
+""Mina abandonada
 Fight 100-200 Troglodytes to restore the mine back to production.""
 
 
@@ -5729,7 +5729,7 @@ Worn on a torso, this item reduces the Power skill of enemy hero by 25% during c
 
 16
 23
-""Pirate Cavern
+""Caverna dos piratas
 - 30% Fight 20 Pirates and 20 Corsairs to receive 1 Sea Serpent into your army's ranks.
 - 30% Fight 40 Pirates and 40 Corsairs to receive 2 Sea Serpents into your army's ranks.
 - 30% Fight 60 Pirates and 60 Corsairs to receive 3 Sea Serpents into your army's ranks.
@@ -5737,7 +5737,7 @@ Worn on a torso, this item reduces the Power skill of enemy hero by 25% during c
 
 16
 24
-""Mansion
+""Mansão
 - 30% Fight 40 Vampire Lords for 2500 gold, 2 mercury, 2 sulfur 2 crystal, 2 gems and 1 Major Artifact.
 - 30% Fight 60 Vampire Lords for 5000 gold, 3 mercury, 3 sulfur 3 crystal, 3 gems and 1 Major Artifact.
 - 30% Fight 80 Vampire Lords for 7500 gold, 4 mercury, 4 sulfur 4 crystal, 4 gems and 1 Major Artifact.
@@ -5745,7 +5745,7 @@ Worn on a torso, this item reduces the Power skill of enemy hero by 25% during c
 
 16
 25
-""Spit
+""Escarro
 - 30% Fight 16 Basilisks for 3000 gold.
 - 30% Fight 24 Basilisks for 4500 gold.
 - 30% Fight 32 Basilisks for 6000 gold.
@@ -5753,7 +5753,7 @@ Worn on a torso, this item reduces the Power skill of enemy hero by 25% during c
 
 16
 26
-""Red Tower
+""Torre vermelha
 - 30% Fight 35 Fire Elementals to receive 1 Firebird into your army's ranks.
 - 30% Fight 70 Fire Elementals to receive 2 Firebirds into your army's ranks.
 - 30% Fight 105 Fire Elementals to receive 3 Firebirds into your army's ranks.
@@ -5761,7 +5761,7 @@ Worn on a torso, this item reduces the Power skill of enemy hero by 25% during c
 
 16
 27
-""Black Tower
+""Torre negra
 - 30% Fight 1 Green Dragon for 2000 gold and 1 Minor Artifact.
 - 30% Fight 1 Red Dragon for 2250 gold and 1 Minor Artifact.
 - 30% Fight 1 Gold Dragon for 3500 gold and 1 Minor Artifact.
@@ -5769,7 +5769,7 @@ Worn on a torso, this item reduces the Power skill of enemy hero by 25% during c
 
 16
 28
-""Ivory Tower
+""Torre de marfim
 - 30% Fight 35 Arch Magi to receive 3 Enchanters into your army's ranks.
 - 30% Fight 50 Arch Magi to receive 6 Enchanters into your army's ranks.
 - 30% Fight 56 Arch Magi to receive 9 Enchanters into your army's ranks.
@@ -5777,14 +5777,14 @@ Worn on a torso, this item reduces the Power skill of enemy hero by 25% during c
 
 16
 29
-""Churchyard
+""Cemitério
 Fight 90 Zombies for 2500 gold and 1 Minor Artifact.
 
 -1 Morale if you visit the churchyard and the guardians have already been defeated.""
 
 16
 30
-""Experimental Shop
+""Loja experimental
 - 30% Fight 25 Steel Golems to receive 1 Giant into your army's ranks.
 - 30% Fight 50 Steel Golems to receive 2 Giants into your army's ranks.
 - 30% Fight 75 Steel Golems to receive 3 Giants into your army's ranks.
@@ -5792,7 +5792,7 @@ Fight 90 Zombies for 2500 gold and 1 Minor Artifact.
 
 16
 31
-""Wolf Raider Picket
+""Piquete dos lobeiros
 - 30% Fight 50 Wolf Raiders to receive 4 Cyclopes into your army's ranks.
 - 30% Fight 75 Wolf Raiders to receive 6 Cyclopes into your army's ranks.
 - 30% Fight 100 Wolf Raiders to receive 8 Cyclopes into your army's ranks.
@@ -5800,7 +5800,7 @@ Fight 90 Zombies for 2500 gold and 1 Minor Artifact.
 
 16
 32
-""Ruins
+""Ruínas
 - 30% Fight 20 Skeletons, 3 Wights, 3 Wraiths, 10 Skeleton Warriors, and 1 Power Lich to receive 1000 gold and remove shroud from all tiles within 12 tiles.
 - 30% Fight 30 Skeletons, 5 Wights, 5 Wraiths, 10 Skeleton Warriors, and 1 Power Lich to receive 2000 gold and remove shroud from all tiles within 12 tiles.
 - 30% Fight 40 Skeletons, 7 Wights, 7 Wraiths, 20 Skeleton Warriors, and 2 Power Liches to receive 3000 gold and remove shroud from all tiles within 12 tiles.
@@ -5880,7 +5880,7 @@ Herói mágico da enseada.""
 
 35
 1
-""Hill Fort
+""Forte da colina
 Upgrade base grade of level 1-5 creatures for double cost.""
 
 36
@@ -5905,7 +5905,7 @@ Points a place of a final battle on an arena map. The defending hero must stay a
 
 54
 151
-""Sea Dog
+""Lobo do Mar
 Additional upgrade of level 3 Cove creature.
 Quantity: 12-18.""
 
@@ -6019,12 +6019,12 @@ Quantity: 10-16.""
 
 58
 1
-""Observation Tower
+""Torre de observação
 Shroud is removed from all tiles within 20 tiles of the Observation Tower.""
 
 88
 3
-""Capela do Mistério Mágico
+""Capela do mistério mágico
 Learn level 4 spell.""
 
 98
@@ -6039,197 +6039,197 @@ Hero can purchase Cannon in Cannon Yard.""
 
 139
 0
-""Crate
-Decoration.""
+""Caixa
+Decoração.""
 
 139
 1
-""Crates
-Decoration.""
+""Caixas
+Decoração.""
 
 139
 2
-""Sack
-Decoration.""
+""Saco
+Decoração.""
 
 139
 3
-""Barrels
-Decoration.""
+""Barris
+Decoração.""
 
 139
 4
-""Jaw
-Decoration.""
+""Mandíbula
+Decoração.""
 
 139
 5
-""Rope
-Decoration.""
+""Corda
+Decoração.""
 
 139
 6
-""Frog
-Decoration.""
+""Sapo
+Decoração.""
 
 139
 7
-""Frogs
-Decoration.""
+""Sapos
+Decoração.""
 
 139
 8
-""Chicken
-Decoration.""
+""Galinha
+Decoração.""
 
 139
 9
-""Rooster
-Decoration.""
+""Galo
+Decoração.""
 
 139
 10
 ""Bluebottle
-Decoration.""
+Decoração.""
 
 139
 11
-""Ruined Camp
-Decoration.""
+""Acampamento destruído
+Decoração.""
 
 139
 12
-""Ruined Fountain
-Decoration.""
+""Fonte destruída
+Decoração.""
 
 139
 13
-""Pig
-Decoration.""
+""Porco
+Decoração.""
 
 139
 14
-""Ancient Altar
-Decoration.""
+""Altar antigo
+Decoração.""
 
 139
 15
-""Abandoned Boat
-Decoration.""
+""Barco abandonado
+Decoração.""
 
 139
 16
-""Fence
-Decoration.""
+""Cerca
+Decoração.""
 
 139
 17
-""Waterfalls
-Decoration.""
+""Cachoeiras
+Decoração.""
 
 139
 18
-""Fire
-Decoration.""
+""Fogo
+Decoração.""
 
 139
 19
-""Ruined Subterranean Gate
-Decoration.""
+""Passagem subterrânea arruinada
+Decoração.""
 
 139
 20
-""Carnivorous Plant
-Decoration.""
+""Planta carnívora
+Decoração.""
 
 139
 21
-""Bridge
-Decoration.""
+""Ponte
+Decoração.""
 
 139
 22
-""Bone
-Decoration.""
+""Osso
+Decoração.""
 
 139
 23
-""Sacks
-Decoration.""
+""Sacos
+Decoração.""
 
 139
 24
-""Puddles
-Decoration.""
+""Poças de água
+Decoração.""
 
 139
 25
-""Rubble
-Decoration.""
+""Escombros
+Decoração.""
 
 139
 26
-""Limestone Puddles
-Decoration.""
+""Poças de água
+Decoração.""
 
 140
 0
-""Stony Sphere
-Decoration.""
+""Bola de pedra
+Decoração.""
 
 140
 1
-""Stone
-Decoration.""
+""Pedra
+Decoração.""
 
 140
 2
-""Palms
-Decoration.""
+""Palmeiras
+Decoração.""
 
 140
 3
-""Ice Block
-Decoration.""
+""Bloco de gelo
+Decoração.""
 
 140
 4
-""Pile of Stones
-Decoration.""
+""Pilha de pedras
+Decoração.""
 
 140
 5
-""Snow Hills
-Decoration.""
+""Colina de neve
+Decoração.""
 
 140
 6
-""Barchan Dunes
-Decoration.""
+""Dunas barcanas
+Decoração.""
 
 140
 7
-""Spruces
-Decoration.""
+""Abetos
+Decoração.""
 
 140
 8
-""Limestone Lake
-Decoration.""
+""Lago
+Decoração.""
 
 141
 0
-""Cracked Ice
+""Gelo trincado
 Gives all troops -5 Defence.""
 
 141
 1
-""Dunes
+""Dunas
 15 to 20 invisible quicksand spots are present on the battlefield. After entering a hex with a quicksand spot, unit stops and the spot becomes visible to both players.""
 
 141
 2
-""Fields of Glory
+""Campos de glória
 Gives all troops -2 Luck.""
 
 142
@@ -6274,7 +6274,7 @@ Mixed faction morale penalty negated until next turn.""
 
 144
 1
-""Skeleton Transformer
+""Transformador de esqueletos
 This allows you to convert any creature into a skeleton.""
 
 144
@@ -6317,7 +6317,7 @@ Each subsequent week is set to give 1000 gold.""
 
 144
 9
-""Warlock's Lab
+""Laboratório de alquimia
 Allows exchanging Mercury, Sulfur, Crystal, and Gems in the ratio of one to one.""
 
 144
@@ -6340,13 +6340,13 @@ Allows you to recruit 4-7 Master Genie once.""
 
 145
 1
-""Sea Barrel
+""Barril flutuante
 - 20% chance of getting nothing.
 - 80% chance of getting 3-6 Mercury, Sulfur, Crystal, or Gems.""
 
 145
 2
-""Jetsam
+""Carga abandonada
 - 25% chance of getting nothing.
 - 25% chance of getting 5 Ore.
 - 25% chance of getting 5 Ore and 200 Gold.
@@ -6359,17 +6359,17 @@ Grants 30-60 spell points. If resulting amount of mana points is to exceed norma
 
 146
 0
-""Seafaring Academy
+""Escola da marinha
 Pay 2000g for studying or improving Secondary Skill of three taught. Navigation is always one of these three.""
 
 146
 1
-""Observatory
+""Observatório
 +2 scouting radius until the end of the week.""
 
 146
 2
-""Altar of Mana
+""Altar da magia
 Heroes may sacrifice creatures for spell points, up to 4x the normal cap.""
 
 146
@@ -6471,7 +6471,7 @@ Text 7: "# Additional objects for RMG
 144 11 200 40 -1 1 # Ïðîâîäíèê
 212 1001 500 30 -1 -1 # Ìîãèëà
 "
-Text 8: "{Capela do Mistério Mágico}
+Text 8: "{Capela do mistério mágico}
 
 Você chegou numa antiga capela visitada por um grupo de eremitas místicos.  Em troca de sua proteção, eles concordam em te ensinar um feitiço poderoso - "
 Has FilS: "false"
@@ -6591,33 +6591,33 @@ Text 7: "# Íîìåð ôîíîâîãî çâóêà | Òèï (-1 - íåò, 0 - ì¸ðòâîå  ðàñòåíèå, 1 - õîëì
 -1 -1 0 # 24 Ëóæè
 -1 -1 0 # 25 Ðàçâàëèíû
 -1 -1 0 # 26 Èçâåñòíÿêîâûå Ëóæè"
-Text 8: "Crate
-Crates
-Sack
-Barrels
-Jaw
-Rope
-Frog
-Frogs
-Chicken
-Rooster
+Text 8: "Caixa
+Caixas
+Saco
+Barris
+Mandíbula
+Corda
+Sapo
+Sapos
+Galinha
+Galo
 Bluebottle
-Ruined Camp
-Ruined Fountain
-Pig
-Ancient Altar
-Abandoned Boat
-Fence
-Waterfalls
-Fire
-Ruined Subterranean Gate
-Carnivorous Plant
-Bridge
-Bone
-Sacks
-Puddles
-Rubble
-Limestone Puddles"
+Acampamento destruído
+Fonte destruída
+Porco
+Altar antigo
+Barco abandonado
+Cerca
+Cachoeiras
+Fogo
+Passagem subterrânea arruinada
+Planta carnívora
+Ponte
+Osso
+Sacos
+Poças de água
+Escombros
+Poças de água"
 Has FilS: "false"
 Vals count: "4"
 Val 0: "0"
@@ -6647,15 +6647,15 @@ Text 7: "# Íîìåð ôîíîâîãî çâóêà | Òèï (-1 - íåò, 0 - ì¸ðòâîå  ðàñòåíèå, 1 - õîëì
 -1 1 1 # 6 Áàðõàíû
 -1 2 1 # 7 Åëè
 -1 -1 1 # 8 Èçâåñòíÿêîâîå Îçåðî"
-Text 8: "Stony Sphere
-Stone
-Palms
-Ice Block
-Pile of Stones
-Snow Hills
-Barchan Dunes
-Spruces
-Limestone Lake"
+Text 8: "Bola de pedra
+Pedra
+Palmeiras
+Bloco de gelo
+Pilha de pedras
+Colina de neve
+Dunas barcanas
+Abetos
+Lago"
 Has FilS: "false"
 Vals count: "4"
 Val 0: "0"
@@ -7717,10 +7717,10 @@ Name
 Spell Book
 Spell Scroll
 The Grail
-Catapult
-Ballista
+Catapulta
+Balista
 Ammo Cart
-First Aid Tent
+Tenda médica
 Centaur's Axe
 Blackshard of the Dead Knight
 Greater Gnoll's Flail
@@ -7860,47 +7860,47 @@ Pendant of Reflection
 Ironfist of the Ogre"
 Text 8: "
 Adventure Object
-Cyclops Stockpile
+Estoque dos ciclopes
  
  
  
-Dwarven Treasury
+Tesouro dos anões
  
  
  
-Griffin Conservatory
+Conservatório de grifos
  
  
  
-Imp Cache
+Reserva de diabretes
  
  
  
-Medusa Stores
+Depósito das medusas
  
  
  
-Naga Bank
+Banco das nagas
  
  
  
-Dragon Fly Hive
+Colmeia de cobras-dragão
  
  
  
-Shipwreck
+Naufrágio
  
  
  
-Derelict Ship
+Barco à deriva
  
  
  
-Crypt
+Cripta
  
  
  
-Dragon Utopia
+Utopia dos dragões
  
  
  
@@ -8186,14 +8186,14 @@ Mutare Drake
 Boragus
 Xeron
 "
-Text 8: "Sawmill
-Alchemist's Lab
-Ore Pit
-Sulfur Dune
-Crystal Cavern
-Gem Pond
-Gold Mine
-Abandoned Mine
+Text 8: "Madereira
+Destilaria de mercúrio
+Pedreira
+Duna de enxofre
+Caverna de cristal
+Lagoa de gemas
+Mina de ouro
+Mina Abandonada
 "
 Has FilS: "false"
 Vals count: "4"
@@ -8214,238 +8214,238 @@ Text 3: ""
 Text 4: ""
 Text 5: ""
 Text 6: ""
-Text 7: "Nothing
+Text 7: "Nada
 
-Altar of Sacrifice
-Anchor Point
+Altar do sacrifício
+Ponto de ancoragem
 Arena
-Artifact
-Pandora's Box
-Black Market
-Boat
-Border Guard
-Keymaster's Tent
-Buoy
-Campfire
-Cartographer
-Swan Pond
-Cover of Darkness
+Artefato
+Caixa de Pandora
+Mercado negro
+Navio
+Guarda de fronteira
+Tenda do chaveiro
+Bóia
+Fogueira
+Cartógrafo
+Lago do cisne
+Cobertura de escuridão
 Creature Bank
-Creature Generator 1
-Creature Generator 2
-Creature Generator 3
-Creature Generator 4
-Cursed Ground
-Corpse
-Marletto Tower
-Derelict Ship
-Dragon Utopia
-Event
-Eye of the Magi
-Faerie Ring
-Flotsam
-Fountain of Fortune
-Fountain of Youth
-Garden of Revelation
-Garrison
-Hero
-Hill Fort
-Grail
-Hut of the Magi
-Idol of Fortune
-Lean To
+Gerador de criaturas 1
+Gerador de criaturas 2
+Gerador de criaturas 3
+Gerador de criaturas 4
+Território amaldiçoado
+Corpo
+Torre de Marletto
+Barco à deriva
+Utopia dos dragões
+Evento
+Olho do mago
+Anel de fadas
+Destroços
+Fonte encantada
+Fonte da juventude
+Jardim da revelação
+Guarnição
+Herói
+Forte da colina
+Graal
+Choupana do mago
+Totem da sorte
+Escora
 
-Library of Enlightenment
-Lighthouse
+Biblioteca do iluminismo
+Farol
 Monolith One Way Entrance
 Monolith One Way Exit
 Two Way Monolith
-Magic Plains
-School of Magic
-Magic Spring
-Magic Well
-Market of Time
-Mercenary Camp
-Mermaids
-Mine
-Monster
-Mystical Garden
-Oasis
-Obelisk
-Redwood Observatory
-Ocean Bottle
-Pillar of Fire
-Star Axis
-Prison
-Pyramid
-Rally Flag
-Random Artifact
+Planícies mágicas
+Escola de magia
+Fonte mágica
+Poço mágico
+Mercado de tempo
+Acampamento de mercenários
+Sereia
+Mina
+Monstro
+Jardim místico
+Oásis
+Obelisco
+Mirante da torre
+Garrafa marítima
+Pilar de fogo
+Eixo estelar
+Prisão
+Pirâmide
+Bandeira de reunião
+Artefato aleatório
 Random Treasure Artifact
 Random Minor Artifact
 Random Major Artifact
 Random Relic
-Random Hero
-Random Monster
-Random Monster 1
-Random Monster 2
-Random Monster 3
-Random Monster 4
-Random Resource
-Random Town
-Refugee Camp
-Resource
-Sanctuary
-Scholar
-Sea Chest
+Herói aleatório
+Monstro aleatório
+Monstro aleatório 1
+Monstro aleatório 2
+Monstro aleatório 3
+Monstro aleatório 4
+Recurso aleatório
+Cidade aleatória
+Campo de refugiados
+Recurso
+Santuário
+Acadêmico
+Arca marítima
 Seer's Hut
-Crypt
-Shipwreck
-Shipwreck Survivor
-Shipyard
-Shrine of Magic Incantation
-Shrine of Magic Gesture
-Shrine of Magic Thought
-Sign
-Sirens
-Spell Scroll
-Stables
-Tavern
-Temple
-Den of Thieves
-Town
+Cripta
+Naufrágio
+Náufrago
+Estaleiro
+Capela do encantamento mágico
+Capela do gesto mágico
+Capela do pensamento mágico
+Placa
+Sirenes
+Pergaminho
+Estábulos
+Taverna
+Templo
+Toca dos ladrões
+Cidade
 Trading Post
-Learning Stone
-Treasure Chest
-Tree of Knowledge
-Subterranean Gate
-University
-Wagon
-War Machine Factory
-School of War
-Warrior's Tomb
-Water Wheel
-Watering Hole
-Whirlpool
-Windmill
-Witch Hut
+Pedra do aprendizado
+Arca do tesouro
+Árvore do conhecimento
+Passagem subterrânea
+Universidade
+Carroça
+Fábrica de máquinas
+Escola de guerra
+Tumba de um guerreiro
+Roda d'água
+Nascente
+Redemoinho
+Moinho de vento
+Cabana da bruxa
 Brush
-Bush
-Cactus
-Canyon
-Crater
-Dead Vegetation
-Flowers
-Frozen Lake
-Hedge
-Hill
-Hole
-Kelp
-Lake
-Lava Flow
-Lava Lake
-Mushrooms
-Log
-Mandrake
-Moss
-Mound
-Mountain
-Oak Trees
-Outcropping
-Pine Trees
-Plant
+Arbustos
+Cácto
+Cânion
+Cratera
+Vegetação morta
+Flores
+Lago congelado
+Cerca-viva
+Colina
+Buraco
+Algas
+Lago
+Fluxo de lava
+Lago de lava
+Cogumelos
+Tronco
+Mandrágora
+Musgo
+Morro
+Montanha
+Carvalhos
+Escarpa
+Pinheiros
+Planta
 
 
 
 
-River Delta
+Delta de rio
 
 
 
-Rock
-Sand Dune
-Sand Pit
-Shrub
-Skull
-Stalagmite
-Stump
-Tar Pit
-Trees
-Vine
-Volcanic Vent
-Volcano
-Willow Trees
-Yucca Trees
-Reef
-Random Monster 5
-Random Monster 6
-Random Monster 7
+Pedra
+Duna
+Buraco na areia
+Arbustos
+Crânio
+Estalagmite
+Tronco
+Poço de pixe
+Árvores
+Cipó
+Chaminé vulcânica
+Vulcão
+Salgueiros
+Árvores espinhosas
+Recife
+Monstro aleatório 5
+Monstro aleatório 6
+Monstro aleatório 7
 Brush
-Bush
-Cactus
-Canyon
-Crater
-Dead Vegetation
-Flowers
-Frozen Lake
-Hedge
-Hill
-Hole
-Kelp
-Lake
-Lava Flow
-Lava Lake
-Mushrooms
-Log
-Mandrake
-Moss
-Mound
-Mountain
-Oak Trees
-Outcropping
-Pine Trees
-Plant
-River Delta
-Rock
-Sand Dune
-Sand Pit
-Shrub
-Skull
-Stalagmite
-Stump
-Tar Pit
-Trees
-Vine
-Volcanic Vent
-Volcano
-Willow Trees
-Yucca Trees
-Reef
-Desert Hills
-Dirt Hills
-Grass Hills
-Rough Hills
-Subterranean Rocks
-Swamp Foliage
-Border Gate
-Freelancer's Guild
-Hero Placeholder
+Arbustos
+Cácto
+Cânion
+Cratera
+Vegetação morta
+Flores
+Lago congelado
+Cerca-viva
+Colina
+Buraco
+Algas
+Lago
+Fluxo de lava
+Lago de lava
+Cogumelos
+Tronco
+Mandrágora
+Musgo
+Morro
+Montanha
+Carvalhos
+Escarpa
+Pinheiros
+Planta
+Delta de rio
+Pedra
+Duna
+Buraco na areia
+Arbustos
+Crânio
+Estalagmite
+Toco
+Poço de pixe
+Árvores
+Cipó
+Chaminé vulcânica
+Vulcão
+Salgueiros
+Árvores espinhosas
+Recife
+Colina desértica
+Colina de terra
+Colina gramada
+Colina rochosa
+Pedras subterrâneas
+Folhagem pantaneira
+Guarda de fronteira
+Mercado de escravos
+Marcador de herói
 Quest Guard
 Random Dwelling
 
 
-Garrison
-Mine
+Guarnição
+Mina
 Trading Post
-Clover Field
-Cursed Ground
-Evil Fog
-Favorable Winds
-Fiery Fields
-Holy Ground
-Lucid Pools
-Magic Clouds
-Magic Plains
-Rocklands
+Campos de trevos
+Território amaldiçoado
+Trevas malditas
+Ventos favoráveis
+Campos de fogo
+Território sagrado
+Piscinas lúcidas
+Nuvens mágicas
+Planícies mágicas
+Terreno pedregoso
 "
 Text 8: "Madeira
 Mercúrio
@@ -8957,8 +8957,8 @@ Dragão Preto	Dragões Pretos	0	0	0	2	0	0	4000	6783	8721	1
 											
 Goblin	Goblins	0	0	0	0	0	0	40	60	60	15
 Hobgoblin	Hobgoblins	0	0	0	0	0	0	50	65	78	15
-Goblin Montado	Goblins Montados	0	0	0	0	0	0	100	130	130	9
-Goblin Saqueador	Goblins Saqueadores	0	0	0	0	0	0	140	174	203	9
+Goblin Lobeiro	Goblins Lobeiros	0	0	0	0	0	0	100	130	130	9
+Saqueador Lobeiro	Saqueadores Lobeiros	0	0	0	0	0	0	140	174	203	9
 Orc	Orcs	0	0	0	0	0	0	150	175	192	7
 Orc Chefe	Orcs Chefes	0	0	0	0	0	0	165	200	240	7
 Ogro	Ogros	0	0	0	0	0	0	300	520	416	4
@@ -9054,8 +9054,8 @@ Text 1: "TBELHrd3"
 Text 2: "TBELHrd4"
 Text 3: "TOELHrd3"
 Text 4: "TOELHrd4"
-Text 5: "Vault of Ashes"
-Text 6: "Vault of Ashes"
+Text 5: "Cofre de cinzas"
+Text 6: "Cofre de cinzas"
 Text 7: "The Vault of Ashes increases Firebirds production by 1 per week."
 Text 8: "The Vault of Ashes increases Phoenixes production by 1 per week."
 Has FilS: "false"
@@ -9071,7 +9071,7 @@ Name: "observtow0"
 Path: ""
 Texts count: "9"
 Text 0: ""
-Text 1: "Observation Tower"
+Text 1: "Torre de observação"
 Text 2: "Lighthouse.wav"
 Text 3: "From the top of the observatory you are able to see distant lands."
 Text 4: ""
@@ -9823,7 +9823,7 @@ Name: "crbank23"
 Path: ""
 Texts count: "9"
 Text 0: ""
-Text 1: "Pirate Cavern"
+Text 1: "Caverna dos piratas"
 Text 2: ""
 Text 3: ""
 Text 4: ""
@@ -9884,10 +9884,10 @@ Name: "crbank24"
 Path: ""
 Texts count: "9"
 Text 0: ""
-Text 1: "Mansion"
+Text 1: "Mansão"
 Text 2: "mansionv.wav"
-Text 3: "An ancient mansion is in front of you. It did not lose its former splendor yet. Looks like nobody is here. Would you dare to enter?"
-Text 4: "This mansion did not lose its former splendor yet, however there is nothing of value inside."
+Text 3: "Uma antiga mansão está a sua frente e ela não perdeu seu esplendor dos seus tempos gloriosos.  Não parece haver ninguém aqui.  Você gostaria de entrar?"
+Text 4: "Uma antiga mansão está a sua frente e ela não perdeu seu esplendor dos seus tempos gloriosos.  Você decidiu entrar, mas não havia nada de valioso lá dentro."
 Text 5: ""
 Text 6: ""
 Text 7: "# Precise guard stack setup
@@ -9945,10 +9945,10 @@ Name: "crbank25"
 Path: ""
 Texts count: "9"
 Text 0: ""
-Text 1: "Spit"
+Text 1: "Escarro"
 Text 2: ""
-Text 3: "You stand in front of an entrance to a mossy, overgrown residence. You hear creeks and growling from inside. Dare to enter?"
-Text 4: "Somebody was here before you, and the treasury was pillaged."
+Text 3: "Você está a frente da entrada de uma nojenta toca cheia de musgo e mato.  Você ouve rangidos e rosnados vindos de dentro.  Você quer entrar?"
+Text 4: "Alguém já esteve aqui antes de você e o tesouro foi pilhado."
 Text 5: ""
 Text 6: ""
 Text 7: "# Precise guard stack setup
@@ -10006,10 +10006,10 @@ Name: "crbank26"
 Path: ""
 Texts count: "9"
 Text 0: ""
-Text 1: "Red Tower"
+Text 1: "Torre vermelha"
 Text 2: "REDTWRVS.wav"
-Text 3: "The captured Firebirds will serve you gladly. Would you like to fight the guards?"
-Text 4: "Firebirds were once kept captive here, however now the place is abandoned."
+Text 3: "Os Pássaros de Fogo que aqui estão presos te servirão com gratidão se você os soltá-los.  Você quer brigar com os guardas?"
+Text 4: "Pássaros de Fogo já foram mantidos engaiolados aqui.  Entretanto, agora o local está abandonado."
 Text 5: ""
 Text 6: ""
 Text 7: "# Precise guard stack setup
@@ -10067,10 +10067,10 @@ Name: "crbank27"
 Path: ""
 Texts count: "9"
 Text 0: ""
-Text 1: "Black Tower"
+Text 1: "Torre negra"
 Text 2: "BLCKTWRS.wav"
-Text 3: "You stand in front of a dragon's dwelling. The vicious creature is terrorising the surrounding lands. Would you like to battle it?"
-Text 4: "A dragon once lived in this tower, however now it is empty and holds nothing of interest."
+Text 3: "Você está em frente da casa de um dragão.  A terrível criatura aterroriza as cercanias.  Você quer lutar contra ele?"
+Text 4: "Um dragão um dia viveu nesta torre.  Entretanto, agora ela está vazia e não há mais nada de interessante em seu interior."
 Text 5: ""
 Text 6: ""
 Text 7: "# Precise guard stack setup
@@ -10128,10 +10128,10 @@ Name: "crbank28"
 Path: ""
 Texts count: "9"
 Text 0: ""
-Text 1: "Ivory Tower"
+Text 1: "Torre de marfim"
 Text 2: "IVORYTOW.wav"
-Text 3: "You stand in front of an Ivory Tower. Mage foes keep the prisoners captured. Taking their side will allow you to gain valuable allies. Are you ready to test your fortune?"
-Text 4: "You enter the Ivory Tower, however nobody is home."
+Text 3: "Você está em frente a uma torre de marfim.  Magos inimigos mantêm aqui prisioneiros capturados.  Resgatá-los permitirá com que você ganhe aliados poderosos.  Você quer testar a sua sorte?"
+Text 4: "Você entrou na torre de marfim.  Entretanto, não há ninguém em casa."
 Text 5: ""
 Text 6: ""
 Text 7: "# Precise guard stack setup
@@ -10189,11 +10189,11 @@ Name: "crbank29"
 Path: ""
 Texts count: "9"
 Text 0: ""
-Text 1: "Churchyard"
+Text 1: "Cemitério"
 Text 2: "CEMETRY.wav"
-Text 3: "You are near the abandoned graveyard. Would you like to search it?"
-Text 4: "Your forces search the graveyard reluctantly, without any luck. Your army morale degrades."
-Text 5: "After defeating the undead you search the graveyard and find something useful!"
+Text 3: "Você se aproxima de um velho cemitério abandonado.  Você gostaria de procurar algo lá?"
+Text 4: "O seu exército relutantemente revira o cemitério em busca de alguma coisa, mas sem sorte.  A moral deles se degrada."
+Text 5: "Depois de derrotar os mortos-vivos, você revira o cemitério e encontra alguma coisa útil!"
 Text 6: ""
 Text 7: "# Precise guard stack setup
 0
@@ -10237,7 +10237,7 @@ Text 7: "# Precise guard stack setup
 -1 # Creatures award type
 0 # Creatures award count"
 Text 8: "
-Churchyard Visited -1"
+Cemitério visitado -1"
 Has FilS: "false"
 Vals count: "4"
 Val 0: "0"
@@ -10251,7 +10251,7 @@ Name: "crbank30"
 Path: ""
 Texts count: "9"
 Text 0: ""
-Text 1: "Experimental Shop"
+Text 1: "Loja experimental"
 Text 2: ""
 Text 3: ""
 Text 4: ""
@@ -10312,7 +10312,7 @@ Name: "crbank31"
 Path: ""
 Texts count: "9"
 Text 0: ""
-Text 1: "Wolf Raider Picket"
+Text 1: "Piquete dos lobeiros"
 Text 2: ""
 Text 3: ""
 Text 4: ""
@@ -10373,11 +10373,11 @@ Name: "crbank32"
 Path: ""
 Texts count: "9"
 Text 0: ""
-Text 1: "Ruins"
+Text 1: "Ruínas"
 Text 2: "RUINSVIS.wav"
-Text 3: "Bone rattling and otherworldly howls echo between crumbling walls and towers. Do you wish to explore the ruins?"
-Text 4: "Wind whistling about melodically is the most interesting thing you find in the ruins. Well, at least you manage to take a good look around the place from the tower."
-Text 5: "You climb the mound of bones to reach the top of the highest standing tower, where you find a heap of ancient coins. You also take some time to read the land lying around."
+Text 3: "Barulhos de ossos chacoalhando e uivos que até parecem serem de outro mundo ecoam entre paredes e torres quebradas.  Você quer explorar as ruínas?"
+Text 4: "O vento assobiando melodicamente é a coisa mais interessante que você encontra nas ruínas.  Bem, pelo menos você consegue dar uma boa olhada ao redor da torre."
+Text 5: "Você escala uma montanha de ossos para chegar ao topo da mais alta torre ainda de pé, onde você encontra um monte de moedas antigas.  Você também toma algum tempo para observar a paisagem ao seu redor."
 Text 6: ""
 Text 7: "# Precise guard stack setup
 1
@@ -11538,7 +11538,7 @@ Name: "subterr0"
 Path: ""
 Texts count: "9"
 Text 0: ""
-Text 1: "Cracked Ice"
+Text 1: "Gelo trincado"
 Text 2: "CmBkIce.pcx"
 Text 3: ""
 Text 4: ""
@@ -11580,7 +11580,7 @@ Name: "subterr2"
 Path: ""
 Texts count: "9"
 Text 0: ""
-Text 1: "Fields of Glory"
+Text 1: "Campos de glória"
 Text 2: "cmbkflgl.pcx"
 Text 3: ""
 Text 4: ""
@@ -13083,7 +13083,7 @@ Name: "actobj001"
 Path: ""
 Texts count: "9"
 Text 0: ""
-Text 1: "Skeleton Transformer"
+Text 1: "Transformador de esqueletos"
 Text 2: "Mystery.wav"
 Text 3: ""
 Text 4: ""
@@ -13127,19 +13127,19 @@ Name: "picobj001"
 Path: ""
 Texts count: "9"
 Text 0: ""
-Text 1: "Sea Barrel"
+Text 1: "Barril flutuante"
 Text 2: "Genie.wav"
 Text 3: ""
 Text 4: ""
 Text 5: ""
 Text 6: ""
 Text 7: ""
-Text 8: """{Sea Barrel}
+Text 8: """{Barril flutuante}
 
-This barrel is holding neither water nor wine, but rather some smuggled goods.""
-""{Sea Barrel}
+Neste barril não há nem água e nem vinho, e sim algums mercadorias contrabandeadas.""
+""{Barril flutuante}
 
-This barrel is full of sea water. You have no idea why it is still afloat."""
+Este barril está cheio de água salgada do mar.  Você não tem ideia de como ele ainda flutuava."""
 Has FilS: "false"
 Vals count: "4"
 Val 0: "0"
@@ -13153,25 +13153,25 @@ Name: "picobj002"
 Path: ""
 Texts count: "9"
 Text 0: ""
-Text 1: "Jetsam"
+Text 1: "Carga abandonada"
 Text 2: "Genie.wav"
 Text 3: ""
 Text 4: ""
 Text 5: ""
 Text 6: ""
 Text 7: ""
-Text 8: """{Jetsam}
+Text 8: """{Carga abandonada}
 
-You inspect the jettisoned cargo. Nothing of value can be found.""
-""{Jetsam}
+Você inspecionou uma carga abandonada.  Mas nada que prestasse pôde ser encontrado.""
+""{Carga abandonada}
 
-You inspect the jettisoned cargo. Most of it is spoilt by sea water, but you are able to salvage some ore.""
-""{Jetsam}
+Você inspecionou uma carga abandonada.  A maioria dela foi estragada pela água do mar, mas você conseguiu recuperar algumas pedras.""
+""{Carga abandonada}
 
-You inspect the jettisoned cargo. Some ore and gold go into your coffers.""
-""{Jetsam}
+Você inspecionou uma carga abandonada.  Deu para colocar algumas pedras e ouro nos seus cofres.""
+""{Carga abandonada}
 
-You inspect the jettisoned cargo. Considerable amounts of ore and gold are found within."""
+Você inspecionou uma carga abandonada.  Uma grande quantidade de pedras e ouro foi encontrada lá."""
 Has FilS: "false"
 Vals count: "4"
 Val 0: "0"
@@ -13208,14 +13208,14 @@ Name: "impobj000"
 Path: ""
 Texts count: "9"
 Text 0: ""
-Text 1: "Seafaring Academy"
+Text 1: "Escola da marinha"
 Text 2: "ACADEMYV.wav"
 Text 3: ""
 Text 4: ""
 Text 5: ""
 Text 6: ""
 Text 7: ""
-Text 8: """{Seafaring Academy}
+Text 8: """{Escola da marinha}
 
 Visiting text.""
 (Train secondary skills for 2000 gold each level)
@@ -13233,20 +13233,20 @@ Name: "impobj001"
 Path: ""
 Texts count: "9"
 Text 0: ""
-Text 1: "Observatory"
+Text 1: "Observatório"
 Text 2: "Lighthouse.wav"
 Text 3: ""
 Text 4: ""
 Text 5: ""
 Text 6: ""
 Text 7: ""
-Text 8: """{Observatory} 
+Text 8: """{Observatório}
 
-An astronomer offers you to take his apprentice for a shipboy. You might find his lookout skill useful, while the youth could do with a break from studies. However, the astronomer will need him back in a week for the next round of planned observations.""
+Um astrônomo te oferece seu aprendiz para ser marujo.  Você acha que as habilidades de observação dele podem ser úteis enquanto o jovem tira uma folga de seus estudos.  Entretanto, o astrônomo precisará dele novamente na semana que vem para a próxima rodada de observações agendadas.""
 (+2 scouting radius until the end of the week)
-""{Observatory}
+""{Observatório}
 
-The astronomer is absent from his tower. A note posted on the door reads: """"Will be back in a week""""."""
+O astrônomo não está nesta torre.  Há um bilhete na porta que diz: """"Voltarei em uma semana""""."""
 Has FilS: "false"
 Vals count: "4"
 Val 0: "0"
@@ -13260,14 +13260,14 @@ Name: "impobj002"
 Path: ""
 Texts count: "9"
 Text 0: ""
-Text 1: "Altar of Mana"
+Text 1: "Altar da magia"
 Text 2: "Mystery.wav"
 Text 3: ""
 Text 4: ""
 Text 5: ""
 Text 6: ""
 Text 7: ""
-Text 8: """{Altar of Mana}
+Text 8: """{Altar da magia}
 
 Visiting text."""
 Has FilS: "false"
@@ -13499,21 +13499,21 @@ Name: "actobj009"
 Path: ""
 Texts count: "9"
 Text 0: ""
-Text 1: "Warlock's Lab"
+Text 1: "Laboratório de alquimia"
 Text 2: "Store.wav"
 Text 3: ""
 Text 4: ""
 Text 5: ""
 Text 6: ""
 Text 7: ""
-Text 8: """{Warlock's Lab}
+Text 8: """{Laboratório de alquimia}
 
 Visiting text (not used).""
-""Resources can be turned into each other, but only rare ones. If you want something transmuted, click on the initial and desired resources.""
-""The process was successful; here are your new resources. Anything else you need transmuted?""
-""Resources for transmutation""
-""Transmute: get %d %s %s from %d %s %s.""
-Transmute"
+""Recursos raros podem ser transformados uns nos outros. Se você quer transmutar alguma coisa, clique no recurso inicial e no desejado.""
+""O processo foi um suceso; aqui estão os seus novos recursos. Algo mais que você precise transmutar?""
+""Recursos para transmutar""
+""Transmutar: Obter %d %s %s a partir de %d %s %s.""
+Transmutar"
 Has FilS: "false"
 Vals count: "4"
 Val 0: "0"

@@ -127,9 +127,9 @@ If you wish to join a Multi-player Game hosted by another player, a CD is not re
 If you wish to play a Single Scenario or a Campaign, please quit and insert the %s CD, before re-running %s."		
 Salvando...		
 PLYREXIT		
-"{Status Window}
+"{Janela de informações}
 
-This window provides information on the status of your hero or kingdom, and shows the date.  Left click here to cycle through these windows."		
+Esta janela provê informações sobre seu herói ou reino e exibe a data.  Clique aqui com o botão esquerdo para alternar entre essas janelas."		
 Border		
 O(a) %s absorve %d pontos de magia do feitiço.		
 Os(as) %s absorvem %d pontos de magia do feitiço.		
@@ -148,9 +148,9 @@ e ganham +%d pontos de defesa."
 e ganham +%d pontos de defesa."		
 %s exp		
 A cidade mais próxima está ocupada.  O feitiço falhou!		
-Nenhum cidade disponível.  O feitiço falhou!		
+Nenhuma cidade disponível.  O feitiço falhou!		
 O seu herói está muito cansado para conjurar este feitiço hoje.  Tente novamente amanhã.		
-Apenas heróis visitantes podem usar o portão da cidade.		
+Apenas heróis visitantes podem usar o portão do inferno.		
 Você não tem herói para conjurar um feitiço.		
 Seu herói já conjurou um feitiço nesta rodada.		
 Você quer salvar o exército de %s por um custo de %d ouros?		
@@ -179,7 +179,7 @@ Pontos de magia são necessários para conjurar feitiços.  O número máximo de pont
 Digital sound is not currently available on this system.		
 Artillery machine		
 A sua bagagem está cheia.		
-Alas, your backpack cannot hold something as large as a %s.		
+Eita, a sua bagagem não pode condicionar algo tão grande quanto um(a) %s.		
 "
 
 The %s is destroyed."		

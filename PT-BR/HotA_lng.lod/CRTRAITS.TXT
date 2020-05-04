@@ -1,7 +1,7 @@
 Name		Cost															Damage				Adv. Map			
 Singular	Plural	Wood	Mercury	Ore	Sulfur	Crystal	Gems	Gold	Fight Value	AI Value	Growth	Horde Growth	Hit Points	Speed	Attack	Defense	Low	High	Shots	Spells	Low	High	Ability Text	Attributes (Reference only, do not change these values)
-Piqueiro	Piqueiros	0	0	0	0	0	0	60	100	80	14	0	10	4	4	5	1	3	0	0	20	50	Imune ao bônus de distância.	0
-Alabardeiro	Alabardeiros	0	0	0	0	0	0	75	115	115	14	0	10	5	6	5	2	3	0	0	20	30	Imune ao bônus de distância.	0
+Piqueiro	Piqueiros	0	0	0	0	0	0	60	100	80	14	0	10	4	4	5	1	3	0	0	20	50	Imune ao bônus de distância dos cavaleiros e campeões.	0
+Alabardeiro	Alabardeiros	0	0	0	0	0	0	75	115	115	14	0	10	5	6	5	2	3	0	0	20	30	Imune ao bônus de distância dos cavaleiros e campeões.	0
 Arqueiro	Arqueiros	0	0	0	0	0	0	100	115	126	9	0	10	4	6	3	2	3	12	0	16	30	Atira.	SHOOTING_ARMY
 Atirador	Atiradores	0	0	0	0	0	0	150	115	184	9	0	10	6	6	3	2	3	24	0	16	25	Atira duas vezes.	const_two_attacks | SHOOTING_ARMY
 Grifo	Grifos	0	0	0	0	0	0	200	324	351	7	3	25	6	8	8	3	6	0	0	12	25	Voa. Retalia duas vezes.	DOUBLE_WIDE | FLYING_ARMY
@@ -104,8 +104,8 @@ Dragão Preto	Dragões Pretos	0	0	0	2	0	0	4000	6783	8721	1	0	300	15	25	25	40	50	0	
 																								
 Goblin	Goblins	0	0	0	0	0	0	40	60	60	15	8	5	5	4	2	1	2	0	0	20	50		0
 Hobgoblin	Hobgoblins	0	0	0	0	0	0	50	65	78	15	8	5	7	5	3	1	2	0	0	20	30		0
-Goblin Montado	Goblins Montados	0	0	0	0	0	0	100	130	130	9	0	10	6	7	5	2	4	0	0	16	30		DOUBLE_WIDE
-Goblin Saqueador	Goblins Saqueadores	0	0	0	0	0	0	140	174	203	9	0	10	8	8	5	3	4	0	0	16	25	Golpeia duas vezes.	DOUBLE_WIDE
+Goblin Lobeiro	Goblins Lobeiros	0	0	0	0	0	0	100	130	130	9	0	10	6	7	5	2	4	0	0	16	30		DOUBLE_WIDE
+Saqueador Lobeiro	Saqueadores Lobeiros	0	0	0	0	0	0	140	174	203	9	0	10	8	8	5	3	4	0	0	16	25	Golpeia duas vezes.	DOUBLE_WIDE
 Orc	Orcs	0	0	0	0	0	0	150	175	192	7	0	15	4	8	4	2	5	12	0	12	25	Atira.	SHOOTING_ARMY
 Orc Chefe	Orcs Chefes	0	0	0	0	0	0	165	200	240	7	0	20	5	8	4	2	5	24	0	12	20	Atira.	SHOOTING_ARMY
 Ogro	Ogros	0	0	0	0	0	0	300	520	416	4	0	40	4	13	7	6	12	0	0	10	20		0

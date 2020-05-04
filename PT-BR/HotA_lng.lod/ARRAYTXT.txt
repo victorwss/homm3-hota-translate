@@ -203,9 +203,9 @@ Feitiços %+d"
 "
 No terreno nativo +1"
 "
-Criatura de uma facção do bem no terreno sagrado +1"
+Criatura de uma facção do bem no território sagrado +1"
 "
-Criatura de uma facção do mal no terreno sagrado -1"
+Criatura de uma facção do mal no território sagrado -1"
 "
 Criatura de uma facção do mal nas trevas malditas +1"
 "
@@ -227,15 +227,15 @@ Todas as populações foram reduzidas a metade."
 "Astrólogos proclamam a semana %s.
 
 Todas as habitações crescem em população."
-"Astrólogos proclamam a semana %s.
+"Astrólogos proclamam a semana de %s.
 
-%s cresce +5.
+%s crescem +5.
 
 Todas as habitações crescem em população."
-"Astrólogos proclamam a semana %s.
+"Astrólogos proclamam a semana de %s.
 
-%s cresce %+d.
-%s cresce %+d.
+%s crescem %+d.
+%s crescem %+d.
 
 Todas as habitações crescem em população."
 cMapSize
@@ -265,11 +265,11 @@ sob as dunas do deserto
 escondido numa planície gramada
 congelado debaixo da neve
 num pântano lamacento
-abaixo de toneladas de pedras
+abaixo de toneladas de cascalho e brita
 numa caverna subterrânea
 soterrado na lava derretida
 nas profundezas do oceano
-perdido debaixo de uma pedra
+perdido no interior de uma pedra
 cPersonality
 Guerreiro
 Construtor
@@ -292,8 +292,8 @@ um monte ({20-49}) de
 Uma horda (50-99) de
 uma horda ({50-99}) de
 100-249
-Uma porrada (100-249) de
-uma porrada ({100-249}) de
+Um exército (100-249) de
+um exército ({100-249}) de
 250-499
 Um enxame (250-499) de
 um enxame ({250-499}) de

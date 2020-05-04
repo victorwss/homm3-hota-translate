@@ -25,7 +25,7 @@ Sede da Cidade
 Capitólio
 
 Mercado
-Celeiro
+Armazém
 Forte
 Cidadela
 Uma habitação externa de alguma criatura deve ter a sua bandeira para que criaturas possam ser chamadas por meio do portal.

@@ -29,10 +29,10 @@ Através de uma clareira, você observa um artefato antigo.  Infelizmente, ele est
 Você quer abrir a caixa?
 "Você dá uma olhadinha lá dentro.  Com alívio, você descobre que a caixa está vazia."
 Você deveria ter pensado melhor no que você está fazendo.  Agora, os inimigos estão te atacando!
-"Assim que você se aproxima, montando em seu cavalo, um guarda aparece e te aborda, ""Bemvindo!  Eu recebi instruções acerca da sua chegada.  Você já quer passar por aqui agora?"""
+"Assim que você se aproxima, montando em seu cavalo, um guarda aparece e te aborda, ""Seja Bem-vindo!  Eu recebi instruções acerca da sua chegada.  Você já quer passar por aqui agora?"""
 """Ninguém me disse que você estava vindo"", diz o guarda de fronteira.  ""Eu não posso autorizar a sua passagem.  Talvez você devesse primeiro procurar a tenda do chaveiro."""
 "O chaveiro nesta tenda parece feliz em te ver.  ""Ah, finalmente alguém que vale a pena"", ele disse.  ""Eu devo avisar a guarda de fronteira imediatamente que você já tem autorização para passar."""
-"O chaveiro desta tenda reconhece você assim que você se aproxima.  ""Eu já avisei os guardas que você tem autorização para passar"" ele diz.  ""Agora, vá!"""
+"O chaveiro desta tenda reconhece você assim que você se aproxima.  ""Eu já avisei os guardas que você tem autorização para passar"", ele diz.  ""Agora, vá!"""
 "{Bóia}
 
 Sua tripulação avistou uma bóia de navegação, confirmando que você está na rota correta e melhorando a moral deles."
@@ -45,15 +45,15 @@ Vasculhando um acampamento inimigo, você descobriu um pequeno esconderijo de tes
 "Você já viu todos os mapas que eu tenho, então toma teu rumo."
 Você encontrou um velho pescador que tinha os mapas dos mares mais detalhados que você já viu.  Você gostaria de comprar um desses mapas por 10000 ouros?
 Você encontrou um cartógrafo que vende mapas desta terra por 10000 ouros.  Você quer comprar um mapa?
-Você encontrou um velho anão mineirador que ainda guardava alguns velhos mapas dos dias nos quais ele ainda trabalhava nas profundezas da terra.  Ele está querendo te vender um mapa dos túneis por 10000 ouros.  Quer comprar?
+Você encontrou um velho anão mineirador que ainda guardava alguns velhos mapas dos dias nos quais ele ainda trabalhava nas profundezas da terra.  Ele quer te vender um mapa dos túneis por 10000 ouros.  Quer comprar?
 "Meus mapas custam 10000 ouros, dinheiro esse que você pelo jeito não tem.  Por favor, pare de perder meu tempo."
-"{Lago do Cisne}
+"{Lago do cisne}
 
 Contos da sua infância diziam que um cisne vermelho num lago é um sinal de boa sorte.  Você então decide descansar aqui pelo resto do dia."
-"{Lago do Cisne}
+"{Lago do cisne}
 
 Contos da sua infância diziam que um cisne vermelho num lago é um sinal de boa sorte.  Entretanto, você já se recebeu toda a sorte que precisava na sua última visita aqui.  Uma vez que você não conseguirá mais nada neste lugar, é hora de partir."
-"{Cobertura de Escuridão}
+"{Cobertura de escuridão}
 
 Você encostou na cobertura da escuridão e a terra ao seu redor cobriu-se de uma névoa negra que apenas os seus olhos podem penetrar."
 Você encontrou um %s.  Você quer atacar os guardas?
@@ -71,13 +71,13 @@ Você encontrou os restos mortais de um aventureiro desafortunado.  Procurando en
 "{Esqueleto}
 
 Você encontrou os restos mortais de um aventureiro desafortunado.  Procurando entre os ossos espalhados, você não encontrou nada."
-"{Torre de Marletto}
+"{Torre de marletto}
 
 Os soldados que moram nesta torre te ensinaram alguns novos truques defensivos."
-"{Torre de Marletto}
+"{Torre de marletto}
 
 ""Perdoe-me"", diz o líder dos soldados, ""mas você já sabe tudo o que poderíamos te ensinar."""
-"{Barco à Deriva}
+"{Barco à deriva}
 
 O casco apodrecido de um grande navio pirata range assustadoramente enquanto é empurrado contra as rochas.  Você quer procurar algo neste barco?"
 Depois de derrotar os Elementais de Água, você gastou algumas horas revirando os destroços em busca de alguma coisa, mas não encontrou nada.  Esse desprezível ato reduziu a moral do seu exército.
@@ -86,17 +86,17 @@ Depois de derrotar os Elementais de Água, você vasculhou os destroços e encontro
 
 O local está deserto.  Talvez você deveria tentar de novo na semana que vem."
 o %s
-"{Utopia dos Dragões}
+"{Utopia dos dragões}
 
 Este texto não é mais usado, se você estiver lendo isso, é porque alguma coisa bugou."
-"{Utopia dos Dragões}
+"{Utopia dos dragões}
 
 Você está diante da utopia dos dragões, um lugar fora do alcance de meros humanos.  Você quer violar esta regra e desafiar os dragões para a luta?"
 "Este estranho olho virou e começou a te observar a medida que você se aproxima.  Depois de alguns segundos, ele voltou a lentamente observar a área.  Você não pode deixar de sentir que alguém, ou alguma coisa, está usando esse olho para espiar a partir de algum outro lugar."
-"{Anel de Fadas}
+"{Anel de fadas}
 
 Você entrou num anel de fadas e o seu exército ganhou sorte para a próxima batalha."
-"{Anel de Fadas}
+"{Anel de fadas}
 
 Você entrou num anel de fadas, mas nada aconteceu."
 "{Destroços}
@@ -111,29 +111,29 @@ Você procurou por algo nos destroços e encontrou algum ouro e madeira."
 "{Destroços}
 
 Você procurou por algo nos destroços e encontrou algum ouro e madeira."
-"{Fonte Encantada}
+"{Fonte encantada}
 
 Você bebeu água da fonte encantada e sentiu que a sua sorte está mudando."
-"{Fonte Encantada}
+"{Fonte encantada}
 
 Você bebeu água da fonte encantada, mas nada aconteceu."
-"{Fonte da Juventude}
+"{Fonte da juventude}
 
 Você bebeu água da fonte da juventude e está se sentindo jovem novamente!  Sentindo suas energias revigoradas, a moral do seu exército melhora, permitindo a você cobrir mais território e seguir mais confiante para a próxima batalha."
-"{Fonte da Juventude}
+"{Fonte da juventude}
 
 Você bebeu água da fonte da juventude, mas nada aconteceu."
-"{Jardim da Revelação}
+"{Jardim da revelação}
 
 Um monge sentado no centro de um jardim o convida para meditar com ele.  Você concorda, e depois de um breve período, você sente que a sua mente foi iluminada."
-"{Garden of Revelation}
+"{Jardim da revelação}
 
-Você entrou no jardim, e o monge, te reconhecendo, diz, ""Pela luz, a benção da sabedoria só aparece uma única vez na vida de cada pessoa."""
+Você entrou no jardim, e o monge, te reconhecendo, diz, ""Ser de luz, a benção da sabedoria só aparece uma única vez na vida de cada pessoa."""
 Você entrou numa paupérrima choupana e conversou com o mágico que nela vive.  Ele te falou sobre lugares próximos e distantes que podem te auxiliar na sua jornada.
-"{Totem da Sorte}
+"{Totem da sorte}
 
 Você encontrou um antigo e desgastado totem de pedra.  Beijá-lo supostamente tráz sorte ou felicidade, então foi isso o que você fez.  A pedra é muito fria ao toque."
-"{Totem da Sorte}
+"{Totem da sorte}
 
 Você encontrou um antigo e desgastado totem de pedra.  Beijá-lo supostamente tráz sorte ou felicidade, mas uma vez que as estrelas já estão brilhando sobre você, nada acontece."
 "{Escora}
@@ -142,50 +142,50 @@ Você encontrou uma escora abandonada.  Procurando nas redondezas, você encontrou
 "{Escora}
 
 Esta escora está há muito tempo abandonada.  Não há nada de valor aqui."
-"{Biblioteca do Iluminismo}
+"{Biblioteca do iluminismo}
 
-O bibliotecário permitiu a sua entrada na Biblioteca do Iluminismo.  Você pôde aprender muitas coisas no pouco tempo que aqui esteve."
-"{Biblioteca do Iluminismo}
+O bibliotecário permitiu a sua entrada na biblioteca do iluminismo.  Você pôde aprender muitas coisas no pouco tempo que aqui esteve."
+"{Biblioteca do iluminismo}
 
-Reconhecendo você, o bibliotecário recusou a sua entrada.  ""A Biblioteca do Iluminismo"", diz ele, ""só pode ser visitada uma única vez por cada um."""
-"{Biblioteca do Iluminismo}
+Reconhecendo você, o bibliotecário recusou a sua entrada.  ""A biblioteca do iluminismo"", diz ele, ""só pode ser visitada uma única vez por cada um."""
+"{Biblioteca do iluminismo}
 
-O bibliotecário abre a porta e te observa.  ""Você não tem fama e nem diplomcia o suficiente para poder adentrar a Biblioteca do Iluminismo"", ele bufa.  ""Volte quando achar que você já é algugém com valor suficiente para isso."""
+O bibliotecário abre a porta e te observa.  ""Você não tem fama e nem diplomcia o suficiente para poder adentrar a biblioteca do iluminismo"", ele bufa.  ""Volte quando achar que você já é algugém com valor suficiente para isso."""
 "{Farol}
 
 Este farol agora está sob seu controle e todos os seus navios podem navegar um pouco mais a cada dia."
 "Esta estrutura obviamente é algum tipo de portal para viagem, mas não parece estar mais funcionando."
-"{Escola de Magia}
+"{Escola de magia}
 
 As energias mágicas enchem o ar desta escola de artes místicas.  Um assistente te oferece uma matrícula na próxima turma por 1000 ouros.  Você deve escolher entre aumentar o seu conhecimento ou aprender a focalizar melhor os seus poderes."
-"{Escola de Magia}
+"{Escola de magia}
 
 Um velho feiticeiro aparece do nada no ar.  ""Mestre"", diz ele, ""você já aprendeu tudo o que poderíamos te ensinar."""
-"{Escola de Magia}
+"{Escola de magia}
 
 As energias mágicas enchem o ar desta escola de artes místicas.  Um assistente te informa que ele poderia te matricular na próxima turma, mas que você não tem como pagar a taxa de matrícula de 1000 ouros."
-"{Fonte Mágica}
+"{Fonte mágica}
 
 Beber da fonte encheu o seu sangue com mágica!  Agora você tem uma reserva de pontos de magia com o dobro do tamanho do que seria o normal."
-"{Fonte Mágica}
+"{Fonte mágica}
 
 A fonte mágica se regenera apenas uma vez por semana, e alguém já esteve aqui nesta semana."
-"{Fonte Mágica}
+"{Fonte mágica}
 
 Beber da fonte mágica deveria te deixar com o dobro dos pontos de magia que normalmente você teria, mas você já está neste nível."
-"{Poço Mágico}
+"{Poço mágico}
 
 Uma bebida da água do poço restaurou os seus pontos de magia para o máximo."
-"{Poço Mágico}
+"{Poço mágico}
 
 Beber do poço uma segunda vez no mesmo dia não irá te ajudar."
-"{Poço Mágico}
+"{Poço mágico}
 
 Beber da água do poço deveria restaurar seus pontos de magia, mas eles já estão no máximo."
-"{Acampamento de Mercenários}
+"{Acampamento de mercenários}
 
 Você chegou num acampamento de mercenários praticando suas táticas de combate.  Eles acolheram você e suas tropas e te convidaram a treinar com eles."
-"{Acampamento de Mercenários}
+"{Acampamento de mercenários}
 
 Você chegou num acampamento de mercenários praticando suas táticas de combate.  ""Você é muito forte para nós"", diz o capitão dos mercenários.  ""Não podemos te ensinar mais nada."""
 "{Sereia}
@@ -206,10 +206,10 @@ Um grupo de %s deseja juntar-se a você e participar da sua grande glória.  Você 
 "
 Todos os %d dos %s vão juntar-se ao seu exército pela soma de %d ouros.  Você aceita?
 "O grupo de %s, temendo o poder das suas tropas, começam a correr.  Você deseja correr atrás para iniciar uma batalha?"
-"{Jardim Místico}
+"{Jardim místico}
 
 O som da música te traz para um pequeno jardim, onde você conseguiu chegar a um duende que alegremente estava dançando numa clareira.  Você o pegou, e em troca da sua liberdade, ele te guiou a um pequeno pote cheio de coisas preciosas."
-"{Jardim Místico}
+"{Jardim místico}
 
 O som da música te traz para um pequeno jardim, onde você tentou chegar a um duende que alegremente estava dançando numa clareira.  Você tentou pegar ele, mas sua agilidade fez com que ele conseguisse enganar você."
 "{Oásis}
@@ -224,16 +224,16 @@ Você chegou num obelisco feito com um tipo de pedra que você nunca havia visto a
 "{Obelisco}
 
 Você já esteve neste obelisco antes."
-"{Mirante da Torre}
+"{Mirante da torre}
 
 Do alto deste mirante, você consegue avistar terras distantes."
-"{Pilar de Fogo}
+"{Pilar de fogo}
 
 Você encontrou uma alta torre com luz a gás.  Você a acendou e então ela produziu uma luz que penetrou nas trevas subterrâneas."
-"{Eixo Estelar}
+"{Eixo estelar}
 
 Você encontrou alguns dos melhores astrólogos da terra reunidos no eixo estelar.  Felizes por ter sua companhia, eles te ensinam como usar o Sol, a Lua e as estrelas para melhorar suas habilidades de soltar feitiços."
-"{Eixo Estelar}
+"{Eixo estelar}
 
 Você encontrou alguns dos melhores astrólogos da terra reunidos no eixo estelar.  Após gastar algum tempo conversando com eles, você logo percebeu que não há nada de novo a aprender aqui."
 "Em uma exibição deslumbrante de ousadia, você invade a prisão local e liberta o herói preso lá, que por gratidão, jura lealdade à sua causa."
@@ -244,10 +244,10 @@ O carcereiro te diz que o herói que aqui estava preso, foi libertado pelo rei.
 Você chegou à pirâmide de um antigo grande faraó.  No entanto, uma exploração de rotina revela que ela está completamente vazia.
 "  Infelizmente, você não é sábio o suficiente para entender esse feitiço, e portanto, não pôde aprendê-lo."
 "  Infelizmente, você não tem nenhum livro de magia para escrever o feitiço."
-"{Bandeira de Reunião}
+"{Bandeira de reunião}
 
 Você reúne suas tropas sob esta bandeira."
-"{Bandeira de Reunião}
+"{Bandeira de reunião}
 
 Você reúne suas tropas sob esta bandeira, renovando suas forças e erguendo seus ânimos.  Você se sente no seu auge, e conseguirá viajar um pouco mais longe hoje."
 "{%s}
@@ -256,13 +256,13 @@ Você quer recrutar %s?"
 Você encontrou uma pequena quantidade de %s.
 Você entrou no santuário e imediatamente sentiu que um grande peso foi retirado de seus ombros.  Aqui, você se sente em segurança.
 "Ao se aproximar de uma clareira, você percebe um acadêmico universitário descansando seu cavalo.  Ele se oferece para ensinar um pouco do que ele sabe antes de partir."
-"{Arca Marítima}
+"{Arca marítima}
 
 Depois de ficar horas tentando pescar uma arca no mar, você a abre, apenas para descobrir que ela estava vazia."
-"{Arca Marítima}
+"{Arca marítima}
 
 Depois de ficar horas tentando pescar uma arca no mar, você a abre e encontra 1000 ouros e um %s."
-"{Arca Marítima}
+"{Arca marítima}
 
 Depois de ficar horas tentando pescar uma arca no mar, você a abre e encontra 1500 ouros."
 "{Cripta}
@@ -275,19 +275,19 @@ Você derrotou os guardas mortos-vivos e gastou algumas horas vasculhando as tumb
 O casco apodrecido de um grande navio pirata range assustadoramente enquanto é empurrado contra as rochas.  Você quer procurar algo neste navio?"
 Depois de derrotar as harpias, você gastou algumas horas revirando os destroços em busca de alguma coisa, mas não encontrou nada.  Esse desprezível ato reduziu a moral do seu exército.
 Depois de derrotar as harpias, você vasculhou os destroços e encontrou alguma coisa!
-"{Sobrevivente Náufrago}
+"{Náufrago}
 
-Você resgatou um núfrago no mar salvando-o da morte certa no implacável oceano.  Agradecidamente, ele recompensa você pelo seu ato de bondade ao te dar o %s."
-"{Sobrevivente Náufrago}
+Você resgatou um náufrago no mar salvando-o da morte certa no implacável oceano.  Agradecidamente, ele recompensa você pelo seu ato de bondade ao te dar o %s."
+"{Náufrago}
 
-Você resgatou um núfrago no mar salvando-o da morte certa no implacável oceano.  Agradecido, ele diz, ""Eu adoraria te dar um artefato como gratidão, mas você não tem mais espaço onde colocá-lo."""
-"{Capela do Encantamento Mágico}
+Você resgatou um náufrago no mar salvando-o da morte certa no implacável oceano.  Agradecido, ele diz, ""Eu adoraria te dar um artefato como gratidão, mas você não tem mais espaço onde colocá-lo."""
+"{Capela do encantamento mágico}
 
 Você chegou numa pequena capela visitada por um grupo de aprendizes de feiticeiros.  Em troca de sua proteção, eles concordam em te ensinar um feitiço simples - "
-"{Capela do Gesto Mágico}
+"{Capela do gesto mágico}
 
 Você chegou numa ornamentada capela visitada por um grupo de frades rotundos.  Em troca de sua proteção, eles concordam em te ensinar um feitiço interessante - "
-"{Capela do Pensamento Mágico}
+"{Capela do pensamento mágico}
 
 Você chegou numa luxuosa capela visitada por um grupo de sumos sacerdotes.  Em troca de sua proteção, eles concordam em te ensinar um feitiço sofisticado - "
 "  Infelizmente, você não é sábio o suficiente para entender esse feitiço, e portanto, não pôde aprendê-lo."
@@ -314,37 +314,37 @@ Uma visita e uma oração no templo melhoraram a moral da sua tropa."
 "{Templo}
 
 Não ajuda orar duas vezes antes de uma batalha.  Volte num outro dia."
-"{Toca dos Ladrões}
+"{Toca dos ladrões}
 
 Vasculhando abaixo da vegetação rasteira, você encontrou a entrada secreta para a toca dos ladrões.  Um velho ""conhecido"" te informa sobre tudo o que ele soube desde a última vez que vocês se encontraram."
-"{Pedra do Aprendizado}
+"{Pedra do aprendizado}
 
 Uma lisa pedra na frente deste pilar começa a girar a medida que você se aproxima.  Olhando para ela, você ficou fascinado em ver as respostas sobre perguntas que há anos você ponderava.  A pedra de repente fica imóvel, e você então percebe o quanto você aprendeu."
-"{Pedra do Aprendizado}
+"{Pedra do aprendizado}
 
 Você se aproxima do pilar, na esperança de ganhar mais discernimento, mas agora a pedra não faz muito mais do que apenas refletir a luz do Sol."
-"{Arca}
+"{Arca do tesouro}
 
 Depois de vasculhar a área, você tropeça numa arca escondida contendo o antigo artefato '%s'."
-"{Arca}
+"{Arca do tesouro}
 
 Depois de vasculhar a área, você tropeça num pequeno tesouro escondido.  Você pode ficar com o ouro ou distribuí-lo aos camponeses por experiência.  O que você escolhe?"
-"{Árvore do Conhecimento}
+"{Árvore do conhecimento}
 
 Assim que você se aproximou, a árvore abriu os olhos em deleite.  ""É bom te ver, estudante.  Eu espero que meus ensinamentos tenham te ajudado."""
-"{Árvore do Conhecimento}
+"{Árvore do conhecimento}
 
 Assim que você se aproximou, a árvore abriu os olhos em deleite.  ""Ahh, alguém me busca de aventuras!  Deixe-me te ensinar um pouco do que aprendi em muitos anos."""
-"{Árvore do Conhecimento}
+"{Árvore do conhecimento}
 
 Assim que você se aproximou, a árvore abriu os olhos em deleite.  ""Ahh, alguém me busca de aventuras! Eu ficarei contente em te ensinar um pouco do que aprendi em muitos anos pela pequena quantia de 2000 ouros.  Basta enterrar este dinheiro ao redor das minhas raízes."""
-"{Árvore do Conhecimento}
+"{Árvore do conhecimento}
 
 Lágrimas estão a cair dos olhos da árvore.  ""Eu preciso de 2000 ouros."" ela sussurra.  ""Bem, volte quando você puder me pagar."""
-"{Árvore do Conhecimento}
+"{Árvore do conhecimento}
 
 Assim que você se aproximou, a árvore abriu os olhos em deleite.  ""Ahh, alguém me busca de aventuras! Eu ficarei contente em te ensinar um pouco do que aprendi em muitos anos pela pequena quantia de 10 gemas.  Basta enterrar este dinheiro ao redor das minhas raízes."""
-"{Árvore do Conhecimento}
+"{Árvore do conhecimento}
 
 Lágrimas estão a cair dos olhos da árvore.  ""Eu preciso de 10 gemas."" ela sussurra.  ""Bem, volte quando você puder me pagar."""
 Logo após a entrada, você encontra uma pilha de escombros bloqueando o túnel.  Você sai de lá chateado.
@@ -357,25 +357,25 @@ Você chega numa velha carroça deixada por algum mercador que não conseguiu chega
 "{Carroça}
 
 Você chega numa velha carroça deixada por algum mercador que não conseguiu chegar a um lugar seguro.  Infelizmente, parece que outras pessoas a encontraram primeiro, e agora ela está vazia."
-"{Fábrica de Máquinas}
+"{Fábrica de máquinas}
 
 Você gostaria de comprar máquinas de guerra?"
-"{Escola de Guerra}
+"{Escola de guerra}
 
 O instrutor marcado por batalhas desta escola de guerra resmunga quando você passa.  Por uma taxa de 1000 ouros, ele pode te ensinar novas habilidades de ataque ou de defesa."
-"{Escola de Guerra}
+"{Escola de guerra}
 
 O instrutor chefe dá uma gargalhada quando você chega para pedir um pouco mais de treinamento.  ""Você podia estar dando aulas aqui!"" ele exclama."
-"{Escola de Guerra}
+"{Escola de guerra}
 
 O instrutor marcado por batalhas desta escola de guerra resmunga quando você passa.  Ele poderia te ensinar algumas novas táticas de combate, mas ele cobra 1000 ouros por isso, dinheiro que no momento você não tem."
 Você chegou ao local de descanso de um guerreiro sem nome.  Você quer revirar a tumba dele?
 "Relutantemente, suas tropas adentram a tumba, encontrando o %s, mas esse desprezível ato arruinou a moral do seu exército."
 "Relutantemente, suas tropas adentram a tumba, não encontrando nada que tivesse qualquer valor.  Esse desprezível ato arruinou a moral do seu exército."
-"{Roda D'água}
+"{Roda d'água}
 
 O encarregado da roda d'água anuncia: ""Grande, eu trabalhei muito duro para conseguir dar a você este ouro, volte na semana que vem por mais."""
-"{Roda D'água}
+"{Roda d'água}
 
 O encarregado da roda d'água anuncia: ""Grande, sinto muito em dizer que não há mais ouro aqui.  Por favor, tente de novo semana que vem."""
 "{Nascente}
@@ -393,13 +393,13 @@ O encarregado do moinho de vento anuncia: ""Grande, sinto muito em dizer que não
 "{Moinho de vento}
 
 O encarregado do moinho de vento anuncia: ""Grande, eu trabalhei muito duro para conseguir dar a você estes recursos, volte na semana que vem por mais."""
-"{Cabana da Bruxa}
+"{Cabana da bruxa}
 
-Uma velha bruxa vivendo numa estranha cabana recebe você, se oferecendo para te ensinar %s, atendendo a algum de seus próprios e inconfessáveis propósitos."
-"{Cabana da Bruxa}
+Uma velha bruxa vivendo numa estranha cabana recebe você, se oferecendo para te ensinar %s, atendendo a algum de seus próprios e inconfessáveis propósitos.  Você aceita?"
+"{Cabana da bruxa}
 
 Você se aproxima da estranha cabana e observa uma bruxa dentro dela estudando um antigo tomo de %s.  Quando você se aproxima, ela vira pra você e fala.  ""Você já sabe de tudo que eu poderia te ensinar.  Não tenho mais como te ajudar."""
-"{Cabana da Bruxa}
+"{Cabana da bruxa}
 
 Você se aproxima da estranha cabana e observa uma bruxa dentro dela estudando um antigo tomo de %s.  Quando você se aproxima, ela vira pra você e lhe fita um de seus olhos de vidro.  ""HA!"" ela grita, ""Eu presumo que não devo tentar ensinar novos truques para alguém obviamente tão esperto quanto você.""  Você sai, mas não consegue se livrar da impressão de que acabou de receber algum tipo de insulto."
 "  Infelizmente, você já tem o conhecimento sobre esse feitiço, portanto, não há nada mais para eles ensinarem a você."
@@ -418,6 +418,6 @@ Um %s se junta ao exército de %s.
 "Infelizmente, parece que o dono deixou alguns guardas.  Você quer brigar com eles?"
 %s aprende feitiços.
 "Isto é um estaleiro abandonado.  Infelizmente as entradas estão bloqueadas e não é possível construir navios aqui."
-"{Cabana da Bruxa}
+"{Cabana da bruxa}
 
 Você se aproximou de uma cabana, mas descobriu que ela está deserta há algum tempo."

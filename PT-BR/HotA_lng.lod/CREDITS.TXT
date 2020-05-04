@@ -1,211 +1,211 @@
-Credits
-"{HotA Crew:}
-{(in alphabetical} {order)}
+Créditos
+"{Equipe do HotA:}
+{(em ordem} {alfabética)}
 
 {Agar}
-3D modeler, concept artist
+Modelador 3D e artista conceitual.
 {Alex-ander}
-3D modeler, artist,
-project concept
+Modelador 3D, artista
+e conceito de projeto.
 {baratorch}
-programmer,
-map editor, online lobby,
-simultaneous turns,
-HD-mod compatibility
+Programador,
+editor de mapa, online lobby,
+jogadas simultâneas e
+compatibilidade com o mod HD.
 {Dmitriy Gravchenko}
-3D modeler
+Modelador 3D.
 {Docent Picolan}
-idea author and project 
-coordinator, lead artist,
-public relations,
-music and sounds
+Autor da ideia e coordenador
+do projeto, artista líder,
+relações públicas,
+música e sons.
 {Don_ko}
-3D modeler, artist,
-maps
+Modelador 3D, artista
+e mapas.
 {DrSlash}
-3D modeler, artist,
-lobby moderation
+Modelador 3D, artista
+e lobby moderation
 {Fatalist}
-maps, campaign maps,
-translations, editing
+Mapas, mapas de campanha,
+traduções e edição,
 {fiorin}
-3D modeler
+Modelador 3D.
 {gotthit}
-programmer
+Programador.
 {Gruk}
-programmer,
-template editor
+Programador e
+editor de modelo.
 {Igor Kudra}
-lead tester
+Testador líder.
 {Klejnot Nilu}
-lobby moderation
+lobby moderation.
 {Mantiss}
-testing, texts,
-public relations
+Testes, textos e
+relações públicas.
 {nik312}
-balancing, translations, 
-testing, public relations
+Balanceamento, traduções,
+testes e relações públicas.
 {nosferatu}
-artist
+Artista.
 {parovozovoz}
-maps, testing,
-lobby moderation
+Mapas, testes e
+lobby moderation.
 {Qed'Maen}
-documentation, translations
+Documentação e traduções.
 {Sav}
-co-coordinator,
-lead programmer,
-documantation, balancing,
-public relations
+Co-coordenador,
+programador líder,
+documentação, balanceamento
+e relações públicas.
 {Tevye}
-lead editor, translations
+Editor líder e traduções.
 {Vade Parvis}
-artist, ideas,
-public relations
+Artista, ideias e
+relações públicas.
 
-{Inactive} {members:} 
+{Membros} {inativos:} 
 
 {Axolotl}
-3D modeler
+Modelador 3D.
 {FCst1}
-testing
+Testes.
 {hippocamus}
-honorary member, testing,
-lobby moderation
+Membro honorário, testes
+e lobby moderation.
 {Serega-JET}
-editing, testing
+Edição e testes.
 {Spartak}
-testing, ideas
+Testes e ideias.
 {Yulyasha}
-organization of information,
-lobby moderation
+Organização de informação
+e lobby moderation.
 
-{Special thanks:}
+{Agradecimentos especiais:}
 
 {DF2 Forum}
-and its administratin
+e seus administradores
 {LivingAnarchy}
-for Facebook page managing,
-tournament and testing
-organisation
+Por gerenciar a página no Facebook,
+organização de torneios e
+testes.
 {Erolast}
-website development
-{WiZarDX_576} and {igrik}
-for help with code
+Desenvolvimento de website.
+{WiZarDX_576} e {igrik}
+Por ajudar com o código.
 {SaintDark}
-for help with launcher
-{Sar} and {d0s}
-for help with Cove concept
+Por ajudar com o launcher.
+{Sar} e {d0s}
+Por ajudar com o conceito de Enseada.
 {sergroj}
-for programming tools and
-for help with map editor
+Por ferramentas de programação e
+por ajuda com o editor de mapas.
 {AKuHAK}
-for text editing
+Por edição de texto.
 {Denis Goncharuk}
-web hosting
+Hospedagem web.
 {olexn}
-for help with installer
+Por ajudar com o instalador.
 {Stanislav Gordinskii}
-for translations
+Por traduções.
 {IQUARE}
-for help with map
-and Campaign revision
+Por ajudar com revisão
+de mapas e campanhas.
 {Nestor}
-for Campaign testing
-and revision
+Por testar e revisar
+campanhas.
 {Orzie}
-for help with sound effects
+Por ajudar com efeitos sonoros.
 
-Map and template makers:
+Criadores de mapas e modelos:
 {Ivan Vorontsov}, {Riug74},
 {Chapay}, {Manolo}, {molski},
 {koget}, {Veracruz}, {Begrezen},
 {Wic}, {Ignus}
 
-Testers:
+Testadores:
 {Machberet}, {Ignus},
 {maestro}, {Ravciozo},
 {Chleb}, {Szopa666}
 
-and the entire fellowship
-of Heroes fans for active
-participation and help
+E a toda a legião de fãs
+de Heroes por ativamente
+participar e ajudar.
 
-{Former} {members:}
+{Membros} {anteriores:}
 
 {Michanic}
-programmer
+Programador.
 {D'yakon}
-programmer
+Programador.
 {pokrik1}
-artist
+Artist.
 {Silver}
-scenario
+Cenário.
 {VSeleznv}
-programmer
+Programador.
 {you}
-programmer
+Programador.
 {gamdev}
-testing
+Testes.
 {<Fenix>}
-maps
+Mapas.
 {VizitOr}
-programmer
+Programador.
 {SAG}
-balancing
+Blanceamento.
 {feanor}
-programmer
+Programador.
 {Zenofex}
-testing, editing
+Testes e edição.
 {exx}
-3D modeler
+Modelador 3D.
 {Black Phantom}
-ingame resoures
+Recursos no jogo.
 {Entuser}
-programmer,
-HotA utilities
+Programador e
+utilidades do HotA.
 {Astaroth}
-artist
+Artista.
 {Vaflya}
-balancing, testing
+Balancemento e testes.
 {Hapuga}
-translator,
-editing
+Tradutor e
+edição.
 {Wic}
-balancing, testing,
-random map templates
+Balanceamento, testes e
+modelos de mapas aleatórios.
 {Mugais}
-campaign scenarios, maps,
-texts
+Cenários de campanhas,
+mapas e textos
 {potmdehex}
-programmer
+Programador.
 {deferatto}
-3D modeler, artist,
-maps, testing
+Modelador 3D, artista,
+Mapas e testes.
 {Quick-Sighted Dog}
-3D modeler
+Modelador 3D.
 {Arseny}
-balancing, maps
+Balanceamento e mapas.
 {ArtisanDen}
-artist
+Artista.
 {borisloff}
-3D modeler
+Modelador 3D.
 {Darkmoon}
-translations
+Traduções.
 {Kastore}
-public relations, campaign
+Relações públicas e campanha.
 {Maestro}
-videos
+Vídeos.
 {major}
-programmer
+Programador.
 {Morn}
-hero portraits
+Fotos de heróis.
 {Rusha}
-3D modeler
+Modelador 3D.
 {Starseeker}
-editing, testing, translations
+Edição, testes e traduções.
 {XEL}
-setting history, scenario
+Definição de história e cenário.
 
 
 
@@ -213,41 +213,41 @@ setting history, scenario
 {New World Computing:}
 
 
-{Created By:}
+{Criado por:}
 Jon Van Caneghem
 
 
 
-{Executive Producer:}
+{Produtor executivo:}
 Mark Caldwell
 
 
 
-{Producer:}
+{Produtor:}
 Jeff Blattner
 
 
 
-{Director:}
+{Diretor:}
 David Mullich
 
 
-{Associate Director:}
+{Diretor associado:}
 Christian Vanover
 
 
-{Designers:}
+{Projetistas:}
 Jennifer Bullard
 Gregory Fulton
 Jon Van Caneghem
 
 
-{Lead Programmers:}
+{Programadores líderes:}
 John Bolton
 David Richey
 
 
-{Programmers:}
+{Programadores:}
 Mark Caldwell
 John Krause
 Jeff Leggett
@@ -255,12 +255,12 @@ George Ruof
 Gus Smedstad
 
 
-{Lead Artists:}
+{Artistas líderes:}
 Joseph McGuffin
 Phelan Sykes
 
 
-{Artists:}
+{Artistas:}
 George Almond
 Jeff Bigman
 Fernando Castillo
@@ -286,11 +286,11 @@ Scott White
 Charles Zilm
 
 
-{Asset Coordinator:}
+{Coordendor de ativos:}
 Jack Russell
 
 
-{Level Designers:}
+{Projetistas de fases:}
 Benjamin Bent
 Dave Botan
 Ryan Den
@@ -301,33 +301,33 @@ Lisa Whitman
 Mike Wolf
 
 
-{Music Producer:}
+{Produtor musical:}
 Rob King
 
 
-{Town Themes:}
+{Temas de cidades:}
 Paul Romero
 
 
-{Music:}
+{Música:}
 Paul Romero
 Rob King
 Steve Baca
 
 
-{Sound Design:}
+{Projeto sonoro:}
 Rob King
 Steve Baca
 Chuck Russom
 
 
-{Voice Production:}
+{Produtores voicais:}
 Rob King
 Green Street Studios
 South Pasadena, Ca.
 
 
-{Voice Talent:}
+{Talentos vocais:}
 Catherine Battistone
 Aric Devone
 Mari Devon
@@ -341,11 +341,11 @@ Mike Sorich
 Dan Woren
 
 
-{Lead Tester:}
+{Testador líder:}
 Karl Drown
 
 
-{Testers:}
+{Testadores:}
 Jesse Anacleto
 Mary Ellen Babson
 Devin Chapman
@@ -364,7 +364,7 @@ Sean Wyman
 Thomas Zeliff
 
 
-{Special Thanks:}
+{Agradecimentos especiais:}
 Cyberlore Studios
 Hypnotix
 Equinoxe
@@ -383,16 +383,16 @@ John Slowsky
 Joshua “Guthwulf” Milligan
 
 
-{Web Artist:}
+{Artista web:}
 Aaron Castro
 
 
-{Web Programmers:}
+{Programadores web:}
 Robert Belknap
 Peter Hillier
 
 
-{Visit us on the Web:}
+{Visite-nos na web:}
 www.3do.com
 "
-Copyright 2000, The 3DO Company. All Rights Reserved. 3DO, Heroes, Heroes of Might and Magic, New World Computing, The Shadow of Death, and their respective logos are trademarks and/or service marks of The 3DO Company in the U.S. and other Countries. All other trademarks belong to their respective owners. New World Computing is a division of The 3DO Company.
+Copyright 2000, The 3DO Company. Todos os direitos reservados. 3DO, Heroes, Heroes of Might and Magic, New World Computing, The Shadow of Death, e suas respectivas logomarcas são marcas comerciais da The 3DO Company nos EUA e em outros países. Todas as outras marcas pertencem aso seus respectivos donos. New World Computing é uma divisão da The 3DO Company.
