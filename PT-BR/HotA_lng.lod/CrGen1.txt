@@ -1,80 +1,80 @@
-Basilisk Pit
-Behemoth Crag
-Pillar of Eyes
-Hall of Darkness
-Dragon Vault
-Training Grounds
-Centaur Stables
-Altar of Air
-Portal of Glory
-Cyclops Cave
-Forsaken Palace
-Serpent Fly Hive
-Dwarf Cottage
-Altar of Earth
-Fire Lake
-Homestead
-Altar of Fire
-Parapet
-Altar of Wishes
-Wolf Pen
-Gnoll Hut
-Goblin Barracks
-Hall of Sins
-Gorgon Lair
-Dragon Cliffs
-Griffin Tower
-Harpy Loft
-Kennels
-Hydra Pond
-Imp Crucible
-Lizard Den
-Mage Tower
-Manticore Lair
-Chapel of Stilled Voices
-Labyrinth
-Monastery
-Golden Pavilion
-Demon Gate
-Ogre Fort
-Orc Tower
-Hell Hole
-Dragon Cave
-Cliff Nest
-Workshop
-Cloud Temple
-Dendroid Arches
-Warren
-Altar of Water
-Tomb of Souls
-Wyvern Nest
-Enchanted Spring
-Unicorn Glade
-Mausoleum
-Estate
-Cursed Temple
-Graveyard
-Guardhouse
-Archers' Tower
-Barracks
-Magic Lantern
-Altar of Thought
-Pyre
-Frozen Cliffs
-Crystal Cave
-Magic Forest
-Sulfurous Lair
-Enchanter's Hollow
-Treetop Tower
-Unicorn Glade
-Altar of Air
-Altar of Earth
-Altar of Fire
-Altar of Water
-Thatched Hut
-Hovel
-Boar Glen
-Tomb of Curses
-Nomad Tent
-Rogue Cavern
-Troll Bridge
+Poço do Basilisco
+Gruta dos Beemotes
+Pilar dos olhos
+Salão das trevas
+Cofre dos dragões
+Campos de treinamento
+Estábulos de centauros
+Altar do ar
+Portal da glória
+Caverna dos ciclopes
+Palácio maldito
+Ninho de cobras
+Chalé dos anões
+Altar da terra
+Lago de fogo
+Alojamento
+Altar do fogo
+Parapeito
+Altar dos desejos
+Matilha
+Cabana dos gnolls
+Quartel dos goblins
+Salão dos pecados
+Lar do gorgon
+Penhasco dos dragões
+Torre dos grifos
+Sótão das harpias
+Canil
+Poça da hidra
+Forja de diabretes
+Toca dos lagartos
+Torre dos magos
+Lar das mantícoras
+Capela das vozes
+Labirinto
+Mosteiro
+Pavilhão dourado
+Porta dos demônios
+Forte dos ogros
+Torre dos orcs
+Buraco do inferno
+Caverna do dragão
+Ninho no penhasco
+Oficina
+Templo das nuvens
+Arcos dendróides
+Viveiro
+Altar da água
+Tumba das almas
+Ninho dos wyverns
+Fonte encantada
+Clareira dos unicórnios
+Mausoléu
+Casa dos vampiros
+Templo amaldiçoado
+Cemitério
+Casa dos guardas
+Torre dos arqueiros
+Quartel
+Lanterna mágica
+Altar do pensamento
+Pira
+Montanhas congeladas
+Caverna de cristal
+Floresta mágica
+Lar sulfuroso
+Cavidade do encantador
+Casa na árvore
+Clareira dos unicórnios
+Altar do ar
+Altar da terra
+Altar do fogo
+Altar da água
+Cabana de palha
+Casebre
+Chiqueiro
+Tumba das maldições
+Tenda dos nômades
+Caverna dos bandidos
+Ponte dos trolls

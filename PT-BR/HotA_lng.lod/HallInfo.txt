@@ -1,10 +1,10 @@
-Não pode construir mais de um capitólio
-Esta cidade não está perto da água
-Esta cidade não pode ter esta estrutura
-Adicionar mais um nível à torre de magia
-%s já foi construído
-Não pode construir %s
-Não pode pagar %s
-Construir %s
-Sair da sede
+Não pode construir mais de um capitólio.
+Esta cidade não está perto da água.
+Esta cidade não pode ter esta estrutura.
+Adicionar mais um nível à torre de magia.
+%s já foi construído.
+Não pode construir %s.
+Não pode pagar %s.
+Construir %s.
+Sair da sede.
 Opções da sede

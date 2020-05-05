@@ -1,29 +1,29 @@
-Torre de Magia Nível 1	Entering the Mage Guild will allow a visiting hero to learn the spells kept within.
-Torre de Magia Nível 2	Entering the Mage Guild will allow a visiting hero to learn the spells kept within.
-Torre de Magia Nível 3	Entering the Mage Guild will allow a visiting hero to learn the spells kept within.
-Torre de Magia Nível 4	Entering the Mage Guild will allow a visiting hero to learn the spells kept within.
-Torre de Magia Nível 5	Entering the Mage Guild will allow a visiting hero to learn the spells kept within.
-Taverna	The Tavern allows hiring heroes, hearing the latest gossip and visiting the Thieves' Guild. It also increases morale for troops defending the city.
-Porto	The Shipyard allows you to purchase ships.
-Forte	The Fort provides your town with defensive walls.
-Cidadela	"Including a 50% increase to base creature growth, the Citadel adds a keep, and other terrain obstacles, to a town's defenses."
-Castelo	"The Castle adds two arrow towers, fortifies your town's defenses, and doubles base creature growth."
-Sede do Povoado	The Village Hall allows you to purchase town structures and earns your kingdom 500 gold per day.
-Sede da Vila	The Town Hall allows you to purchase town structures and earns your kingdom 1000 gold per day.
-Sede da Cidade	The City Hall allows you to purchase town structures and earns your kingdom 2000 gold per day.
-Capitólio	The Capitol earns your kingdom 4000 gold per day.
-Mercado	"With the Marketplace, you can buy and sell resources (exchange rates increase with each Marketplace you own)."
+Torre de magia nível 1	Entrar numa torre de magia permite a um herói visitante aprender os feitiços mantidos dentro dela.
+Torre de magia nível 2	Entrar numa torre de magia permite a um herói visitante aprender os feitiços mantidos dentro dela.
+Torre de magia nível 3	Entrar numa torre de magia permite a um herói visitante aprender os feitiços mantidos dentro dela.
+Torre de magia nível 4	Entrar numa torre de magia permite a um herói visitante aprender os feitiços mantidos dentro dela.
+Torre de magia nível 5	Entrar numa torre de magia permite a um herói visitante aprender os feitiços mantidos dentro dela.
+Taverna	A taverna possibilita a contratação de heróis, ouvir as últimas fofocas e visitar a toca dos ladrões. Ela também aumenta a moral das tropas defendendo a cidade.
+Porto	O porto permite a você construir navios.
+Forte	O forte provê muralhas defensivas à cidade.
+Cidadela	"A cidadela aumenta em 50% o crescimento base de criaturas da cidade e ao defender a cidade, acrescenta uma torre central e obstáculos."
+Castelo	"O castelo adiciona duas torres de defesa, fortifica as defesas da cidade e duplica o crescimento base de criaturas da cidade."
+Sede do povoado	A sede do povoado permite que você possa construir estruturas na cidade e juntar 500 ouros por dia aos tesouros do seu reino.
+Sede da vila	A sede da vila permite que você possa construir estruturas na cidade e juntar 1000 ouros por dia aos tesouros do seu reino.
+Sede da cidade	A sede da cidade permite que você possa construir estruturas na cidade e juntar 2000 ouros por dia aos tesouros do seu reino.
+Capitólio	O capitólio permite que você possa construir estruturas na cidade e juntar 4000 ouros por dia aos tesouros do seu reino.
+Mercado	"Com um mercado, você pode comprar e vender recursos (as taxas melhoram com cada mercado a mais que você tiver)."
 	
-Ferreiro	The Blacksmith provides your armies with %s.
-Fosso	The Moat slows attacking units.  Any unit entering the moat must end its turn there and becomes more vulnerable to attack.
-Porto com navio	The Shipyard allows you to purchase ships.
-Ferreiro	The Blacksmith provides your armies with Ballistas.
-Ferreiro	The Blacksmith provides your armies with First Aid Tents.
-Ferreiro	The Blacksmith provides your armies with Ammo Carts.
-Ferreiro	The Blacksmith provides your armies with Ammo Carts.
-Ferreiro	The Blacksmith provides your armies with First Aid Tents.
-Ferreiro	The Blacksmith provides your armies with Ballistas.
-Ferreiro	The Blacksmith provides your armies with Ammo Carts.
-Ferreiro	The Blacksmith provides your armies with First Aid Tents.
-Ferreiro	The Blacksmith provides your armies with Ballistas.
-Ferreiro	The Blacksmith provides your armies with War Machines.
+Ferreiro	O ferreiro provê %s aos seus exércitos.
+Fosso	O fosso reduz a velocidade de unidades atacantes.  Qualquer unidade que entre no fosso, encerrará lá o seu turno e ficará mais vulnerável a ataques.
+Porto com navio	O porto permite a você construir navios.
+Ferreiro	O ferreiro provê balistas aos seus exércitos.
+Ferreiro	O ferreiro provê tendas médicas aos seus exércitos.
+Ferreiro	O ferreiro provê carrinhos de munição aos seus exércitos.
+Ferreiro	O ferreiro provê carrinhos de munição aos seus exércitos.
+Ferreiro	O ferreiro provê tendas médicas aos seus exércitos.
+Ferreiro	O ferreiro provê balistas aos seus exércitos.
+Ferreiro	O ferreiro provê carrinhos de munição aos seus exércitos.
+Ferreiro	O ferreiro provê tendas médicas aos seus exércitos.
+Ferreiro	O ferreiro provê balistas aos seus exércitos.
+Ferreiro	O ferreiro provê máquinas de guerra aos seus exércitos.

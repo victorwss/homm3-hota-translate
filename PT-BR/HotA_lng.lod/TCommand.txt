@@ -7,21 +7,21 @@ Não pode-se guardar a última tropa do herói
 Mover %s
 Trocar %s com %s
 Sair da cidade
-Não pode-se mover heróis aliados para a posição de residentes.
-Visão Geral do Reino
+Nao pode-se mover heróis aliados para a posição de residentes.
+Visão geral do reino
 Vazio
 Selecionar %s (residente)
-Ver Herói
-Torre de Magia
-Guilda dos Ladrões
+Ver herói
+Torre de magia
+Toca dos ladrões
 Taverna
 Porto
 Castelo
 Ferreiro
-Sede do Povoado
+Sede do povoado
 Recrutar %s
-Sede da Vila
-Sede da Cidade
+Sede da vila
+Sede da cidade
 Capitólio
 
 Mercado
