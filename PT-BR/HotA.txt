@@ -1480,7 +1480,7 @@ Research is underway (current spell is %s)
  (another research is currently underway)
 #77
 ""
-Mineral Spring +1""
+Fonte mineral +1""
 #78
 (No skills to upgrade)
 #79
@@ -1803,7 +1803,7 @@ Relic artifacts
 # 47
 shroud remove from all tiles within 12 tiles
 # 48
-Creature bank content
+Conteúdo do banco de criaturas
 # 49
 Aleatório (chances: %s%%)
 # 50
@@ -1835,11 +1835,11 @@ Return not before
 For a player to complete a quest, the quest time limit must be greater then the quest date.
 ""
 # 63
-""""""%s contains an empty quest.""""
-An empty quest cannot be completed and blocks Seer's Hut futher work.
+""""""%s contém um missão vazia.""""
+Uma missão vazia não pode ser concluída e impede a cabana do vidente de realizar trabalhos subsequentes.
 ""
 # 64
-Seer's Hut quest
+Missão da cabana do vidente
 # 65
 One-time quests
 # 66
@@ -1879,7 +1879,7 @@ Pertencer a uma classe específica
 # 83
 Wait till a specific date
 # 84
-A combat place can be placed only on an arena map.
+Um local de combate só pode ser colocado num mapa do tipo arena.
 # 85
 """"""The arena map has no combat place.""""
 An arena map is a map designed for a single fight of two heroes with a preliminary preparation. Such map must contain at least one combat place.
@@ -2116,17 +2116,17 @@ Possibly gives visiting hero +2 Attack, +2 Defense, +2 Power, +2 Knowledge.""
 
 43
 -1
-""Monolith/Portal One Way Entrance
+""Entrada de monolito ou portal de mão única
 Teleports hero one-way to a specific map location.""
 
 44
 -1
-""Monolith/Portal One Way Exit
+""Saída de monolito ou portal de mão única
 Exit point for a hero teleporting through a Monolyth/Portal One Way Entrance.""
 
 45
 -1
-""Two Way Monolith/Portal
+""Monolito ou portal de mão dupla
 Teleports a hero to another Two Way Monolith/Portal, with the ability to return to the gate of origin.""
 
 46
@@ -2322,9 +2322,9 @@ Scholar then disappears.""
 
 83
 -1
-""Seer's Hut
-Heroes may complete a Seer’s Quest for a reward.
-Map Makers must specify the quest.""
+""Cabana do vidente
+Heróis podem completar missões nas cabanas do vidente por uma recompensa.
+Criadores de mapa devem especificar qual é missão.""
 
 84
 -1
@@ -2415,7 +2415,7 @@ Gives complete thieves' guild information.""
 
 99
 -1
-""Trading Post
+""Posto comercial
 Trade resources at the efficiency of 5 markets.""
 
 100
@@ -2457,7 +2457,7 @@ Pay 2000g for a 'new' Secondary Skill of four taught.""
 
 #106
 #-1
-#""Fábrica de máquinas
+#""Fábrica de máquinas de guerra
 #Purchase any of the three war machines: Ballista, First Aid Tent and Ammo Cart.""
 
 107
@@ -2484,7 +2484,7 @@ Each subsequent week is set to give 1000 gold.""
 
 110
 -1
-""Nascente
+""Lagoa
 +1 Morale until next battle.
 +400 Adventure movement until the end of the day.""
 
@@ -2510,7 +2510,7 @@ Decoração.""
 
 115
 -1
-""Arbustos
+""Moita
 Decoração.""
 
 116
@@ -2730,7 +2730,7 @@ Decoração.""
 
 166
 -1
-""Arbustos
+""Moita
 Decoração.""
 
 167
@@ -2960,37 +2960,37 @@ Decoração.""
 
 212
 -1
-""Guarda de fronteira
+""Portão de fronteira
 Usually placed at choke points, a hero must visit the keymaster of the associated color in order to get the password.  Each player must visit the keymaster, as the Border Gate will not disappear after the first player visits it.""
 
 213
 -1
-""Freelancer’s Guild
+""Mercado de escravos
 This allows you to exchange troops for resources (at the efficiency of 5 markets).""
 
 214
 -1
-""Crossover Hero Placeholder
+""Marcador de herói
 This allows you to have a hero crossover from one scenario of a campaign to another.""
 
 215
 -1
-""Quest Guard
+""Guarda de missão
 Usually place at choke points, a hero must complete a quest in order to pass.""
 
 216
 -1
-""Random Dwelling
+""Habitação aleatória
 Can be linked with specific towns.""
 
 221
 -1
-""Trading Post
+""Posto comercial
 Trade resources at the efficiency of 5 markets.""
 
 222
 -1
-""Campos de trevos
+""Campo de trevos
 Gives all Neutral aligned troops +2 Luck.""
 
 223
@@ -5067,7 +5067,7 @@ Quantity: 8-16.""
 
 54
 93
-""Passáro do Trovão
+""Pássaro do Trovão
 Upgraded level 5 Stronghold creature.
 Quantity: 8-12.""
 
@@ -5435,87 +5435,87 @@ Cidade de confluxo.""
 
 106
 0
-""War Machine Factory
+""Fábrica de máquinas de guerra
 Purchase any of the three war machines: Ballista, First Aid Tent and Ammo Cart.""
 
 217
 0
-""Random Dwelling 1
+""Habitação aleatória 1
 Random level 1 creature dwelling.""
 
 217
 1
-""Random Dwelling 2
+""Habitação aleatória 2
 Random level 2 creature dwelling.""
 
 217
 2
-""Random Dwelling 3
+""Habitação aleatória 3
 Random level 3 creature dwelling.""
 
 217
 3
-""Random Dwelling 4
+""Habitação aleatória 4
 Random level 4 creature dwelling.""
 
 217
 4
-""Random Dwelling 5
+""Habitação aleatória 5
 Random level 5 creature dwelling.""
 
 217
 5
-""Random Dwelling 6
+""Habitação aleatória 6
 Random level 6 creature dwelling.""
 
 217
 6
-""Random Dwelling 7
+""Habitação aleatória 7
 Random level 7 creature dwelling.""
 
 218
 0
-""Random Castle Dwelling
+""Habitação aleatória de castelo
 At the start of the game, this object is replaced with a random Castle dwelling.""
 
 218
 1
-""Random Rampart Dwelling
+""Habitação aleatória de floresta
 At the start of the game, this object is replaced with a random Rampart dwelling.""
 
 218
 2
-""Random Tower Dwelling
+""Habitação aleatória de torre
 At the start of the game, this object is replaced with a random Tower dwelling.""
 
 218
 3
-""Random Inferno Dwelling
+""Habitação aleatória de inferno
 At the start of the game, this object is replaced with a random Inferno dwelling.""
 
 218
 4
-""Random Necropolis Dwelling
+""Habitação aleatória de necrópolis
 At the start of the game, this object is replaced with a random Necropolis dwelling.""
 
 218
 5
-""Random Dungeon Dwelling
+""Habitação aleatória de masmorra
 At the start of the game, this object is replaced with a random Dungeon dwelling.""
 
 218
 6
-""Random Stronghold Dwelling
+""Habitação aleatória de barbárie
 At the start of the game, this object is replaced with a random Stronghold dwelling.""
 
 218
 7
-""Random Fortress Dwelling
+""Habitação aleatória de pântano
 At the start of the game, this object is replaced with a random Fortress dwelling.""
 
 218
 8
-""Random Conflux Dwelling
+""Habitação aleatória de confluxo
 At the start of the game, this object is replaced with a random Conflux dwelling.""
 
 219
@@ -5713,7 +5713,7 @@ Worn on a torso, this item reduces the Power skill of enemy hero by 25% during c
 
 16
 21
-""Beholders' Sanctuary
+""Santuário dos observadores
 - 30% Fight 50 Beholders for 3000 gold and 1 Minor Artifact.
 - 30% Fight 75 Beholders for 5000 gold and 1 Minor Artifact.
 - 30% Fight 100 Beholders for 6000 gold and 1 Major Artifact.
@@ -5721,7 +5721,7 @@ Worn on a torso, this item reduces the Power skill of enemy hero by 25% during c
 
 16
 22
-""Temple of the Sea
+""Templo do mar
 - 30% Fight 8 Hydras, 6 Sea Serpents, 3 Chaos Hydras, and 2 Haspids for 10000 gold and 2 Treasure Artifacts, 1 Minor Artifact, and 1 Relic Artifact.
 - 30% Fight 8 Hydras, 7 Sea Serpents, 4 Chaos Hydras, and 3 Haspids for 15000 gold and 1 Treasure Artifact, 1 Minor Artifacts, 1 Major Artifact, and 1 Relic Artifact.
 - 30% Fight 8 Hydras, 7 Sea Serpents, 5 Chaos Hydras, and 4 Haspids for 20000 gold and 1 Minor Artifact, 2 Major Artifacts, and 1 Relic Artifact.
@@ -5885,22 +5885,22 @@ Upgrade base grade of level 1-5 creatures for double cost.""
 
 36
 1000
-""Combat place
+""Local de combate
 Points a place of a final battle on an arena map. The defending hero must stay at such place at the end of turn or he will be teleported to a random combat place. The attacking hero will be teleported to the cell left of defender and will attack automatically. Before the moment of the battle the cell of attacking hero is impassable.""
 
 36
 1001
-""Combat place
+""Local de combate
 Points a place of a final battle on an arena map. The defending hero must stay at such place at the end of turn or he will be teleported to a random combat place. The attacking hero will be teleported to the cell up of defender and will attack automatically. Before the moment of the battle the cell of attacking hero is impassable.""
 
 36
 1002
-""Combat place
+""Local de combate
 Points a place of a final battle on an arena map. The defending hero must stay at such place at the end of turn or he will be teleported to a random combat place. The attacking hero will be teleported to the cell right of defender and will attack automatically. Before the moment of the battle the cell of attacking hero is impassable.""
 
 36
 1003
-""Combat place
+""Local de combate
 Points a place of a final battle on an arena map. The defending hero must stay at such place at the end of turn or he will be teleported to a random combat place. The attacking hero will be teleported to the cell down of defender and will attack automatically. Before the moment of the battle the cell of attacking hero is impassable.""
 
 54
@@ -6034,7 +6034,7 @@ Cidade de enseada.""
 
 106
 1
-""Cannon Yard
+""Fábrica de canhões
 Hero can purchase Cannon in Cannon Yard.""
 
 139
@@ -6089,7 +6089,7 @@ Decoração.""
 
 139
 10
-""Bluebottle
+""Physalia
 Decoração.""
 
 139
@@ -6164,7 +6164,7 @@ Decoração.""
 
 139
 25
-""Escombros
+""Colunas
 Decoração.""
 
 139
@@ -6269,7 +6269,7 @@ Gives all troops -2 Luck.""
 
 144
 0
-""Temple of Loyalty
+""Templo da lealdade
 Mixed faction morale penalty negated until next turn.""
 
 144
@@ -6279,18 +6279,18 @@ This allows you to convert any creature into a skeleton.""
 
 144
 2
-""Colosseum of the Magi
+""Coliseu dos magos
 Player's choice to add +2 to the visiting hero's Spell Power or Knowledge.""
 
 144
 3
-""Watering Place
+""Bica de água
 +1000 Movement next day.
 Lose all current movement.""
 
 144
 4
-""Mineral Spring
+""Fonte mineral
 +1 Luck until next battle.
 +600 Adventure movement until the end of the day.""
 
@@ -6306,7 +6306,7 @@ Improves a random Secondary Skill of the visiting hero.""
 
 144
 7
-""Junkman
+""Ferro-velho
 Artifacts except Spell Scrolls may be sold to Junkman (at the efficiency of 7 markets).""
 
 144
@@ -6330,12 +6330,12 @@ Replenishes on Day 1 of each week.""
 
 144
 11
-""Trailblazer
+""Pioneiro
 Reduces wasteland movement penalty by 50% until the end of the week.""
 
 145
 0
-""Ancient Lamp
+""Lâmpada antiga
 Allows you to recruit 4-7 Master Genie once.""
 
 145
@@ -6354,7 +6354,7 @@ Allows you to recruit 4-7 Master Genie once.""
 
 145
 3
-""Vial of Mana
+""Poção mágica
 Grants 30-60 spell points. If resulting amount of mana points is to exceed normal cap for the hero, only half the extra points will be granted.""
 
 146
@@ -6374,22 +6374,22 @@ Heroes may sacrifice creatures for spell points, up to 4x the normal cap.""
 
 146
 3
-""Town Gate
+""Portão para cidade
 Allows visiting hero to teleport to any allied town.""
 
 212
 1000
-""Quest Gate
+""Portão de missão
 Usually placed at choke points, a hero must complete a quest in order to pass.  The quest must be completed each time the Quest Gate are passed, as they will not disappear after the first player visits it.""
 
 212
 1001
-""Grave
+""Sepultura
 Digging gives 500–5000 gold, a random Treasure of Minor artifact, and -3 morale until the next battle.""
 
 218
 9
-""Random Cove Dwelling
+""Habitação aleatória de enseada
 At the start of the game, this object is replaced with a random Cove dwelling.""
 "
 Text 8: ""
@@ -6533,17 +6533,17 @@ Text 5: ""
 Text 6: ""
 Text 7: "# Names
 # 0 (212, 1000)
-Quest Gate
+Portão de missão
 # 1 (36, 1000–1003)
-Combat place
+Local de combate
 # 2 (212, 1001)
-Grave"
+Sepultura"
 Text 8: "# Texts
 # 0 (212, 1001, Grave)
-This tomb is fresh, and even the shovel someone dug it with hasn't been stolen yet. You take up the latter, cover your nose with a handkerchief, and manage to extract something valuable from the ground.
+Esta sepultura é nova.  Até a pá que usaram para cavá-la ainda está aqui.  Você a pega, cobre o seu nariz com um lenço e consegue tirar lgo de valioso de dentro do chão.
 # 1 (212, 1001, Grave)
 ""
-Grave Digging -3"""
+Abrir sepulturas -3"""
 Has FilS: "false"
 Vals count: "4"
 Val 0: "0"
@@ -6601,7 +6601,7 @@ Sapo
 Sapos
 Galinha
 Galo
-Bluebottle
+Physalia
 Acampamento destruído
 Fonte destruída
 Porco
@@ -6616,7 +6616,7 @@ Ponte
 Osso
 Sacos
 Poças de água
-Escombros
+Colunas
 Poças de água"
 Has FilS: "false"
 Vals count: "4"
@@ -7719,8 +7719,8 @@ Spell Scroll
 The Grail
 Catapulta
 Balista
-Ammo Cart
-Tenda médica
+Carrinho de Munição
+Tenda Médica
 Centaur's Axe
 Blackshard of the Dead Knight
 Greater Gnoll's Flail
@@ -8230,7 +8230,7 @@ Fogueira
 Cartógrafo
 Lago do cisne
 Cobertura de escuridão
-Creature Bank
+Banco de criaturas
 Gerador de criaturas 1
 Gerador de criaturas 2
 Gerador de criaturas 3
@@ -8297,7 +8297,7 @@ Recurso
 Santuário
 Acadêmico
 Arca marítima
-Seer's Hut
+Cabana do vidente
 Cripta
 Naufrágio
 Náufrago
@@ -8313,7 +8313,7 @@ Taverna
 Templo
 Toca dos ladrões
 Cidade
-Trading Post
+Posto comercial
 Pedra do aprendizado
 Arca do tesouro
 Árvore do conhecimento
@@ -8324,7 +8324,7 @@ Fábrica de máquinas
 Escola de guerra
 Tumba de um guerreiro
 Roda d'água
-Nascente
+Lagoa
 Redemoinho
 Moinho de vento
 Cabana da bruxa
@@ -8426,17 +8426,17 @@ Colina gramada
 Colina rochosa
 Pedras subterrâneas
 Folhagem pantaneira
-Guarda de fronteira
+Portão de fronteira
 Mercado de escravos
 Marcador de herói
-Quest Guard
-Random Dwelling
+Guarda de missão
+Habitação aleatória
 
 
 Guarnição
 Mina
-Trading Post
-Campos de trevos
+Posto comercial
+Campo de trevos
 Território amaldiçoado
 Trevas malditas
 Ventos favoráveis
@@ -8964,7 +8964,7 @@ Orc Chefe	Orcs Chefes	0	0	0	0	0	0	165	200	240	7
 Ogro	Ogros	0	0	0	0	0	0	300	520	416	4
 Ogro Mago	Ogros Magos	0	0	0	0	0	0	400	672	672	4
 Roc	Rocs	0	0	0	0	0	0	600	790	1027	3
-Passáro do Trovão	Pássaros do Trovão	0	0	0	0	0	0	700	869	1106	3
+Pássaro do Trovão	Pássaros do Trovão	0	0	0	0	0	0	700	869	1106	3
 Ciclope	Ciclopes	0	0	0	0	0	0	750	1055	1266	2
 Ciclope Rei	Ciclopes Reis	0	0	0	0	0	0	1100	1110	1443	2
 Beemote	Beemotes	0	0	0	0	0	0	1500	3162	3162	1
@@ -9092,15 +9092,15 @@ Name: "cyard0"
 Path: ""
 Texts count: "9"
 Text 0: ""
-Text 1: "Cannon Yard"
+Text 1: "Fábrica de canhões"
 Text 2: ""
 Text 3: ""
 Text 4: ""
 Text 5: ""
 Text 6: ""
-Text 7: "{Cannon Yard}
+Text 7: "{Fábrica de canhões}
 
-Would you like to purchase Cannon?"
+Você gostaria de comprar um canhão?"
 Text 8: ""
 Has FilS: "false"
 Vals count: "4"
@@ -9701,7 +9701,7 @@ Name: "crbank21"
 Path: "Banks\crbank21.str"
 Texts count: "9"
 Text 0: ""
-Text 1: "Beholders' Sanctuary"
+Text 1: "Santuário dos observadores"
 Text 2: ""
 Text 3: ""
 Text 4: ""
@@ -9762,10 +9762,10 @@ Name: "crbank22"
 Path: ""
 Texts count: "9"
 Text 0: ""
-Text 1: "Temple of the Sea"
+Text 1: "Templo do mar"
 Text 2: "seatempl.wav"
-Text 3: "You stand before the gates of the Temple of the Sea. Not a single mortal dared to enter it. Are you bold enough to be the first one?"
-Text 4: "A Temple of the Sea was here once. Now it's abandoned and empty."
+Text 3: "Você está aos portões do templo do mar.  Nenhum simples mortal nunca ousou adentrá-lo.  Você é corajoso o suficiente para ser o primeiro?"
+Text 4: "Um templo do mar uma vez esteve aqui.  Mas agora, está abandondo e vazio."
 Text 5: ""
 Text 6: ""
 Text 7: "# Precise guard stack setup
@@ -10434,10 +10434,10 @@ Name: "store0"
 Path: ""
 Texts count: "9"
 Text 0: ""
-Text 1: "Warehouse of Wood"
+Text 1: "Depósito de madeira"
 Text 2: "WERHOUSE.wav"
-Text 3: "The owner of the storage makes haste to tell you: 'My Lord, I`ve gathered all wood from the nearby production points for you. Come next week for the new portion!'"
-Text 4: "The owner of the storage is apologising: 'I am sorry Milord, no wood here. Please, return next week!'"
+Text 3: "O dono do depósito se apressa em te dizer: 'Grande, eu peguei toda a madeira que consegui nas proximidades para você.  Volte na semana que vem por mais uma porção!'"
+Text 4: "O dono do depósito se desculpa: 'Me perdoe, grande.  Não tenho madeira aqui.  Por favor, volte na semana que vem!'"
 Text 5: ""
 Text 6: ""
 Text 7: "# Íå áîëüøå 15
@@ -10474,10 +10474,10 @@ Name: "store1"
 Path: ""
 Texts count: "9"
 Text 0: ""
-Text 1: "Warehouse of Mercury"
+Text 1: "Depósito de mercúrio"
 Text 2: "WERHOUSE.wav"
-Text 3: "The owner of the storage makes haste to tell you: 'My Lord, I`ve gathered all mercury from the nearby production points for you. Come next week for the new portion!'"
-Text 4: "The owner of the storage is apologising: 'I am sorry Milord, no mercury here. Please, return next week!'"
+Text 3: "O dono do depósito se apressa em te dizer: 'Grande, eu peguei todo o mercúrio que consegui nas proximidades para você.  Volte na semana que vem por mais uma porção!'"
+Text 4: "O dono do depósito se desculpa: 'Me perdoe, grande.  Não tenho mercúrio aqui.  Por favor, volte na semana que vem!'"
 Text 5: ""
 Text 6: ""
 Text 7: "# Íå áîëüøå 15
@@ -10514,10 +10514,10 @@ Name: "store2"
 Path: ""
 Texts count: "9"
 Text 0: ""
-Text 1: "Warehouse of Ore"
+Text 1: "Depósito de pedras"
 Text 2: "WERHOUSE.wav"
-Text 3: "The owner of the storage makes haste to tell you: 'My Lord, I`ve gathered all ore from the nearby production points for you. Come next week for the new portion!'"
-Text 4: "The owner of the storage is apologising: 'I am sorry Milord, no ore here. Please, return next week!'"
+Text 3: "O dono do depósito se apressa em te dizer: 'Grande, eu peguei todas as pedras que consegui nas proximidades para você.  Volte na semana que vem por mais uma porção!'"
+Text 4: "O dono do depósito se desculpa: 'Me perdoe, grande.  Não tenho pedras aqui.  Por favor, volte na semana que vem!'"
 Text 5: ""
 Text 6: ""
 Text 7: "# Íå áîëüøå 15
@@ -10554,10 +10554,10 @@ Name: "store3"
 Path: ""
 Texts count: "9"
 Text 0: ""
-Text 1: "Warehouse of Sulfur"
+Text 1: "Depósito de enxofre"
 Text 2: "WERHOUSE.wav"
-Text 3: "The owner of the storage makes haste to tell you: 'My Lord, I`ve gathered all sulfur from the nearby production points for you. Come next week for the new portion!'"
-Text 4: "The owner of the storage is apologising: 'I am sorry Milord, no sulfur here. Please, return next week!'"
+Text 3: "O dono do depósito se apressa em te dizer: 'Grande, eu peguei todo o enxofre que consegui nas proximidades para você.  Volte na semana que vem por mais uma porção!'"
+Text 4: "O dono do depósito se desculpa: 'Me perdoe, grande.  Não tenho enxofre aqui.  Por favor, volte na semana que vem!'"
 Text 5: ""
 Text 6: ""
 Text 7: "# Íå áîëüøå 15
@@ -10594,10 +10594,10 @@ Name: "store4"
 Path: ""
 Texts count: "9"
 Text 0: ""
-Text 1: "Warehouse of Crystal"
+Text 1: "Depósito de cristal"
 Text 2: "WERHOUSE.wav"
-Text 3: "The owner of the storage makes haste to tell you: 'My Lord, I`ve gathered all crystals from the nearby production points for you. Come next week for the new portion!'"
-Text 4: "The owner of the storage is apologising: 'I am sorry Milord, no crystals here. Please, return next week!'"
+Text 3: "O dono do depósito se apressa em te dizer: 'Grande, eu peguei todos os cristais que consegui nas proximidades para você.  Volte na semana que vem por mais uma porção!'"
+Text 4: "O dono do depósito se desculpa: 'Me perdoe, grande.  Não tenho cristais aqui.  Por favor, volte na semana que vem!'"
 Text 5: ""
 Text 6: ""
 Text 7: "# Íå áîëüøå 15
@@ -10634,10 +10634,10 @@ Name: "store5"
 Path: ""
 Texts count: "9"
 Text 0: ""
-Text 1: "Warehouse of Gem"
+Text 1: "Depósito de gemas"
 Text 2: "WERHOUSE.wav"
-Text 3: "The owner of the storage makes haste to tell you: 'My Lord, I`ve gathered all gems from the nearby production points for you. Come next week for the new portion!'"
-Text 4: "The owner of the storage is apologising: 'I am sorry Milord, no gems here. Please, return next week!'"
+Text 3: "O dono do depósito se apressa em te dizer: 'Grande, eu peguei todas as gemas que consegui nas proximidades para você.  Volte na semana que vem por mais uma porção!'"
+Text 4: "O dono do depósito se desculpa: 'Me perdoe, grande.  Não tenho gemas aqui.  Por favor, volte na semana que vem!'"
 Text 5: ""
 Text 6: ""
 Text 7: "# Íå áîëüøå 15
@@ -10674,10 +10674,10 @@ Name: "store6"
 Path: ""
 Texts count: "9"
 Text 0: ""
-Text 1: "Warehouse of Gold"
+Text 1: "Depósito de ouro"
 Text 2: "WERHOUSE.wav"
-Text 3: "The owner of the storage makes haste to tell you: 'My Lord, I`ve gathered all gold from the nearby production points for you. Come next week for the new portion!'"
-Text 4: "The owner of the storage is apologising: 'I am sorry Milord, no gold here. Please, return next week!'"
+Text 3: "O dono do depósito se apressa em te dizer: 'Grande, eu peguei todo o ouro que consegui nas proximidades para você.  Volte na semana que vem por mais uma porção!'"
+Text 4: "O dono do depósito se desculpa: 'Me perdoe, grande.  Não tenho ouro aqui.  Por favor, volte na semana que vem!'"
 Text 5: ""
 Text 6: ""
 Text 7: "# Íå áîëüøå 15
@@ -13047,7 +13047,7 @@ Name: "actobj000"
 Path: ""
 Texts count: "9"
 Text 0: ""
-Text 1: "Temple of Loyalty"
+Text 1: "Templo da lealdade"
 Text 2: "Temple.wav"
 Text 3: ""
 Text 4: ""
@@ -13062,13 +13062,13 @@ Text 7: "# ×èñëî 1 - íîìåð ôîíîâîãî çâóêà (-1 - íåò çâóêà)
 # 1 ñòðîêà - ñîîáùåíèå ïðè ïîñåùåíèè îáúåêòà
 # 2 ñòðîêà - ïîäñêàçêà î ñâîéñòâàõ îáúåêòà (åñëè åñòü)
 "
-Text 8: """{Temple of Loyalty}
+Text 8: """{Templo da lealdade}
 
-You pray in an unusual temple and suddenly feel it has strengthened your troops' resolve.""
+Você or neste incomum templo e de repente, você sente que o entrosamento das suas tropas melhorou.""
 (Mixed faction morale penalty negated until next turn)
-""{Temple of Loyalty}
+""{Templo da lealdade}
 
-The prayer at the Temple of Loyalty helps to bring the troops together, however your army is united already.""
+A orção no templo da lealdade ajuda a unir as suas tropas, mas o seu exército já é bastante unido.""
 "
 Has FilS: "false"
 Vals count: "4"
@@ -13104,16 +13104,16 @@ Name: "picobj000"
 Path: ""
 Texts count: "9"
 Text 0: ""
-Text 1: "Ancient Lamp"
+Text 1: "Lâmpada antiga"
 Text 2: "LAMPVIST.wav"
 Text 3: ""
 Text 4: ""
 Text 5: ""
 Text 6: ""
 Text 7: ""
-Text 8: """{Ancient Lamp}
+Text 8: """{Lâmpada antiga}
 
-A battered turban emerges from the lamp, sitting atop his djinn owner's head. """"Oh, aren't these some employers. Again. Got money? We aren't going to work for magic beans again. And we will NOT grant any wishes. The rest, you can count on us""""."""
+Um turbante amassado emerge da lâmpada, permanecendo sobre a cabeça de um gênio.  """"Oh, são esses os nossos novos empregadores?  Tem dinheiro?  Nós não iremos trabalhar em troca de feijões mágicos de novo e não vamos conceder desejos.  De resto, você pode contar conosco""""."""
 Has FilS: "false"
 Vals count: "4"
 Val 0: "0"
@@ -13185,16 +13185,16 @@ Name: "picobj003"
 Path: ""
 Texts count: "9"
 Text 0: ""
-Text 1: "Vial of Mana"
+Text 1: "Poção mágica"
 Text 2: "BOTTLVIS.wav"
 Text 3: ""
 Text 4: ""
 Text 5: ""
 Text 6: ""
 Text 7: ""
-Text 8: """{Vial of Mana}
+Text 8: """{Poção mágica}
 
-You get hold of the vial, but are disappointed to see it lacking any message. There's only water inside, surprizingly fresh though."""
+Você pegou a garrafa, mas ficou desapontado ao ver que não havia nenhuma mensagem.  Havia apenas água dentro, mas surpreendentemente muito refrescante."""
 Has FilS: "false"
 Vals count: "4"
 Val 0: "0"
@@ -13283,16 +13283,16 @@ Name: "actobj002"
 Path: ""
 Texts count: "9"
 Text 0: ""
-Text 1: "Colosseum of the Magi"
+Text 1: "Coliseu dos magos"
 Text 2: "GAZEBO.wav"
 Text 3: ""
 Text 4: ""
 Text 5: ""
 Text 6: ""
 Text 7: ""
-Text 8: "A big show is taking place at the Colosseum today. You enter the arena and hold the audience in awe with your magical prowess. Insatiable hunger for knowledge is what makes a true mage, so you gladly accept the first prize, which is one the newest academical handbooks.
+Text 8: "Um grnde show está acontecendo no coliseu hoje.  Você entra na arena e conquista a admiração do público com as suas proezas mágicas.  A fome insaciável por conhecimento é o que faz o verdadeiro mago, e com muita gratidão, você aceita o primeiro prêmio, que é um dos mais novos livros cadêmicos de magia.
 (+2 spell power or knowledge once per hero)
-Moderator of the Colosseum instantly recognises you but respectfully denies entrance to the competitor zone. ""You probably should rather be featuring as a talent judge here!"
+O moderator do coliseu instantaneamente o reconhece e respeitosamente rejeita a sua entrada na área dos competidores.  ""Você provavelmente seria melhor julgando os talentos aqui!"
 Has FilS: "false"
 Vals count: "4"
 Val 0: "0"
@@ -13306,23 +13306,23 @@ Name: "actobj003"
 Path: ""
 Texts count: "9"
 Text 0: ""
-Text 1: "Watering Place"
+Text 1: "Bica de água"
 Text 2: "STORE.wav"
 Text 3: ""
 Text 4: ""
 Text 5: ""
 Text 6: ""
 Text 7: ""
-Text 8: """{Watering Place}
+Text 8: """{Bica de água}
 
-Looks like a nice place for an overnight stop. Tomorrow your troops will be as fresh as they never were. Would you like to call it a day?""
+Este parece ser um ótimo lugar para pernoitar.  Amanhã, suas tropas estarão novas omo nunca estiveram.  Você gostaria de ficar aqui mesmo e descanar até amanhã?""
 (+1000 movement points next day for all remained movement)
-""{Watering Place}
+""{Bica de água}
 
-Troops are in a full blown recuperation mode. No chance of getting them into marching mood until tomorrow.""
-""{Watering Place}
+As tropas estão no modo de recuperação completo.  Não há como fazê-los ter ânimo para marchar até amanhã.""
+""{Bica de água}
 
-Watering place can be used only once a week, and someone has already been here this week."""
+A bica de água só pode ser usada uma vez por semana, mas alguém já esteve aqui nesta semana."""
 Has FilS: "false"
 Vals count: "4"
 Val 0: "0"
@@ -13336,14 +13336,14 @@ Name: "impobj003"
 Path: ""
 Texts count: "9"
 Text 0: ""
-Text 1: "Town Gate"
+Text 1: "Portão para cidade"
 Text 2: "Mystery.wav"
 Text 3: ""
 Text 4: ""
 Text 5: ""
 Text 6: ""
 Text 7: ""
-Text 8: """{Town Gate}
+Text 8: """{Portão para cidade}
 
 Visiting text."""
 Has FilS: "false"
@@ -13359,20 +13359,20 @@ Name: "actobj004"
 Path: ""
 Texts count: "9"
 Text 0: ""
-Text 1: "Mineral Spring"
+Text 1: "Fonte mineral"
 Text 2: "Luck.wav"
 Text 3: ""
 Text 4: ""
 Text 5: ""
 Text 6: ""
 Text 7: ""
-Text 8: """{Mineral Spring}
+Text 8: """{Fonte mineral}
 
-Horses look less than thrilled to drink the salty water, but soon you notice them prancing around with new vigor. Rainbow forms in the droplets above the sparkling spring, and the sight brings everyone to a happy mood.""
+Os cavalos parecem pouco entusiasmados em beber uma água salgada, mas logo você os percebe andando com novo vigor.  O arco-íris se forma nas gotículas acima da primavera cintilante e a visão leva todos a um clima feliz.""
 (+1 luck until next battle and +600 movement points for one day)
-""{Mineral Spring}
+""{Fonte mineral}
 
-Everybody's belly is chock full of bubbly water. That's enough hydration for today."""
+Todo mundo já está com a barriga cheia de água com gás.  Iso ;e hidratação o suficiente por hoje."""
 Has FilS: "false"
 Vals count: "4"
 Val 0: "0"
@@ -13386,26 +13386,26 @@ Name: "actobj005"
 Path: ""
 Texts count: "9"
 Text 0: ""
-Text 1: "Hermit's Shack"
+Text 1: "Cabana do eremita"
 Text 2: "Gazebo.wav"
 Text 3: ""
 Text 4: ""
 Text 5: ""
 Text 6: ""
 Text 7: ""
-Text 8: """{Hermit's Shack}
+Text 8: """{Cabana do eremita}
 
-On entering the shack you see nobody home, but the walls appear lined with pages from scholarly books. You copy some useful informations from a sheet near the fireplace.""
+Ao entrar na cabana, você nota que não há ninguém em casa, mas as paredes estão cheias de páginas de livros acadêmicos.  Você copia algumas informações úteis numa folha de papel perto da lareira.""
 (Random secondary skill upgrade once per hero)
-""{Hermit's Shack}
+""{Cabana do eremita}
 
-On entering the shack you see no renovations have been done since you were here last time. The wallpaper still features familiar writings.""
-""{Hermit's Shack}
+Ao entrar na cabana, você não vê nada de novo desde a última vez que você esteve aqui.  Os papéis nas paredes ainda tem os mesmos escritos.""
+""{Cabana do eremita}
 
-On entering the shack you see nobody home, but the walls appear lined with pages from scholarly books. There definitely is a lot to be learned here, but the material seems fairly advanced. You will have to get an introductory course elsewhere.""
-""{Hermit's Shack}
+Ao entrar na cabana, você nota que não há ninguém em casa, mas as paredes estão cheias de páginas de livros acadêmicos.  Definitivamente há muito o que aprender aqui, mas o material está todo num nível bastante avançado pra você.  Você pode achar algum curso introdutório em algum outro lugar.""
+""{Cabana do eremita}
 
-On entering the shack you notice the walls are lined with pages from scholarly books. However, there's nothing to be learned, and, on top of that, the hermit owner of the place shows up and sees you out quite rudely."""
+Ao entrar na cabana, você nota que as paredes estão cheias de páginas de livros acadêmicos.  Entretanto, não há nada a ser aprendido, e ainda por cima, o eremita dono do lugar apareceu e te observou de uma forma rude."""
 Has FilS: "false"
 Vals count: "4"
 Val 0: "0"
@@ -13428,14 +13428,14 @@ Text 6: ""
 Text 7: ""
 Text 8: """{Gazebo}
 
-An old Knight appears on the steps of the gazebo. """"I will teach you all that I know to aid you in your travels. However, I'll let you know a small donation to the Retired Knights' League is required. A thousand gold will suffice.""""""
+Um velho cavaleiro aparece nos degraus do gazebo. """"Eu ensinarei tudo o que sei a você para te judar em sua jornada.  Entretanto, vou esclarecer logo que farei isso em troca de uma pequena doação à liga dos cavaeiros aposentados.  1000 ouros é um valor suficiente.""""""
 (+2000 experience for 1000 gold once per hero)
 ""{Gazebo}
 
-You can hear loud snoring coming from the gazebo. Apparently, the League has already put your donation to good use.""
+Você pode ouvir um ronco alto vindo do gazebo.  Ao que parece, a liga já colocou a sua doação para um bom uso.""
 ""{Gazebo}
 
-An old Knight appears on the steps of the gazebo. """"I will teach you all that I know to aid you in your travels. However, I'll let you know a small donation to the Retired Knights' League is required. Come back when you scrape up a thousand gold."""""""
+Um velho cavaleiro aparece nos degraus do gazebo. """"Eu ensinarei tudo o que sei a você para te judar em sua jornada.  Entretanto, vou esclarecer logo que farei isso em troca de uma pequena doação à liga dos cavaeiros aposentados.  Volte quando você tiver 1000 ouros."""""""
 Has FilS: "false"
 Vals count: "4"
 Val 0: "0"
@@ -13449,17 +13449,17 @@ Name: "actobj007"
 Path: ""
 Texts count: "9"
 Text 0: ""
-Text 1: "Junkman"
+Text 1: "Ferro-velho"
 Text 2: "JUNKVIST.wav"
 Text 3: ""
 Text 4: ""
 Text 5: ""
 Text 6: ""
 Text 7: ""
-Text 8: """{Junkman}
+Text 8: """{Ferro-velho}
 
 Visiting text.""
-Do kindly keep the papers. I don't trade in scrap parchment."
+Por favor, fique com isso.  Eu não negocio pergaminhos como sucata."
 Has FilS: "false"
 Vals count: "4"
 Val 0: "0"
@@ -13473,19 +13473,19 @@ Name: "actobj008"
 Path: ""
 Texts count: "9"
 Text 0: ""
-Text 1: "Derrick"
+Text 1: "Perfurador"
 Text 2: "Genie.wav"
 Text 3: ""
 Text 4: ""
 Text 5: ""
 Text 6: ""
 Text 7: ""
-Text 8: """{Derrick}
+Text 8: """{Perfurador}
 
-The drilling foreman rolls out a cart of valuables. """"We managed to sell our yield at a healthy profit. Hope we'll take in at least as much the next time — come for your share in a week.""""""
-""{Derrick}
+O capataz empurra um carrinho cheio de objetos valorosos.  """"Nós conseguimos vender nossa produção por um bom lucro.  Espero que nós consigamos pelo menos o mesmo tanto na próxima vez — volte daqui a uma semana.""""""
+""{Perfurador}
 
-The drilling foreman is very busy. You are able to decipher his muttering as a claim that he has nothing to show yet. You've got to drop by again next week."""
+O capataz está muito ocupado com a perfuração.  Você é capaz de decifrar o resmungo dele como uma alegação de que ele não tem nada para mostrar ainda.  Você tem que voltar de novo na semana que vem."""
 Has FilS: "false"
 Vals count: "4"
 Val 0: "0"
@@ -13527,19 +13527,19 @@ Name: "actobj010"
 Path: ""
 Texts count: "9"
 Text 0: ""
-Text 1: "Prospector"
+Text 1: "Garimpeiro"
 Text 2: "Expernce.wav"
 Text 3: ""
 Text 4: ""
 Text 5: ""
 Text 6: ""
 Text 7: ""
-Text 8: """{Prospector}
+Text 8: """{Garimpeiro}
 
-The tired prospector makes an effort to look tough, but you can see he is afraid of you after all. He is willing to pay you a small sum regularly for the permission to continue mining here.""
-""{Prospector}
+Um garimpeiro cansado faz um esforço pra parecer durão, mas você percebe que na verdade ele tem medo de você.  Ele quer pagar uma pequena quantia regularmente pela sua permissão de poder continuar garimpando aqui.""
+""{Garimpeiro}
 
-The prospector curses the depleted vein, then wails and begs. Obviously, there's nothing else he can do for you this week."""
+O garimpeiro xinga o local já exaurido, depois geme e implora. Obviamente, não há nada que ele possa te oferecer nesta semana."""
 Has FilS: "false"
 Vals count: "4"
 Val 0: "0"
@@ -13553,20 +13553,20 @@ Name: "actobj011"
 Path: ""
 Texts count: "9"
 Text 0: ""
-Text 1: "Trailblazer"
+Text 1: "Pioneiro"
 Text 2: "Store.wav"
 Text 3: ""
 Text 4: ""
 Text 5: ""
 Text 6: ""
 Text 7: ""
-Text 8: """{Trailblazer} 
+Text 8: """{Pioneiro} 
 
-""""I know these wastelands like the back of my hand. Even if I haven't been somewhere, I'll figure out how to find the way. I suppose I could tag along with you for a week if you need a hand,"""" says the man in this tent.""
+""""Eu conheço esta terra inóspita como a palma da minha mão.  Mesmo se eu nunca tiver tido em algum lugar, vou achar um jeito de sair.  Eu suponho que eu possa ir junto contigo por uma semana se você estiver precisando de uma mão,"""" disse o homem da tenda.""
 (Reduces wasteland movement penalty by 50% until the end of the week)
-""{Trailblazer}
+""{Pioneiro}
 
-""""Hey, that's my tent. Better be sure it's not my fault we're running in circles,"""" the trailblazer shrugs."""
+""""Ei, esta é a minha tenda!  Melhor ter certeza de que não é minha culpa estarmos andando em círculos,"""" o pioneiro exclama."""
 Has FilS: "false"
 Vals count: "4"
 Val 0: "0"

@@ -111,7 +111,7 @@ Orc Chefe	Orcs Chefes	0	0	0	0	0	0	165	200	240	7	0	20	5	8	4	2	5	24	0	12	20	Atira.
 Ogro	Ogros	0	0	0	0	0	0	300	520	416	4	0	40	4	13	7	6	12	0	0	10	20		0
 Ogro Mago	Ogros Magos	0	0	0	0	0	0	400	672	672	4	0	60	5	13	7	6	12	0	3	10	16	Conjura raiva.	0
 Roc	Rocs	0	0	0	0	0	0	600	790	1027	3	0	60	7	13	11	11	15	0	0	8	16	Voa.	FLYING_ARMY | DOUBLE_WIDE
-Passáro do Trovão	Pássaros do Trovão	0	0	0	0	0	0	700	869	1106	3	0	60	11	13	11	11	15	0	0	8	12	Voa. Atrai raios.	FLYING_ARMY | DOUBLE_WIDE
+Pássaro do Trovão	Pássaros do Trovão	0	0	0	0	0	0	700	869	1106	3	0	60	11	13	11	11	15	0	0	8	12	Voa. Atrai raios.	FLYING_ARMY | DOUBLE_WIDE
 Ciclope	Ciclopes	0	0	0	0	0	0	750	1055	1266	2	0	70	6	15	12	16	20	16	0	5	12	Atira. Ataca muralhas.	SHOOTING_ARMY | CATAPULT
 Ciclope Rei	Ciclopes Reis	0	0	0	0	0	0	1100	1110	1443	2	0	70	8	17	13	16	20	24	0	5	10	Atira. Ataca muralhas.	SHOOTING_ARMY | CATAPULT
 Beemote	Beemotes	0	0	0	0	0	0	1500	3162	3162	1	0	160	6	17	17	30	50	0	0	4	10	Ignora 40% da defesa do inimigo.	DOUBLE_WIDE | KING_1

@@ -378,12 +378,12 @@ O encarregado da roda d'água anuncia: ""Grande, eu trabalhei muito duro para con
 "{Roda d'água}
 
 O encarregado da roda d'água anuncia: ""Grande, sinto muito em dizer que não há mais ouro aqui.  Por favor, tente de novo semana que vem."""
-"{Nascente}
+"{Lagoa}
 
-Beber da nascente encheu as suas tropas de força e ergueu os seus ânimos.  Você conseguirá viajar um pouco mais longe hoje."
-"{Nascente}
+Beber da lagoa encheu as suas tropas de força e ergueu os seus ânimos.  Você conseguirá viajar um pouco mais longe hoje."
+"{Lagoa}
 
-Beber da nascente é refrescante, mas não tráz mais nenhum benefício.  A nascente poderia te ajudar se você lutasse uma batalha primeiro."
+Beber da lagoa é refrescante, mas não tráz mais nenhum benefício.  A lagoa poderia te ajudar se você lutasse uma batalha primeiro."
 "{Redemoinho}
 
 Um redemoinho engole o seu navio.  Parte da sua tripulação é tragada pelo mar."

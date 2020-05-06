@@ -297,8 +297,8 @@ Radius 10 squares
 There are no editable properties for this object.
 "Continuing will remove this map's underground layer.  Any modifications made to that layer will be lost.
 Do you wish to continue?"
-Random Dwelling %d
-Random %s Dwelling
+Habitação aleatória %d
+Habitação de %s aletória
 Biography
 Map Generation Progress
 Generating map...

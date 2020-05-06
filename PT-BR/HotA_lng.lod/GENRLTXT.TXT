@@ -189,7 +189,7 @@ The %s has an attack skill of %d and does %d-%d damage."
 View arrow tower info.		
 Eu posso trocar %d %s de %s por %d %s de %s.		
 Mercado		
-Trading Post		
+Posto comercial		
 unidades		
 unidade		
 Você conseguiu uma bela barganha!  Eu nem vou ter lucro com esse negócio, foi uma pechincha a preço de custo.  Você tem interesse em algum dos meus outros produtos?		
@@ -460,7 +460,7 @@ Dados da criatura
 Criaturas		
 Feitiços		  
 Catapulta		  
-Tenda médica		
+Tenda Médica		
 Todas as estatísticas		
 Apenas feitiços		
 Ver grade hexagonal		

@@ -14,7 +14,7 @@ Fogueira
 Cartógrafo	
 Lago do cisne	
 Cobertura de escuridão	
-Creature Bank
+Banco de criaturas
 Gerador de criaturas 1
 Gerador de criaturas 2
 Gerador de criaturas 3
@@ -81,7 +81,7 @@ Recurso
 Santuário
 Acadêmico
 Arca marítima
-Seer's Hut
+Cabana do vidente
 Cripta
 Naufrágio
 Náufrago
@@ -97,7 +97,7 @@ Taverna
 Templo
 Toca dos ladrões
 Cidade
-Trading Post
+Posto comercial
 Pedra do aprendizado
 Arca do tesouro
 Árvore do conhecimento
@@ -113,7 +113,7 @@ Redemoinho
 Moinho de vento
 Cabana da bruxa
 Brush
-Arbustos
+Moita
 Cácto
 Cânion
 Cratera
@@ -164,7 +164,7 @@ Monstro aleatório 5
 Monstro aleatório 6
 Monstro aleatório 7
 Brush
-Arbustos
+Moita
 Cácto
 Cânion
 Cratera
@@ -210,17 +210,17 @@ Colina gramada
 Colina rochosa
 Pedras subterrâneas
 Folhagem pantaneira
-Guarda de fronteira
+Portão de fronteira
 Mercado de escravos
 Marcador de herói
-Quest Guard
-Random Dwelling
+Guarda de missão
+Habitação aleatória
 
 
 Guarnição
 Mina
-Trading Post
-Campos de trevos
+Posto comercial
+Campo de trevos
 Território amaldiçoado
 Trevas malditas
 Ventos favoráveis
