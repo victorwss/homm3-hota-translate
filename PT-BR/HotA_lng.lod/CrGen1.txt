@@ -2,7 +2,7 @@ Poço do Basilisco
 Gruta dos Beemotes
 Pilar dos olhos
 Salão das trevas
-Cofre dos dragões
+Túmulo dos dragões
 Campos de treinamento
 Estábulos de centauros
 Altar do ar
@@ -54,7 +54,7 @@ Mausoléu
 Casa dos vampiros
 Templo amaldiçoado
 Cemitério
-Casa dos guardas
+Caserna
 Torre dos arqueiros
 Quartel
 Lanterna mágica

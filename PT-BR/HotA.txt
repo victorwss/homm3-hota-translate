@@ -1160,34 +1160,34 @@ Text 3: ""
 Text 4: ""
 Text 5: ""
 Text 6: ""
-Text 7: "Nymph Waterfall
-Shack
-Frigate
-Nest
-Tower of the Seas
-Nix Fort
-Maelstrom
-Upg. Nymph Waterfall
-Upg. Shack
-Upg. Frigate
-Upg. Nest
-Upg. Tower of the Seas
-Upg. Nix Fort
-Upg. Maelstrom"
-Text 8: "The Nymph Waterfall allows you to recruit Nymphs.
-The Shack allows you to recruit Crew Mates.
-The Frigate allows you to recruit Pirates.
-The Nest allows you to recruit Stormbirds.
-The Tower of the Seas allows you to recruit Sea Witches.
-The Nix Fort allows you to recruit Nix.
-The Maelstrom allows you to recruit Sea Serpents.
-The Upg. Nymph Waterfall allows you to recruit Oceanids.
-The Upg. Shack allows you to recruit Seamen.
-The Upg. Frigate allows you to recruit Corsairs.
-The Upg. Nest allows you to recruit Ayssids.
-The Upg. Tower of the Seas allows you to recruit Sorceresses.
-The Upg. Nix Fort allows you to recruit Nix Warriors.
-The Upg. Maelstrom allows you to recruit Haspids."
+Text 7: "Cachoeira das ninfas
+Barraco
+Fragata
+Ninho
+Torre dos mares
+Forte dos nixes
+Turbilhão
+Upg. Cachoeira das ninfas
+Upg. Barraco
+Upg. Fragata
+Upg. Ninho
+Upg. Torre dos mares
+Upg. Forte dos nixes
+Upg. Turbilhão"
+Text 8: "A cachoeira das ninfas possibilita que você recrute Nymphs.
+O barraco possibilita que você recrute Crew Mates.
+A fragata possibilita que você recrutePirates.
+O ninho possibilita que você recrute Stormbirds.
+A torre dos mares possibilita que você recrute Sea Witches.
+O forte dos nixes possibilita que você recrute Nix.
+O turbilhão possibilita que você recrute Sea Serpents.
+A Upg. cachoeira das ninfas possibilita que você recrute Oceanids.
+O Upg. barraco possibilita que você recrute Seamen.
+A Upg. fragata possibilita que você recrute Corsairs.
+O Upg. ninho possibilita que você recrute Ayssids.
+A Upg. torre dos mares possibilita que você recrute Sorceresses.
+O Upg. forte dos nixes possibilita que você recrute Nix Warriors.
+O Upg. turbilhão possibilita que você recrute Haspids."
 Has FilS: "true"
 FilS size: 392
 FilS: "05 00 00 00 00 00 00 00 05 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 2c 01 00 00 0a 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 e8 03 00 00 0a 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 e8 03 00 00 00 00 00 00 00 00 00 00 05 00 00 00 00 00 00 00 02 00 00 00 02 00 00 00 d0 07 00 00 05 00 00 00 00 00 00 00 05 00 00 00 00 00 00 00 05 00 00 00 00 00 00 00 b8 0b 00 00 05 00 00 00 00 00 00 00 0a 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 a0 0f 00 00 0f 00 00 00 00 00 00 00 0f 00 00 00 0a 00 00 00 00 00 00 00 00 00 00 00 98 3a 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 e8 03 00 00 05 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 e8 03 00 00 05 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 dc 05 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 02 00 00 00 02 00 00 00 dc 05 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 05 00 00 00 00 00 00 00 d0 07 00 00 05 00 00 00 00 00 00 00 05 00 00 00 05 00 00 00 00 00 00 00 00 00 00 00 b8 0b 00 00 0f 00 00 00 00 00 00 00 0f 00 00 00 14 00 00 00 00 00 00 00 00 00 00 00 98 3a 00 00"
@@ -1652,13 +1652,13 @@ mês %d, semana %d, dia %d
 
 O limite de tempo expira no mês %d, semana %d, dia %d""
 #147
-O combate começa
+O combate começa.
 #148
-O combate começa (rodadas restantes: %d)
+O combate começa (rodadas restantes: %d).
 #149
-A rodada %d começa
+A rodada %d começa.
 #150
-A rodada %d começa (rodadas restantes: %d)
+A rodada %d começa (rodadas restantes: %d).
 #151
 ""{Final forçado do combate}
 
@@ -3958,412 +3958,412 @@ Requires the following artifacts to create:
 
 17
 0
-""Basilisk Pit
+""Poço do Basilisco
 Basilisk dwelling.""
 
 17
 1
-""Behemoth Crag
+""Gruta dos Beemotes
 Behemoth dwelling.""
 
 17
 2
-""Pillar of Eyes
+""Pilar dos olhos
 Beholder dwelling.""
 
 17
 3
-""Hall of Darkness
+""Salão das trevas
 Black Knight dwelling.""
 
 17
 4
-""Dragon Vault
+""Túmulo dos dragões
 Bone Dragon dwelling.""
 
 17
 5
-""Training Grounds
+""Campos de treinamento
 Cavalier dwelling.""
 
 17
 6
-""Centaur Stables
+""Estábulos de centauros
 Centaur dwelling.""
 
 17
 7
-""Altar of Air
+""Altar do ar
 Air Elemental dwelling.""
 
 17
 8
-""Portal of Glory
+""Portal da glória
 Angel dwelling.""
 
 17
 9
-""Cyclops Cave
+""Caverna dos ciclopes
 Cyclops dwelling.""
 
 17
 10
-""Forsaken Palace
+""Palácio maldito
 Devil dwelling.""
 
 17
 11
-""Serpent Fly Hive
+""Ninho de cobras
 Serpent Fly dwelling.""
 
 17
 12
-""Dwarf Cottage
+""Chalé dos anões
 Dwarf dwelling.""
 
 17
 13
-""Altar of Earth
+""Altar da terra
 Earth Elemental dwelling.""
 
 17
 14
-""Fire Lake
+""Lago de fogo
 Efreeti dwelling.""
 
 17
 15
-""Homestead
+""Alojamento
 Wood Elf dwelling.""
 
 17
 16
-""Altar of Fire
+""Altar do fogo
 Fire Elemental dwelling.""
 
 17
 17
-""Parapet
+""Parapeito
 Stone Gargoyle dwelling.""
 
 17
 18
-""Altar of Wishes
+""Altar dos desejos
 Genie dwelling.""
 
 17
 19
-""Wolf Pen
+""Matilha
 Wolf Rider dwelling.""
 
 17
 20
-""Gnoll Hut
+""Cabana dos gnolls
 Gnoll dwelling.""
 
 17
 21
-""Goblin Barracks
+""Quartel dos goblins
 Goblin dwelling.""
 
 17
 22
-""Hall of Sins
+""Salão dos pecados
 Gog dwelling.""
 
 17
 23
-""Gorgon Lair
+""Lar do gorgon
 Gorgon dwelling.""
 
 17
 24
-""Dragon Cliffs
+""Penhasco dos dragões
 Green Dragon dwelling.""
 
 17
 25
-""Griffin Tower
+""Torre dos grifos
 Griffin dwelling.""
 
 17
 26
-""Harpy Loft
+""Sótão das harpias
 Harpy dwelling.""
 
 17
 27
-""Kennels
+""Canil
 Hell Hound dwelling.""
 
 17
 28
-""Hydra Pond
+""Poça da hidra
 Hydra dwelling.""
 
 17
 29
-""Imp Crucible
+""Forja de diabretes
 Imp dwelling.""
 
 17
 30
-""Lizard Den
+""Toca dos lagartos
 Lizardman dwelling.""
 
 17
 31
-""Mage Tower
+""Torre dos magos
 Mage dwelling.""
 
 17
 32
-""Manticore Lair
+""Lar das mantícoras
 Manticore dwelling.""
 
 17
 33
-""Chapel of Stilled Voices
+""Capela das vozes
 Medusa dwelling.""
 
 17
 34
-""Labyrinth
+""Labirinto
 Minotaur dwelling.""
 
 17
 35
-""Monastary
+""Mosteiro
 Monk dwelling.""
 
 17
 36
-""Golden Pavilion
+""Pavilhão dourado
 Naga dwelling.""
 
 17
 37
-""Demon Gate
+""Porta dos demônios
 Demon dwelling.""
 
 17
 38
-""Ogre Fort
+""Forte dos ogros
 Ogre dwelling.""
 
 17
 39
-""Orc Tower
+""Torre dos orcs
 Orc dwelling.""
 
 17
 40
-""Hell Hole
+""Buraco do inferno
 Pit Fiend dwelling.""
 
 17
 41
-""Dragon Cave
+""Caverna do dragão
 Red Dragon dwelling.""
 
 17
 42
-""Cliff Nest
+""Ninho no penhasco
 Roc dwelling.""
 
 17
 43
-""Workshop
+""Oficina
 Gremlin dwelling.""
 
 17
 44
-""Cloud Temple
+""Templo das nuvens
 Giant dwelling.""
 
 17
 45
-""Dendroid Arches
+""Arcos dendróides
 Dendroid Guard dwelling.""
 
 17
 46
-""Warren
+""Viveiro
 Troglodyte dwelling.""
 
 17
 47
-""Altar of Water
+""Altar da água
 Water Elemental dwelling.""
 
 17
 48
-""Tomb of Souls
+""Tumba das almas
 Wight dwelling.""
 
 17
 49
-""Wyvern Nest
+""Ninho dos wyverns
 Wyvern dwelling.""
 
 17
 50
-""Enchanted Spring
+""Fonte encantada
 Pegasus dwelling.""
 
 17
 51
-""Unicorn Glade
+""Clareira dos unicórnios
 Unicorn dwelling.""
 
 17
 52
-""Mausoleum
+""Mausoléu
 Lich dwelling.""
 
 17
 53
-""Estate
+""Casa dos vampiros
 Vampire dwelling.""
 
 17
 54
-""Cursed Temple
+""Templo amaldiçoado
 Skeleton dwelling.""
 
 17
 55
-""Graveyard
+""Cemitério
 Walking Dead dwelling.""
 
 17
 56
-""Guardhouse
+""Caserna
 Pikeman dwelling.""
 
 17
 57
-""Archers' Tower
+""Torre dos arqueiros
 Archer dwelling.""
 
 17
 58
-""Barracks
+""Quartel
 Swordsman dwelling.""
 
 17
 59
-""Flower of Life
+""Lanterna mágica
 Pixie Dwelling.""
 
 17
 60
-""Altar of Thought
+""Altar do pensamento
 Psychic Elemental Dwelling.""
 
 17
 61
-""Pyre
+""Pira
 Firebird Dwelling.""
 
 17
 62
-""Frozen Peaks
+""Montanhas congeladas
 Azure Dragon Dwelling.""
 
 17
 63
-""Crystal Cave
+""Caverna de cristal
 Crystal Dragon Dwelling.""
 
 17
 64
-""Magic Forest
+""Floresta mágica
 Faerie Dragon Dwelling.""
 
 17
 65
-""Sulfurous Lair
+""Lar sulfuroso
 Rust Dragon Dwelling.""
 
 17
 66
-""Enchanter’s Hollow
+""Cavidade do encantador
 Enchanter Dwelling.""
 
 17
 67
-""Treetop Tower
+""Casa na árvore
 Sharpshooter Dwelling.""
 
 17
 68
-""Unicorn Glade
+""Clareira dos unicórnios
 Unicorn dwelling.""
 
 17
 69
-""Altar of Air
+""Altar do ar
 Air Elemental dwelling.""
 
 17
 70
-""Altar of Earth
+""Altar da terra
 Earth Elemental dwelling.""
 
 17
 71
-""Altar of Fire
+""Altar do fogo
 Fire Elemental dwelling.""
 
 17
 72
-""Altar of Water
+""Altar da água
 Water Elemental dwelling.""
 
 17
 73
-""Thatched Hut
+""Cabana de palha
 Halfling Dwelling.""
 
 17
 74
-""Hovel
+""Casebre
 Peasant Dwelling.""
 
 17
 75
-""Boar Glen
+""Chiqueiro
 Boar Dwelling.""
 
 17
 76
-""Tomb of Curses
+""Tumba das maldições
 Mummy Dwelling.""
 
 17
 77
-""Nomad Tent
+""Tenda dos nômades
 Nomad Dwelling.""
 
 17
 78
-""Hidden Cavern
+""Caverna dos bandidos
 Rogue Dwelling.""
 
 17
 79
-""Troll Bridge
+""Ponte dos trolls
 Troll Dwelling.""
 
 20
 0
-""Elemental Conflux
+""Confluxo elemental
 Dwelling for Air, Earth, Fire and Water elementals.""
 
 20
 1
-""Golem Factory
+""Fábrica de golens
 Stone, Iron, Gold, and Diamond Golem dwelling.""
 
 33
@@ -5810,62 +5810,62 @@ If Ruins are already visited, shroud is removed anyway.""
 
 17
 91
-""Maelstrom
+""Turbilhão
 Sea Serpent dwelling.""
 
 17
 92
-""Nymph Waterfall
+""Cachoeira das ninfas
 Nymph dwelling.""
 
 17
 93
-""Shack
+""Barraco
 Crew Mate dwelling.""
 
 17
 94
-""Frigate
+""Fragata
 Pirate dwelling.""
 
 17
 95
-""Nest
+""Ninho
 Stormbird dwelling.""
 
 17
 96
-""Tower of the Seas
+""Torre dos mares
 Sea Witch dwelling.""
 
 17
 97
-""Nix Fort
+""Forte dos nixes
 Nix dwelling.""
 
 17
 98
-""Maelstrom
+""Turbilhão
 Sea Serpent dwelling.""
 
 17
 99
-""Nix Fort
+""Forte do nix
 Nix dwelling.""
 
 17
 100
-""Wineyard
+""Adega
 Satyr dwelling.""
 
 17
 101
-""Ziggurat
+""Zigurate
 Fangarm dwelling.""
 
 17
 102
-""Alehouse
+""Cervejaria
 Leprechaun dwelling.""
 
 34
@@ -6296,7 +6296,7 @@ Lose all current movement.""
 
 144
 5
-""Hermit's Shack
+""Cabana do eremita
 Improves a random Secondary Skill of the visiting hero.""
 
 144
@@ -6540,7 +6540,7 @@ Local de combate
 Sepultura"
 Text 8: "# Texts
 # 0 (212, 1001, Grave)
-Esta sepultura é nova.  Até a pá que usaram para cavá-la ainda está aqui.  Você a pega, cobre o seu nariz com um lenço e consegue tirar lgo de valioso de dentro do chão.
+Esta sepultura é nova.  Até a pá que usaram para cavá-la ainda está aqui.  Você a pega, cobre o seu nariz com um lenço e consegue tirar algo de valioso de dentro do chão.
 # 1 (212, 1001, Grave)
 ""
 Abrir sepulturas -3"""
@@ -6678,18 +6678,18 @@ Text 6: ""
 Text 7: "Not Used
 Not Used
 Not Used
-Maelstrom
-Nymph Waterfall
-Shack
-Frigate
-Nest
-Tower of the Seas
-Nix Fort
-Maelstrom
-Nix Fort
-Wineyard
-Ziggurat
-Alehouse"
+Turbilhão
+Cachoeira das ninfas
+Barraco
+Fragata
+Ninho
+Torre dos mares
+Forte dos nixes
+Turbilhão
+Forte dos nixes
+Adega
+Zigurate
+Cervejaria"
 Text 8: "-1 -1 # Not Used
 -1 -1 # Not Used
 -1 -1 # Not Used
@@ -7924,89 +7924,89 @@ Text 3: ""
 Text 4: ""
 Text 5: ""
 Text 6: ""
-Text 7: "Basilisk Pit
-Behemoth Crag
-Pillar of Eyes
-Hall of Darkness
-Dragon Vault
-Training Grounds
-Centaur Stables
-Altar of Air
-Portal of Glory
-Cyclops Cave
-Forsaken Palace
-Serpent Fly Hive
-Dwarf Cottage
-Altar of Earth
-Fire Lake
-Homestead
-Altar of Fire
-Parapet
-Altar of Wishes
-Wolf Pen
-Gnoll Hut
-Goblin Barracks
-Hall of Sins
-Gorgon Lair
-Dragon Cliffs
-Griffin Tower
-Harpy Loft
-Kennels
-Hydra Pond
-Imp Crucible
-Lizard Den
-Mage Tower
-Manticore Lair
-Chapel of Stilled Voices
-Labyrinth
-Monastery
-Golden Pavilion
-Demon Gate
-Ogre Fort
-Orc Tower
-Hell Hole
-Dragon Cave
-Cliff Nest
-Workshop
-Cloud Temple
-Dendroid Arches
-Warren
-Altar of Water
-Tomb of Souls
-Wyvern Nest
-Enchanted Spring
-Unicorn Glade
-Mausoleum
-Estate
-Cursed Temple
-Graveyard
-Guardhouse
-Archers' Tower
+Text 7: "Poço do Basilisco
+Gruta dos Beemotes
+Pilar dos olhos
+Salão das trevas
+Túmulo dos dragões
+Campos de treinamento
+Estábulos de centauros
+Altar do ar
+Portal da glória
+Caverna dos ciclopes
+Palácio maldito
+Ninho de cobras
+Chalé dos anões
+Altar da terra
+Lago de fogo
+Alojamento
+Altar do fogo
+Parapeito
+Altar dos desejos
+Matilha
+Cabana dos gnolls
+Quartel dos goblins
+Salão dos pecados
+Lar do gorgon
+Penhasco dos dragões
+Torre dos grifos
+Sótão das harpias
+Canil
+Poça da hidra
+Forja de diabretes
+Toca dos lagartos
+Torre dos magos
+Lar das mantícoras
+Capela das vozes
+Labirinto
+Mosteiro
+Pavilhão dourado
+Porta dos demônios
+Forte dos ogros
+Torre dos orcs
+Buraco do inferno
+Caverna do dragão
+Ninho no penhasco
+Oficina
+Templo das nuvens
+Arcos dendróides
+Viveiro
+Altar da água
+Tumba das almas
+Ninho dos wyverns
+Fonte encantada
+Clareira dos unicórnios
+Mausoléu
+Casa dos vampiros
+Templo amaldiçoado
+Cemitério
+Caserna
+Torre dos arqueiros
 Barracks
-Magic Lantern
-Altar of Thought
-Pyre
-Frozen Cliffs
-Crystal Cave
-Magic Forest
-Sulfurous Lair
-Enchanter's Hollow
-Treetop Tower
-Unicorn Glade
-Altar of Air
-Altar of Earth
-Altar of Fire
-Altar of Water
-Thatched Hut
-Hovel
-Boar Glen
-Tomb of Curses
-Nomad Tent
-Rogue Cavern
-Troll Bridge
+Lanterna mágica
+Altar do pensamento
+Pira
+Montanhas congeladas
+Caverna de cristal
+Floresta mágica
+Lar sulfuroso
+Cavidade do encantador
+Casa na árvore
+Clareira dos unicórnios
+Altar do ar
+Altar da terra
+Altar do fogo
+Altar da água
+Cabana de palha
+Casebre
+Chiqueiro
+Tumba das maldições
+Tenda dos nômades
+Caverna dos bandidos
+Ponte dos trolls
 "
-Text 8: "Elemental Conflux
-Golem Factory
+Text 8: "Confluxo Elemental
+Fábrica de Golens
 "
 Has FilS: "false"
 Vals count: "4"
@@ -13290,7 +13290,7 @@ Text 4: ""
 Text 5: ""
 Text 6: ""
 Text 7: ""
-Text 8: "Um grnde show está acontecendo no coliseu hoje.  Você entra na arena e conquista a admiração do público com as suas proezas mágicas.  A fome insaciável por conhecimento é o que faz o verdadeiro mago, e com muita gratidão, você aceita o primeiro prêmio, que é um dos mais novos livros cadêmicos de magia.
+Text 8: "Um grande show está acontecendo no coliseu hoje.  Você entra na arena e conquista a admiração do público com as suas proezas mágicas.  A fome insaciável por conhecimento é o que faz o verdadeiro mago.  Com muita gratidão, você aceita o primeiro prêmio, que é um dos mais novos livros acadêmicos de magia.
 (+2 spell power or knowledge once per hero)
 O moderator do coliseu instantaneamente o reconhece e respeitosamente rejeita a sua entrada na área dos competidores.  ""Você provavelmente seria melhor julgando os talentos aqui!"
 Has FilS: "false"

@@ -61,7 +61,7 @@ Precisa de:
 "{Mapa do mundo}
 
 Esta é uma visão mais afastada do mundo.  Clicar em qualquer lugar nesta janela centralizará o mapa em tal local, ou então você pode arrastar o retângulo pontilhado para visualizar a parte correspodente ao mapa."		
-Um ou mais dentre os seus heróis ainda pode se mover, você tem certeza de que quer passar a vez?		
+Um ou mais dentre os seus heróis ainda pode se mover.  Você tem certeza de que quer passar a vez?		
 Para escavar artefatos, é necessário trabalhar o dia todo.  Tente novamente amanhã.		
 O seu herói não tem espaço para carregar mais um artefato!		
 Parabéns! Depois de passar muitas horas cavando aqui, seu herói desenterrou o 		

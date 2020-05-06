@@ -334,16 +334,16 @@ Depois de vasculhar a área, você tropeça num pequeno tesouro escondido.  Você po
 Assim que você se aproximou, a árvore abriu os olhos em deleite.  ""É bom te ver, estudante.  Eu espero que meus ensinamentos tenham te ajudado."""
 "{Árvore do conhecimento}
 
-Assim que você se aproximou, a árvore abriu os olhos em deleite.  ""Ahh, alguém me busca de aventuras!  Deixe-me te ensinar um pouco do que aprendi em muitos anos."""
+Assim que você se aproximou, a árvore abriu os olhos em deleite.  ""Ahh, alguém em busca de aventuras!  Deixe-me te ensinar um pouco do que aprendi em muitos anos."""
 "{Árvore do conhecimento}
 
-Assim que você se aproximou, a árvore abriu os olhos em deleite.  ""Ahh, alguém me busca de aventuras! Eu ficarei contente em te ensinar um pouco do que aprendi em muitos anos pela pequena quantia de 2000 ouros.  Basta enterrar este dinheiro ao redor das minhas raízes."""
+Assim que você se aproximou, a árvore abriu os olhos em deleite.  ""Ahh, alguém em busca de aventuras! Eu ficarei contente em te ensinar um pouco do que aprendi em muitos anos pela pequena quantia de 2000 ouros.  Basta enterrar este dinheiro ao redor das minhas raízes."""
 "{Árvore do conhecimento}
 
 Lágrimas estão a cair dos olhos da árvore.  ""Eu preciso de 2000 ouros."" ela sussurra.  ""Bem, volte quando você puder me pagar."""
 "{Árvore do conhecimento}
 
-Assim que você se aproximou, a árvore abriu os olhos em deleite.  ""Ahh, alguém me busca de aventuras! Eu ficarei contente em te ensinar um pouco do que aprendi em muitos anos pela pequena quantia de 10 gemas.  Basta enterrar este dinheiro ao redor das minhas raízes."""
+Assim que você se aproximou, a árvore abriu os olhos em deleite.  ""Ahh, alguém em busca de aventuras! Eu ficarei contente em te ensinar um pouco do que aprendi em muitos anos pela pequena quantia de 10 gemas.  Basta enterrar este dinheiro ao redor das minhas raízes."""
 "{Árvore do conhecimento}
 
 Lágrimas estão a cair dos olhos da árvore.  ""Eu preciso de 10 gemas."" ela sussurra.  ""Bem, volte quando você puder me pagar."""

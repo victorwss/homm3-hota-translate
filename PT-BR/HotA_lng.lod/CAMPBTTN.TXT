@@ -103,9 +103,9 @@ The Armor of Wonder increases all four primary skills by +1"
 "{Imps}
 
 Your starting hero will begin with 100 additional Imps"
-"{Pillar of Eyes}
+"{Pilar dos olhos}
 
-Your starting town will receive a Pillar of Eyes
+Your starting town will receive a Pilar dos olhos
 (Beholder dwelling)"
 "{Level 1 Mage Guild}
 
