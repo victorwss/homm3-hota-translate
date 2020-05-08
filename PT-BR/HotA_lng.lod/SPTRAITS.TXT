@@ -3,869 +3,869 @@ Name	Abbreviated Name	Level	Earth	Water	Fire	Air	None	Basic	Advanced	Expert	Powe
 																																	
 Adventure Spells																																	
 																																	
-Summon Boat	Summon Boat	1	 	x	 	 	8	7	7	7	0	50	50	75	100	3	5	5	5	3	5	5	3	3	10	10	20	20	"{Summon Boat}
+Chamar barco	Chamar barco	1	 	x	 	 	8	7	7	7	0	50	50	75	100	3	5	5	5	3	5	5	3	3	10	10	20	20	"{Chamar barco}
 
 Summons an existing, neutral or own, unoccupied boat from anywhere in the world to your location.
 
 Chances for success are 50%.
-"	"{Basic Summon Boat}
+"	"{Chamar barco básico}
 
 Summons an existing, neutral or own, unoccupied boat from anywhere in the world to your location.
 
 Chances for success are 50%.
-"	"{Advanced Summon Boat}
+"	"{Chamar barco avançado}
 
 Summons an existing, neutral or own, unoccupied boat from anywhere in the world to your location.  If no such boats exist, one is created.
 
 Chances for success are 75%.
-"	"{Expert Summon Boat}
+"	"{Chamar barco expert}
 
 Summons an existing, neutral or own, unoccupied boat from anywhere in the world to your location.  If no such boats exist, one is created.
 "	 ADV_SPELL
-Scuttle Boat	Scuttle Boat	2	 	x	 	 	8	6	6	6	0	50	50	75	100	6	4	4	4	4	4	4	4	4	1	1	1	1	"{Scuttle Boat}
+Afundar barco	Afundar barco	2	 	x	 	 	8	6	6	6	0	50	50	75	100	6	4	4	4	4	4	4	4	4	1	1	1	1	"{Afundar barco}
 
 Destroys a boat of caster's choice in hero visibility zone.  Use with caution, the effects are permanent.
 
 Chances for success are 50%.
-"	"{Basic Scuttle Boat}
+"	"{Afundar barco básico}
 
 Destroys a boat of caster's choice in hero visibility zone.  Use with caution, the effects are permanent.
 
 Chances for success are 50%.
-"	"{Advanced Scuttle Boat}
+"	"{Afundar barco avançado}
 
 Destroys a boat of caster's choice in hero visibility zone.  Use with caution, the effects are permanent.
 
 Chances for success are 75%.
-"	"{Expert Scuttle Boat}
+"	"{Afundar barco expert}
 
 Destroys a boat of caster's choice in hero visibility zone.  Use with caution, the effects are permanent.
 "	 ADV_SPELL
-Visions	Visions	2	x	x	x	x	4	2	2	2	0	1	1	2	3	2	2	2	4	2	2	2	2	2	1	1	1	1	"{Visions}
+Visões	Visões	2	x	x	x	x	4	2	2	2	0	1	1	2	3	2	2	2	4	2	2	2	2	2	1	1	1	1	"{Visões}
 
 Provides you with exact numbers of wandering monsters and tells you if they would be willing to join your hero, flee or be acquired via Diplomacy skill (exact fee will be revealed). Range is equal to Spell Power or three, whichever is greater. Valid for 1 turn.
-"	"{Basic Visions}
+"	"{Visões básico}
 
 Provides you with exact numbers of wandering monsters and tells you if they would be willing to join your hero, flee or be acquired via Diplomacy skill (exact fee will be revealed). Range is equal to Spell Power or three, whichever is greater. Valid for 1 turn.
-"	"{Advanced Visions}
+"	"{Visões avançado}
 
 Provides you with exact numbers of wandering monsters and tells you if they would be willing to join your hero, flee or be acquired via Diplomacy skill (exact fee will be revealed).  Allows you to view a nearby enemy hero's general statistics, creature type and quantity, as if the hero was part of your kingdom. Range is (Spell Power x 2) or three, whichever is greater. Valid for 1 turn.
-"	"{Expert Visions}
+"	"{Visões expert}
 
 Provides you with exact numbers of wandering monsters and tells you if they would be willing to join your hero, flee or be acquired via Diplomacy skill (exact fee will be revealed).  Allows you to view a nearby enemy hero's general statistics, creature type and quantity, as if the hero was part of your kingdom, as well as a nearby town's statistics, garrison creatures and quantity. Range is (Spell Power x 3) or three, whichever is greater. Valid for 1 turn.
 "	 ADV_SPELL
-View Earth	View Earth	1	x				2	1	1	1	0	0	0	0	0	3	3	3	3	3	3	3	3	3	1	1	1	1	"{View Earth}
+Ver terra	Ver terra	1	x				2	1	1	1	0	0	0	0	0	3	3	3	3	3	3	3	3	3	1	1	1	1	"{Ver terra}
 
 Reveals the location of all resources to the caster.
-"	"{Basic View Earth}
+"	"{Ver terra básico}
 
 Reveals the location of all resources to the caster.
-"	"{Advanced View Earth}
+"	"{Ver terra avançado}
 
 Reveals the location of all resources and mines to the caster.
-"	"{Expert View Earth}
+"	"{Ver terra expert}
 
 Reveals the location of all resources and mines and reveals all terrain to the caster.
 "	 ADV_SPELL
-Disguise	Disguise	2	 	 	 	x	4	2	2	2	0	0	0	0	0	2	2	2	4	2	2	2	0	2	1	1	1	1	"{Disguise}
+Disfarce	Disfarce	2	 	 	 	x	4	2	2	2	0	0	0	0	0	2	2	2	4	2	2	2	0	2	1	1	1	1	"{Disfarce}
 
 Makes all units in your hero army look like your most powerful unit to enemies trying to view your hero for 1 turn.  Numbers in each group are unchanged.
-"	"{Basic Disguise}
+"	"{Disfarce básico}
 
 Makes all units in your hero army look like your most powerful unit to enemies trying to view your hero for 1 turn.  Numbers in each group are unchanged.
-"	"{Advanced Disguise}
+"	"{Disfarce avançado}
 
 Makes all units in your hero army look like your most powerful unit to enemies trying to view your hero for 1 turn.  Numbers in each group appear as zero.
-"	"{Expert Disguise}
+"	"{Disfarce expert}
 
 Makes all units in your hero army look like the most powerful unit affiliated to player starting town to enemies trying to view your hero for 1 turn.  Numbers in each group appear as zero.
 "	 ADV_SPELL
-View Air	View Air	1				x	2	1	1	1	0	0	0	0	0	3	3	3	3	3	3	3	3	3	1	1	1	1	"{View Air}
+Ver ar	Ver ar	1				x	2	1	1	1	0	0	0	0	0	3	3	3	3	3	3	3	3	3	1	1	1	1	"{Ver ar}
 
 Reveals the location of all unclaimed artifacts to the caster.
-"	"{Basic View Air}
+"	"{Ver ar básico}
 
 Reveals the location of all unclaimed artifacts to the caster.
-"	"{Advanced View Air}
+"	"{Ver ar avançado}
 
 Reveals the location of all unclaimed artifacts, plus enemy heroes to the caster.
-"	"{Expert View Air}
+"	"{Ver ar expert}
 
 Reveals the location of all unclaimed artifacts, plus enemy heroes and all towns to the caster.
 "	 ADV_SPELL
-Fly	Fly	5	 	 	 	x	20	15	15	15	0	60	60	80	100	0	16	16	16	16	12	0	0	13	30	30	40	50	"{Fly}
+Voar	Voar	5	 	 	 	x	20	15	15	15	0	60	60	80	100	0	16	16	16	16	12	0	0	13	30	30	40	50	"{Voar}
 
 Allows your army to fly over obstacles and rough terrain with 40% penalty to movement cost. Valid for 1 turn. You must land at the end of the turn.
-"	"{Basic Fly}
+"	"{Voar básico}
 
 Allows your army to fly over obstacles and rough terrain with 40% penalty to movement cost. Valid for 1 turn. You must land at the end of the turn.
-"	"{Advanced Fly}
+"	"{Voar avançado}
 
 Allows your army to fly over obstacles and rough terrain with 20% penalty to movement cost. Valid for 1 turn. You must land at the end of the turn.
-"	"{Expert Fly}
+"	"{Voar expert}
 
 Allows your army to fly over obstacles and rough terrain without any penalty. Valid for 1 turn. You must land at the end of the turn.
 "	 ADV_SPELL
-Water Walk	Water Walk	4	 	x	 	 	12	8	8	8	0	60	60	80	100	10	10	10	10	10	10	0	0	10	15	15	20	25	"{Water Walk}
+Andar sobre a água	Andar sobre a água	4	 	x	 	 	12	8	8	8	0	60	60	80	100	10	10	10	10	10	10	0	0	10	15	15	20	25	"{Andar sobre a água}
 
 Allows your army to walk across bodies of water with 40% penalty to movement cost. Valid for 1 turn. You must end your movement on dry land.
-"	"{Basic Water Walk}
+"	"{Andar sobre a água básico}
 
 Allows your army to walk across bodies of water with 40% penalty to movement cost. Valid for 1 turn. You must end your movement on dry land.
-"	"{Advanced Water Walk}
+"	"{Andar sobre a água avançado}
 
 Allows your army to walk across bodies of water with 20% penalty to movement cost. Valid for 1 turn. You must end your movement on dry land.
-"	"{Expert Water Walk}
+"	"{Andar sobre a água expert}
 
 Allows your army to walk across bodies of water without any penalty. Valid for 1 turn. You must end your movement on dry land.
 "	 ADV_SPELL
-Dimension Door	Dimension Door	5	 	 	 	x	25	20	20	20	0	1	2	3	4	0	20	14	16	16	16	0	0	13	30	30	40	50	"{Dimension Door}
+Portal dimensional	Portal dimensional	5	 	 	 	x	25	20	20	20	0	1	2	3	4	0	20	14	16	16	16	0	0	13	30	30	40	50	"{Portal dimensional}
 
 Once per day (for each hero), you may teleport your hero to an unoccupied location on the adventure map in hero visibility zone. This spends 300 movement points.
-"	"{Basic Dimension Door}
+"	"{Portal dimensional básico}
 
 Twice per day (for each hero), you may teleport your hero to an unoccupied location on the adventure map in hero visibility zone. This spends 300 movement points.
-"	"{Advanced Dimension Door}
+"	"{Portal dimensional avançado}
 
 Three times per day (for each hero), you may teleport your hero to an unoccupied location on the adventure map in hero visibility zone. This spends 300 movement points.
-"	"{Expert Dimension Door}
+"	"{Portal dimensional expert}
 
 Four times per day (for each hero), you may teleport your hero to an unoccupied location on the adventure map in hero visibility zone. This spends 200 movement points.
 "	 ADV_SPELL
-Town Portal	Town Portal	4	x	 	 	 	16	12	12	12	0	0	0	0	0	10	10	10	10	10	10	0	0	10	5	5	70	70	"{Town Portal}
+Portão para a cidade	Portão para a cidade	4	x	 	 	 	16	12	12	12	0	0	0	0	0	10	10	10	10	10	10	0	0	10	5	5	70	70	"{Portão para a cidade}
 
 Teleports your hero to the nearest friendly town. Requires 300 movement points. The town must be unoccupied.
-"	"{Basic Town Portal}
+"	"{Portão para a cidade básico}
 
 Teleports your hero to the nearest friendly town. Requires 300 movement points. The town must be unoccupied.
-"	"{Advanced Town Portal}
+"	"{Portão para a cidade avançado}
 
 Teleports your hero to any chosen friendly town. Requires 300 movement points. The town must be unoccupied.
-"	"{Expert Town Portal}
+"	"{Portão para a cidade expert}
 
 Teleports your hero to any chosen friendly town. Requires 200 movement points. The town must be unoccupied.
 "	 ADV_SPELL
 																																	
 Combat Spells																																	
 																																	
-Quicksand	Quicksand	2	x	 	 	 	8	6	6	6	0	0	0	0	0	4	4	6	4	4	4	6	6	4	1	1	1	1	"{Quicksand}
+Areia movediça	Areia movediça	2	x	 	 	 	8	6	6	6	0	0	0	0	0	4	4	6	4	4	4	6	6	4	1	1	1	1	"{Areia movediça}
 
-Randomly places four small patches of quicksand on the battlefield which are only visible to the caster and creatures native to the terrain.  Walking into quicksand ends a non-flying unit's movement for the turn and makes quicksand visible to all. Quicksand duration is unlimited.
-"	"{Basic Quicksand}
+Randomly places four small patches of quicksand on the battlefield which are only visible to the caster and creatures native to the terrain.  Walking into quicksand ends a non-flying unit's movement for the turn and makes quicksand visible to all. Areia movediça duration is unlimited.
+"	"{Areia movediça básico}
 
-Randomly places four small patches of quicksand on the battlefield which are only visible to the caster and creatures native to the terrain.  Walking into quicksand ends a non-flying unit's movement for the turn and makes quicksand visible to all. Quicksand duration is unlimited.
-"	"{Advanced Quicksand}
+Randomly places four small patches of quicksand on the battlefield which are only visible to the caster and creatures native to the terrain.  Walking into quicksand ends a non-flying unit's movement for the turn and makes quicksand visible to all. Areia movediça duration is unlimited.
+"	"{Areia movediça avançado}
 
-Randomly places six small patches of quicksand on the battlefield which are only visible to the caster and creatures native to the terrain.  Walking into quicksand ends a non-flying unit's movement for the turn and makes quicksand visible to all. Quicksand duration is unlimited.
-"	"{Expert Quicksand}
+Randomly places six small patches of quicksand on the battlefield which are only visible to the caster and creatures native to the terrain.  Walking into quicksand ends a non-flying unit's movement for the turn and makes quicksand visible to all. Areia movediça duration is unlimited.
+"	"{Areia movediça expert}
 
-Randomly places eight small patches of quicksand on the battlefield which are only visible to the caster and creatures native to the terrain.  Walking into quicksand ends a non-flying unit's movement for the turn and makes quicksand visible to all. Quicksand duration is unlimited.
+Randomly places eight small patches of quicksand on the battlefield which are only visible to the caster and creatures native to the terrain.  Walking into quicksand ends a non-flying unit's movement for the turn and makes quicksand visible to all. Areia movediça duration is unlimited.
 "	 COMBAT_SPELL|LOCATION_TARGET
-Land Mine	Land Mine	3	 	 	x	 	18	15	15	15	10	25	25	50	100	8	8	8	6	8	12	8	2	4	1	1	1	1	"{Land Mine}
+Minas terrestres	Minas terrestres	3	 	 	x	 	18	15	15	15	10	25	25	50	100	8	8	8	6	8	12	8	2	4	1	1	1	1	"{Minas terrestres}
 
 Randomly places four small areas of landmines on the battlefield which are only visible to the caster and creatures native to the terrain.  It inflicts (Spell Power x 10 + 25) damage to any unit walking over it, which doesn’t see it, and disappears. Otherwise landmine duration is unlimited.
-"	"{Basic Land Mine}
+"	"{Minas terrestres básico}
 
 Randomly places four small areas of landmines on the battlefield which are only visible to the caster and creatures native to the terrain.  It inflicts (Spell Power x 10 + 25) damage to any unit walking over it, which doesn’t see it, and disappears. Otherwise landmine duration is unlimited.
-"	"{Advanced Land Mine}
+"	"{Minas terrestres avançado}
 
 Randomly places six small areas of landmines on the battlefield which are only visible to the caster and creatures native to the terrain.  It inflicts (Spell Power x 10 + 50) damage to any unit walking over it, which doesn’t see it, and disappears. Otherwise landmine duration is unlimited.
-"	"{Expert Land Mine}
+"	"{Minas terrestres expert}
 
 Randomly places eight small areas of landmines on the battlefield which are only visible to the caster and creatures native to the terrain.  It inflicts (Spell Power x 10 + 100) damage to any unit walking over it, which doesn’t see it, and disappears. Otherwise landmine duration is unlimited.
 "	 COMBAT_SPELL|LOCATION_TARGET
-Force Field	Force Field	3	x	 	 	 	12	9	9	9	0	0	0	0	0	4	4	8	2	8	8	4	4	8	1	1	1	1	"{Force Field}
+Campo de força	Campo de força	3	x	 	 	 	12	9	9	9	0	0	0	0	0	4	4	8	2	8	8	4	4	8	1	1	1	1	"{Campo de força}
 
-Places a 2-hex Force Field on the battlefield at a point specified by the caster for 2 rounds. Movement through these hexes is blocked.
-"	"{Basic Force Field}
+Places a 2-hex Campo de força on the battlefield at a point specified by the caster for 2 rounds. Movement through these hexes is blocked.
+"	"{Campo de força básico}
 
-Places a 2-hex Force Field on the battlefield at a point specified by the caster for 2 rounds. Movement through these hexes is blocked.
-"	"{Advanced Force Field}
+Places a 2-hex Campo de força on the battlefield at a point specified by the caster for 2 rounds. Movement through these hexes is blocked.
+"	"{Campo de força avançado}
 
-Places a 3-hex Force Field on the battlefield at a point specified by the caster for 2 rounds. Movement through these hexes is blocked.
-"	"{Expert Force Field}
+Places a 3-hex Campo de força on the battlefield at a point specified by the caster for 2 rounds. Movement through these hexes is blocked.
+"	"{Campo de força expert}
 
-Places a 3-hex Force Field on the battlefield at a point specified by the caster for 2 rounds. Movement through these hexes is blocked.
+Places a 3-hex Campo de força on the battlefield at a point specified by the caster for 2 rounds. Movement through these hexes is blocked.
 "	 COMBAT_SPELL|LOCATION_TARGET
-Fire Wall	Fire Wall	2	 	 	x	 	8	6	6	6	10	10	10	20	50	4	4	4	12	4	4	4	4	8	1	1	1	1	"{Fire Wall}
+Parede de fogo	Parede de fogo	2	 	 	x	 	8	6	6	6	10	10	10	20	50	4	4	4	12	4	4	4	4	8	1	1	1	1	"{Parede de fogo}
 
 Places a 2-hex wildfire on the battlefield at a point specified by the caster for 2 rounds. Any units passing through the wall take (Spell Power x 10 + 10) damage.
-"	"{Basic Fire Wall}
+"	"{Parede de fogo básico}
 
 Places a 2-hex wildfire on the battlefield at a point specified by the caster for 2 rounds.  Any units passing through the wall take (Spell Power x 10 + 10) damage.
-"	"{Advanced Fire Wall}
+"	"{Parede de fogo avançado}
 
 Places a 3-hex wildfire on the battlefield at a point specified by the caster for 2 rounds.  Any units passing through the wall take (Spell Power x 10 + 20) damage.
-"	"{Expert Fire Wall}
+"	"{Parede de fogo expert}
 
 Places a 3-hex wildfire on the battlefield at a point specified by the caster for 2 rounds.  Any units passing through the wall take (Spell Power x 10 + 50) damage.
 "	 COMBAT_SPELL|LOCATION_TARGET
-Earthquake	Earthquake	3	x	 	 	 	20	17	17	17	1	2	2	3	4	4	8	4	6	4	4	4	50	4	1	1	1	1	"{Earthquake}
+Terremoto	Terremoto	3	x	 	 	 	20	17	17	17	1	2	2	3	4	4	8	4	6	4	4	4	50	4	1	1	1	1	"{Terremoto}
 
 Randomly damages two sections of castle wall, gate or tower in combat.
-"	"{Basic Earthquake}
+"	"{Terremoto básico}
 
 Randomly damages two sections of castle wall, gate or tower in combat.
-"	"{Advanced Earthquake}
+"	"{Terremoto avançado}
 
 Randomly damages three sections of castle wall, gate or tower in combat.
-"	"{Expert Earthquake}
+"	"{Terremoto expert}
 
 Randomly damages four sections of castle wall, gate or tower in combat.
 "	 COMBAT_SPELL
-Magic Arrow	Magic Arrow	1	x	x	x	x	5	4	4	4	10	10	10	20	30	30	30	30	30	30	30	30	30	30	10	10	10	10	"{Magic Arrow}
+Flecha mágica	Flecha mágica	1	x	x	x	x	5	4	4	4	10	10	10	20	30	30	30	30	30	30	30	30	30	30	10	10	10	10	"{Flecha mágica}
 
 Causes a bolt of magical energy to strike the selected enemy unit. Inflicts (Spell Power x 10 + 10) damage.
-"	"{Basic Magic Arrow}
+"	"{Flecha mágica básico}
 
 Causes a bolt of magical energy to strike the selected enemy unit. Inflicts (Spell Power x 10 + 10) damage.
-"	"{Advanced Magic Arrow}
+"	"{Flecha mágica avançado}
 
 Causes a bolt of magical energy to strike the selected enemy unit. Inflicts (Spell Power x 10 + 20) damage.
-"	"{Expert Magic Arrow}
+"	"{Flecha mágica expert}
 
 Causes a bolt of magical energy to strike the selected enemy unit. Inflicts (Spell Power x 10 + 30) damage.
 "	 COMBAT_SPELL|CREATURE_TARGET
-Ice Bolt	Ice Bolt	2	 	x	 	 	8	6	6	6	20	10	10	20	50	50	50	6	0	6	6	4	50	25	20	20	20	20	"{Ice Bolt}
+Flecha de gelo	Flecha de gelo	2	 	x	 	 	8	6	6	6	20	10	10	20	50	50	50	6	0	6	6	4	50	25	20	20	20	20	"{Flecha de gelo}
 
 Ice drains the body heat from the selected enemy unit. Inflicts (Spell Power x 20 + 10) damage.
-"	"{Basic Ice Bolt}
+"	"{Flecha de gelo básico}
 
 Ice drains the body heat from the selected enemy unit. Inflicts (Spell Power x 20 + 10) damage.
-"	"{Advanced Ice Bolt}
+"	"{Flecha de gelo avançado}
 
 Ice drains the body heat from the selected enemy unit. Inflicts (Spell Power x 20 + 20) damage.
-"	"{Expert Ice Bolt}
+"	"{Flecha de gelo expert}
 
 Ice drains the body heat from the selected enemy unit. Inflicts (Spell Power x 20 + 50) damage.
 "	 COMBAT_SPELL|CREATURE_TARGET
-Lightning Bolt	Lightning Bolt	2	 	 	 	x	10	8	8	8	25	10	10	20	50	4	4	50	20	6	50	50	4	25	25	25	25	25	"{Lightning Bolt}
+Relâmpago	Relâmpago	2	 	 	 	x	10	8	8	8	25	10	10	20	50	4	4	50	20	6	50	50	4	25	25	25	25	25	"{Relâmpago}
 
 Causes a bolt of lightning to strike the selected enemy unit. It takes (Spell Power x 25 + 10) damage.
-"	"{Basic Lightning Bolt}
+"	"{Relâmpago básico}
 
 Causes a bolt of lightning to strike the selected enemy unit. It takes (Spell Power x 25 + 10) damage.
-"	"{Advanced Lightning Bolt}
+"	"{Relâmpago avançado}
 
 Causes a bolt of lightning to strike the selected enemy unit. It takes (Spell Power x 25 + 20) damage.
-"	"{Expert Lightning Bolt}
+"	"{Relâmpago expert}
 
 Causes a bolt of lightning to strike the selected enemy unit. It takes (Spell Power x 25 + 50) damage.
 "	 COMBAT_SPELL|CREATURE_TARGET
-Implosion	Implosion	5	x	 	 	 	30	25	25	25	75	100	100	200	300	0	16	14	16	20	12	0	0	13	75	75	75	75	"{Implosion}
+Implosão	Implosão	5	x	 	 	 	30	25	25	25	75	100	100	200	300	0	16	14	16	20	12	0	0	13	75	75	75	75	"{Implosão}
 
 Inflicts (Spell Power x 75 + 100) damage to a single enemy creature stack. Does not affect War Machines.
-"	"{Basic Implosion}
+"	"{Implosão básico}
 
 Inflicts (Spell Power x 75 + 100) damage to a single enemy creature stack. Does not affect War Machines.
-"	"{Advanced Implosion}
+"	"{Implosão avançado}
 
 Inflicts (Spell Power x 75 + 200) damage to a single enemy creature stack. Does not affect War Machines.
-"	"{Expert Implosion}
+"	"{Implosão expert}
 
 Inflicts (Spell Power x 75 + 300) damage to a single enemy creature stack. Does not affect War Machines.
 "	 COMBAT_SPELL|CREATURE_TARGET
-Chain Lightning	Chain Lightning	4	 	 	 	x	24	20	20	20	40	25	25	50	100	10	10	10	10	10	10	0	0	10	75	75	75	75	"{Chain Lightning}
+Raio em cadeia	Raio em cadeia	4	 	 	 	x	24	20	20	20	40	25	25	50	100	10	10	10	10	10	10	0	0	10	75	75	75	75	"{Raio em cadeia}
 
 Fires a bolt of lightning at the selected enemy unit for (Spell Power x 40 + 25) damage which then travels to the nearest adjacent unit, inflicting half damage before traveling to the next adjacent unit, again inflicting half of previous target damage, etc.  Strikes four units.
-"	"{Basic Chain Lightning}
+"	"{Raio em cadeia básico}
 
 Fires a bolt of lightning at the selected enemy unit for (Spell Power x 40 + 25) damage which then travels to the nearest adjacent unit, inflicting half damage before traveling to the next adjacent unit, again inflicting half of previous target damage, etc.  Strikes four units.
-"	"{Advanced Chain Lightning}
+"	"{Raio em cadeia avançado}
 
 Fires a bolt of lightning at the selected enemy unit for (Spell Power x 40 + 50) damage which then travels to the nearest adjacent unit, inflicting half damage before traveling to the next adjacent unit, again inflicting half of previous target damage, etc.  Strikes five units.
-"	"{Expert Chain Lightning}
+"	"{Raio em cadeia expert}
 
 Fires a bolt of lightning at the selected enemy unit for (Spell Power x 40 + 100) damage which then travels to the nearest adjacent unit, inflicting half damage before traveling to the next adjacent unit, again inflicting half of previous target damage, etc.  Strikes five units.
 "	 COMBAT_SPELL|CREATURE_TARGET
-Frost Ring	Frost Ring	3	 	x	 	 	12	9	9	9	10	15	15	30	60	16	16	16	0	12	12	12	4	12	12	12	12	12	"{Frost Ring}
+Anel de gelo	Anel de gelo	3	 	x	 	 	12	9	9	9	10	15	15	30	60	16	16	16	0	12	12	12	4	12	12	12	12	12	"{Anel de gelo}
 
 Ice drains the body heat of any units adjacent to the target location. Each unit takes (Spell Power x 10 + 15) damage. Target hex is unaffected.
-"	"{Basic Frost Ring}
+"	"{Anel de gelo básico}
 
 Ice drains the body heat of any units adjacent to the target location. Each unit takes (Spell Power x 10 + 15) damage. Target hex is unaffected.
-"	"{Advanced Frost Ring}
+"	"{Anel de gelo avançado}
 
 Ice drains the body heat of any units adjacent to the target location. Each unit takes (Spell Power x 10 + 30) damage. Target hex is unaffected.
-"	"{Expert Frost Ring}
+"	"{Anel de gelo expert}
 
 Ice drains the body heat of any units adjacent to the target location. Each unit takes (Spell Power x 10 + 60) damage. Target hex is unaffected.
 "	 COMBAT_SPELL|LOCATION_TARGET
-Fireball	Fireball	3	 	 	x	 	15	12	12	12	10	15	15	30	60	8	8	8	50	12	16	12	2	12	15	15	15	15	"{Fireball}
+Bola de fogo	Bola de fogo	3	 	 	x	 	15	12	12	12	10	15	15	30	60	8	8	8	50	12	16	12	2	12	15	15	15	15	"{Bola de fogo}
 
 Causes the selected target to burst into flames, inflicting (Spell Power x 10 + 15) fire damage to the target and any units adjacent to target location.
-"	"{Basic Fireball}
+"	"{Bola de fogo básico}
 
 Causes the selected target to burst into flames, inflicting (Spell Power x 10 + 15) fire damage to the target and any units adjacent to target location.
-"	"{Advanced Fireball}
+"	"{Bola de fogo avançado}
 
 Causes the selected target to burst into flames, inflicting (Spell Power x 10 + 30) fire damage to the target and any units adjacent to target location.
-"	"{Expert Fireball}
+"	"{Bola de fogo expert}
 
 Causes the selected target to burst into flames, inflicting (Spell Power x 10 + 60) fire damage to the target and any units adjacent to target location.
 "	 COMBAT_SPELL|LOCATION_TARGET
 Inferno	Inferno	4	 	 	x	 	16	12	12	12	10	20	20	40	80	5	5	5	10	5	5	0	0	10	20	20	20	20	"{Inferno}
 
 Causes a huge blast of fire to strike the selected target and any units 1 and 2 hexes away from target location. Each unit takes (Spell Power x 10 + 20) damage.  Don't be near this when it goes off!
-"	"{Basic Inferno}
+"	"{Inferno básico}
 
 Causes a huge blast of fire to strike the selected target and any units 1 and 2 hexes away from target location. Each unit takes (Spell Power x 10 + 20) damage.  Don't be near this when it goes off!
-"	"{Advanced Inferno}
+"	"{Inferno avançado}
 
 Causes a huge blast of fire to strike the selected target and any units 1 and 2 hexes away from target location. Each unit takes (Spell Power x 10 + 40) damage.  Don't be near this when it goes off!
-"	"{Expert Inferno}
+"	"{Inferno expert}
 
 Causes a huge blast of fire to strike the selected target and any units 1 and 2 hexes away from target location. Each unit takes (Spell Power x 10 + 80) damage.  Don't be near this when it goes off!
 "	 COMBAT_SPELL|LOCATION_TARGET
-Meteor Shower	Meteor Shower	4	x	 	 	 	16	12	12	12	25	25	25	50	100	10	10	10	10	10	10	0	0	10	37	37	37	37	"{Meteor Shower}
+Chuva de meteoros	Chuva de meteoros	4	x	 	 	 	16	12	12	12	25	25	25	50	100	10	10	10	10	10	10	0	0	10	37	37	37	37	"{Chuva de meteoros}
 
 Causes a meteor shower to rain down on the selected target and any units adjacent to target location. Each unit takes (Spell Power x 25 + 25) damage.
-"	"{Basic Meteor Shower}
+"	"{Chuva de meteoros básico}
 
 Causes a meteor shower to rain down on the selected target and any units adjacent to target location. Each unit takes (Spell Power x 25 + 25) damage.
-"	"{Advanced Meteor Shower}
+"	"{Chuva de meteoros avançado}
 
 Causes a meteor shower to rain down on the selected target and any units adjacent to target location. Each unit takes (Spell Power x 25 + 50) damage.
-"	"{Expert Meteor Shower}
+"	"{Chuva de meteoros expert}
 
 Causes a meteor shower to rain down on the selected target and any units adjacent to target location. Each unit takes (Spell Power x 25 + 100) damage.
 "	 COMBAT_SPELL|LOCATION_TARGET
-Death Ripple	Death Ripple	2	x	 	 	 	10	8	8	8	5	10	10	20	30	0	0	0	0	50	0	0	0	0	20	20	20	20	"{Death Ripple}
+Onda da morte	Onda da morte	2	x	 	 	 	10	8	8	8	5	10	10	20	30	0	0	0	0	50	0	0	0	0	20	20	20	20	"{Onda da morte}
 
 Sends a wave of death across the battlefield which damages all units except undead and War Mañhines for (Spell Power x 5 + 10) hit points.
-"	"{Basic Death Ripple}
+"	"{Onda da morte básico}
 
 Sends a wave of death across the battlefield which damages all units except undead and War Mañhines for (Spell Power x 5 + 10) hit points.
-"	"{Advanced Death Ripple}
+"	"{Onda da morte avançado}
 
 Sends a wave of death across the battlefield which damages all units except undead and War Mañhines for (Spell Power x 5 + 20) hit points.
-"	"{Expert Death Ripple}
+"	"{Onda da morte expert}
 
 Sends a wave of death across the battlefield which damages all units except undead and War Mañhines for (Spell Power x 5 + 30) hit points.
 "	 COMBAT_SPELL
-Destroy Undead	Destroy Undead	3	 	 	 	x	15	12	12	12	10	10	10	20	50	12	8	8	2	0	4	4	2	4	40	40	40	40	"{Destroy Undead}
+Destruir mortos-vivos	Destruir mortos-vivos	3	 	 	 	x	15	12	12	12	10	10	10	20	50	12	8	8	2	0	4	4	2	4	40	40	40	40	"{Destruir mortos-vivos}
 
 Attempts to destroy any undead creatures on the battlefield. Each undead unit takes (Spell Power x 10 + 10) damage.
-"	"{Basic Destroy Undead}
+"	"{Destruir mortos-vivos básico}
 
 Attempts to destroy any undead creatures on the battlefield. Each undead unit takes (Spell Power x 10 + 10) damage.
-"	"{Advanced Destroy Undead}
+"	"{Destruir mortos-vivos avançado}
 
 Attempts to destroy any undead creatures on the battlefield. Each undead unit takes (Spell Power x 10 + 20) damage.
-"	"{Expert Destroy Undead}
+"	"{Destruir mortos-vivos expert}
 
 Attempts to destroy any undead creatures on the battlefield. Each undead unit takes (Spell Power x 10 + 50) damage.
 "	 COMBAT_SPELL
-Armageddon	Armageddon	4	 	 	x	 	24	20	20	20	40	30	30	60	120	0	0	0	5	5	10	0	0	0	100	100	100	100	"{Armageddon}
+Armagedom	Armagedom	4	 	 	x	 	24	20	20	20	40	30	30	60	120	0	0	0	5	5	10	0	0	0	100	100	100	100	"{Armagedom}
 
 Rains fire down upon the battlefield, damaging all units for (Spell Power x 40 + 30) hit points.
-"	"{Basic Armageddon}
+"	"{Armagedom básico}
 
 Rains fire down upon the battlefield, damaging all units for (Spell Power x 40 + 30) hit points.
-"	"{Advanced Armageddon}
+"	"{Armagedom avançado}
 
 Rains fire down upon the battlefield, damaging all units for (Spell Power x 40 + 60) hit points.
-"	"{Expert Armageddon}
+"	"{Armagedom expert}
 
 Rains fire down upon the battlefield, damaging all units for (Spell Power x 40 + 120) hit points.
 "	 COMBAT_SPELL
-Shield	Shield	1	x	 	 	 	5	4	4	4	0	85	85	70	70	10	3	5	3	10	5	5	5	5	10	10	20	20	"{Shield}
+Escudo	Escudo	1	x	 	 	 	5	4	4	4	0	85	85	70	70	10	3	5	3	10	5	5	5	5	10	10	20	20	"{Escudo}
 
 Shields a selected friendly unit, reducing the amount of damage received from hand-to-hand attacks by 15%. Spell is active for number of rounds equal to hero Spell Power.
-"	"{Basic Shield}
+"	"{Escudo básico}
 
 Shields a selected friendly unit, reducing the amount of damage received from hand-to-hand attacks by 15%. Spell is active for number of rounds equal to hero Spell Power.
-"	"{Advanced Shield}
+"	"{Escudo avançado}
 
 Shields a selected friendly unit, reducing the amount of damage received from hand-to-hand attacks by 30%. Spell is active for number of rounds equal to hero Spell Power.
-"	"{Expert Shield}
+"	"{Escudo expert}
 
 Shields all friendly units, reducing the amount of damage received from hand-to-hand attacks by 30%. Spell is active for number of rounds equal to hero Spell Power.
 "	 COMBAT_SPELL|CREATURE_TARGET_2
-Air Shield	Air Shield	3	 	 	 	x	12	9	9	9	0	75	75	50	50	4	8	8	2	4	4	8	4	4	20	20	50	50	"{Air Shield}
+Escudo de ar	Escudo de ar	3	 	 	 	x	12	9	9	9	0	75	75	50	50	4	8	8	2	4	4	8	4	4	20	20	50	50	"{Escudo de ar}
 
 Shields a selected friendly unit, reducing the amount of damage received from ranged attacks by 25%. Spell is active for number of rounds equal to hero Spell Power.
-"	"{Basic Air Shield}
+"	"{Escudo de ar básico}
 
 Shields a selected friendly unit, reducing the amount of damage received from ranged attacks by 25%. Spell is active for number of rounds equal to hero Spell Power.
-"	"{Advanced Air Shield}
+"	"{Escudo de ar avançado}
 
 Shields a selected friendly unit, reducing the amount of damage received from ranged attacks by 50%. Spell is active for number of rounds equal to hero Spell Power.
-"	"{Expert Air Shield}
+"	"{Escudo de ar expert}
 
 Shields all friendly units, reducing the amount of damage received from ranged attacks by 50%. Spell is active for number of rounds equal to hero Spell Power.
 "	 COMBAT_SPELL|CREATURE_TARGET_2
-Fire Shield	Fire Shield	4	 	 	x	 	16	12	12	12	0	20	20	25	30	5	5	5	5	5	5	0	0	5	10	10	12	15	"{Fire Shield}
+Escudo de fogo	Escudo de fogo	4	 	 	x	 	16	12	12	12	0	20	20	25	30	5	5	5	5	5	5	0	0	5	10	10	12	15	"{Escudo de fogo}
 
 Cast on a friendly unit, it does not provide any additional protection, but any enemy making hand-by-hand attack through the fire shield will suffer damage equal to 20% of what it inflicts. Spell is active for number of rounds equal to hero Spell Power.
-"	"{Basic Fire Shield}
+"	"{Escudo de fogo básico}
 
 Cast on a friendly unit, it does not provide any additional protection, but any enemy making hand-by-hand attack through the fire shield will suffer damage equal to 20% of what it inflicts. Spell is active for number of rounds equal to hero Spell Power.
-"	"{Advanced Fire Shield}
+"	"{Escudo de fogo avançado}
 
 Cast on a friendly unit, it does not provide any additional protection, but any enemy making hand-by-hand attack through the fire shield will suffer damage equal to 25% of what it inflicts. Spell is active for number of rounds equal to hero Spell Power.
-"	"{Expert Fire Shield}
+"	"{Escudo de fogo expert}
 
 Cast on a friendly unit, it does not provide any additional protection, but any enemy making hand-by-hand attack through the fire shield will suffer damage equal to 30% of what it inflicts. Spell is active for number of rounds equal to hero Spell Power.
 "	 COMBAT_SPELL|CREATURE_TARGET
-Protection from Air	Prot. from Air	2		 	 	x	7	5	5	5	0	50	50	25	25	2	2	2	4	2	2	2	2	2	2	2	4	4	"{Protection from Air}
+Proteção do ar	Proteção do ar	2		 	 	x	7	5	5	5	0	50	50	25	25	2	2	2	4	2	2	2	2	2	2	2	4	4	"{Proteção do ar}
 
 Protects the selected friendly unit, reducing damage received from Air spells by 50%. Spell is active for number of rounds equal to hero Spell Power.
-"	"{Basic Protection from Air}
+"	"{Proteção do ar básico}
 
 Protects the selected friendly unit, reducing damage received from Air spells by 50%. Spell is active for number of rounds equal to hero Spell Power.
-"	"{Advanced Protection from Air}
+"	"{Proteção do ar avançado}
 
 Protects the selected friendly unit, reducing damage received from Air spells by 75%. Spell is active for number of rounds equal to hero Spell Power.
-"	"{Expert Protection from Air}
+"	"{Proteção do ar expert}
 
 Protects all friendly units, reducing damage received from Air spells by 75%. Spell is active for number of rounds equal to hero Spell Power.
 "	 COMBAT_SPELL|CREATURE_TARGET_2
-Protection from Fire	Prot. from Fire	1	 		x	 	5	4	4	4	0	50	50	25	25	3	3	3	3	3	3	3	3	3	2	2	4	4	"{Protection from Fire}
+Proteção do fogo	Proteção do fogo	1	 		x	 	5	4	4	4	0	50	50	25	25	3	3	3	3	3	3	3	3	3	2	2	4	4	"{Proteção do fogo}
 
 Protects the selected friendly unit, reducing damage received from Fire spells by 50%. Spell is active for number of rounds equal to hero Spell Power.
-"	"{Basic Protection from Fire}
+"	"{Proteção do fogo básico}
 
 Protects the selected friendly unit, reducing damage received from Fire spells by 50%. Spell is active for number of rounds equal to hero Spell Power.
-"	"{Advanced Protection from Fire}
+"	"{Proteção do fogo avançado}
 
 Protects the selected friendly unit, reducing damage received from Fire spells by 75%. Spell is active for number of rounds equal to hero Spell Power.
-"	"{Expert Protection from Fire}
+"	"{Proteção do fogo expert}
 
 Protects all friendly units, reducing damage received from Fire spells by 75%. Spell is active for number of rounds equal to hero Spell Power.
 "	 COMBAT_SPELL|CREATURE_TARGET_2
-Prot. from Water	Prot. from Water	1	 	x		 	5	4	4	4	0	50	50	25	25	3	3	3	3	3	3	3	3	3	2	2	4	4	"{Protection from Water}
+Proteção da água	Proteção da água	1	 	x		 	5	4	4	4	0	50	50	25	25	3	3	3	3	3	3	3	3	3	2	2	4	4	"{Proteção da água}
 
 Protects the selected friendly unit, reducing damage received from Water spells by 50%. Spell is active for number of rounds equal to hero Spell Power.
-"	"{Basic Protection from Water}
+"	"{Proteção da água básico}
 
 Protects the selected friendly unit, reducing damage received from Water spells by 50%. Spell is active for number of rounds equal to hero Spell Power.
-"	"{Advanced Protection from Water}
+"	"{Proteção da água avançado}
 
 Protects the selected friendly unit, reducing damage received from Water spells by 75%. Spell is active for number of rounds equal to hero Spell Power.
-"	"{Expert Protection from Water}
+"	"{Proteção da água expert}
 
 Protects all friendly units, reducing damage received from Water spells by 75%. Spell is active for number of rounds equal to hero Spell Power.
 "	 COMBAT_SPELL|CREATURE_TARGET_2
-Prot. from Earth	Prot. from Earth	3	x	 	 		12	9	9	9	0	50	50	25	25	4	4	4	2	4	4	4	0	4	2	2	4	4	"{Protection from Earth}
+Proteção da terra	Proteção da terra	3	x	 	 		12	9	9	9	0	50	50	25	25	4	4	4	2	4	4	4	0	4	2	2	4	4	"{Proteção da terra}
 
 Protects the selected friendly unit, reducing damage received from Earth spells by 50%. Spell is active for number of rounds equal to hero Spell Power.
-"	"{Basic Protection from Earth}
+"	"{Proteção da terra básico}
 
 Protects the selected friendly unit, reducing damage received from Earth spells by 50%. Spell is active for number of rounds equal to hero Spell Power.
-"	"{Advanced Protection from Earth}
+"	"{Proteção da terra avançado}
 
 Protects the selected friendly unit, reducing damage received from Earth spells by 75%. Spell is active for number of rounds equal to hero Spell Power.
-"	"{Expert Protection from Earth}
+"	"{Proteção da terra expert}
 
 Protects all friendly units, reducing damage received from Earth spells by 75%. Spell is active for number of rounds equal to hero Spell Power.
 "	 COMBAT_SPELL|CREATURE_TARGET_2
-Anti-Magic	Anti-Magic	3	x	 	 	 	15	12	12	12	0	4	4	5	6	12	8	8	4	8	8	12	10	12	10	10	15	20	"{Anti-magic}
+Anti-mágica	Anti-mágica	3	x	 	 	 	15	12	12	12	0	4	4	5	6	12	8	8	4	8	8	12	10	12	10	10	15	20	"{Anti-mágica}
 
-Protects the selected friendly unit from all 1-3 level spells except Dispel. Removes negative spells level 1-3 except Disrupting Ray. Does not affect duplicates created with Clone spell. Spell is active for number of rounds equal to hero Spell Power.
-"	"{Basic Anti-magic}
+Protects the selected friendly unit from all 1-3 level spells except Desenfeitiçar. Removes negative spells level 1-3 except Raio perturbador. Does not affect duplicates created with Clone spell. Spell is active for number of rounds equal to hero Spell Power.
+"	"{Anti-mágica básico}
 
-Protects the selected friendly unit from all 1-3 level spells except Dispel. Removes negative spells level 1-3 except Disrupting Ray. Does not affect duplicates created with Clone spell. Spell is active for number of rounds equal to hero Spell Power.
-"	"{Advanced Anti-magic}
+Protects the selected friendly unit from all 1-3 level spells except Desenfeitiçar. Removes negative spells level 1-3 except Raio perturbador. Does not affect duplicates created with Clone spell. Spell is active for number of rounds equal to hero Spell Power.
+"	"{Anti-mágica avançado}
 
-Protects the selected friendly unit from all 1-4 level spells except Dispel. Removes negative spells level 1-4 except Disrupting Ray. Does not affect duplicates created with Clone spell. Spell is active for number of rounds equal to hero Spell Power.
-"	"{Expert Anti-magic}
+Protects the selected friendly unit from all 1-4 level spells except Desenfeitiçar. Removes negative spells level 1-4 except Raio perturbador. Does not affect duplicates created with Clone spell. Spell is active for number of rounds equal to hero Spell Power.
+"	"{Anti-mágica expert}
 
-Protects the selected friendly unit from all spells except Dispel. Removes all negative spells except Disrupting Ray. Does not affect duplicates created with Clone spell. Spell is active for number of rounds equal to hero Spell Power.
+Protects the selected friendly unit from all spells except Desenfeitiçar. Removes all negative spells except Raio perturbador. Does not affect duplicates created with Clone spell. Spell is active for number of rounds equal to hero Spell Power.
 "	 COMBAT_SPELL|CREATURE_TARGET
-Dispel	Dispel	1	 	x	 	 	5	4	4	4	0	0	0	0	0	10	10	10	10	10	10	10	10	10	3	3	3	3	"{Dispel}
+Desenfeitiçar	Desenfeitiçar	1	 	x	 	 	5	4	4	4	0	0	0	0	0	10	10	10	10	10	10	10	10	10	3	3	3	3	"{Desenfeitiçar}
 
-Removes all spells and effects except Disrupting Ray and poison from a friendly unit. Ignores target creature natural immunities to magic.
-"	"{Basic Dispel}
+Removes all spells and effects except Raio perturbador and poison from a friendly unit. Ignores target creature natural immunities to magic.
+"	"{Desenfeitiçar básico}
 
-Removes all spells and effects except Disrupting Ray and poison from a friendly unit. Ignores target creature natural immunities to magic.
-"	"{Advanced Dispel}
+Removes all spells and effects except Raio perturbador and poison from a friendly unit. Ignores target creature natural immunities to magic.
+"	"{Desenfeitiçar avançado}
 
-Removes all spells and effects except Disrupting Ray and poison from a friendly or hostile unit. Ignores target creature chances to resist a spell and natural immunities.
-"	"{Expert Dispel}
+Removes all spells and effects except Raio perturbador and poison from a friendly or hostile unit. Ignores target creature chances to resist a spell and natural immunities.
+"	"{Desenfeitiçar expert}
 
-Removes all spells and effects except Disrupting Ray and poison from all units on the battlefield and destroys all magic obstacles. Ignores target creature chances to resist a spell and natural immunities.
+Removes all spells and effects except Raio perturbador and poison from all units on the battlefield and destroys all magic obstacles. Ignores target creature chances to resist a spell and natural immunities.
 "	 COMBAT_SPELL|CREATURE_TARGET_1
-Magic Mirror	Magic Mirror	5	 	 	 	x	25	20	20	20	0	20	20	30	40	0	16	14	0	0	12	0	0	13	12	12	18	24	"{Magic Mirror}
+Espelho mágico	Espelho mágico	5	 	 	 	x	25	20	20	20	0	20	20	30	40	0	16	14	0	0	12	0	0	13	12	12	18	24	"{Espelho mágico}
 
 Reflects hostile spells from selected friendly unit towards a random enemy creature 20% of the time. Protects from Hypnotize spell. Spell is active for number of rounds equal to hero Spell Power.
-"	"{Basic Magic Mirror}
+"	"{Espelho mágico básico}
 
 Reflects hostile spells from selected friendly unit towards a random enemy creature 20% of the time. Protects from Hypnotize spell. Spell is active for number of rounds equal to hero Spell Power.
-"	"{Advanced Magic Mirror}
+"	"{Espelho mágico avançado}
 
 Reflects hostile spells from selected friendly unit towards a random enemy creature 30% of the time. Protects from Hypnotize spell. Spell is active for number of rounds equal to hero Spell Power.
-"	"{Expert Magic Mirror}
+"	"{Espelho mágico expert}
 
 Reflects hostile spells from selected friendly unit towards a random enemy creature 40% of the time. Protects from Hypnotize spell. Spell is active for number of rounds equal to hero Spell Power.
 "	 COMBAT_SPELL|CREATURE_TARGET
-Cure	Cure	1	 	x	 	 	6	5	5	5	5	10	10	20	30	10	10	5	5	0	5	5	10	5	4	4	4	4	"{Cure}
+Cura	Cura	1	 	x	 	 	6	5	5	5	5	10	10	20	30	10	10	5	5	0	5	5	10	5	4	4	4	4	"{Cura}
 
-Removes all negative spells and effects except Disrupting Ray and dendroid binding and heals (Spell Power x 5 + 10) hit points on the selected friendly unit. Restores health decremented with poison.
-"	"{Basic Cure}
+Removes all negative spells and effects except Raio perturbador and dendroid binding and heals (Spell Power x 5 + 10) hit points on the selected friendly unit. Restores health decremented with poison.
+"	"{Cura básico}
 
-Removes all negative spells and effects except Disrupting Ray and dendroid binding and heals (Spell Power x 5 + 10) hit points on the selected friendly unit. Restores health decremented with poison.
-"	"{Advanced Cure}
+Removes all negative spells and effects except Raio perturbador and dendroid binding and heals (Spell Power x 5 + 10) hit points on the selected friendly unit. Restores health decremented with poison.
+"	"{Cura avançado}
 
-Removes all negative spells and effects except Disrupting Ray and dendroid binding and heals (Spell Power x 5 + 20) hit points on the selected friendly unit. Restores health decremented with poison.
-"	"{Expert Cure}
+Removes all negative spells and effects except Raio perturbador and dendroid binding and heals (Spell Power x 5 + 20) hit points on the selected friendly unit. Restores health decremented with poison.
+"	"{Cura expert}
 
 Removes all negative spells and effects except Disrupting Ray and dendroid binding and heals (Spell Power x 5 + 30) hit points on all friendly units. Restores health decremented with poison.
 "	 COMBAT_SPELL|CREATURE_TARGET_1
-Resurrection	Resurrection	4	x	 	 	 	20	16	16	16	50	40	40	80	160	10	10	10	10	10	10	0	0	5	50	50	60	120	"{Resurrection}
+Resurreição	Resurreição	4	x	 	 	 	20	16	16	16	50	40	40	80	160	10	10	10	10	10	10	0	0	5	50	50	60	120	"{Resurreição}
 
 Resurrects units in the selected friendly group of living creatures until the end of the battle by restoring (Spell Power x 50 + 40) hit points to the target.
-"	"{Basic Resurrection}
+"	"{Resurreição básico}
 
 Resurrects units in the selected friendly group of living creatures until the end of the battle by restoring (Spell Power x 50 + 40) hit points to the target.
-"	"{Advanced Resurrection}
+"	"{Resurreição avançado}
 
 Resurrects units in the selected friendly group of living creatures permanently by restoring (Spell Power x 50 + 80) hit points to the target.
-"	"{Expert Resurrection}
+"	"{Resurreição expert}
 
 Resurrects units in the selected friendly group of living creatures permanently by restoring (Spell Power x 50 + 160) hit points to the target.
 "	 COMBAT_SPELL|CREATURE_TARGET
-Animate Dead	Animate Dead	3	x	 	 	 	15	12	12	12	50	30	30	60	160	0	0	0	0	16	0	0	0	0	60	60	60	120	"{Animate Dead}
+Animar mortos	Animar mortos	3	x	 	 	 	15	12	12	12	50	30	30	60	160	0	0	0	0	16	0	0	0	0	60	60	60	120	"{Animar mortos}
 
 Re-animates any destroyed undead in the selected friendly group by restoring (Spell Power x 50 + 30) hit points to the target.
-"	"{Basic Animate Dead}
+"	"{Animar mortos básico}
 
 Re-animates any destroyed undead in the selected friendly group by restoring (Spell Power x 50 + 30) hit points to the target.
-"	"{Advanced Animate Dead}
+"	"{Animar mortos avançado}
 
 Re-animates any destroyed undead in the selected friendly group by restoring (Spell Power x 50 + 60) hit points to the target.
-"	"{Expert Animate Dead}
+"	"{Animar mortos expert}
 
 Re-animates any destroyed undead in the selected friendly group by restoring (Spell Power x 50 + 160) hit points to the target.
 "	 COMBAT_SPELL|CREATURE_TARGET
-Sacrifice	Sacrifice	5	 	 	x	 	25	20	20	20	1	3	3	6	10	0	0	0	20	16	12	0	0	0	1	1	1	1	"{Sacrifice}
+Sacrifício	Sacrifício	5	 	 	x	 	25	20	20	20	1	3	3	6	10	0	0	0	20	16	12	0	0	0	1	1	1	1	"{Sacrifício}
 
 Permanently destroys a friendly living creature group in order to resurrect another friendly living creature group.  Resurrection power is ((Spell Power + Sacrificed Troop's Creature Base Health + 3) x Number of Creatures Sacrificed) hit points.
-"	"{Basic Sacrifice}
+"	"{Sacrifício básico}
 
 Permanently destroys a friendly living creature group in order to resurrect another friendly living creature group.  Resurrection power is ((Spell Power + Sacrificed Troop's Creature Base Health + 3) x Number of Creatures Sacrificed) hit points.
-"	"{Advanced Sacrifice}
+"	"{Sacrifício avançado}
 
 Permanently destroys a friendly living creature group in order to resurrect another friendly living creature group.  Resurrection power is ((Spell Power + Sacrificed Troop's Creature Base Health + 6) x Number of Creatures Sacrificed) hit points.
-"	"{Expert Sacrifice}
+"	"{Sacrifício expert}
 
 Permanently destroys a friendly living creature group in order to resurrect another friendly living creature group.  Resurrection power is ((Spell Power + Sacrificed Troop's Creature Base Health + 10) x Number of Creatures Sacrificed) hit points.
 "	 COMBAT_SPELL|CREATURE_TARGET
-Bless	Bless	1	 	x	 	 	5	4	4	4	0	0	0	1	1	10	5	5	0	0	3	3	5	5	10	10	11	11	"{Bless}
+Benção	Benção	1	 	x	 	 	5	4	4	4	0	0	0	1	1	10	5	5	0	0	3	3	5	5	10	10	11	11	"{Benção}
 
 Causes the selected friendly unit to inflict maximum damage in combat. Removes Curse effect. Does not affect undead. Spell is active for number of rounds equal to hero Spell Power.
-"	"{Basic Bless}
+"	"{Benção básico}
 
 Causes the selected friendly unit to inflict maximum damage in combat. Removes Curse effect. Does not affect undead. Spell is active for number of rounds equal to hero Spell Power.
-"	"{Advanced Bless}
+"	"{Benção avançado}
 
 Causes the selected friendly unit to inflict damage, greater than their normal maximum damage in combat by 1. Removes Curse effect. Does not affect undead. Spell is active for number of rounds equal to hero Spell Power.
-"	"{Expert Bless}
+"	"{Benção expert}
 
 Causes all friendly units to inflict damage, greater than their normal maximum damage in combat by 1. Removes Curse effect. Does not affect undead. Spell is active for number of rounds equal to hero Spell Power.
 "	 COMBAT_SPELL|CREATURE_TARGET_2
-Curse	Curse	1	 		x	 	6	5	5	5	0	0	0	1	1	0	0	3	5	10	5	0	0	0	10	10	11	11	"{Curse}
+Maldição	Maldição	1	 		x	 	6	5	5	5	0	0	0	1	1	0	0	3	5	10	5	0	0	0	10	10	11	11	"{Maldição}
 
 Causes the selected enemy unit to inflict minimum damage in combat. Removes Bless effect. Does not affect undead. Spell is active for number of rounds equal to hero Spell Power.
-"	"{Basic Curse}
+"	"{Maldição básico}
 
 Causes the selected enemy unit to inflict minimum damage in combat. Removes Bless effect. Does not affect undead. Spell is active for number of rounds equal to hero Spell Power.
-"	"{Advanced Curse}
+"	"{Maldição avançado}
 
 Causes the selected enemy unit to inflict damage, less than their normal minimum damage in combat by 1. Removes Bless effect. Does not affect undead. Spell is active for number of rounds equal to hero Spell Power.
-"	"{Expert Curse}
+"	"{Maldição expert}
 
 Causes all enemy units to inflict damage, less than their normal minimum damage in combat by 1. Removes Bless effect. Does not affect undead. Spell is active for number of rounds equal to hero Spell Power.
 "	 COMBAT_SPELL|CREATURE_TARGET_2
-Bloodlust	Bloodlust	1	 	 	x	 	5	4	4	4	0	3	3	6	6	0	0	0	10	5	5	10	5	5	7	7	15	15	"{Bloodlust}
+Sede de sangue	Sede de sangue	1	 	 	x	 	5	4	4	4	0	3	3	6	6	0	0	0	10	5	5	10	5	5	7	7	15	15	"{Sede de sangue}
 
 Increases the hand-to-hand attack strength of the selected friendly unit by 3. Spell is active for number of rounds equal to hero Spell Power.
-"	"{Basic Bloodlust}
+"	"{Sede de sangue básico}
 
 Increases the hand-to-hand attack strength of the selected friendly unit by 3. Spell is active for number of rounds equal to hero Spell Power.
-"	"{Advanced Bloodlust}
+"	"{Sede de sangue avançado}
 
 Increases the hand-to-hand attack strength of the selected friendly unit by 6. Spell is active for number of rounds equal to hero Spell Power.
-"	"{Expert Bloodlust}
+"	"{Sede de sangue expert}
 
 Increases the hand-to-hand attack strength of all friendly units by 6. Spell is active for number of rounds equal to hero Spell Power.
 "	 COMBAT_SPELL|CREATURE_TARGET_2
-Precision	Precision	2	 	 	 	x	8	6	6	6	0	3	3	6	6	6	6	4	8	2	6	4	4	2	7	7	15	15	"{Precision}
+Precisão	Precisão	2	 	 	 	x	8	6	6	6	0	3	3	6	6	6	6	4	8	2	6	4	4	2	7	7	15	15	"{Precisão}
 
 Increases the attack strength of the selected friendly unit ranged attack by 3. Spell is active for number of rounds equal to hero Spell Power.
-"	"{Basic Precision}
+"	"{Precisão básico}
 
 Increases the attack strength of the selected friendly unit ranged attack by 3. Spell is active for number of rounds equal to hero Spell Power.
-"	"{Advanced Precision}
+"	"{Precisão avançado}
 
 Increases the attack strength of the selected friendly unit ranged attack by 6. Spell is active for number of rounds equal to hero Spell Power.
-"	"{Expert Precision}
+"	"{Precisão expert}
 
 Increases the attack strength of any friendly units ranged attack by 6. Spell is active for number of rounds equal to hero Spell Power.
 "	 COMBAT_SPELL|CREATURE_TARGET_2
-Weakness	Weakness	2	 	x	 	 	8	6	6	6	0	3	3	6	6	2	2	2	8	4	4	4	4	4	7	7	15	15	"{Weakness}
+Fraqueza	Fraqueza	2	 	x	 	 	8	6	6	6	0	3	3	6	6	2	2	2	8	4	4	4	4	4	7	7	15	15	"{Fraqueza}
 
 Reduces the selected enemy unit's attack strength by 3. Spell is active for number of rounds equal to hero Spell Power.
-"	"{Basic Weakness}
+"	"{Fraqueza básico}
 
 Reduces the selected enemy unit's attack strength by 3. Spell is active for number of rounds equal to hero Spell Power.
-"	"{Advanced Weakness}
+"	"{Fraqueza avançado}
 
 Reduces the selected enemy unit's attack strength by 6. Spell is active for number of rounds equal to hero Spell Power.
-"	"{Expert Weakness}
+"	"{Fraqueza expert}
 
 Reduces the attack strength of all enemy units by 6. Spell is active for number of rounds equal to hero Spell Power.
 "	 COMBAT_SPELL|CREATURE_TARGET_2
-Stone Skin	Stone Skin	1	x	 	 	 	5	4	4	4	0	3	3	6	6	5	5	10	5	10	5	10	5	5	7	7	15	15	"{Stone Skin}
+Pele de pedra	Pele de pedra	1	x	 	 	 	5	4	4	4	0	3	3	6	6	5	5	10	5	10	5	10	5	5	7	7	15	15	"{Pele de pedra}
 
 Increases the selected friendly unit's defense strength by 3. Spell is active for number of rounds equal to hero Spell Power.
-"	"{Basic Stone Skin}
+"	"{Pele de pedra básico}
 
 Increases the selected friendly unit's defense strength by 3. Spell is active for number of rounds equal to hero Spell Power.
-"	"{Advanced Stone Skin}
+"	"{Pele de pedra avançado}
 
 Increases the selected friendly unit's defense strength by 6. Spell is active for number of rounds equal to hero Spell Power.
-"	"{Expert Stone Skin}
+"	"{Pele de pedra expert}
 
 Increases the defense strength of all friendly units by 6. Spell is active for number of rounds equal to hero Spell Power.
 "	 COMBAT_SPELL|CREATURE_TARGET_2
-Disrupting Ray	Disrupting Ray	2	 	 	 	x	10	8	8	8	0	3	3	4	5	6	4	6	12	4	6	6	6	8	7	7	15	15	"{Disrupting Ray}
+Raio perturbador	Raio perturbador	2	 	 	 	x	10	8	8	8	0	3	3	4	5	6	4	6	12	4	6	6	6	8	7	7	15	15	"{Raio perturbador}
 
-Reduces the selected enemy unit's defense strength by 3.  A single enemy may be targeted multiple times by this spell. Undispellable. The effect persists through death and resurrection of a unit. Disrupting Ray duration is unlimited.
-"	"{Basic Disrupting Ray}
+Reduces the selected enemy unit's defense strength by 3.  A single enemy may be targeted multiple times by this spell. Undispellable. The effect persists through death and resurrection of a unit. Raio perturbador duration is unlimited.
+"	"{Raio perturbador básico}
 
-Reduces the selected enemy unit's defense strength by 3.  A single enemy may be targeted multiple times by this spell. Undispellable. The effect persists through death and resurrection of a unit. Disrupting Ray duration is unlimited.
-"	"{Advanced Disrupting Ray}
+Reduces the selected enemy unit's defense strength by 3.  A single enemy may be targeted multiple times by this spell. Undispellable. The effect persists through death and resurrection of a unit. Raio perturbador duration is unlimited.
+"	"{Raio perturbador avançado}
 
-Reduces the selected enemy unit's defense strength by 4.  A single enemy may be targeted multiple times by this spell. Undispellable. The effect persists through death and resurrection of a unit. Disrupting Ray duration is unlimited.
-"	"{Expert Disrupting Ray}
+Reduces the selected enemy unit's defense strength by 4.  A single enemy may be targeted multiple times by this spell. Undispellable. The effect persists through death and resurrection of a unit. Raio perturbador duration is unlimited.
+"	"{Raio perturbador expert}
 
-Reduces the selected enemy unit's defense strength by 5.  A single enemy may be targeted multiple times by this spell. Undispellable. The effect persists through death and resurrection of a unit. Disrupting Ray duration is unlimited.
+Reduces the selected enemy unit's defense strength by 5.  A single enemy may be targeted multiple times by this spell. Undispellable. The effect persists through death and resurrection of a unit. Raio perturbador duration is unlimited.
 "	 COMBAT_SPELL|CREATURE_TARGET_2
-Prayer	Prayer	4	 	x	 	 	16	12	12	12	0	2	2	4	4	10	5	5	0	0	0	0	0	5	8	8	16	16	"{Prayer}
+Oração	Oração	4	 	x	 	 	16	12	12	12	0	2	2	4	4	10	5	5	0	0	0	0	0	5	8	8	16	16	"{Oração}
 
 Bestows a +2 bonus to the attack strength, defense strength and speed of the selected friendly unit. Spell is active for number of rounds equal to hero Spell Power.
-"	"{Basic Prayer}
+"	"{Oração básico}
 
 Bestows a +2 bonus to the attack strength, defense strength and speed of the selected friendly unit. Spell is active for number of rounds equal to hero Spell Power.
-"	"{Advanced Prayer}
+"	"{Oração avançado}
 
 Bestows a +4 bonus to the attack strength, defense strength and speed of the selected friendly unit. Spell is active for number of rounds equal to hero Spell Power.
-"	"{Expert Prayer}
+"	"{Oração expert}
 
 Bestows a +4 bonus to the attack strength, defense strength and speed of all friendly units. Spell is active for number of rounds equal to hero Spell Power.
 "	 COMBAT_SPELL|CREATURE_TARGET_2
-Mirth	Mirth	3	 	x	 	 	12	9	9	9	0	1	1	2	2	4	4	4	2	4	4	12	2	4	1	1	2	2	"{Mirth}
+Alegria	Alegria	3	 	x	 	 	12	9	9	9	0	1	1	2	2	4	4	4	2	4	4	12	2	4	1	1	2	2	"{Alegria}
 
 Mind spell. Increases the selected friendly unit's morale by 1. Spell is active for number of rounds equal to hero Spell Power.
-"	"{Basic Mirth}
+"	"{Alegria básico}
 
 Mind spell. Increases the selected friendly unit's morale by 1. Spell is active for number of rounds equal to hero Spell Power.
-"	"{Advanced Mirth}
+"	"{Alegria avançado}
 
 Mind spell. Increases the selected friendly unit's morale by 2. Spell is active for number of rounds equal to hero Spell Power.
-"	"{Expert Mirth}
+"	"{Alegria expert}
 
 Mind spell. Increases the morale of all friendly units by 2. Spell is active for number of rounds equal to hero Spell Power.
 "	 COMBAT_SPELL|CREATURE_TARGET_2|MIND_SPELL
-Sorrow	Sorrow	4	x	 	 	 	16	12	12	12	0	1	1	2	2	5	5	5	5	5	5	0	0	5	1	1	2	2	"{Sorrow}
+Tristeza	Tristeza	4	x	 	 	 	16	12	12	12	0	1	1	2	2	5	5	5	5	5	5	0	0	5	1	1	2	2	"{Tristeza}
 
 Mind spell. Reduces the morale of the selected enemy unit by 1. Spell is active for number of rounds equal to hero Spell Power.
-"	"{Basic Sorrow}
+"	"{Tristeza básico}
 
 Mind spell. Reduces the morale of the selected enemy unit by 1. Spell is active for number of rounds equal to hero Spell Power.
-"	"{Advanced Sorrow}
+"	"{Tristeza avançado}
 
 Mind spell. Reduces the morale of the selected enemy unit by 2. Spell is active for number of rounds equal to hero Spell Power.
-"	"{Expert Sorrow}
+"	"{Tristeza expert}
 
 Mind spell. Reduces the morale of all enemy units by 2. Spell is active for number of rounds equal to hero Spell Power.
 "	 COMBAT_SPELL|CREATURE_TARGET_2|MIND_SPELL
-Fortune	Fortune	2	 	 	 	x	7	5	5	5	0	1	1	2	2	4	6	4	4	2	2	4	4	2	1	1	2	2	"{Fortune}
+Sorte	Sorte	2	 	 	 	x	7	5	5	5	0	1	1	2	2	4	6	4	4	2	2	4	4	2	1	1	2	2	"{Sorte}
 
 Increases the selected friendly unit's luck by 1. Spell is active for number of rounds equal to hero Spell Power.
-"	"{Basic Fortune}
+"	"{Sorte básico}
 
 Increases the selected friendly unit's luck by 1. Spell is active for number of rounds equal to hero Spell Power.
-"	"{Advanced Fortune}
+"	"{Sorte avançado}
 
 Increases the selected friendly unit's luck by 2. Spell is active for number of rounds equal to hero Spell Power.
-"	"{Expert Fortune}
+"	"{Sorte expert}
 
 Increases the luck of all friendly units by 2. Spell is active for number of rounds equal to hero Spell Power.
 "	 COMBAT_SPELL|CREATURE_TARGET_2
-Misfortune	Misfortune	3	 	 	x	 	12	9	9	9	0	1	1	2	2	4	4	4	6	8	4	4	2	4	1	1	2	2	"{Misfortune}
+Azar	Azar	3	 	 	x	 	12	9	9	9	0	1	1	2	2	4	4	4	6	8	4	4	2	4	1	1	2	2	"{Azar}
 
 Reduces the luck of the selected enemy unit by 1. Spell is active for number of rounds equal to hero Spell Power.
-"	"{Basic Misfortune}
+"	"{Azar básico}
 
 Reduces the luck of the selected enemy unit by 1. Spell is active for number of rounds equal to hero Spell Power.
-"	"{Advanced Misfortune}
+"	"{Azar avançado}
 
 Reduces the luck of the selected enemy unit by 2. Spell is active for number of rounds equal to hero Spell Power.
-"	"{Expert Misfortune}
+"	"{Azar expert}
 
 Reduces the luck of all enemy units by 2. Spell is active for number of rounds equal to hero Spell Power.
 "	 COMBAT_SPELL|CREATURE_TARGET_2
-Haste	Haste	1		 	 	x	6	5	5	5	0	3	3	5	5	5	10	5	5	5	10	5	10	10	5	5	10	10	"{Haste}
+Pressa	Pressa	1		 	 	x	6	5	5	5	0	3	3	5	5	5	10	5	5	5	10	5	10	10	5	5	10	10	"{Pressa}
 
 Increases the speed of the selected friendly unit by 3. Removes Slow effect. Spell is active for number of rounds equal to hero Spell Power.
-"	"{Basic Haste}
+"	"{Pressa básico}
 
 Increases the speed of the selected friendly unit by 3. Removes Slow effect. Spell is active for number of rounds equal to hero Spell Power.
-"	"{Advanced Haste}
+"	"{Pressa avançado}
 
 Increases the speed of the selected friendly unit by 5. Removes Slow effect. Spell is active for number of rounds equal to hero Spell Power.
-"	"{Expert Haste}
+"	"{Pressa expert}
 
 Increases the speed of all friendly units by 5. Removes Slow effect. Spell is active for number of rounds equal to hero Spell Power.
 "	 COMBAT_SPELL|CREATURE_TARGET_2
-Slow	Slow	1	x	 	 	 	6	5	5	5	0	75	75	50	50	5	10	10	10	5	5	5	5	10	5	5	15	15	"{Slow}
+Lerdeza	Lerdeza	1	x	 	 	 	6	5	5	5	0	75	75	50	50	5	10	10	10	5	5	5	5	10	5	5	15	15	"{Lerdeza}
 
 Reduces the speed of the selected enemy unit by 25%. Removes Haste effect. Spell is active for number of rounds equal to hero Spell Power.
-"	"{Basic Slow}
+"	"{Lerdeza básico}
 
 Reduces the speed of the selected enemy unit by the formula (old speed x 0.75). Removes Haste effect. Spell is active for number of rounds equal to hero Spell Power.
-"	"{Advanced Slow}
+"	"{Lerdeza avançado}
 
 Reduces the speed of the selected enemy unit by the formula (old speed x 0.5 + 1). Removes Haste effect. Spell is active for number of rounds equal to hero Spell Power.
-"	"{Expert Slow}
+"	"{Lerdeza expert}
 
 Reduces the speed of all enemy units by the formula (old speed x 0.5 + 1). Removes Haste effect. Spell is active for number of rounds equal to hero Spell Power.
 "	 COMBAT_SPELL|CREATURE_TARGET_2
-Slayer	Slayer	4	 		x	 	16	12	12	12	0	8	8	8	8	5	5	5	5	5	5	0	0	5	1	1	1	1	"{Slayer}
+Degolador	Degolador	4	 		x	 	16	12	12	12	0	8	8	8	8	5	5	5	5	5	5	0	0	5	1	1	1	1	"{Degolador}
 
 Increases the selected friendly unit's attack strength against Dragons, Behemoths, Hydras, Firebirds and Sea Serpents by 8. Spell is active for number of rounds equal to hero Spell Power.
-"	"{Basic Slayer}
+"	"{Degolador básico}
 
 Increases the selected friendly unit's attack strength against Dragons, Behemoths, Hydras, Firebirds and Sea Serpents by 8. Spell is active for number of rounds equal to hero Spell Power.
-"	"{Advanced Slayer}
+"	"{Degolador avançado}
 
 Increases the selected friendly unit's attack strength against Dragons, Behemoths, Hydras, Firebirds, Sea Serpents, Devils and Angels by 8. Spell is active for number of rounds equal to hero Spell Power.
-"	"{Expert Slayer}
+"	"{Degolador expert}
 
 Increases the selected friendly unit's attack strength against Dragons, Behemoths, Hydras, Firebirds, Sea Serpents, Devils, Angels and Titans by 8. Spell is active for number of rounds equal to hero Spell Power.
 "	 COMBAT_SPELL|CREATURE_TARGET
-Frenzy	Frenzy	4	 	 	x	 	16	12	12	12	0	100	100	150	200	5	5	5	5	5	5	0	0	5	10	10	20	30	"{Frenzy}
+Frenesi	Frenesi	4	 	 	x	 	16	12	12	12	0	100	100	150	200	5	5	5	5	5	5	0	0	5	10	10	20	30	"{Frenesi}
 
 Mind spell. Selected friendly troop intentionally lowers its defenses to 0 to increase the ferocity of its attack. Bonus to attack strength is equal to unit’s former defense. The spell takes effect immediately and lasts until the closest creature turn. After that, the spell effect until the next creature turn.
-"	"{Basic Frenzy}
+"	"{Frenesi básico}
 
 Mind spell. Selected friendly troop intentionally lowers its defenses to 0 to increase the ferocity of its attack. Bonus to attack strength is equal to unit’s former defense. The spell takes effect immediately and lasts until the closest creature turn. After that, the spell effect until the next creature turn.
-"	"{Advanced Frenzy}
+"	"{Frenesi avançado}
 
 Mind spell. Selected friendly troop intentionally lowers its defenses to 0 to increase the ferocity of its attack. Bonus to attack strength is 1.5 times more than unit’s former defense. The spell takes effect immediately and lasts until the closest creature turn. After that, the spell effect until the next creature turn.
-"	"{Expert Frenzy}
+"	"{Frenesi expert}
 
 Mind spell. Selected friendly troop intentionally lowers its defenses to 0 to increase the ferocity of its attack. Bonus to attack strength is 2 times more than unit’s former defense. The spell takes effect immediately and lasts until the closest creature turn. After that, the spell effect until the next creature turn.
 "	 COMBAT_SPELL|CREATURE_TARGET|MIND_SPELL
-Titan's Lightning Bolt	Titan's Bolt	5				x	0	0	0	0	0	600	600	600	600	0	0	0	0	0	0	0	0	0	75	75	75	75	"{Titan's Lightning Bolt}
+Raio do titã	Raio do titã	5				x	0	0	0	0	0	600	600	600	600	0	0	0	0	0	0	0	0	0	75	75	75	75	"{Raio do titã}
 
 Does 600 points of damage to selected enemy unit at no spell cost to the spellcaster.
-"	"{Titan's Lightning Bolt}
+"	"{Raio do titã}
 
 Does 600 points of damage to selected enemy unit at no spell cost to the spellcaster.
-"	"{Titan's Lightning Bolt}
+"	"{Raio do titã}
 
 Does 600 points of damage to selected enemy unit at no spell cost to the spellcaster.
-"	"{Titan's Lightning Bolt}
+"	"{Raio do titã}
 
 Does 600 points of damage to selected enemy unit at no spell cost to the spellcaster.
 "	
-Counterstrike	Counterstrike	4	 	 	 	x	24	20	20	20	0	1	1	2	2	5	10	5	5	5	5	0	0	5	20	20	30	30	"{Counterstrike}
+Contra-ataque	Contra-ataque	4	 	 	 	x	24	20	20	20	0	1	1	2	2	5	10	5	5	5	5	0	0	5	20	20	30	30	"{Contra-ataque}
 
 The selected friendly unit will retaliate against one additional attack each round. Spell is active for number of rounds equal to hero Spell Power.
-"	"{Basic Counterstrike}
+"	"{Contra-ataque básico}
 
 The selected friendly unit will retaliate against one additional attack each round. Spell is active for number of rounds equal to hero Spell Power.
-"	"{Advanced Counterstrike}
+"	"{Contra-ataque avançado}
 
 The selected friendly unit will retaliate against two additional attacks each round. Spell is active for number of rounds equal to hero Spell Power.
-"	"{Expert Counterstrike}
+"	"{Contra-ataque expert}
 
 All friendly units will retaliate against two additional attacks each round. Spell is active for number of rounds equal to hero Spell Power.
 "	 COMBAT_SPELL|CREATURE_TARGET_2
-Berserk	Berserk	4	 	 	x	 	20	16	16	16	0	0	0	1	2	5	5	5	5	10	5	0	0	5	60	60	60	60	"{Berserk}
+Loucura	Loucura	4	 	 	x	 	20	16	16	16	0	0	0	1	2	5	5	5	5	10	5	0	0	5	60	60	60	60	"{Loucura}
 
 Mind spell. The targeted unit will randomly attack the nearest unit, be it friend or foe. Hypnotize effect is dispelled from target. Spell effect is valid until target make an attack, otherwise Berserk duration is unlimited.
-"	"{Basic Berserk}
+"	"{Loucura básico}
 
 Mind spell. The targeted unit will randomly attack the nearest unit, be it friend or foe. Hypnotize effect is dispelled from target. Spell effect is valid until target make an attack, otherwise Berserk duration is unlimited.
-"	"{Advanced Berserk}
+"	"{Loucura avançado}
 
 Mind spell. The targeted unit as well as units adjacent to the target location will randomly attack the nearest units, be they friends or foes. Hypnotize effect is dispelled from targets. Spell effect is valid until target make an attack, otherwise Berserk duration is unlimited.
-"	"{Expert Berserk}
+"	"{Loucura expert}
 
 Mind spell. The targeted unit as well as any units 1 and 2 hexes away from target location will randomly attack the nearest units, be they friends or foes. Hypnotize effect is dispelled from targets. Spell effect is valid until target make an attack, otherwise Berserk duration is unlimited.
 "	 COMBAT_SPELL|CREATURE_TARGET|MIND_SPELL
-Hypnotize	Hypnotize	3	 	 	 	x	18	15	15	15	25	10	10	20	50	4	4	8	6	0	8	4	4	12	25	25	50	100	"{Hypnotize}
+Hipnose	Hipnose	3	 	 	 	x	18	15	15	15	25	10	10	20	50	4	4	8	6	0	8	4	4	12	25	25	50	100	"{Hipnose}
 
 Mind spell. Puts the selected enemy unit of not more than (Spell Power x 25 + 10) Health temporarily under your control. Removes Berserk effect. Spell is active for number of rounds equal to hero Spell Power.
-"	"{Basic Hypnotize}
+"	"{Hipnose básico}
 
 Mind spell. Puts the selected enemy unit of not more than (Spell Power x 25 + 10) Health temporarily under your control. Removes Berserk effect. Spell is active for number of rounds equal to hero Spell Power.
-"	"{Advanced Hypnotize}
+"	"{Hipnose avançado}
 
 Mind spell. Puts the selected enemy unit of not more than (Spell Power x 25 + 20) Health temporarily under your control. Removes Berserk effect. Spell is active for number of rounds equal to hero Spell Power.
-"	"{Expert Hypnotize}
+"	"{Hipnose expert}
 
 Mind spell. Puts the selected enemy unit of not more than (Spell Power x 25 + 50) Health temporarily under your control. Removes Berserk effect. Spell is active for number of rounds equal to hero Spell Power.
 "	 COMBAT_SPELL|CREATURE_TARGET|MIND_SPELL
-Forgetfulness	Forgetfulness	3	 	x	 	 	12	9	9	9	0	0	0	0	0	8	8	4	4	4	4	4	4	8	1	1	1	1	"{Forgetfulness}
+Esquecimento	Esquecimento	3	 	x	 	 	12	9	9	9	0	0	0	0	0	8	8	4	4	4	4	4	4	8	1	1	1	1	"{Esquecimento}
 
 Mind spell. Half of the selected enemy ranged unit forgets to use its attack. Spell is active for number of rounds equal to hero Spell Power.
-"	"{Basic Forgetfulness}
+"	"{Esquecimento básico}
 
 Mind spell. Half of the selected enemy ranged unit forgets to use its attack. Spell is active for number of rounds equal to hero Spell Power.
-"	"{Advanced Forgetfulness}
+"	"{Esquecimento avançado}
 
 Mind spell. Causes the selected enemy ranged unit to forget to use its ranged attack in combat. Half of unit also forget to use hand-to-hand attack. Spell is active for number of rounds equal to hero Spell Power.
-"	"{Expert Forgetfulness}
+"	"{Esquecimento expert}
 
 Mind spell. Causes all enemy ranged troops to forget to use their ranged attack in combat. Half of each unit also forget to use hand-to-hand attack. Spell is active for number of rounds equal to hero Spell Power.
 "	 COMBAT_SPELL|CREATURE_TARGET|MIND_SPELL
-Blind	Blind	2	 	 	x	 	10	8	8	8	0	50	50	25	0	4	6	2	12	4	4	4	6	8	50	50	50	50	"{Blind}
+Cegueira	Cegueira	2	 	 	x	 	10	8	8	8	0	50	50	25	0	4	6	2	12	4	4	4	6	8	50	50	50	50	"{Cegueira}
 
 Mind spell. Temporary blinds the selected enemy unit so that it cannot move and causes it to counterattack at half its normal damage.  Blindness persists until the unit is attacked or dispelled. Does not affect undead. Spell is active for number of rounds equal to hero Spell Power.
-"	"{Basic Blind}
+"	"{Cegueira básico}
 
 Mind spell. Temporary blinds the selected enemy unit so that it cannot move and causes it to counterattack at half its normal damage.  Blindness persists until the unit is attacked or dispelled. Does not affect undead. Spell is active for number of rounds equal to hero Spell Power.
-"	"{Advanced Blind}
+"	"{Cegueira avançado}
 
 Mind spell. Temporary blinds the selected enemy unit so that it cannot move and causes it to counterattack at one-quarter of its normal damage.  Blindness persists until the unit is attacked or dispelled. Does not affect undead. Spell is active for number of rounds equal to hero Spell Power.
-"	"{Expert Blind}
+"	"{Cegueira expert}
 
 Mind spell. Temporary blinds the selected enemy unit so that it cannot move or counterattack.  Blindness persists until the unit is attacked or dispelled. Does not affect undead. Spell is active for number of rounds equal to hero Spell Power.
 "	 COMBAT_SPELL|CREATURE_TARGET
-Teleport	Teleport	3	 	x	 	 	15	12	6	3	0	0	0	0	0	8	8	8	8	8	8	8	10	8	20	20	20	20	"{Teleport}
+Teleportar	Teleportar	3	 	x	 	 	15	12	6	3	0	0	0	0	0	8	8	8	8	8	8	8	10	8	20	20	20	20	"{Teleportar}
 
 Teleports any friendly unit to any unoccupied spot on the battlefield. Removes dendroid binding effect.
 
 Troop cannot teleport over walls or moats.
-"	"{Basic Teleport}
+"	"{Teleportar básico}
 
 Teleports any friendly unit to an unoccupied spot on the battlefield. Removes dendroid binding effect.
 
 Troop cannot teleport over walls or moats.
-"	"{Advanced Teleport}
+"	"{Teleportar avançado}
 
 Teleports any friendly unit to an unoccupied spot on the battlefield. Removes dendroid binding effect.
 
 Troop cannot teleport over walls.
-"	"{Expert Teleport}
+"	"{Teleportar expert}
 
 Teleports any friendly unit to any unoccupied spot on the battlefield. Removes dendroid binding effect.
 "	 COMBAT_SPELL|CREATURE_TARGET
-Remove Obstacle	Remove Obstacle	2	 	x	 	 	7	5	5	5	0	0	0	0	0	4	4	6	4	4	4	4	4	4	1	1	1	1	"{Remove Obstacle}
+Remover obstáculo	Remover obstáculo	2	 	x	 	 	7	5	5	5	0	0	0	0	0	4	4	6	4	4	4	4	4	4	1	1	1	1	"{Remover obstáculo}
 
 Removes any normal non-integrated obstacle (trees, rocks, etc.) of the caster's choice from the battlefield.
-"	"{Basic Remove Obstacle}
+"	"{Remover obstáculo básico}
 
 Removes any normal non-integrated obstacle (trees, rocks, etc.) of the caster's choice from the battlefield.
-"	"{Advanced Remove Obstacle}
+"	"{Remover obstáculo avançado}
 
-Removes any normal non-integrated obstacle (trees, rocks, etc.) or Fire Wall of the caster's choice from the battlefield.
-"	"{Expert Remove Obstacle}
+Removes any normal non-integrated obstacle (trees, rocks, etc.) or Parede de fogo of the caster's choice from the battlefield.
+"	"{Remover obstáculo expert}
 
 Removes any normal non-integrated or magical obstacle of the caster's choice from the battlefield.
 "	 COMBAT_SPELL|OBSTACLE_TARGET
@@ -874,85 +874,85 @@ Clone	Clone	4	 	x	 	 	24	20	20	20	0	5	5	6	7	5	5	10	5	5	5	0	0	10	20	20	40	50	"{Cl
 Creates a temporary duplicate of the selected friendly unit stack.  The image is dispelled if it is damaged or if prototype dies. Each unit may have only one clone. Does not affect War Machines. Clone is alive for number of rounds equal to hero Spell Power.
 
 Clones creatures of levels 1-5.
-"	"{Basic Clone}
+"	"{Clone básico}
 
 Creates a temporary duplicate of the selected friendly unit stack.  The image is dispelled if it is damaged or if prototype dies. Each unit may have only one clone. Does not affect War Machines. Clone is alive for number of rounds equal to hero Spell Power.
 
 Clones creatures of levels 1-5.
-"	"{Advanced Clone}
+"	"{Clone avançado}
 
 Creates a temporary duplicate of the selected friendly unit stack.  The image is dispelled if it is damaged or if prototype dies. Each unit may have only one clone. Does not affect War Machines. Clone is alive for number of rounds equal to hero Spell Power.
 
 Clones creatures of levels 1-6.
-"	"{Expert Clone}
+"	"{Clone expert}
 
 Creates a temporary duplicate of the selected friendly unit stack.  The image is dispelled if it is damaged or if prototype dies. Each unit may have only one clone. Does not affect War Machines. Clone is alive for number of rounds equal to hero Spell Power.
 
 Clones creatures of any level.
 "	 COMBAT_SPELL|CREATURE_TARGET
-Fire Elemental	Fire Elemental	5			x		25	20	20	20	0	2	2	3	4	0	0	0	16	0	12	0	0	12	50	50	100	150	"{Summon Fire Elemental}
+Chamar elemental de fogo	Chamar elemental de fogo	5			x		25	20	20	20	0	2	2	3	4	0	0	0	16	0	12	0	0	12	50	50	100	150	"{Chamar elemental de fogo}
 
 Allows you to summon (Spell Power x 2) fire elementals on the random position of your edge of the battlefield. Elementals will serve you until the end of the battle. Once cast, no other elemental types may be summoned in that battle.
-"	"{Basic Summon Fire Elemental}
+"	"{Chamar elemental de fogo básico}
 
 Allows you to summon (Spell Power x 2) fire elementals on the random position of your edge of the battlefield. Elementals will serve you until the end of the battle. Once cast, no other elemental types may be summoned in that battle.
-"	"{Advanced Summon Fire Elemental}
+"	"{Chamar elemental de fogo avançado}
 
 Allows you to summon (Spell Power x 3) fire elementals on the random position of your edge of the battlefield. Elementals will serve you until the end of the battle. Once cast, no other elemental types may be summoned in that battle.
-"	"{Expert Summon Fire Elemental}
+"	"{Chamar elemental de fogo expert}
 
 Allows you to summon (Spell Power x 4) fire elementals on the random position of your edge of the battlefield. Elementals will serve you until the end of the battle. Once cast, no other elemental types may be summoned in that battle.
 "	 COMBAT_SPELL
-Earth Elemental	Earth Elemental	5	x				25	20	20	20	0	2	2	3	4	0	16	14	16	16	12	0	0	12	50	50	100	150	"{Summon Earth Elemental}
+Chamar elemental de terra	Chamar elemental de terra	5	x				25	20	20	20	0	2	2	3	4	0	16	14	16	16	12	0	0	12	50	50	100	150	"{Chamar elemental de terra}
 
 Allows you to summon (Spell Power x 2) earth elementals on the random position of your edge of the battlefield. Elementals will serve you until the end of the battle. Once cast, no other elemental types may be summoned in that battle.
-"	"{Basic Summon Earth Elemental}
+"	"{Chamar elemental de terra básico}
 
 Allows you to summon (Spell Power x 2) earth elementals on the random position of your edge of the battlefield. Elementals will serve you until the end of the battle. Once cast, no other elemental types may be summoned in that battle.
-"	"{Advanced Summon Earth Elemental}
+"	"{Chamar elemental de terra avançado}
 
 Allows you to summon (Spell Power x 3) earth elementals on the random position of your edge of the battlefield. Elementals will serve you until the end of the battle. Once cast, no other elemental types may be summoned in that battle.
-"	"{Expert Summon Earth Elemental}
+"	"{Chamar elemental de terra expert}
 
 Allows you to summon (Spell Power x 4) earth elementals on the random position of your edge of the battlefield. Elementals will serve you until the end of the battle. Once cast, no other elemental types may be summoned in that battle.
 "	 COMBAT_SPELL
-Water Elemental	Water Elemental	5		x			25	20	20	20	0	2	2	3	4	0	16	14	0	0	12	0	0	12	50	50	100	150	"{Summon Water Elemental}
+Chamar elemental de água	Chamar elemental de água	5		x			25	20	20	20	0	2	2	3	4	0	16	14	0	0	12	0	0	12	50	50	100	150	"{Chamar elemental de água}
 
 Allows you to summon (Spell Power x 2) water elementals on the random position of your edge of the battlefield. Elementals will serve you until the end of the battle. Once cast, no other elemental types may be summoned in that battle.
-"	"{Basic Summon Water Elemental}
+"	"{Chamar elemental de água básico}
 
 Allows you to summon (Spell Power x 2) water elementals on the random position of your edge of the battlefield. Elementals will serve you until the end of the battle. Once cast, no other elemental types may be summoned in that battle.
-"	"{Advanced Summon Water Elemental}
+"	"{Chamar elemental de água avançado}
 
 Allows you to summon (Spell Power x 3) water elementals on the random position of your edge of the battlefield. Elementals will serve you until the end of the battle. Once cast, no other elemental types may be summoned in that battle.
-"	"{Expert Summon Water Elemental}
+"	"{Chamar elemental de água expert}
 
 Allows you to summon (Spell Power x 4) water elementals on the random position of your edge of the battlefield. Elementals will serve you until the end of the battle. Once cast, no other elemental types may be summoned in that battle.
 "	 COMBAT_SPELL
-Air Elemental	Air Elemental	5				x	25	20	20	20	0	2	2	3	4	0	0	14	0	16	0	0	0	12	50	50	100	150	"{Summon Air Elemental}
+Chamar elemental de ar	Chamar elemental de ar	5				x	25	20	20	20	0	2	2	3	4	0	0	14	0	16	0	0	0	12	50	50	100	150	"{Chamar elemental de ar}
 
 Allows you to summon (Spell Power x 2) air elementals on the random position of your edge of the battlefield. Elementals will serve you until the end of the battle. Once cast, no other elemental types may be summoned in that battle.
-"	"{Basic Summon Air Elemental}
+"	"{Chamar elemental de ar básico}
 
 Allows you to summon (Spell Power x 2) air elementals on the random position of your edge of the battlefield. Elementals will serve you until the end of the battle. Once cast, no other elemental types may be summoned in that battle.
-"	"{Advanced Summon Air Elemental}
+"	"{Chamar elemental de ar avançado}
 
 Allows you to summon (Spell Power x 3) air elementals on the random position of your edge of the battlefield. Elementals will serve you until the end of the battle. Once cast, no other elemental types may be summoned in that battle.
-"	"{Expert Summon Air Elemental}
+"	"{Chamar elemental de ar expert}
 
 Allows you to summon (Spell Power x 4) air elementals on the random position of your edge of the battlefield. Elementals will serve you until the end of the battle. Once cast, no other elemental types may be summoned in that battle.
 "	 COMBAT_SPELL
 																																	
 Creature Abilities																																	
 																																	
-Stone Gaze	Stone Gaze	3					0	0	0	0	0	0	0	0	0	12	13	12	13	12	13	12	13	13	1	1	1	1					 CREATURE_SPELL
-Poison	Poison	0					0	0	0	0	0	0	0	0	0	12	13	12	13	12	13	12	13	13	1	1	1	1					 CREATURE_SPELL
-Bind	Bind	0					0	0	0	0	0	0	0	0	0	12	13	12	13	12	13	12	13	13	1	1	1	1					 CREATURE_SPELL
-Disease	Disease	2					0	0	0	0	0	0	0	0	0	12	13	12	13	12	13	12	13	13	1	1	1	1					 CREATURE_SPELL
-Paralyze	Paralyze	4					0	0	0	0	0	0	0	0	0	12	13	12	13	12	13	12	13	13	1	1	1	1					 CREATURE_SPELL
+Petrificar	Petrificar	3					0	0	0	0	0	0	0	0	0	12	13	12	13	12	13	12	13	13	1	1	1	1					 CREATURE_SPELL
+Veneno	Veneno	0					0	0	0	0	0	0	0	0	0	12	13	12	13	12	13	12	13	13	1	1	1	1					 CREATURE_SPELL
+Prender	Prender	0					0	0	0	0	0	0	0	0	0	12	13	12	13	12	13	12	13	13	1	1	1	1					 CREATURE_SPELL
+Doença	Doença	2					0	0	0	0	0	0	0	0	0	12	13	12	13	12	13	12	13	13	1	1	1	1					 CREATURE_SPELL
+Paralisia	Paralisia	4					0	0	0	0	0	0	0	0	0	12	13	12	13	12	13	12	13	13	1	1	1	1					 CREATURE_SPELL
 Age	Age	5					0	0	0	0	0	0	0	0	0	12	13	12	13	12	13	12	13	13	1	1	1	1					 CREATURE_SPELL
-Death Cloud	Death Cloud	0					0	0	0	0	0	0	0	0	0	12	13	12	13	12	13	12	13	13	1	1	1	1					 CREATURE_SPELL
-Thunderbolt	Thunderbolt	0					0	0	0	0	0	0	0	0	0	12	13	12	13	12	13	12	13	13	1	1	1	1					 CREATURE_SPELL
+Nuvem da morte	Nuvem da morte	0					0	0	0	0	0	0	0	0	0	12	13	12	13	12	13	12	13	13	1	1	1	1					 CREATURE_SPELL
+Raio	Raio	0					0	0	0	0	0	0	0	0	0	12	13	12	13	12	13	12	13	13	1	1	1	1					 CREATURE_SPELL
 Dispel Helpful Spells	Dispel Helpful Spells	0					0	0	0	0	0	0	0	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1					
-Death Stare	Death Stare	0					0	0	0	0	0	0	0	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1					
-Acid Breath	Acid Breath	0					0	0	0	0	0	0	0	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1					
+Bafo mortal	Bafo mortal	0					0	0	0	0	0	0	0	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1					
+Bafo de ácido	Bafo de ácido	0					0	0	0	0	0	0	0	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1					
