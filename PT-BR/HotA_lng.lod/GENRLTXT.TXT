@@ -49,7 +49,7 @@ Nome do usuário
 criatura		
 criaturas		
 A má sorte sobreveio sobre o(a)(s) %s		
-A boá sorte brilhou sobre o(a)(s) %s		
+A boa sorte brilhou sobre o(a)(s) %s		
 Tesouro		
 O jogador %s está com a cidade de %s sob ataque inimigo!		
 Cidade		
@@ -350,7 +350,7 @@ Atirar em %s (%d tiros restantes, dano: %s)
 View %s info.		
 Acabou a munição!		
 Ressuscitar o(a)(s) %s		
-Summon demons from the %s		
+Invocar demônios a partir do corpo do(a)(s) %s		
 Conjurar um feitiço em %s		
 O inimigo se rendeu!		
 O inimigo fugiu!		
@@ -414,14 +414,14 @@ Mercado negro
 %s te mandou um presente.		
 %s gostaria muito de receber um presente de %s.		
 %s gostaria muito de qualquer um desses recursos.		
-The %s drains %d life from the %s.		
-The %s drain %d life from the %s.		
+Os(as) %s drenam %d de vitalidade do(a)(s) %s.		
+O(a) %s drena %d de vitalidade do(a)(s) %s.		
 "
  e um levanta dentre os mortos."		
 "
  e %d levantam dentre os mortos."		
-The %s does double damage!		
-The %s do double damage!		
+Os %s causam dano em dobro!		
+O %s causa dano em dobro!		
 A bolt of lightning strikes the %s!		
 Burning with anger, the %s does an extra 50%% damage to the %s.		
 Burning with anger, the %s do an extra 50%% damage to the %s.		
@@ -477,11 +477,11 @@ E começa a próxima rodada.
 Você quer fugir?"		
 "The %s heals the %s
 removing %d points of damage."		
-O jogdor com a vez saiu do jogo! O turno do jogador vai ser refeito pelo computador.		
+O jogador com a vez saiu do jogo! O turno do jogador vai ser refeito pelo computador.		
 O outro jogador saiu do jogo!  Você venceu!		
 Ver dados do herói		
 Ver dados do herói inimigo		
-Applicar primeiro socorros no(na) %s		
+Aplicar primeiro socorros no(na) %s		
 "{Artefato}
 
 Através de uma clareira, você observa um artefato antigo.  Infelizmente, ele está guardado por %s %s.  Você quer brigar com o %s pelo artefato?"		

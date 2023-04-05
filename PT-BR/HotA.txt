@@ -306,7 +306,7 @@ Text 0: ""
 Text 1: "nixx"
 Text 2: "cnix.DEF"
 Text 3: "Nix"
-Text 4: "Nix"
+Text 4: "Nixes"
 Text 5: ""
 Text 6: ""
 Text 7: ""
@@ -329,7 +329,7 @@ Text 0: ""
 Text 1: "nixx"
 Text 2: "cnixwarr.DEF"
 Text 3: "Guerreiro Nix"
-Text 4: "Guerreiros Nix"
+Text 4: "Guerreiros Nixes"
 Text 5: ""
 Text 6: ""
 Text 7: ""
@@ -1167,27 +1167,27 @@ Ninho
 Torre dos mares
 Forte dos nixes
 Turbilhão
-Upg. Cachoeira das ninfas
-Upg. Barraco
-Upg. Fragata
-Upg. Ninho
-Upg. Torre dos mares
-Upg. Forte dos nixes
-Upg. Turbilhão"
-Text 8: "A cachoeira das ninfas possibilita que você recrute Nymphs.
-O barraco possibilita que você recrute Crew Mates.
-A fragata possibilita que você recrutePirates.
-O ninho possibilita que você recrute Stormbirds.
-A torre dos mares possibilita que você recrute Sea Witches.
-O forte dos nixes possibilita que você recrute Nix.
-O turbilhão possibilita que você recrute Sea Serpents.
-A Upg. cachoeira das ninfas possibilita que você recrute Oceanids.
-O Upg. barraco possibilita que você recrute Seamen.
-A Upg. fragata possibilita que você recrute Corsairs.
-O Upg. ninho possibilita que você recrute Ayssids.
-A Upg. torre dos mares possibilita que você recrute Sorceresses.
-O Upg. forte dos nixes possibilita que você recrute Nix Warriors.
-O Upg. turbilhão possibilita que você recrute Haspids."
+Grande cachoeira das ninfas
+Grande barraco
+Grande fragata
+Grande ninho
+Grande torre dos mares
+Grande forte dos nixes
+Grande turbilhão"
+Text 8: "A cachoeira das ninfas possibilita que você recrute ninfas.
+O barraco possibilita que você recrute marinheiros.
+A fragata possibilita que você recrute piratas.
+O ninho possibilita que você recrute pássaros de tempeestade.
+A torre dos mares possibilita que você recrute bruxas do mar.
+O forte dos nixes possibilita que você recrute nixes.
+O turbilhão possibilita que você recrute serpentes marinhas.
+A grande cachoeira das ninfas possibilita que você recrute oceanides.
+O grande barraco possibilita que você recrute homens do mar.
+A grande fragata possibilita que você recrute corsários.
+O grande ninho possibilita que você recrute ayssides.
+A grande torre dos mares possibilita que você recrute feiticeiras.
+O grande forte dos nixes possibilita que você recrute guerreiros nixes.
+O grande turbilhão possibilita que você recrute haspides."
 Has FilS: "true"
 FilS size: 392
 FilS: "05 00 00 00 00 00 00 00 05 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 2c 01 00 00 0a 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 e8 03 00 00 0a 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 e8 03 00 00 00 00 00 00 00 00 00 00 05 00 00 00 00 00 00 00 02 00 00 00 02 00 00 00 d0 07 00 00 05 00 00 00 00 00 00 00 05 00 00 00 00 00 00 00 05 00 00 00 00 00 00 00 b8 0b 00 00 05 00 00 00 00 00 00 00 0a 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 a0 0f 00 00 0f 00 00 00 00 00 00 00 0f 00 00 00 0a 00 00 00 00 00 00 00 00 00 00 00 98 3a 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 e8 03 00 00 05 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 e8 03 00 00 05 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 dc 05 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 02 00 00 00 02 00 00 00 dc 05 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 05 00 00 00 00 00 00 00 d0 07 00 00 05 00 00 00 00 00 00 00 05 00 00 00 05 00 00 00 00 00 00 00 00 00 00 00 b8 0b 00 00 0f 00 00 00 00 00 00 00 0f 00 00 00 14 00 00 00 00 00 00 00 00 00 00 00 98 3a 00 00"
@@ -1224,7 +1224,7 @@ Text 8: "Unused.
 The Pub increases Crew Mates production by 4 per week.
 The Pub increases Seamen production by 4 per week.
 The Shipyard allows you to purchase ships.
-The Gunpowder Warehouse allows you to recruit Sea Dogs.
+O depósito de pólvora possibilita que você recrute lobos do mar.
 The Thieves' Guild reveals additional information about the foes in the tavern.
 The Grotto allows you to sacrifice creatures or artifacts in exchange for experience.
 The Roost increases Stormbirds production by 3 per week.
@@ -4203,7 +4203,7 @@ Wight dwelling.""
 
 17
 49
-""Ninho dos wyverns
+""Ninho das serpes
 Wyvern dwelling.""
 
 17
@@ -4767,7 +4767,7 @@ Quantity: 20-50.""
 
 54
 43
-""Familiar
+""Capetinha
 Upgraded level 1 Inferno creature.
 Quantity: 20-30.""
 
@@ -5157,13 +5157,13 @@ Quantity: 10-16.""
 
 54
 108
-""Wyvern
+""Serpe
 Level 6 Fortress creature.
 Quantity: 5-12.""
 
 54
 109
-""Wyvern Monarca
+""Serpe Monarca
 Upgraded level 6 Fortress creature.
 Quantity: 5-10.""
 
@@ -5850,7 +5850,7 @@ Sea Serpent dwelling.""
 
 17
 99
-""Forte do nix
+""Forte dos nixes
 Nix dwelling.""
 
 17
@@ -5977,7 +5977,7 @@ Quantity: 5-12.""
 
 54
 164
-""Nix Guerreiro
+""Guerreiro Nix
 Upgraded level 6 Cove creature.
 Quantity: 5-10.""
 
@@ -6406,12 +6406,12 @@ Name: "rmgobjects0"
 Path: ""
 Texts count: "9"
 Text 0: ""
-Text 1: "Not a single available boat was around. Looks like you will have to abandon the prisoner in jail. He will most probably meet his end here, unfortunately."
-Text 2: "(Upgrade 1-5 level creatures for double price)"
-Text 3: "Creatures available for hire:"
-Text 4: "Units available:"
-Text 5: "Shrine of Magic Mystery"
-Text 6: "(Learn 4th level spell)"
+Text 1: "Não há um único barco por perto. Infelizmente, parece que você terá que abandonar o prisioneiro na cadeia. Ele provavelmente encontrará o seu fim aqui, infelizmente."
+Text 2: "(Melhore criaturas dos níveis 1-5 pelo dobro do preço)"
+Text 3: "Criaturas disponíveis para contratar:"
+Text 4: "Unidades disponíveis:"
+Text 5: "Capela do mistério mágico"
+Text 6: "(Aprenda um feitiço de nível 4)"
 Text 7: "# Additional objects for RMG
 # Type Subtype Value Density Max_map Max_zone
 
@@ -7924,8 +7924,8 @@ Text 3: ""
 Text 4: ""
 Text 5: ""
 Text 6: ""
-Text 7: "Poço do Basilisco
-Gruta dos Beemotes
+Text 7: "Poço do basilisco
+Gruta dos beemotes
 Pilar dos olhos
 Salão das trevas
 Túmulo dos dragões
@@ -7973,7 +7973,7 @@ Arcos dendróides
 Viveiro
 Altar da água
 Tumba das almas
-Ninho dos wyverns
+Ninho das serpes
 Fonte encantada
 Clareira dos unicórnios
 Mausoléu
@@ -7982,7 +7982,7 @@ Templo amaldiçoado
 Cemitério
 Caserna
 Torre dos arqueiros
-Barracks
+Quartel
 Lanterna mágica
 Altar do pensamento
 Pira
@@ -8757,7 +8757,7 @@ Armorer
 Gorgons
 Serpent Flies
 Ballista
-Wyverns
+Serpes
 Weakness
 Mysticism
 Navigation
@@ -8905,7 +8905,7 @@ Titã	Titãs	0	0	0	0	0	2	5000	5000	7500	1
 											
 											
 Diabrete	Diabretes	0	0	0	0	0	0	50	50	50	15
-Familiar	Familiares	0	0	0	0	0	0	60	60	60	15
+Capetinha	Capetinhas	0	0	0	0	0	0	60	60	60	15
 Gogue	Gogues	0	0	0	0	0	0	125	145	159	8
 Magogue	Magogues	0	0	0	0	0	0	175	210	240	8
 Cão Infernal	Cães Infernais	0	0	0	0	0	0	200	275	357	5
@@ -8982,8 +8982,8 @@ Cobra com Asas	Cobras com Asas	0	0	0	0	0	0	220	215	268	8
 Cobra Dragão	Cobras Dragões	0	0	0	0	0	0	240	250	312	8
 Basilisco	Basiliscos	0	0	0	0	0	0	325	506	552	4
 Grande Basilisco	Grandes Basiliscos	0	0	0	0	0	0	400	561	714	4
-Wyvern	Wyverns	0	0	0	0	0	0	800	1050	1350	2
-Wyvern Monarca	Wyverns Monarcas	0	0	0	0	0	0	1100	1181	1518	2
+Serpe	Serpes	0	0	0	0	0	0	800	1050	1350	2
+Serpe Monarca	Serpes Monarcas	0	0	0	0	0	0	1100	1181	1518	2
 Hidra	Hidras	0	0	0	0	0	0	2200	4120	4120	1
 Hidra do Caos	Hidras do Caos	0	0	0	1	0	0	3500	5272	5931	1
 											
@@ -9608,22 +9608,22 @@ Text 3: ""
 Text 4: ""
 Text 5: ""
 Text 6: ""
-Text 7: "Tartaglia
-Lewindale
-Port Evendore
+Text 7: "Tartáglia
+Caravelas
+Porto dos Pares
 Rotunda
-Watergate
-Brown's Bay
-Nithenes
-Downhaven
-Lakenshire
+Portão D'Água
+Baía das Castanhas
+Nitênia
+Baixo Refúgio
+Lagoa Brilhante
 Noral
-Westland Pier
-Walendale
-Port Crowland
-Jordanhall
-Sleepy Creek
-Hitchgrove"
+Porto do Oeste
+Vale das Cordas
+Porto dos Corvos
+Jordanina
+Riacho Dormente
+Marina dos Nós"
 Text 8: ""
 Has FilS: "false"
 Vals count: "4"
@@ -11559,7 +11559,7 @@ Name: "subterr1"
 Path: ""
 Texts count: "9"
 Text 0: ""
-Text 1: "Dunes"
+Text 1: "Dunas"
 Text 2: "CmBkDun.pcx"
 Text 3: ""
 Text 4: ""
@@ -13372,7 +13372,7 @@ Os cavalos parecem pouco entusiasmados em beber uma água salgada, mas logo você 
 (+1 luck until next battle and +600 movement points for one day)
 ""{Fonte mineral}
 
-Todo mundo já está com a barriga cheia de água com gás.  Iso ;e hidratação o suficiente por hoje."""
+Todo mundo já está com a barriga cheia de água com gás.  Isso é hidratação o suficiente por hoje."""
 Has FilS: "false"
 Vals count: "4"
 Val 0: "0"
@@ -13428,14 +13428,14 @@ Text 6: ""
 Text 7: ""
 Text 8: """{Gazebo}
 
-Um velho cavaleiro aparece nos degraus do gazebo. """"Eu ensinarei tudo o que sei a você para te judar em sua jornada.  Entretanto, vou esclarecer logo que farei isso em troca de uma pequena doação à liga dos cavaeiros aposentados.  1000 ouros é um valor suficiente.""""""
+Um velho cavaleiro aparece nos degraus do gazebo. """"Eu ensinarei tudo o que sei a você para te judar em sua jornada.  Entretanto, vou esclarecer logo que farei isso em troca de uma pequena doação à liga dos cavaleiros aposentados.  1000 ouros é um valor suficiente.""""""
 (+2000 experience for 1000 gold once per hero)
 ""{Gazebo}
 
 Você pode ouvir um ronco alto vindo do gazebo.  Ao que parece, a liga já colocou a sua doação para um bom uso.""
 ""{Gazebo}
 
-Um velho cavaleiro aparece nos degraus do gazebo. """"Eu ensinarei tudo o que sei a você para te judar em sua jornada.  Entretanto, vou esclarecer logo que farei isso em troca de uma pequena doação à liga dos cavaeiros aposentados.  Volte quando você tiver 1000 ouros."""""""
+Um velho cavaleiro aparece nos degraus do gazebo. """"Eu ensinarei tudo o que sei a você para te judar em sua jornada.  Entretanto, vou esclarecer logo que farei isso em troca de uma pequena doação à liga dos cavaleiros aposentados.  Volte quando você tiver 1000 ouros."""""""
 Has FilS: "false"
 Vals count: "4"
 Val 0: "0"
@@ -13562,11 +13562,11 @@ Text 6: ""
 Text 7: ""
 Text 8: """{Pioneiro} 
 
-""""Eu conheço esta terra inóspita como a palma da minha mão.  Mesmo se eu nunca tiver tido em algum lugar, vou achar um jeito de sair.  Eu suponho que eu possa ir junto contigo por uma semana se você estiver precisando de uma mão,"""" disse o homem da tenda.""
+""""Eu conheço esta terra inóspita como a palma da minha mão.  Mesmo se eu nunca tiver tido em algum lugar, vou achar um jeito de sair.  Eu suponho que eu possa ir junto contigo por uma semana se você estiver precisando de uma mão"""", disse o homem da tenda.""
 (Reduces wasteland movement penalty by 50% until the end of the week)
 ""{Pioneiro}
 
-""""Ei, esta é a minha tenda!  Melhor ter certeza de que não é minha culpa estarmos andando em círculos,"""" o pioneiro exclama."""
+""""Ei, esta é a minha tenda!  Melhor ter certeza de que não é minha culpa estarmos andando em círculos"""", exclama o pioneiro."""
 Has FilS: "false"
 Vals count: "4"
 Val 0: "0"

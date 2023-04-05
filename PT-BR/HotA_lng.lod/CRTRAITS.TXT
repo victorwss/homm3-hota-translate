@@ -52,7 +52,7 @@ Titã	Titãs	0	0	0	0	0	2	5000	5000	7500	1	0	300	11	24	24	40	60	24	0	3	8	Atira. Sem
 																								
 																								
 Diabrete	Diabretes	0	0	0	0	0	0	50	50	50	15	8	4	5	2	3	1	2	0	0	20	50		0
-Familiar	Familiares	0	0	0	0	0	0	60	60	60	15	8	4	7	4	4	1	2	0	0	20	30	Rouba pontos de magia.	0
+Capetinha	Capetinhas	0	0	0	0	0	0	60	60	60	15	8	4	7	4	4	1	2	0	0	20	30	Rouba pontos de magia.	0
 Gogue	Gogues	0	0	0	0	0	0	125	145	159	8	0	13	4	6	4	2	4	12	0	16	30	Atira.	SHOOTING_ARMY
 Magogue	Magogues	0	0	0	0	0	0	175	210	240	8	0	13	6	7	4	2	4	24	0	16	25	Atira. Ataque com bola de fogo.	SHOOTING_ARMY
 Cão Infernal	Cães Infernais	0	0	0	0	0	0	200	275	357	5	3	25	7	10	6	2	7	0	0	12	25		DOUBLE_WIDE | FLYING_ARMY
@@ -129,8 +129,8 @@ Cobra com Asas	Cobras com Asas	0	0	0	0	0	0	220	215	268	8	0	20	9	7	9	2	5	0	0	12	2
 Cobra Dragão	Cobras Dragões	0	0	0	0	0	0	240	250	312	8	0	20	13	8	10	2	5	0	0	12	20	Voa. Desfaz feitiços benéficos. Enfraquece os inimigos.	FLYING_ARMY
 Basilisco	Basiliscos	0	0	0	0	0	0	325	506	552	4	0	35	5	11	11	6	10	0	0	10	20	Ataque petrificante.	DOUBLE_WIDE
 Grande Basilisco	Grandes Basiliscos	0	0	0	0	0	0	400	561	714	4	0	40	7	12	12	6	10	0	0	10	16	Ataque petrificante.	DOUBLE_WIDE
-Wyvern	Wyverns	0	0	0	0	0	0	800	1050	1350	2	0	70	7	14	14	14	18	0	0	5	12	Voa.	DOUBLE_WIDE | FLYING_ARMY
-Wyvern Monarca	Wyverns Monarcas	0	0	0	0	0	0	1100	1181	1518	2	0	70	11	14	14	18	22	0	0	5	10	Voa. Venenoso.	DOUBLE_WIDE | FLYING_ARMY
+Serpe	Serpes	0	0	0	0	0	0	800	1050	1350	2	0	70	7	14	14	14	18	0	0	5	12	Voa.	DOUBLE_WIDE | FLYING_ARMY
+Serpe Monarca	Serpes Monarcas	0	0	0	0	0	0	1100	1181	1518	2	0	70	11	14	14	18	22	0	0	5	10	Voa. Venenoso.	DOUBLE_WIDE | FLYING_ARMY
 Hidra	Hidras	0	0	0	0	0	0	2200	4120	4120	1	0	175	5	16	18	25	45	0	0	4	10	Ataca todos os inimigos próximos duma só vez sem retaliação.	DOUBLE_WIDE | KING_1
 Hidra do Caos	Hidras do Caos	0	0	0	1	0	0	3500	5272	5931	1	0	250	7	18	20	25	45	0	0	3	8	Ataca todos os inimigos próximos duma só vez sem retaliação.	DOUBLE_WIDE | KING_1
 																								

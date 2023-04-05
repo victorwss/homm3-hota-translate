@@ -1,129 +1,129 @@
-Caserna	A caserna possibilita que você recrute Pikemen.
-Torre dos arqueiros	A torre dos arqueiros possibilita que você recrute Archers.
-Torre dos grifos	A torre dos grifos possibilita que você recrute Griffins.
-Quartel	O quartel possibilita que você recrute Swordsmen.
-Mosteiro	O mosteiro possibilita que você recrute Monks.
-Campos de treinamento	Os campos de treinamento possibilita que você recrute Cavaliers.
-Portal da glória	O portal da glória possibilita que você recrute Angels.
-Upg. Caserna	A caserna possibilita que você recrute Halberdiers.
-Upg. Torre dos arqueiros	A torre dos arqueiros possibilita que você recrute Marksmen.
-Upg. Torre dos grifos	A torre dos grifos possibilita que você recrute Royal Griffins.
-Upg. Quartel	O quartel allows you to recruit Crusaders.
-Upg. Mosteiro	O mosteiro possibilita que você recrute Zealots.
-Upg. Campos de treinamento	Os campos de treinamento possibilita que você recrute Champions.
-Upg. Portal da glória	O portal da glória possibilita que você recrute Arch Angels.
-Estábulos de centauros	Os estábulos de centauros possibilita que você recrute Centaurs.
-Chalé dos anões	O chalé dos anões possibilita que você recrute Dwarves.
-Alojamento	O alojamento possibilita que você recrute Wood Elves.
-Fonte encantada	A fonte encantada possibilita que você recrute Pegasi.
-Arcos dendróides	Os arcos dendróides possibilita que você recrute Dendroid Guards.
-Clareira dos unicórnios	A clareira dos unicórnios possibilita que você recrute Unicorns.
-Penhasco dos dragões	O penhasco dos dragões possibilita que você recrute Green Dragons.
-Upg. Estábulos de centauros	Os estábulos de centauros possibilita que você recrute Centaur Captains.
-Upg. Chalé dos anões	O chalé dos anões possibilita que você recrute Battle Dwarves.
-Upg. Alojamento	O alojamento possibilita que você recrute Grand Elves.
-Upg. Fonte encantada	A fonte encantada possibilita que você recrute Silver Pegasi.
-Upg. Arcos dendróides	Os arcos dendróides possibilita que você recrute Dendroid Soldiers.
-Upg. Clareira dos unicórnios	A clareira dos unicórnios possibilita que você recrute War Unicorns.
-Upg. Penhasco dos dragões	O penhasco dos dragões possibilita que você recrute Gold Dragons.
-Oficina	A oficina possibilita que você recrute Gremlins.
-Parapeito	O parapeito possibilita que você recrute Stone Gargoyles.
-Fábrica de golens	A fábrica de golens possibilita que você recrute Stone Golems.
-Torre dos magos	A torre dos magos possibilita que você recrute Magi.
-Altar dos desejos	O altar dos desejos possibilita que você recrute Genies.
-Pavilhão dourado	O pavilhão dourado possibilita que você recrute Nagas.
-Templo das nuvens	O templo das nuvens possibilita que você recrute Giants.
-Upg. Oficina	A oficina possibilita que você recrute Master Gremlins.
-Upg. Parapeito	O parapeito possibilita que você recrute Obsidian Gargoyles.
-Upg. Fábrica de golens	A fábrica de golens possibilita que você recrute Iron Golems.
-Upg. Torre dos magos	A torre dos magos possibilita que você recrute Arch Magi.
-Upg. Altar dos desejos	O altar dos desejos possibilita que você recrute Master Genies.
-Upg. Pavilhão dourado	O pavilhão dourado possibilita que você recrute Naga Queens.
-Upg. Templo das nuvens	O templo das nuvens possibilita que você recrute Titans.
-Forja de diabretes	A forja de diabretes possibilita que você recrute Imps.
-Salão dos pecados	O salão dos pecados possibilita que você recrute Gogs.
-Canil	O canil possibilita que você recrute Hell Hounds.
-Porta dos demônios	A porta dos demônios possibilita que você recrute Demons.
-Buraco do inferno	O buraco do inferno possibilita que você recrute Pit Fiends.
-Lago de fogo	O lago de fogo possibilita que você recrute Efreet.
-Palácio maldito	O palácio maldito possibilita que você recrute Devils.
-Upg. Forja de diabretes	A forja de diabretes possibilita que você recrute Familiars.
-Upg. Salão dos pecados	O salão dos pecados possibilita que você recrute Magogs.
-Upg. Canil	O canil possibilita que você recrute Cerberi.
-Upg. Porta dos demônios	A porta dos demônios possibilita que você recrute Horned Demons.
-Upg. Buraco do inferno	O buraco do inferno possibilita que você recrute Pit Lords.
-Upg. Lago de fogo	O lago de fogo possibilita que você recrute Efreet Sultans.
-Upg. Palácio maldito	O palácio maldito possibilita que você recrute Arch Devils.
-Templo amaldiçoado	O templo amaldiçoado possibilita que você recrute Skeletons.
-Cemitério	O cemitério possibilita que você recrute Walking Dead.
-Tumba das almas	A tumba das almas possibilita que você recrute Wights.
-Casa dos vampiros	A casa dos vampiros possibilita que você recrute Vampires.
-Mausoléu	O mausoléu possibilita que você recrute Liches.
-Salão das trevas	O salão das trevas possibilita que você recrute Black Knights.
-Túmulo dos dragões	O túmulo dos dragões possibilita que você recrute Bone Dragons.
-Upg. Templo amaldiçoado	O templo amaldiçoado possibilita que você recrute Skeleton Warriors.
-Upg. Cemitério	O cemitério possibilita que você recrute Zombies.
-Upg. Tumba das almas	A tumba das almas possibilita que você recrute Wraiths.
-Upg. Casa dos vampiros	A casa dos vampiros possibilita que você recrute Vampire Lords.
-Upg. Mausoléu	O mausoléu possibilita que você recrute Power Liches.
-Upg. Salão das trevas	O salão das trevas possibilita que você recrute Dread Knights.
-Upg. Túmulo dos dragões	O túmulo dos dragões possibilita que você recrute Ghost Dragons.
-Viveiro	O viveiro possibilita que você recrute Troglodytes.
-Sótão das harpias	O sótão das harpias possibilita que você recrute Harpies.
-Pilar dos olhos	O pilar dos olhos possibilita que você recrute Beholders.
-Capela das vozes	A capela das vozes possibilita que você recrute Medusas.
-Labirinto	O labirinto possibilita que você recrute Minotaurs.
-Lar das mantícoras	O lar das mantícoras possibilita que você recrute Manticores.
-Caverna do dragão	A caverna do dragão possibilita que você recrute Red Dragons.
-Upg. Viveiro	O viveiro possibilita que você recrute Infernal Troglodytes.
-Upg. Sótão das harpias	O sótão das harpias possibilita que você recrute Harpy Hags.
-Upg. Pilar dos olhos	O pilar dos olhos possibilita que você recrute Evil Eyes.
-Upg. Capela das vozes	A capela das vozes possibilita que você recrute Medusa Queens.
-Upg. Labirinto	O labirinto possibilita que você recrute Minotaur Kings.
-Upg. Lar das mantícoras	O lar das mantícoras possibilita que você recrute Scorpicores.
-Upg. Caverna do dragão	A caverna do dragão possibilita que você recrute Black Dragons.
-Quartel dos goblins	O quartel dos goblins possibilita que você recrute Goblins.
-Matilha	A matilha possibilita que você recrute Wolf Riders.
-Torre dos orcs	A torre dos orcs possibilita que você recrute Orcs.
-Forte dos ogros	O forte dos ogros possibilita que você recrute Ogres.
-Ninho no penhasco	O ninho no penhasco possibilita que você recrute Rocs.
-Caverna dos ciclopes	A caverna dos ciclopes possibilita que você recrute Cyclopses.
-Gruta dos Beemotes	A gruta dos beemotes possibilita que você recrute Behemoths.
-Upg. Quartel dos goblins	O quartel dos goblins possibilita que você recrute Hobgoblins.
-Upg. Matilha	A matilha possibilita que você recrute Wolf Raiders.
-Upg. Torre dos orcs	A torre dos orcs possibilita que você recrute Orc Chieftains.
-Upg. Forte dos ogros	O forte dos ogros possibilita que você recrute Ogre Magi.
-Upg. Ninho no penhasco	O ninho no penhasco possibilita que você recrute Thunderbirds.
-Upg. Caverna dos ciclopes	A caverna dos ciclopes possibilita que você recrute Cyclops Kings.
-Upg. Gruta dos Beemotes	A gruta dos beemotes possibilita que você recrute Ancient Behemoths.
-Cabana dos gnolls	A cabana dos gnolls possibilita que você recrute Gnolls.
-Toca dos lagartos	A toca dos lagartos possibilita que você recrute Lizardmen.
-Ninho de cobras	O ninho de cobras possibilita que você recrute Serpent Flies.
-Poço do Basilisco	O poço do Basilisco possibilita que você recrute Basilisks.
-Lar do gorgon	O lar do gorgon possibilita que você recrute Gorgons.
-Ninho dos wyverns	O ninho dos wyverns possibilita que você recrute Wyverns.
-Poça da hidra	A poça da hidra possibilita que você recrute Hydras.
-Upg. Cabana dos gnolls	A cabana dos gnolls possibilita que você recrute Gnoll Marauders.
-Upg. Toca dos lagartos	A toca dos lagartos possibilita que você recrute Lizard Warriors.
-Upg. Ninho de cobras	O ninho de cobras possibilita que você recrute Dragon Flies.
-Upg. Poço do Basilisco	O poço do Basilisco possibilita que você recrute Greater Basilisks.
-Upg. Lar do gorgon	O lar do gorgon possibilita que você recrute Mighty Gorgons.
-Upg. Ninho dos wyverns	O ninho dos wyverns possibilita que você recrute Wyvern Monarchs.
-Upg. Poça da hidra	A poça da hidra possibilita que você recrute Chaos Hydras.
-Lanterna mágica	A lanterna mágica possibilita que você recrute Pixies.
-Altar do ar	O altar do ar possibilita que você recrute Air Elementals.
-Altar da água	O altar da água possibilita que você recrute Water Elementals.
-Altar do fogo	O altar do fogo possibilita que você recrute Fire Elementals.
-Altar da terra	O altar da terra possibilita que você recrute Earth Elementals.
-Altar do pensamento	O altar do pensamento possibilita que você recrute Psychic Elementals.
-Pira	A pira possibilita que você recrute Fire Birds.
-Upg. Lanterna mágica	A lanterna mágica possibilita que você recrute Sprites.
-Upg. Altar do ar	O altar do ar possibilita que você recrute Storm Elementals.
-Upg. Altar da água	O altar da água possibilita que você recrute Ice Elementals.
-Upg. Altar do fogo	O altar do fogo possibilita que você recrute Energy Elementals.
-Upg. Altar da terra	O altar da terra possibilita que você recrute Magma Elementals.
-Upg. Altar do pensamento	O altar do pensamento possibilita que você recrute Magic Elementals.
-Upg. Pira	A pira possibilita que você recrute Phoenixes.
+Caserna	A caserna possibilita que você recrute piqueiros.
+Torre dos arqueiros	A torre dos arqueiros possibilita que você recrute arqueiros.
+Torre dos grifos	A torre dos grifos possibilita que você recrute grifos.
+Quartel	O quartel possibilita que você recrute espadachins.
+Mosteiro	O mosteiro possibilita que você recrute monges.
+Campos de treinamento	Os campos de treinamento possibilita que você recrute cavaleiros.
+Portal da glória	O portal da glória possibilita que você recrute anjos.
+Grande caserna	A grande caserna possibilita que você recrute alabardeiros.
+Grande torre dos arqueiros	A grande torre dos arqueiros possibilita que você recrute atiradores.
+Grande torre dos grifos	A grande torre dos grifos possibilita que você recrute grifos reais.
+Grande quartel	O grande quartel possibilita que você recrute cruzados.
+Grande mosteiro	O grande mosteiro possibilita que você recrute zelotes.
+Grandes campos de treinamento	Os grandes campos de treinamento possibilitam que você recrute campeões.
+Grande portal da glória	O grande portal da glória possibilita que você recrute arcanjos.
+Estábulos de centauros	Os estábulos de centauros possibilita que você recrute centauros.
+Chalé dos anões	O chalé dos anões possibilita que você recrute anões.
+Alojamento	O alojamento possibilita que você recrute elfos da floresta.
+Fonte encantada	A fonte encantada possibilita que você recrute pégasos.
+Arcos dendróides	Os arcos dendróides possibilita que você recrute guards dendróides.
+Clareira dos unicórnios	A clareira dos unicórnios possibilita que você recrute unicórnios.
+Penhasco dos dragões	O penhasco dos dragões possibilita que você recrute dragões verdes.
+Grandes estábulos de centauros	Os grandes estábulos de centauros possibilita que você recrute centauros capitães.
+Grande chalé dos anões	O grande chalé dos anões possibilita que você recrute anões de batalha.
+Grande alojamento	O grande alojamento possibilita que você recrute grande elfos.
+Grande fonte encantada	A grande fonte encantada possibilita que você recrute pégasos de prata.
+Grandes arcos dendróides	Os grandes arcos dendróides possibilita que você recrute soldados dendróides.
+Grande clareira dos unicórnios	A grande clareira dos unicórnios possibilita que você recrute unicórnios de guerra.
+Grande penhasco dos dragões	O grande penhasco dos dragões possibilita que você recrute dragões dourados.
+Oficina	A oficina possibilita que você recrute gremlins.
+Parapeito	O parapeito possibilita que você recrute gárgulas de pedra.
+Fábrica de golens	A fábrica de golens possibilita que você recrute golens de pedra.
+Torre dos magos	A torre dos magos possibilita que você recrute magos.
+Altar dos desejos	O altar dos desejos possibilita que você recrute gênios.
+Pavilhão dourado	O pavilhão dourado possibilita que você recrute nagas.
+Templo das nuvens	O templo das nuvens possibilita que você recrute gigantes.
+Grande oficina	A grande oficina possibilita que você recrute gremlins mestres.
+Grande parapeito	O grande parapeito possibilita que você recrute gárgulas de obsidiana.
+Grande fábrica de golens	A grande fábrica de golens possibilita que você recrute golens de ferro.
+Grande torre dos magos	A grande torre dos magos possibilita que você recrute arcomagos.
+Grande altar dos desejos	O grande altar dos desejos possibilita que você recrute gênios mestres.
+Grande pavilhão dourado	O grande pavilhão dourado possibilita que você recrute nagas rainhas.
+Grande templo das nuvens	O grande templo das nuvens possibilita que você recrute titãs.
+Forja de diabretes	A forja de diabretes possibilita que você recrute diabretes.
+Salão dos pecados	O salão dos pecados possibilita que você recrute gogues.
+Canil	O canil possibilita que você recrute cães infernais.
+Porta dos demônios	A porta dos demônios possibilita que você recrute demônios.
+Buraco do inferno	O buraco do inferno possibilita que você recrute Atormentadores.
+Lago de fogo	O lago de fogo possibilita que você recrute efreets.
+Palácio maldito	O palácio maldito possibilita que você recrute diabos.
+Grande forja de diabretes	A grande forja de diabretes possibilita que você recrute capetinhas.
+Grande salão dos pecados	O grande salão dos pecados possibilita que você recrute magogues.
+Grande canil	O grande canil possibilita que você recrute cerberos.
+Grande porta dos demônios	A grande porta dos demônios possibilita que você recrute demônios chifrudos.
+Grande buraco do inferno	O grande buraco do inferno possibilita que você recrute lordes atormentadores.
+Grande lago de fogo	O grande lago de fogo possibilita que você recrute efreets sultões.
+Grande palácio maldito	O grande palácio maldito possibilita que você recrute arcodiabos.
+Templo amaldiçoado	O templo amaldiçoado possibilita que você recrute esqueletos.
+Cemitério	O cemitério possibilita que você recrute mortos-vivos.
+Tumba das almas	A tumba das almas possibilita que você recrute almas penadas.
+Casa dos vampiros	A casa dos vampiros possibilita que você recrute vampiros.
+Mausoléu	O mausoléu possibilita que você recrute liches.
+Salão das trevas	O salão das trevas possibilita que você recrute cavaleiros negros.
+Túmulo dos dragões	O túmulo dos dragões possibilita que você recrute dragões de ossos.
+Grande templo amaldiçoado	O grande templo amaldiçoado possibilita que você recrute guerreiros esqueletos.
+Grande cemitério	O grande cemitério possibilita que você recrute zumbis.
+Grande tumba das almas	A grande tumba das almas possibilita que você recrute assombrações.
+Grande casa dos vampiros	A grande casa dos vampiros possibilita que você recrute vampiros lordes.
+Grande mausoléu	O grande mausoléu possibilita que você recrute liches poderosos.
+Grande salão das trevas	O grande salão das trevas possibilita que você recrute cavaleiros terríveis.
+Grande túmulo dos dragões	O grande túmulo dos dragões possibilita que você recrute dragões fantasmas.
+Viveiro	O viveiro possibilita que você recrute trogloditas.
+Sótão das harpias	O sótão das harpias possibilita que você recrute harpias.
+Pilar dos olhos	O pilar dos olhos possibilita que você recrute observadores.
+Capela das vozes	A capela das vozes possibilita que você recrute medusas.
+Labirinto	O labirinto possibilita que você recrute minotauros.
+Lar das mantícoras	O lar das mantícoras possibilita que você recrute mantícoras.
+Caverna do dragão	A caverna do dragão possibilita que você recrute dragões vermelhos.
+Grande viveiro	O grande viveiro possibilita que você recrute trogloditas infernais.
+Grande sótão das harpias	O grande sótão das harpias possibilita que você recrute harpias bruxas.
+Grande pilar dos olhos	O grande pilar dos olhos possibilita que você recrute maus olhados.
+Grande capela das vozes	A grande capela das vozes possibilita que você recrute medusas rainhas.
+Grande labirinto	O grande labirinto possibilita que você recrute minotauros reis.
+Grande lar das mantícoras	O grande lar das mantícoras possibilita que você recrute escorpicórios.
+Grande caverna do dragão	A grande caverna do dragão possibilita que você recrute dragões pretos.
+Quartel dos goblins	O quartel dos goblins possibilita que você recrute goblins.
+Matilha	A matilha possibilita que você recrute goblins lobeiros.
+Torre dos orcs	A torre dos orcs possibilita que você recrute orcs.
+Forte dos ogros	O forte dos ogros possibilita que você recrute ogros.
+Ninho no penhasco	O ninho no penhasco possibilita que você recrute rocs.
+Caverna dos ciclopes	A caverna dos ciclopes possibilita que você recrute ciclopes.
+Gruta dos Beemotes	A gruta dos beemotes possibilita que você recrute beemotes.
+Grande quartel dos goblins	O grande quartel dos goblins possibilita que você recrute hobgoblins.
+Grande matilha	A grande matilha possibilita que você recrute saqueadores lobeiros.
+Grande torre dos orcs	A grande torre dos orcs possibilita que você recrute orcs chefes.
+Grande forte dos ogros	O grande forte dos ogros possibilita que você recrute ogros magos.
+Grande ninho no penhasco	O grande ninho no penhasco possibilita que você recrute pássaros do trovão.
+Grande caverna dos ciclopes	A grande caverna dos ciclopes possibilita que você recrute ciclopes reis.
+Grande gruta dos Beemotes	A grande gruta dos beemotes possibilita que você recrute beemotes anciões.
+Cabana dos gnolls	A cabana dos gnolls possibilita que você recrute gnolls.
+Toca dos lagartos	A toca dos lagartos possibilita que você recrute homens lagartos.
+Ninho de cobras	O ninho de cobras possibilita que você recrute cobras com asas.
+Poço do Basilisco	O poço do Basilisco possibilita que você recrute basiliscos.
+Lar do gorgon	O lar do gorgon possibilita que você recrute gorgons.
+Ninho das serpes	O ninho das serpes possibilita que você recrute serpes.
+Poça da hidra	A poça da hidra possibilita que você recrute hidras.
+Grande cabana dos gnolls	A grande cabana dos gnolls possibilita que você recrute gnolls saqueadores.
+Grande toca dos lagartos	A grande toca dos lagartos possibilita que você recrute guerreiros lagartos.
+Grande ninho de cobras	O grande ninho de cobras possibilita que você recrute cobras dragões.
+Grande poço do Basilisco	O grande poço do Basilisco possibilita que você recrute grandes basiliscos.
+Grande lar do gorgon	O lar do gorgon possibilita que você recrute gorgons potentes.
+Grande ninho das serpes	O grande ninho das serpes possibilita que você recrute serpes monarcas.
+Grande poça da hidra	A grande poça da hidra possibilita que você recrute hidras do caos.
+Lanterna mágica	A lanterna mágica possibilita que você recrute fadinhas.
+Altar do ar	O altar do ar possibilita que você recrute elementais de ar.
+Altar da água	O altar da água possibilita que você recrute elementais de água.
+Altar do fogo	O altar do fogo possibilita que você recrute elementais de fogo.
+Altar da terra	O altar da terra possibilita que você recrute elementais de terra.
+Altar do pensamento	O altar do pensamento possibilita que você recrute elementais psíquicos.
+Pira	A pira possibilita que você recrute pássaros de fogo.
+Grande lanterna mágica	A grande lanterna mágica possibilita que você recrute fadas madrinhas.
+Grande altar do ar	O grande altar do ar possibilita que você recrute elementais de Tempestade.
+Grande altar da água	O grande altar da água possibilita que você recrute elementais de gelo.
+Grande altar do fogo	O grande altar do fogo possibilita que você recrute elementais de energia.
+Grande altar da terra	O grande altar da terra possibilita que você recrute elementais de magma.
+Grande altar do pensamento	O grande altar do pensamento possibilita que você recrute elementais de máqica.
+Grande pira	A grande pira possibilita que você recrute fênixes.
 Gerador de criatura nível 1	Permite a você recrutar criaturas de nível 1.
 Gerador de criatura nível 2	Permite a você recrutar criaturas de nível 2.
 Gerador de criatura nível 3	Permite a você recrutar criaturas de nível 3.
@@ -131,10 +131,10 @@ Gerador de criatura nível 4	Permite a você recrutar criaturas de nível 4.
 Gerador de criatura nível 5	Permite a você recrutar criaturas de nível 5.
 Gerador de criatura nível 6	Permite a você recrutar criaturas de nível 6.
 Gerador de criatura nível 7	Permite a você recrutar criaturas de nível 7.
-Upg. Gerador de criatura nível 1	Permite a você recrutar criaturas melhoradas de nível 1.
-Upg. Gerador de criatura nível 2	Permite a você recrutar criaturas melhoradas de nível 2.
-Upg. Gerador de criatura nível 3	Permite a você recrutar criaturas melhoradas de nível 3.
-Upg. Gerador de criatura nível 4	Permite a você recrutar criaturas melhoradas de nível 4.
-Upg. Gerador de criatura nível 5	Permite a você recrutar criaturas melhoradas de nível 5.
-Upg. Gerador de criatura nível 6	Permite a você recrutar criaturas melhoradas de nível 6.
-Upg. Gerador de criatura nível 7	Permite a você recrutar criaturas melhoradas de nível 7.
+Grande gerador de criatura nível 1	Permite a você recrutar criaturas melhoradas de nível 1.
+Grande gerador de criatura nível 2	Permite a você recrutar criaturas melhoradas de nível 2.
+Grande gerador de criatura nível 3	Permite a você recrutar criaturas melhoradas de nível 3.
+Grande gerador de criatura nível 4	Permite a você recrutar criaturas melhoradas de nível 4.
+Grande gerador de criatura nível 5	Permite a você recrutar criaturas melhoradas de nível 5.
+Grande gerador de criatura nível 6	Permite a você recrutar criaturas melhoradas de nível 6.
+Grande gerador de criatura nível 7	Permite a você recrutar criaturas melhoradas de nível 7.

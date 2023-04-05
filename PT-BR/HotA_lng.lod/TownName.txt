@@ -1,144 +1,144 @@
 Castellatus
-Cornerstone
-Kanan
-Highcastle
-Whitemoon
-Transom
-Middleheim
-Brettonia
-Alexandretta
-Whitestone
-Claxton
-Armitage
-Whistledale
-Gateway
-Dunwall
-Kildare
-Wise Oak
-Forest
-Fortune Keep
-Still Water
-Elfwind
-Serenity
-Ceiliedgh
-Gladeroot
-Forest Glen
-Rainhaven
-Strongglen
+Pedra Angular
+Canaã
+Alto Castelo
+Lua Branca
+Trançado
+Casa do Meio
+Bretônia
+Alexandreta
+Pedra Branca
+Cidade dos Anjos
+Armitagem
+Vale do Apito
+Porta do Céu
+Muro Pardo
+Kildária
+Sábio Carvalho
+Nova Floresta
+Boa Sorte
+Água Limpa
+Sopro dos Elfos
+Serenidade
+Uivo da Mata
+Raíz do Bosque
+Vale da Floresta
+Refúgio D'Água
+Vale Forte
 Marishen
-Bath'iere
-Green Falls
-Emerald Moor
-Wild Willow
-Machina
-Stronggale
+Pluviosa
+Cataratas Verdes
+Esmeralda Cravada
+Salgueiro Selvagem
+Máquina
+Vendaval
 Corona
-Silverwing
-Facture
-Cloudfire
-Cloudspire
-Equinox
-Athenaeum
+Asa de Prata
+Feitoria
+Fogo de Nuvem
+Espira das Nuvens
+Equinócio
+Alto da Torre
 Valtara
-Tirith
-Fallen Star
-Mystos
-Ayer
-Silverspire
-Manufactury
-Abaddon
-Acheron
-Ashden
-Brimstone
-Candent
-Cinderspire
-Daemon Gate
-Enkindle
-Gehenna
-Firebrand
-Ashcombe
-Hellwind
-Stygius
-Styx
-Tartaros
-Blackburn
-Haunt's Wind
-Cessacioun
-Agony
-Sanctum
-Terminus
-Blackquarter
-Death's Gate
-Grave Raven
-Dark Cloud
-Coldsoul
-Coldreign
-Dark Eternal
-Ghostwind
-Blight
-Shadow Keep
-Worm Warren
+Tírite
+Estrela Caída
+Neblina
+Ontem
+Espiral de Prata
+Manufatura
+Abadom
+Aquerom
+Covil das Cinzas
+Sulfurosa
+Incandescente
+Poder do Mal
+Porta do Demônio
+Brasa Acesa
+Geena
+Marca do Capeta
+Chamuscagem
+Sopro Infernal
+Rio de Fogo
+Estige
+Tártaros
+Queimada Preta
+Sopro Maldito
+Falecida
+Agonia
+Assombrosa
+Término
+Quarto das Trevas
+Portal da Morte
+Corvo da Cova
+Nuvem Negra
+Alma Gelada
+Tumba Gelada
+Escuridão Eterna
+Brisa Fantasma
+Praga Negra
+Sombra da Morte
+Banquete dos Vermes
 Veks
-Sorrow Crown
-Chillwater
-Deepshadow
-Darkhold
-Blindroot
-Shadowden
-Scar
-Malev
-Castigare
-Dragonnade
-Shade
-Evernight
-Darkburrow
-Lost Hold
-Coldshadow
-Kragg
-Drago Breach
-Hartgrim
-Sandflash
-Morganheim
-Cragmoor
-Dragonspire
-Battlement
-Bocc
-Slau
+Coroa da Tristeza
+Água Gelada
+Sombra Profunda
+Fortaleza das Trevas
+Raíz Cega
+Covil das Trevas
+Cicatriz
+Malévola
+Castigada
+Dragonada
+Sombria
+Noite Eterna
+Covil Negro
+Perdição
+Sombra Fria
+Krague
+Brecha do Dragão
+Coração Sombrio
+Luz da Areia
+Casa Morgana
+Rocha Parda
+Espira dos Dragões
+Batalhada
+Boque
+Eslau
 Tormina
-Dolere
-Rockwarren
-Strongglen
+Dolére
+Casa das Pedras
+Forte de Pedra
 Kruber
-Rovener
-Marshank
-Deadfall
-Coolmire
-Backwater
-Marshchoke
-Lostmoor
-Silt
-Deadwood
-Edgewater
-Stillbog
-Drakenmoor
-Hermit Cove
-Mosswood
-Marshwall
-Mossden
-Mudshire
-Elementon
-Styriam
-Fenderen
-Lagumoor
+Roveneira
+Pantanosa
+Mosquiteira
+Lama Fria
+Água Parada
+Mangue Sufocante
+Âncora Perdida
+Silte
+Madeira Morta
+Beira D'Água
+Mangue Calmo
+Perdida no Mato
+Morada do Eremita
+Musgo de Árvore
+Parede do Mangue
+Cova do Musgo
+Brilho da Lama
+Elementão
+Estiriana
+Resguardada
+Casa do Lago
 Wazzar
-Lanting
-Vluchton
-Solium
-Massein
-Magmetin
+Lanternina
+Vluctom
+Sólio
+Masseína
+Magmatina
 Ventu
-Fleogan Mills
-Electrising
-Ceald
-Igne
-Froisan
+Moinhos Flogistas
+Eletrizante
+Centelha
+Ignía
+Geladinha
